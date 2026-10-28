@@ -121,9 +121,13 @@ export function StudyPage() {
                     <td>
                       <Link href={subjectRoute(subject.id)}>{subject.nome}</Link>
                     </td>
-                    <td>{subject.questoesNaProva}</td>
-                    <td>{Math.round((subject.questoesNaProva / NOTICE.provaObjetiva.totalQuestoes) * 100)}%</td>
-                    <td>{remaining === 0 ? 'Revisão' : Math.ceil(remaining / weeksLeft)}</td>
+                    <td data-label="Peso">{subject.questoesNaProva}</td>
+                    <td data-label="Tempo de estudo">
+                      {Math.round((subject.questoesNaProva / NOTICE.provaObjetiva.totalQuestoes) * 100)}%
+                    </td>
+                    <td data-label="Tópicos por semana">
+                      {remaining === 0 ? 'Revisão' : Math.ceil(remaining / weeksLeft)}
+                    </td>
                   </tr>
                 );
               })}

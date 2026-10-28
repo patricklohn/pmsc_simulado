@@ -10,6 +10,8 @@ export const metadata: Metadata = {
   icons: { icon: '/favicon.svg', apple: '/apple-touch-icon.png' },
   appleWebApp: { capable: true, title: 'PMSC Simulado', statusBarStyle: 'default' },
   formatDetection: { telephone: false },
+  // O Next só gera "mobile-web-app-capable"; o Safari do iPhone ainda usa a versão "apple-".
+  other: { 'apple-mobile-web-app-capable': 'yes' },
 };
 
 export const viewport: Viewport = {

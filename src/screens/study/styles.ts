@@ -70,28 +70,104 @@ export const Weight = styled.span`
   font-weight: ${({ theme }) => theme.font.weight.semibold};
 `;
 
+/**
+ * Plano semanal. No celular cada linha vira um card (rótulos vêm do `data-label` de cada célula);
+ * a partir do tablet volta a ser uma tabela comum.
+ */
 export const PlanTable = styled.table`
   width: 100%;
   border-collapse: collapse;
   font-size: ${({ theme }) => theme.font.size.sm};
   margin-bottom: ${({ theme }) => theme.space[3]};
 
-  th,
-  td {
-    padding: ${({ theme }) => theme.space[2]};
-    text-align: left;
-    border-bottom: 1px solid ${({ theme }) => theme.colors.border};
-  }
-
-  th {
-    color: ${({ theme }) => theme.colors.textMuted};
-    font-weight: ${({ theme }) => theme.font.weight.medium};
-  }
-
-  td:not(:first-child),
-  th:not(:first-child) {
-    text-align: right;
+  thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
     white-space: nowrap;
+  }
+
+  tbody {
+    display: flex;
+    flex-direction: column;
+    gap: ${({ theme }) => theme.space[2]};
+  }
+
+  tr {
+    display: flex;
+    flex-direction: column;
+    gap: ${({ theme }) => theme.space[1]};
+    padding: ${({ theme }) => theme.space[3]};
+    border: 1px solid ${({ theme }) => theme.colors.border};
+    border-radius: ${({ theme }) => theme.radius.md};
+  }
+
+  td {
+    display: flex;
+    justify-content: space-between;
+    gap: ${({ theme }) => theme.space[3]};
+    min-width: 0;
+  }
+
+  td:first-child {
+    font-weight: ${({ theme }) => theme.font.weight.semibold};
+    overflow-wrap: anywhere;
+  }
+
+  td[data-label]::before {
+    content: attr(data-label);
+    color: ${({ theme }) => theme.colors.textMuted};
+  }
+
+  ${media.md} {
+    thead {
+      position: static;
+      width: auto;
+      height: auto;
+      overflow: visible;
+      clip-path: none;
+      display: table-header-group;
+    }
+
+    tbody {
+      display: table-row-group;
+    }
+
+    tr {
+      display: table-row;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+    }
+
+    th,
+    td {
+      display: table-cell;
+      padding: ${({ theme }) => theme.space[2]};
+      text-align: left;
+      border-bottom: 1px solid ${({ theme }) => theme.colors.border};
+    }
+
+    td:first-child {
+      font-weight: inherit;
+    }
+
+    td[data-label]::before {
+      content: none;
+    }
+
+    th {
+      color: ${({ theme }) => theme.colors.textMuted};
+      font-weight: ${({ theme }) => theme.font.weight.medium};
+    }
+
+    td:not(:first-child),
+    th:not(:first-child) {
+      text-align: right;
+      white-space: nowrap;
+    }
   }
 
   & + p {

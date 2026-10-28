@@ -47,8 +47,17 @@ function Gate({ children }: { children: ReactNode }) {
   );
 }
 
+/** Registra o service worker (só em produção, para não atrapalhar o hot reload). */
+function useServiceWorker() {
+  useEffect(() => {
+    if (process.env.NODE_ENV !== 'production' || !('serviceWorker' in navigator)) return;
+    navigator.serviceWorker.register('/sw.js').catch(() => {});
+  }, []);
+}
+
 /** Providers, controle de acesso e moldura do app. */
 export function AppRoot({ children }: { children: ReactNode }) {
+  useServiceWorker();
   return (
     <Providers>
       <Gate>{children}</Gate>
