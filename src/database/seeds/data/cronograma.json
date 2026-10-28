@@ -1,0 +1,451 @@
+{
+  "aviso": "O cronograma é uma previsão (Anexo I) e as datas podem ser alteradas pela comissão do concurso. Confira sempre no site do Instituto AOCP.",
+  "grupos": [
+    {
+      "id": "edital",
+      "titulo": "Edital",
+      "eventos": [
+        {
+          "id": "edital-01",
+          "titulo": "Publicação do edital de abertura",
+          "inicio": "2026-10-26",
+          "destaque": false
+        },
+        {
+          "id": "edital-02",
+          "titulo": "Período de impugnação do edital",
+          "inicio": "2026-10-26",
+          "fim": "2026-10-27",
+          "destaque": false
+        },
+        {
+          "id": "edital-03",
+          "titulo": "Liberação das respostas às impugnações",
+          "inicio": "2026-11-06",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "isencao",
+      "titulo": "Isenção da taxa",
+      "eventos": [
+        {
+          "id": "isencao-01",
+          "titulo": "Pedido de isenção e envio de documentos (09h do dia 26/10 às 16h do dia 28/10)",
+          "inicio": "2026-10-26",
+          "fim": "2026-10-28",
+          "destaque": true
+        },
+        {
+          "id": "isencao-02",
+          "titulo": "Resultado dos pedidos de isenção",
+          "inicio": "2026-11-04",
+          "destaque": false
+        },
+        {
+          "id": "isencao-03",
+          "titulo": "Recurso contra indeferimento da isenção",
+          "inicio": "2026-11-05",
+          "fim": "2026-11-06",
+          "destaque": false
+        },
+        {
+          "id": "isencao-04",
+          "titulo": "Resultado da isenção pós-recurso",
+          "inicio": "2026-11-11",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "inscricao",
+      "titulo": "Inscrição",
+      "eventos": [
+        {
+          "id": "inscricao-01",
+          "titulo": "Inscrições (09h do dia 26/10 às 16h do dia 16/11)",
+          "inicio": "2026-10-26",
+          "fim": "2026-11-16",
+          "destaque": true
+        },
+        {
+          "id": "inscricao-02",
+          "titulo": "Último dia para pagar a taxa (R$ 200,00)",
+          "inicio": "2026-11-16",
+          "destaque": true
+        },
+        {
+          "id": "inscricao-03",
+          "titulo": "Último dia para postar laudo médico",
+          "inicio": "2026-11-16",
+          "destaque": false
+        },
+        {
+          "id": "inscricao-04",
+          "titulo": "Deferimento das inscrições",
+          "inicio": "2026-11-23",
+          "destaque": false
+        },
+        {
+          "id": "inscricao-05",
+          "titulo": "Recurso contra indeferimento da inscrição",
+          "inicio": "2026-11-24",
+          "fim": "2026-11-25",
+          "destaque": false
+        },
+        {
+          "id": "inscricao-06",
+          "titulo": "Deferimento das inscrições pós-recurso",
+          "inicio": "2026-11-30",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "prova-objetiva",
+      "titulo": "Prova objetiva",
+      "eventos": [
+        {
+          "id": "prova-objetiva-01",
+          "titulo": "Edital de data, hora e local da prova",
+          "inicio": "2026-12-02",
+          "destaque": false
+        },
+        {
+          "id": "prova-objetiva-02",
+          "titulo": "Cartão de Informação do Candidato",
+          "inicio": "2026-12-07",
+          "destaque": true
+        },
+        {
+          "id": "prova-objetiva-03",
+          "titulo": "PROVA OBJETIVA E REDAÇÃO",
+          "inicio": "2026-12-13",
+          "destaque": true
+        },
+        {
+          "id": "prova-objetiva-04",
+          "titulo": "Gabarito preliminar e cadernos de questões",
+          "inicio": "2026-12-14",
+          "destaque": true
+        },
+        {
+          "id": "prova-objetiva-05",
+          "titulo": "Recurso contra o gabarito preliminar",
+          "inicio": "2026-12-15",
+          "fim": "2026-12-16",
+          "destaque": false
+        },
+        {
+          "id": "prova-objetiva-06",
+          "titulo": "Gabarito pós-recursos e resultado preliminar da prova objetiva",
+          "inicio": "2026-12-30",
+          "destaque": false
+        },
+        {
+          "id": "prova-objetiva-07",
+          "titulo": "Recurso contra o resultado preliminar da prova objetiva",
+          "inicio": "2026-12-31",
+          "fim": "2027-01-04",
+          "destaque": false
+        },
+        {
+          "id": "prova-objetiva-08",
+          "titulo": "Resultado da prova objetiva pós-recursos e gabarito definitivo",
+          "inicio": "2027-01-08",
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "redacao",
+      "titulo": "Redação",
+      "eventos": [
+        {
+          "id": "redacao-01",
+          "titulo": "Habilitados para correção da redação",
+          "inicio": "2027-01-08",
+          "destaque": false
+        },
+        {
+          "id": "redacao-02",
+          "titulo": "Resultado preliminar da redação",
+          "inicio": "2027-01-15",
+          "destaque": true
+        },
+        {
+          "id": "redacao-03",
+          "titulo": "Recurso contra o resultado da redação",
+          "inicio": "2027-01-18",
+          "fim": "2027-01-19",
+          "destaque": false
+        },
+        {
+          "id": "redacao-04",
+          "titulo": "Resultado da redação pós-recurso",
+          "inicio": "2027-02-05",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "saude",
+      "titulo": "Exame de saúde e toxicológico",
+      "eventos": [
+        {
+          "id": "saude-01",
+          "titulo": "Habilitados para o exame de saúde e toxicológico",
+          "inicio": "2027-02-05",
+          "destaque": false
+        },
+        {
+          "id": "saude-02",
+          "titulo": "Cartão de Informação (link)",
+          "inicio": "2027-02-17",
+          "destaque": false
+        },
+        {
+          "id": "saude-03",
+          "titulo": "Exame de saúde e toxicológico (presencial)",
+          "inicio": "2027-02-22",
+          "fim": "2027-03-05",
+          "destaque": true
+        },
+        {
+          "id": "saude-04",
+          "titulo": "Resultado preliminar",
+          "inicio": "2027-03-12",
+          "destaque": false
+        },
+        {
+          "id": "saude-05",
+          "titulo": "Recurso",
+          "inicio": "2027-03-15",
+          "fim": "2027-03-16",
+          "destaque": false
+        },
+        {
+          "id": "saude-06",
+          "titulo": "Resultado pós-recurso",
+          "inicio": "2027-03-31",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "taf",
+      "titulo": "Teste de Avaliação Física (TAF)",
+      "eventos": [
+        {
+          "id": "taf-01",
+          "titulo": "Habilitados para o TAF",
+          "inicio": "2027-02-05",
+          "destaque": false
+        },
+        {
+          "id": "taf-02",
+          "titulo": "Horário e local do TAF",
+          "inicio": "2027-02-17",
+          "destaque": false
+        },
+        {
+          "id": "taf-03",
+          "titulo": "TESTE DE AVALIAÇÃO FÍSICA",
+          "inicio": "2027-03-08",
+          "fim": "2027-03-12",
+          "destaque": true
+        },
+        {
+          "id": "taf-04",
+          "titulo": "Resultado preliminar do TAF",
+          "inicio": "2027-03-17",
+          "destaque": false
+        },
+        {
+          "id": "taf-05",
+          "titulo": "Recurso contra o resultado do TAF",
+          "inicio": "2027-03-18",
+          "fim": "2027-03-19",
+          "destaque": false
+        },
+        {
+          "id": "taf-06",
+          "titulo": "Resultado do TAF pós-recurso",
+          "inicio": "2027-03-31",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "investigacao-social",
+      "titulo": "Investigação social",
+      "eventos": [
+        {
+          "id": "investigacao-social-01",
+          "titulo": "Convocação para preencher o QIS",
+          "inicio": "2027-01-08",
+          "destaque": false
+        },
+        {
+          "id": "investigacao-social-02",
+          "titulo": "Preenchimento do QIS",
+          "inicio": "2027-01-11",
+          "fim": "2027-01-25",
+          "destaque": true
+        },
+        {
+          "id": "investigacao-social-03",
+          "titulo": "Investigação social",
+          "inicio": "2027-01-26",
+          "fim": "2027-04-09",
+          "destaque": false
+        },
+        {
+          "id": "investigacao-social-04",
+          "titulo": "Resultado provisório da investigação social",
+          "inicio": "2027-04-28",
+          "destaque": false
+        },
+        {
+          "id": "investigacao-social-05",
+          "titulo": "Recurso",
+          "inicio": "2027-04-29",
+          "fim": "2027-04-30",
+          "destaque": false
+        },
+        {
+          "id": "investigacao-social-06",
+          "titulo": "Resultado pós-recurso",
+          "inicio": "2027-05-11",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "psicologico",
+      "titulo": "Avaliação psicológica",
+      "eventos": [
+        {
+          "id": "psicologico-01",
+          "titulo": "Habilitados para a avaliação psicológica",
+          "inicio": "2027-03-31",
+          "destaque": false
+        },
+        {
+          "id": "psicologico-02",
+          "titulo": "Cartão de Informação (link)",
+          "inicio": "2027-04-06",
+          "destaque": false
+        },
+        {
+          "id": "psicologico-03",
+          "titulo": "EXAME DE AVALIAÇÃO PSICOLÓGICA",
+          "inicio": "2027-04-11",
+          "destaque": true
+        },
+        {
+          "id": "psicologico-04",
+          "titulo": "Resultado preliminar",
+          "inicio": "2027-04-23",
+          "destaque": false
+        },
+        {
+          "id": "psicologico-05",
+          "titulo": "Pedido de entrevista devolutiva",
+          "inicio": "2027-04-26",
+          "fim": "2027-04-27",
+          "destaque": false
+        },
+        {
+          "id": "psicologico-06",
+          "titulo": "Entrevista devolutiva",
+          "inicio": "2027-05-02",
+          "destaque": false
+        },
+        {
+          "id": "psicologico-07",
+          "titulo": "Recurso",
+          "inicio": "2027-05-03",
+          "fim": "2027-05-04",
+          "destaque": false
+        },
+        {
+          "id": "psicologico-08",
+          "titulo": "Resultado pós-recurso",
+          "inicio": "2027-05-11",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "resultado",
+      "titulo": "Resultado final",
+      "eventos": [
+        {
+          "id": "resultado-01",
+          "titulo": "Resultado final e classificação",
+          "inicio": "2027-05-12",
+          "destaque": true
+        },
+        {
+          "id": "resultado-02",
+          "titulo": "Recurso contra o resultado final",
+          "inicio": "2027-05-13",
+          "fim": "2027-05-14",
+          "destaque": false
+        },
+        {
+          "id": "resultado-03",
+          "titulo": "Resultado e classificação pós-recurso",
+          "inicio": "2027-05-20",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "documentos",
+      "titulo": "Entrega de documentos",
+      "eventos": [
+        {
+          "id": "documentos-01",
+          "titulo": "Convocação para entrega de documentos e matrícula (+10% suplentes)",
+          "inicio": "2027-05-20",
+          "destaque": false
+        },
+        {
+          "id": "documentos-02",
+          "titulo": "Entrega de documentos",
+          "inicio": "2027-05-24",
+          "fim": "2027-05-26",
+          "destaque": true
+        },
+        {
+          "id": "documentos-03",
+          "titulo": "Regularização de pendências",
+          "inicio": "2027-05-27",
+          "fim": "2027-06-07",
+          "destaque": false
+        },
+        {
+          "id": "documentos-04",
+          "titulo": "Relação dos presentes",
+          "inicio": "2027-05-31",
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "cfp",
+      "titulo": "Curso de Formação de Praças",
+      "eventos": [
+        {
+          "id": "cfp-01",
+          "titulo": "Matrícula e início do CFP",
+          "inicio": "2027-06-07",
+          "destaque": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id": "legislacao-transito",
+  "nome": "Legislação de Trânsito",
+  "area": "legislacao",
+  "questoesNaProva": 5,
+  "conteudoEdital": "Legislação de Trânsito: 1. Lei nº 9.503/1997: Arts. 1º ao 4º; Art. 23; Arts. 26 ao 67; Arts. 80 ao 90; Arts. 96 a 102; Arts. 114 ao 160; Arts. 256 ao 279-A; Art. 280; Arts. 291 a 312-B.",
+  "visaoGeral": "O edital recorta o CTB: disposições preliminares, competência da PM (art. 23), normas de circulação, sinalização, veículos, registro/licenciamento, habilitação, penalidades, medidas administrativas, auto de infração e crimes de trânsito. Atenção: o capítulo das infrações em espécie (arts. 161 a 255) NÃO está no edital, então o foco recai sobre penalidades, medidas administrativas, Lei Seca (arts. 276/277 e 306) e crimes (arts. 291 a 312-B). A AOCP cobra a literalidade do texto com números (prazos, pontos, velocidades, penas), muitas vezes em situações-problema de abordagem policial.",
+  "dicas": [
+    "Decore os números: velocidades do art. 61, pontos do art. 259, limites de pontuação do art. 261 (20/30/40), validade do exame médico (10/5/3 anos) e as penas dos crimes de trânsito.",
+    "Separe bem penalidade (art. 256) de medida administrativa (art. 269): multa e suspensão são penalidades; retenção, remoção e recolhimento de documentos são medidas administrativas.",
+    "Lei Seca: infração administrativa = qualquer concentração (art. 276); crime = 6 dg/L de sangue ou 0,3 mg/L de ar alveolar ou sinais de alteração (art. 306). Recusa ao teste = art. 165-A (art. 277, § 3º), não é crime.",
+    "Nos crimes, saiba quais são de perigo concreto (arts. 309, 311 – 'gerando perigo de dano') e de perigo abstrato (arts. 306, 310 – Súmula 575 STJ).",
+    "Leia o texto compilado do Planalto: o CTB foi muito alterado pelas Leis nº 13.281/2016, 13.546/2017, 14.071/2020, 14.599/2023 (que trocou 'acidente' por 'sinistro') e por normas de 2025/2026.",
+    "Faça questões de concursos de PM e de agente de trânsito: a cobrança dos artigos 291 a 312-B é muito repetitiva."
+  ],
+  "fontesEstudo": [
+    { "titulo": "Lei nº 9.503/1997 – Código de Trânsito Brasileiro (texto compilado, Planalto)", "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm" },
+    { "titulo": "Lei nº 14.071/2020 – altera o CTB (Planalto)", "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14071.htm" },
+    { "titulo": "Lei nº 13.546/2017 – homicídio e lesão sob efeito de álcool (Planalto)", "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13546.htm" },
+    { "titulo": "Lei nº 14.599/2023 – altera o CTB (Planalto)", "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14599.htm" },
+    { "titulo": "Lei nº 15.428/2026 – altera o CTB (Câmara dos Deputados – Legislação Informatizada)", "url": "https://www2.camara.leg.br/legin/fed/lei/2026/lei-15428-5-junho-2026-799219-norma-pl.html" }
+  ],
+  "topicos": [
+    {
+      "id": "legislacao-transito-t01",
+      "titulo": "Disposições preliminares (arts. 1º a 4º)",
+      "maisCobrado": false,
+      "resumo": "O CTB rege o trânsito de qualquer natureza nas vias terrestres do território nacional abertas à circulação. Trânsito é a utilização das vias por pessoas, veículos e animais, isolados ou em grupos, conduzidos ou não, para fins de circulação, parada, estacionamento e operação de carga ou descarga (art. 1º, § 1º).\n\nO trânsito seguro é direito de todos e dever dos órgãos do Sistema Nacional de Trânsito (SNT), que respondem OBJETIVAMENTE por danos causados por ação, omissão ou erro na execução e manutenção de programas, projetos e serviços que garantam o trânsito seguro (§§ 2º e 3º). As ações devem priorizar a defesa da vida, incluída a preservação da saúde e do meio ambiente (§ 5º).\n\nSão vias terrestres as ruas, avenidas, logradouros, caminhos, passagens, estradas e rodovias, e, por equiparação, as praias abertas à circulação pública, as vias internas de condomínios constituídos por unidades autônomas e as vias e áreas de estacionamento de estabelecimentos privados de uso coletivo (art. 2º). Os conceitos e definições estão no Anexo I (art. 4º).",
+      "pontosChave": [
+        "Trânsito: pessoas, veículos e animais; isolados ou em grupos; conduzidos ou não.",
+        "Finalidades: circulação, parada, estacionamento e operação de carga ou descarga.",
+        "Trânsito seguro: direito de todos e dever dos órgãos do SNT.",
+        "Responsabilidade dos órgãos do SNT é objetiva.",
+        "Prioridade: defesa da vida, incluindo saúde e meio ambiente.",
+        "Praias abertas à circulação, vias internas de condomínios e estacionamentos de estabelecimentos privados de uso coletivo são vias terrestres.",
+        "O CTB aplica-se a qualquer veículo e a proprietários, condutores nacionais e estrangeiros (art. 3º)."
+      ],
+      "pegadinhas": [
+        "Dizer que a responsabilidade dos órgãos do SNT é subjetiva ou depende de culpa.",
+        "Excluir os animais ou os não conduzidos do conceito de trânsito.",
+        "Afirmar que vias de condomínios ou estacionamentos de shopping não se sujeitam ao CTB."
+      ],
+      "referencias": ["CTB, arts. 1º a 4º e Anexo I"]
+    },
+    {
+      "id": "legislacao-transito-t02",
+      "titulo": "Competência das Polícias Militares (art. 23)",
+      "maisCobrado": true,
+      "resumo": "Do art. 23, só está em vigor o inciso III: compete às Polícias Militares dos Estados e do DF executar a fiscalização de trânsito, quando e conforme convênio firmado, como agente do órgão ou entidade executivos de trânsito ou executivos rodoviários, concomitantemente com os demais agentes credenciados. Os demais incisos e o parágrafo único foram vetados.\n\nNa prática, o policial militar atua como agente da autoridade de trânsito (art. 280, § 4º), podendo lavrar autos de infração e adotar medidas administrativas, mas não aplica penalidades nem julga recursos – isso cabe à autoridade de trânsito e às JARI.",
+      "pontosChave": [
+        "Fiscalização pela PM depende de convênio.",
+        "A PM atua como agente do órgão executivo de trânsito ou rodoviário.",
+        "Atuação concomitante com os demais agentes credenciados.",
+        "Único inciso vigente do art. 23: o III.",
+        "O PM designado pode lavrar auto de infração (art. 280, § 4º)."
+      ],
+      "pegadinhas": [
+        "Atribuir à PM a aplicação de suspensão ou cassação da CNH.",
+        "Afirmar que a PM fiscaliza o trânsito independentemente de convênio.",
+        "Confundir com competências do Contran, Detran ou JARI."
+      ],
+      "referencias": ["CTB, art. 23, III", "CTB, art. 280, § 4º"]
+    },
+    {
+      "id": "legislacao-transito-t03",
+      "titulo": "Normas gerais de circulação e conduta (arts. 26 a 53)",
+      "maisCobrado": true,
+      "resumo": "Os usuários devem abster-se de condutas que constituam perigo ou obstáculo ao trânsito (art. 26), verificar as condições do veículo antes de circular (art. 27) e ter domínio do veículo a todo momento (art. 28). O art. 29 traz o núcleo das regras: circulação pela direita; distância de segurança; preferências em locais não sinalizados (rodovia, rotatória e, nos demais casos, quem vem pela direita); faixas da direita para veículos lentos e de maior porte; ultrapassagem pela esquerda, com cuidados específicos.\n\nVeículos de socorro de incêndio e salvamento, de polícia, de fiscalização e operação de trânsito e ambulâncias têm prioridade, livre circulação, parada e estacionamento quando em serviço de urgência e identificados por alarme sonoro e luz vermelha intermitente; os demais condutores devem liberar a faixa da esquerda, indo para a direita e parando se necessário; os pedestres aguardam no passeio; e a prioridade se exerce com velocidade reduzida e cuidados de segurança (art. 29, VII).\n\nO condutor deve manter o farol baixo aceso à noite e, mesmo de dia, em túneis e sob chuva, neblina ou cerração (art. 40, I). Os demais artigos tratam de ultrapassagem, conversões, cruzamentos, parada e estacionamento.",
+      "pontosChave": [
+        "Circulação pelo lado direito da via, salvo sinalização em contrário.",
+        "Sem sinalização: preferência de quem circula pela rodovia; na rotatória, de quem circula por ela; nos demais casos, de quem vem pela direita.",
+        "Ultrapassagem pela esquerda, após sinalizar e verificar a faixa livre.",
+        "Veículos de urgência: prioridade só em serviço de urgência e com sirene + luz vermelha intermitente.",
+        "Diante de veículo de urgência: liberar a faixa da esquerda, ir para a direita e parar se necessário.",
+        "Pedestres aguardam no passeio até a passagem do veículo de urgência.",
+        "Veículos precedidos de batedores têm prioridade de passagem.",
+        "Farol baixo de dia em túneis e sob chuva, neblina ou cerração."
+      ],
+      "pegadinhas": [
+        "Dizer que o veículo de emergência tem prioridade mesmo fora do serviço de urgência.",
+        "Afirmar que os demais condutores devem liberar a faixa da direita.",
+        "Dizer que a preferência em cruzamento não sinalizado é de quem vem pela esquerda ou do veículo maior.",
+        "Afirmar que a prioridade dispensa a redução de velocidade."
+      ],
+      "referencias": ["CTB, arts. 26 a 53", "CTB, art. 29", "CTB, art. 40"]
+    },
+    {
+      "id": "legislacao-transito-t04",
+      "titulo": "Motociclistas, ciclistas, classificação de vias, velocidades, cinto e transporte de crianças (arts. 54 a 67)",
+      "maisCobrado": true,
+      "resumo": "Condutores e passageiros de motocicletas, motonetas e ciclomotores devem usar capacete com viseira ou óculos protetores e vestuário de proteção conforme o Contran; o condutor segura o guidom com as duas mãos; o passageiro vai em carro lateral ou assento suplementar atrás do condutor (arts. 54 e 55). As bicicletas circulam nos bordos da pista, no mesmo sentido do tráfego, com preferência sobre os veículos automotores, quando não houver ciclovia, ciclofaixa ou acostamento (art. 58); nos passeios, só se autorizado e sinalizado (art. 59).\n\nVias urbanas: de trânsito rápido, arterial, coletora e local; rurais: rodovias e estradas (art. 60). Sem sinalização, as velocidades máximas são: urbanas – 80 (trânsito rápido), 60 (arterial), 40 (coletora) e 30 km/h (local); rodovias de pista dupla – 110 km/h para automóveis, camionetas, caminhonetes e motocicletas e 90 km/h para os demais; rodovias de pista simples – 100 km/h para automóveis, camionetas, caminhonetes e motocicletas e 90 km/h para os demais; estradas – 60 km/h (art. 61). A velocidade mínima não pode ser inferior à metade da máxima (art. 62).\n\nCrianças com menos de 10 anos que não tenham atingido 1,45 m de altura devem ir nos bancos traseiros, em dispositivo de retenção adequado (art. 64, redação da Lei nº 14.071/2020). O cinto é obrigatório para condutor e passageiros em todas as vias do território nacional (art. 65).",
+      "pontosChave": [
+        "Urbanas: 80 / 60 / 40 / 30 km/h (trânsito rápido / arterial / coletora / local).",
+        "Rodovia pista dupla: 110 km/h (automóveis, camionetas, caminhonetes, motos) e 90 km/h (demais).",
+        "Rodovia pista simples: 100 km/h (automóveis, camionetas, caminhonetes, motos) e 90 km/h (demais).",
+        "Estradas (rurais não pavimentadas): 60 km/h.",
+        "Velocidade mínima: metade da máxima.",
+        "Crianças: menos de 10 anos e menos de 1,45 m → banco traseiro com dispositivo de retenção.",
+        "Cinto obrigatório em todas as vias, para condutor e passageiros.",
+        "Bicicleta: bordos da pista, mesmo sentido, preferência sobre automotores."
+      ],
+      "pegadinhas": [
+        "Inverter as velocidades de pista simples (100) e pista dupla (110).",
+        "Dizer que caminhões e ônibus têm o mesmo limite de automóveis nas rodovias.",
+        "Afirmar que o cinto é obrigatório apenas em rodovias.",
+        "Usar o critério antigo (só idade) para crianças, esquecendo a altura de 1,45 m."
+      ],
+      "referencias": ["CTB, arts. 54 a 67", "CTB, art. 61, § 1º", "Lei nº 13.281/2016", "Lei nº 14.071/2020"]
+    },
+    {
+      "id": "legislacao-transito-t05",
+      "titulo": "Sinalização de trânsito (arts. 80 a 90)",
+      "maisCobrado": true,
+      "resumo": "A sinalização deve ser colocada em posição e condições que a tornem perfeitamente visível e legível durante o dia e a noite, em distância compatível com a segurança do trânsito (art. 80). É proibido afixar sobre a sinalização ou seus suportes qualquer publicidade, inscrições, legendas e símbolos que não se relacionem com a mensagem da sinalização (art. 82). Nenhuma via pavimentada pode ser entregue após construção, ou reaberta após obras, enquanto não estiver devidamente sinalizada (art. 88).\n\nOrdem de prevalência (art. 89): ordens do agente > semáforo > demais sinais > normas de circulação. Não se aplicam as sanções do Código por inobservância de sinalização insuficiente ou incorreta, e o órgão com circunscrição sobre a via responde pela falta, insuficiência ou incorreta colocação (art. 90).",
+      "pontosChave": [
+        "Prevalência: agente > semáforo > sinais > normas de circulação.",
+        "Sinalização insuficiente ou incorreta: não se aplicam sanções.",
+        "Responsável pela sinalização: órgão com circunscrição sobre a via.",
+        "Proibida publicidade na sinalização e em seus suportes.",
+        "Via pavimentada não pode ser entregue/reaberta sem sinalização.",
+        "Sinalização visível e legível de dia e de noite."
+      ],
+      "pegadinhas": [
+        "Colocar o semáforo acima das ordens do agente.",
+        "Responsabilizar o condutor pela falta de sinalização.",
+        "Admitir publicidade nos suportes de placas com autorização municipal."
+      ],
+      "referencias": ["CTB, arts. 80 a 90", "Anexo II do CTB"]
+    },
+    {
+      "id": "legislacao-transito-t06",
+      "titulo": "Veículos: classificação, modificações, peso, dimensões e carga (arts. 96 a 102)",
+      "maisCobrado": false,
+      "resumo": "Quanto à tração, os veículos são automotores, elétricos, de propulsão humana, de tração animal, reboques ou semirreboques; quanto à espécie, de passageiros, de carga, mistos, de competição, de tração, especiais e de coleção; quanto à categoria, oficiais, de representação diplomática/consular/organismos internacionais, particulares, de aluguel e de aprendizagem (art. 96).\n\nModificar características de fábrica exige prévia autorização da autoridade competente (art. 98). Só transita o veículo cujo peso e dimensões atendam aos limites do Contran, com tolerâncias quando aferidos por equipamento (art. 99). Carga que exceda os limites depende de autorização especial de trânsito, com prazo certo, que não exime o beneficiário da responsabilidade por danos (art. 101). A carga deve estar devidamente acondicionada (art. 102).",
+      "pontosChave": [
+        "Tração: automotor, elétrico, propulsão humana, tração animal, reboque/semirreboque.",
+        "Espécie: passageiros, carga, misto, competição, tração, especial, coleção.",
+        "Categoria: oficial, diplomático/consular, particular, aluguel, aprendizagem.",
+        "Modificação de características exige autorização prévia.",
+        "Excesso de peso pode ser aferido por balança ou por nota fiscal.",
+        "Autorização especial de trânsito para carga indivisível excedente, com prazo certo."
+      ],
+      "pegadinhas": [
+        "Misturar classificação por espécie com categoria (ex.: 'de carga' como categoria).",
+        "Afirmar que a autorização especial isenta de responsabilidade por danos."
+      ],
+      "referencias": ["CTB, arts. 96 a 102"]
+    },
+    {
+      "id": "legislacao-transito-t07",
+      "titulo": "Identificação, registro e licenciamento; condução de escolares (arts. 114 a 139-B)",
+      "maisCobrado": false,
+      "resumo": "O veículo é identificado por caracteres gravados no chassi ou monobloco, incluindo o ano de fabricação; regravação só com autorização prévia da autoridade executiva de trânsito, por estabelecimento credenciado (art. 114). Tem placas dianteira e traseira (traseira lacrada), dispensada a dianteira nos veículos de duas ou três rodas (art. 115).\n\nTodo veículo automotor, elétrico, articulado, reboque ou semirreboque deve ser registrado no órgão executivo de trânsito do Estado/DF, no Município de domicílio do proprietário (art. 120). Expede-se novo CRV na transferência de propriedade, mudança de Município, alteração de característica ou mudança de categoria; na transferência, o prazo é de 30 dias (art. 123, § 1º). Se o comprador não transferir, o vendedor deve comunicar a venda em até 60 dias, sob pena de responder solidariamente pelas penalidades até a comunicação (art. 134).\n\nO licenciamento é anual (art. 130). O porte do CLA é obrigatório, mas dispensado se for possível consultar o sistema na fiscalização (art. 133). Veículos de escolares exigem autorização, inspeção semestral, faixa amarela com a palavra ESCOLAR, registrador de velocidade e cintos; o condutor deve ter mais de 21 anos, ser habilitado na categoria D e aprovado em curso especializado (arts. 136 a 138).",
+      "pontosChave": [
+        "Regravação de chassi só com autorização prévia.",
+        "Motos e veículos de três rodas: sem placa dianteira.",
+        "Registro no Município de domicílio ou residência do proprietário.",
+        "Transferência: 30 dias para o comprador (art. 123, § 1º).",
+        "Comunicação de venda pelo vendedor: 60 dias (art. 134, redação da Lei nº 14.071/2020).",
+        "Licenciamento anual; porte do CLA dispensado se houver consulta ao sistema.",
+        "Condutor de escolares: mais de 21 anos, categoria D, curso especializado."
+      ],
+      "pegadinhas": [
+        "Trocar os prazos de 30 (comprador) e 60 dias (vendedor).",
+        "Dizer que o vendedor responde subsidiariamente ou apenas por multas gravíssimas — a responsabilidade é solidária.",
+        "Afirmar que o licenciamento é bienal."
+      ],
+      "referencias": ["CTB, arts. 114 a 139-B"]
+    },
+    {
+      "id": "legislacao-transito-t08",
+      "titulo": "Habilitação (arts. 140 a 160)",
+      "maisCobrado": true,
+      "resumo": "Requisitos para habilitação: ser penalmente imputável, saber ler e escrever e possuir documento de identidade (art. 140). Categorias (art. 143): A – duas ou três rodas; B – não abrangido pela A, até 3.500 kg de PBT e até 8 lugares excluído o motorista; C – carga acima de 3.500 kg; D – passageiros com mais de 8 lugares excluído o motorista; E – combinação cuja unidade tratora seja B, C ou D e a unidade acoplada tenha 6.000 kg ou mais de PBT, ou lotação superior a 8 lugares. Para D e E (e transporte coletivo, escolar, de emergência ou de produto perigoso), exige-se mais de 21 anos e tempo mínimo de habilitação (D: 2 anos na B ou 1 ano na C; E: 1 ano na C), além de curso especializado (art. 145).\n\nExames (art. 147): aptidão física e mental, escrito sobre legislação, noções de primeiros socorros e direção veicular. O exame de aptidão física e mental é renovado a cada 10 anos (menos de 50 anos), 5 anos (de 50 a menos de 70) e 3 anos (70 ou mais) – redação da Lei nº 14.071/2020; a validade da CNH acompanha esse prazo (art. 159, § 10). O aprovado recebe a Permissão para Dirigir, válida por 1 ano; a CNH é conferida se não houver infração grave ou gravíssima nem reincidência em média; caso contrário, reinicia-se todo o processo (art. 148).\n\nCategorias C, D e E exigem exame toxicológico para obtenção e renovação, com reexame a cada 2 anos e 6 meses para menores de 70 anos (art. 148-A); a Lei nº 15.153/2025 incluiu o exame também na primeira habilitação das categorias A e B. A CNH pode ser física ou digital, tem fé pública e equivale a documento de identidade (art. 159, redação da Lei nº 15.428/2026). O condenado por crime de trânsito deve se submeter novamente aos exames (art. 160).",
+      "pontosChave": [
+        "Requisitos: imputável, saber ler e escrever, documento de identidade.",
+        "B: até 3.500 kg e até 8 lugares excluído o motorista.",
+        "E: unidade acoplada com 6.000 kg ou mais, ou mais de 8 lugares.",
+        "D e E: mais de 21 anos.",
+        "Permissão para Dirigir: 1 ano.",
+        "CNH definitiva: sem grave, sem gravíssima e sem reincidência em média.",
+        "Exame médico: 10 anos (<50), 5 anos (50 a 69), 3 anos (70+).",
+        "Toxicológico C, D, E: a cada 2 anos e 6 meses (menores de 70).",
+        "CNH física ou digital, com fé pública e valor de identidade."
+      ],
+      "pegadinhas": [
+        "Exigir 21 anos para qualquer habilitação.",
+        "Dizer que a Permissão para Dirigir vale 2 anos.",
+        "Dizer que uma única infração média impede a CNH (só a reincidência em média impede).",
+        "Usar os prazos antigos de renovação (5 e 3 anos) revogados pela Lei nº 14.071/2020."
+      ],
+      "referencias": ["CTB, arts. 140 a 160", "Lei nº 14.071/2020", "Lei nº 15.153/2025", "Lei nº 15.428/2026"]
+    },
+    {
+      "id": "legislacao-transito-t09",
+      "titulo": "Penalidades (arts. 256 a 268)",
+      "maisCobrado": true,
+      "resumo": "Penalidades (art. 256): advertência por escrito, multa, suspensão do direito de dirigir, cassação da CNH, cassação da Permissão para Dirigir e frequência obrigatória em curso de reciclagem. A apreensão do veículo foi revogada (Lei nº 13.281/2016). Multas: gravíssima R$ 293,47; grave R$ 195,23; média R$ 130,16; leve R$ 88,38 (art. 258). Pontos: 7, 5, 4 e 3 (art. 259). O proprietário responde pela regularização do veículo; o condutor, pelas infrações decorrentes da direção; não identificado o condutor em 30 dias, responde o proprietário (ou principal condutor), e, se pessoa jurídica, aplica-se nova multa (art. 257).\n\nSuspensão (art. 261): ao atingir, em 12 meses, 20 pontos (duas ou mais gravíssimas), 30 pontos (uma gravíssima) ou 40 pontos (nenhuma gravíssima); ou por infração que preveja suspensão específica. Prazos: por pontos, 6 meses a 1 ano (reincidência: 8 meses a 2 anos); por infração específica, 2 a 8 meses (reincidência: 8 a 18 meses). Condutor que exerce atividade remunerada: suspensão aos 40 pontos, qualquer que seja a natureza das infrações, com curso preventivo facultativo aos 30.\n\nCassação (art. 263): dirigir com o direito suspenso; reincidência, em 12 meses, em infrações específicas; condenação judicial por delito de trânsito. Após 2 anos, pode-se requerer reabilitação, refazendo os exames. As penalidades são cumulativas (art. 266). A advertência por escrito deve ser imposta à infração leve ou média, passível de multa, se o infrator não tiver cometido outra infração nos últimos 12 meses (art. 267). O curso de reciclagem é exigido, entre outros casos, do suspenso, do envolvido em sinistro grave para o qual contribuiu e do condenado por delito de trânsito (art. 268).",
+      "pontosChave": [
+        "Penalidades: advertência, multa, suspensão, cassação da CNH, cassação da PPD, curso de reciclagem.",
+        "Apreensão do veículo: revogada.",
+        "Pontos: 7 / 5 / 4 / 3.",
+        "Suspensão por pontos: 20 (2+ gravíssimas), 30 (1 gravíssima), 40 (nenhuma).",
+        "Motorista profissional: 40 pontos, qualquer natureza.",
+        "Suspensão por pontos: 6 meses a 1 ano (reincidência 8 meses a 2 anos).",
+        "Reabilitação após cassação: 2 anos.",
+        "Advertência: leve ou média, sem outra infração em 12 meses.",
+        "Penalidades aplicadas cumulativamente."
+      ],
+      "pegadinhas": [
+        "Incluir 'apreensão do veículo' ou 'remoção' entre as penalidades.",
+        "Afirmar que atingir pontuação gera cassação.",
+        "Dizer que a advertência cabe para infração grave.",
+        "Confundir prazo de reabilitação (2 anos) com o de suspensão."
+      ],
+      "referencias": ["CTB, arts. 256 a 268", "Lei nº 13.281/2016", "Lei nº 14.071/2020"]
+    },
+    {
+      "id": "legislacao-transito-t10",
+      "titulo": "Medidas administrativas e Lei Seca (arts. 269 a 279-A)",
+      "maisCobrado": true,
+      "resumo": "Medidas administrativas (art. 269): retenção e remoção do veículo; recolhimento da CNH, da Permissão para Dirigir, do CRV e do CLA; transbordo do excesso de carga; teste de alcoolemia ou perícia de substância entorpecente; recolhimento de animais soltos; realização de exames. Têm caráter complementar e não afastam as penalidades.\n\nRetenção (art. 270): sanável no local, o veículo é liberado após a regularização; não sanável, pode ser entregue a condutor habilitado, com recolhimento do CLA e prazo para regularizar; sem condições de segurança, é removido. Remoção (art. 271): a restituição depende do prévio pagamento de multas, taxas e despesas de remoção e estada.\n\nLei Seca: qualquer concentração de álcool por litro de sangue ou de ar alveolar sujeita às penalidades do art. 165, observadas as margens de tolerância do Contran para aparelhos (art. 276). A infração pode ser caracterizada por imagem, vídeo, constatação de sinais de alteração da capacidade psicomotora ou outras provas (art. 277, § 2º), e a recusa aos testes sujeita às penalidades e medidas do art. 165-A (art. 277, § 3º): gravíssima, multa ×10, suspensão por 12 meses, recolhimento do documento e retenção do veículo. O art. 278-A prevê cassação para quem usar veículo em receptação, descaminho ou contrabando, e o art. 279-A permite remover veículo abandonado ou sinistrado sem responsável no local.",
+      "pontosChave": [
+        "Multa e suspensão são penalidades; retenção, remoção e recolhimentos são medidas administrativas.",
+        "Retenção sanável no local: libera após regularizar.",
+        "Não sanável: entrega a condutor habilitado com recolhimento do CLA.",
+        "Restituição de veículo removido: prévio pagamento de multas, taxas e despesas.",
+        "Infração administrativa de álcool: qualquer concentração (art. 276).",
+        "Recusa ao teste: art. 165-A (art. 277, § 3º).",
+        "Prova da embriaguez também por vídeo, imagem e sinais de alteração."
+      ],
+      "pegadinhas": [
+        "Confundir o limite do crime (0,3 mg/L) com a infração administrativa (qualquer concentração).",
+        "Afirmar que a recusa ao etilômetro impede sanção ('ninguém é obrigado a produzir prova contra si').",
+        "Dizer que recusa ao teste, por si só, é crime do art. 306.",
+        "Classificar a multa como medida administrativa."
+      ],
+      "referencias": ["CTB, arts. 269 a 279-A", "CTB, arts. 165 e 165-A (referidos pelos arts. 276 e 277)"]
+    },
+    {
+      "id": "legislacao-transito-t11",
+      "titulo": "Auto de infração (art. 280)",
+      "maisCobrado": false,
+      "resumo": "Ocorrendo infração, lavra-se auto de infração com: tipificação; local, data e hora; placa, marca e espécie do veículo e outros elementos de identificação; prontuário do condutor, sempre que possível; identificação do órgão, da autoridade ou agente autuador ou do equipamento; e assinatura do infrator, sempre que possível, valendo como notificação do cometimento da infração.\n\nA infração pode ser comprovada por declaração da autoridade ou do agente, ou por aparelho eletrônico, equipamento audiovisual, reações químicas ou outro meio regulamentado pelo Contran (§ 2º). Não sendo possível o flagrante, o agente relata o fato no próprio auto (§ 3º). O agente pode ser servidor civil, estatutário ou celetista, ou policial militar designado pela autoridade de trânsito com jurisdição sobre a via (§ 4º).",
+      "pontosChave": [
+        "Assinatura do infrator: sempre que possível; vale como notificação.",
+        "Comprovação por declaração do agente ou por equipamentos.",
+        "Sem flagrante: o agente relata o fato no próprio auto.",
+        "PM designado pela autoridade de trânsito pode lavrar o auto.",
+        "Local, data e hora são elementos obrigatórios."
+      ],
+      "pegadinhas": [
+        "Dizer que a falta de assinatura do infrator anula o auto.",
+        "Afirmar que o auto só pode ser lavrado em flagrante."
+      ],
+      "referencias": ["CTB, art. 280"]
+    },
+    {
+      "id": "legislacao-transito-t12",
+      "titulo": "Crimes de trânsito: disposições gerais (arts. 291 a 301)",
+      "maisCobrado": true,
+      "resumo": "Aos crimes de trânsito aplicam-se as normas gerais do CP e do CPP e, no que couber, a Lei nº 9.099/1995 (art. 291). À lesão corporal culposa aplicam-se a composição civil, a transação penal e a representação (arts. 74, 76 e 88 da Lei nº 9.099/1995), EXCETO se o agente estiver sob influência de álcool ou outra substância psicoativa, participando de racha ou trafegando a mais de 50 km/h acima da velocidade máxima; nesses casos, instaura-se inquérito policial (§§ 1º e 2º).\n\nA suspensão ou proibição de obter a permissão ou a habilitação pode ser aplicada isolada ou cumulativamente (art. 292), dura de 2 meses a 5 anos, e a CNH deve ser entregue em 48 horas após o trânsito em julgado (art. 293). O juiz pode decretá-la como medida cautelar, em qualquer fase, para garantia da ordem pública (art. 294). O reincidente em crime do CTB recebe suspensão (art. 296). Há multa reparatória (art. 297) e agravantes específicas (art. 298): dano potencial a duas ou mais pessoas, veículo sem placas ou com placas falsas, sem habilitação, com categoria diferente, profissão com cuidados especiais, veículo alterado e crime sobre faixa de pedestres.\n\nAo condutor que, em sinistro com vítima, prestar pronto e integral socorro, não se imporá prisão em flagrante nem se exigirá fiança (art. 301).",
+      "pontosChave": [
+        "Exceções à Lei nº 9.099 na lesão culposa: álcool, racha ou mais de 50 km/h acima do limite.",
+        "Nessas exceções: inquérito policial.",
+        "Suspensão/proibição: 2 meses a 5 anos.",
+        "Entrega da CNH em 48 horas após o trânsito em julgado.",
+        "Suspensão cautelar: qualquer fase, garantia da ordem pública.",
+        "Socorro pronto e integral: sem flagrante e sem fiança.",
+        "Agravantes específicas do art. 298."
+      ],
+      "pegadinhas": [
+        "Trocar 50 km/h por outro valor no art. 291, § 1º.",
+        "Confundir agravantes do art. 298 com as causas de aumento do art. 302, § 1º.",
+        "Dizer que, mesmo com socorro, pode haver flagrante com fiança."
+      ],
+      "referencias": ["CTB, arts. 291 a 301", "Lei nº 9.099/1995, arts. 74, 76 e 88"]
+    },
+    {
+      "id": "legislacao-transito-t13",
+      "titulo": "Crimes de trânsito em espécie (arts. 302 a 312-B)",
+      "maisCobrado": true,
+      "resumo": "Homicídio culposo na direção (art. 302): detenção de 2 a 4 anos e suspensão/proibição; aumento de 1/3 à metade se o agente não tiver habilitação, praticar o crime em faixa de pedestres ou calçada, deixar de socorrer a vítima podendo fazê-lo, ou conduzir veículo de transporte de passageiros no exercício da profissão (§ 1º). Sob influência de álcool ou substância psicoativa: reclusão de 5 a 8 anos (§ 3º). Lesão corporal culposa (art. 303): detenção de 6 meses a 2 anos; com álcool e lesão grave ou gravíssima, reclusão de 2 a 5 anos (§ 2º).\n\nOmissão de socorro (art. 304): detenção de 6 meses a 1 ano ou multa, ainda que suprida por terceiros ou com morte instantânea ou ferimentos leves. Fuga do local (art. 305): 6 meses a 1 ano ou multa. Embriaguez ao volante (art. 306): detenção de 6 meses a 3 anos, multa e suspensão/proibição; constatada por 6 dg/L de sangue, 0,3 mg/L de ar alveolar ou sinais de alteração; admite vídeo, prova testemunhal etc. Violar suspensão (art. 307). Racha (art. 308): 6 meses a 3 anos; lesão grave – reclusão de 3 a 6 anos; morte – reclusão de 5 a 10 anos (sem dolo). Dirigir sem habilitação gerando perigo de dano (art. 309 – perigo concreto, Súmula 720 STF). Entregar a direção a não habilitado ou embriagado (art. 310 – perigo abstrato, Súmula 575 STJ). Velocidade incompatível perto de escolas, hospitais etc., gerando perigo de dano (art. 311). Fraude processual no local do sinistro (art. 312).\n\nA substituição da pena nos arts. 302 a 312 deve ser por prestação de serviços em atividades de resgate e atendimento a vítimas (art. 312-A). Não se aplica o art. 44, I, do CP aos crimes dos arts. 302, § 3º, e 303, § 2º (art. 312-B, Lei nº 14.071/2020).",
+      "pontosChave": [
+        "Homicídio culposo: 2 a 4 anos (detenção); com álcool: 5 a 8 anos (reclusão).",
+        "Lesão culposa: 6 meses a 2 anos; com álcool + lesão grave/gravíssima: 2 a 5 anos (reclusão).",
+        "Embriaguez ao volante: 6 meses a 3 anos; 6 dg/L sangue ou 0,3 mg/L ar.",
+        "Racha: 6 meses a 3 anos; lesão grave 3 a 6; morte 5 a 10.",
+        "Arts. 309 e 311 exigem perigo de dano (concreto).",
+        "Art. 310 e art. 306: perigo abstrato.",
+        "Omissão de socorro incide mesmo com morte instantânea ou socorro por terceiros.",
+        "Art. 312-B: sem substituição por restritiva nos arts. 302, § 3º, e 303, § 2º."
+      ],
+      "pegadinhas": [
+        "Dizer que dirigir sem CNH é crime mesmo sem perigo de dano.",
+        "Confundir o limite do crime (0,3 mg/L) com o da infração (qualquer concentração).",
+        "Trocar detenção por reclusão nas penas do caput.",
+        "Afirmar que a omissão de socorro não se configura se a vítima morreu na hora.",
+        "Admitir substituição da pena no homicídio culposo sob efeito de álcool."
+      ],
+      "referencias": ["CTB, arts. 302 a 312-B", "Lei nº 13.546/2017", "Lei nº 14.071/2020", "Súmula 720 do STF", "Súmula 575 do STJ"]
+    }
+  ]
+}

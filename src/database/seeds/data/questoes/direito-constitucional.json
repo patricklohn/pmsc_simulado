@@ -1,0 +1,818 @@
+[
+  {
+    "id": "direito-constitucional-001",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t01",
+    "enunciado": "Quanto à classificação, a Constituição Federal de 1988 é, segundo a doutrina majoritária, uma constituição",
+    "alternativas": {
+      "A": "costumeira, outorgada, flexível e sintética.",
+      "B": "escrita, outorgada, semirrígida e sintética.",
+      "C": "escrita, promulgada, rígida e analítica.",
+      "D": "não escrita, promulgada, rígida e histórica.",
+      "E": "escrita, cesarista, imutável e sintética."
+    },
+    "correta": "C",
+    "comentario": "Correta: C. A CF/88 é escrita (codificada em documento único), promulgada/democrática (elaborada por Assembleia Nacional Constituinte eleita), rígida (exige processo mais solene para alteração – art. 60, § 2º: 3/5 em dois turnos em cada Casa) e analítica (extensa, detalhista). A e B: não é outorgada nem flexível/semirrígida. D: não é costumeira/histórica. E: cesarista é a submetida a plebiscito após elaborada pelo governante, e a CF/88 não é imutável (admite emendas).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-002",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t01",
+    "enunciado": "Segundo a classificação de José Afonso da Silva acerca dos elementos da Constituição, as normas que disciplinam o estado de defesa, o estado de sítio, a intervenção federal e o processo de emenda constitucional são exemplos de elementos",
+    "alternativas": {
+      "A": "orgânicos.",
+      "B": "limitativos.",
+      "C": "de estabilização constitucional.",
+      "D": "socioideológicos.",
+      "E": "formais de aplicabilidade."
+    },
+    "correta": "C",
+    "comentario": "Correta: C. Elementos de estabilização constitucional são os destinados a assegurar a solução de conflitos constitucionais, a defesa da Constituição, do Estado e das instituições democráticas (ex.: arts. 34 a 36, 60 e 136 a 141 da CF/88). A: orgânicos regulam a estrutura do Estado e do Poder. B: limitativos limitam o poder estatal, consubstanciados nos direitos e garantias individuais. D: socioideológicos revelam o compromisso social (direitos sociais, ordem econômica e social). E: formais de aplicabilidade são regras de aplicação da Constituição (preâmbulo, ADCT, art. 5º, § 1º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-003",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t02",
+    "enunciado": "Acerca do Poder Constituinte, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O Poder Constituinte derivado reformador é ilimitado, podendo abolir a forma federativa de Estado.",
+      "B": "O Poder Constituinte decorrente é aquele exercido pelo Congresso Nacional ao aprovar emendas à Constituição Federal, em dois turnos de votação.",
+      "C": "O Poder Constituinte originário é sempre exercido por meio de emenda constitucional aprovada em dois turnos.",
+      "D": "O Poder Constituinte derivado é inicial e incondicionado, pois cria uma nova ordem jurídica.",
+      "E": "O Poder Constituinte originário é inicial, autônomo e incondicionado, não se sujeitando juridicamente à ordem constitucional anterior."
+    },
+    "correta": "E",
+    "comentario": "Correta: E. O poder originário inaugura a ordem jurídica: é inicial, autônomo/ilimitado (juridicamente) e incondicionado. A: o reformador é limitado – a forma federativa é cláusula pétrea (CF, art. 60, § 4º, I). B: o decorrente é o dos Estados-membros para elaborar suas constituições (CF, art. 25; ADCT, art. 11). C: emenda é manifestação do poder derivado reformador. D: o derivado é secundário, limitado e condicionado.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-004",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t02",
+    "enunciado": "De acordo com a Constituição Federal, a proposta de emenda constitucional",
+    "alternativas": {
+      "A": "poderá ser apresentada por um quinto, no mínimo, dos membros da Câmara dos Deputados ou do Senado Federal.",
+      "B": "será promulgada pelo Presidente da República, após a sanção, no prazo de quinze dias úteis contados do recebimento do autógrafo.",
+      "C": "será discutida e votada em cada Casa do Congresso Nacional, em dois turnos, e aprovada se obtiver, em ambos, três quintos dos votos dos membros.",
+      "D": "poderá ser votada durante a vigência de estado de defesa, desde que aprovada por maioria absoluta.",
+      "E": "rejeitada, poderá ser reapresentada na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros de qualquer das Casas do Congresso."
+    },
+    "correta": "C",
+    "comentario": "Correta: C (CF, art. 60, § 2º). A: exige-se um terço, no mínimo, dos membros de qualquer das Casas (art. 60, I). B: a emenda é promulgada pelas Mesas da Câmara e do Senado, sem sanção presidencial (art. 60, § 3º). D: a Constituição não pode ser emendada na vigência de intervenção federal, estado de defesa ou estado de sítio (art. 60, § 1º). E: a matéria de PEC rejeitada ou prejudicada não pode ser objeto de nova proposta na mesma sessão legislativa (art. 60, § 5º) – a ressalva da maioria absoluta vale para projetos de lei (art. 67).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-005",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t03",
+    "enunciado": "Nos termos do art. 1º da Constituição Federal, NÃO constitui fundamento da República Federativa do Brasil",
+    "alternativas": {
+      "A": "a soberania.",
+      "B": "a cidadania.",
+      "C": "a prevalência dos direitos humanos.",
+      "D": "a dignidade da pessoa humana.",
+      "E": "o pluralismo político."
+    },
+    "correta": "C",
+    "comentario": "Correta: C. A prevalência dos direitos humanos é princípio que rege as relações internacionais (CF, art. 4º, II), e não fundamento. São fundamentos (art. 1º): soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa e pluralismo político – por isso A, B, D e E constam do art. 1º.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-006",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t03",
+    "enunciado": "Assinale a alternativa que apresenta um objetivo fundamental da República Federativa do Brasil, conforme o art. 3º da Constituição Federal.",
+    "alternativas": {
+      "A": "Defender a paz e solucionar pacificamente os conflitos.",
+      "B": "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+      "C": "Garantir a independência nacional e a autodeterminação dos povos.",
+      "D": "Repudiar o terrorismo e o racismo.",
+      "E": "Conceder asilo político."
+    },
+    "correta": "B",
+    "comentario": "Correta: B (CF, art. 3º, III). Os objetivos fundamentais são: construir sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização e reduzir as desigualdades; promover o bem de todos, sem preconceitos. A, C, D e E são princípios das relações internacionais (art. 4º, I, III, VI, VII, VIII e X). Dica: objetivos começam com verbos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-007",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t04",
+    "enunciado": "Durante patrulhamento noturno, uma guarnição da Polícia Militar ouve gritos de socorro vindos do interior de uma residência e constata que um homem agride violentamente sua companheira. Considerando o art. 5º, XI, da Constituição Federal, os policiais",
+    "alternativas": {
+      "A": "podem ingressar na casa imediatamente, mesmo sem consentimento do morador e durante a noite, em razão do flagrante delito.",
+      "B": "somente podem ingressar na casa durante o dia e mediante determinação judicial, ainda que haja flagrante.",
+      "C": "devem aguardar o amanhecer para ingressar, ainda que haja flagrante delito.",
+      "D": "podem ingressar apenas com autorização verbal do Delegado de Polícia.",
+      "E": "somente podem ingressar se o morador consentir expressamente, pois a casa é asilo inviolável do indivíduo."
+    },
+    "correta": "A",
+    "comentario": "Correta: A. A casa é asilo inviolável, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro (a qualquer hora), ou, durante o dia, por determinação judicial (CF, art. 5º, XI). B e C: a restrição ao período diurno vale só para o cumprimento de ordem judicial. D: não existe tal hipótese. E: o consentimento é dispensado nas exceções constitucionais.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-008",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t04",
+    "enunciado": "De acordo com a Constituição Federal, são crimes inafiançáveis e imprescritíveis",
+    "alternativas": {
+      "A": "a tortura e o tráfico ilícito de entorpecentes e drogas afins, quando praticados por agentes públicos.",
+      "B": "o terrorismo e os crimes definidos em lei como hediondos, inclusive o homicídio qualificado.",
+      "C": "a prática do racismo e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.",
+      "D": "a prática do racismo e a tortura.",
+      "E": "o tráfico ilícito de entorpecentes e a ação de grupos armados contra o Estado Democrático."
+    },
+    "correta": "C",
+    "comentario": "Correta: C. São inafiançáveis e imprescritíveis apenas o racismo (CF, art. 5º, XLII) e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático (art. 5º, XLIV). Tortura, tráfico ilícito de entorpecentes, terrorismo e hediondos (os '3TH') são inafiançáveis e insuscetíveis de graça ou anistia, mas não imprescritíveis (art. 5º, XLIII) – por isso A, B, D e E estão erradas.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-009",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t04",
+    "enunciado": "Sobre a prisão e os direitos do preso previstos no art. 5º da Constituição Federal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, inexistindo qualquer exceção a essa regra.",
+      "B": "A prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada.",
+      "C": "O preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado.",
+      "D": "O preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial.",
+      "E": "A prisão ilegal será imediatamente relaxada pela autoridade judiciária."
+    },
+    "correta": "A",
+    "comentario": "A alternativa INCORRETA é a A: o art. 5º, LXI, ressalva os casos de transgressão militar ou crime propriamente militar, definidos em lei – exceção relevante para o policial militar. B: art. 5º, LXII. C: art. 5º, LXIII. D: art. 5º, LXIV. E: art. 5º, LXV.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-010",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t04",
+    "enunciado": "Em relação ao direito de reunião, a Constituição Federal estabelece que todos podem reunir-se",
+    "alternativas": {
+      "A": "pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, exigido apenas prévio aviso à autoridade competente.",
+      "B": "pacificamente, sem armas, em locais abertos ao público, mediante prévia autorização da autoridade policial competente.",
+      "C": "em locais abertos ao público, sendo admitido o porte de armas por pessoas com registro, desde que haja prévio aviso.",
+      "D": "pacificamente, sem armas, em locais fechados, dependendo de autorização judicial quando houver mais de cem participantes.",
+      "E": "pacificamente, sem armas, em locais abertos ao público, sendo vedada qualquer exigência de aviso prévio à autoridade."
+    },
+    "correta": "A",
+    "comentario": "Correta: A, conforme o art. 5º, XVI, da CF (que também exige que a reunião não frustre outra anteriormente convocada para o mesmo local). B: não se exige autorização, apenas prévio aviso. C: a reunião deve ser sem armas. D: não há essa exigência de autorização judicial. E: o prévio aviso à autoridade competente é exigido.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-011",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t04",
+    "enunciado": "Considerando as normas constitucionais sobre extradição e penas, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O brasileiro nato poderá ser extraditado em caso de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, praticado a qualquer tempo, na forma da lei.",
+      "B": "Será concedida extradição de estrangeiro por crime político ou de opinião, desde que haja tratado com o Estado requerente.",
+      "C": "A pena de morte é admitida no caso de crimes hediondos, mediante decisão do Tribunal do Júri.",
+      "D": "A pena de banimento é admitida para o brasileiro naturalizado condenado por terrorismo.",
+      "E": "O brasileiro naturalizado poderá ser extraditado por crime comum praticado antes da naturalização ou por comprovado envolvimento em tráfico de drogas."
+    },
+    "correta": "E",
+    "comentario": "Correta: E (CF, art. 5º, LI). A: o brasileiro nato nunca será extraditado (art. 5º, LI). B: não será concedida extradição de estrangeiro por crime político ou de opinião (art. 5º, LII). C: não haverá pena de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX (art. 5º, XLVII, a). D: a pena de banimento é vedada (art. 5º, XLVII, d).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-012",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t04",
+    "enunciado": "A respeito dos direitos e garantias fundamentais e dos tratados internacionais, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Todos os tratados internacionais ratificados pelo Brasil têm status de emenda constitucional, independentemente do quórum de aprovação.",
+      "B": "Tratados de direitos humanos aprovados em cada Casa do Congresso, em dois turnos, por três quintos dos votos, equivalem às emendas constitucionais.",
+      "C": "As normas definidoras dos direitos e garantias fundamentais dependem sempre de regulamentação para produzir efeitos.",
+      "D": "O rol de direitos do art. 5º é taxativo, excluindo outros decorrentes do regime e dos princípios adotados pela Constituição.",
+      "E": "É admitida a prisão civil do depositário infiel, conforme jurisprudência atual do STF."
+    },
+    "correta": "B",
+    "comentario": "Correta: B (CF, art. 5º, § 3º, incluído pela EC nº 45/2004). A: só têm status de emenda os tratados de direitos humanos aprovados com o rito do § 3º; os demais de direitos humanos têm status supralegal (STF). C: têm aplicação imediata (art. 5º, § 1º). D: o rol não exclui outros direitos (art. 5º, § 2º). E: a Súmula Vinculante 25 do STF considera ilícita a prisão civil do depositário infiel; a CF admite apenas a do devedor de alimentos na prática (art. 5º, LXVII).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-013",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t05",
+    "enunciado": "Conceder-se-á ________ sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder. Assinale a alternativa que preenche corretamente a lacuna.",
+    "alternativas": {
+      "A": "mandado de segurança",
+      "B": "habeas data",
+      "C": "habeas corpus",
+      "D": "mandado de injunção",
+      "E": "ação popular"
+    },
+    "correta": "C",
+    "comentario": "Correta: C (CF, art. 5º, LXVIII). A: protege direito líquido e certo não amparado por HC ou HD (LXIX). B: assegura conhecimento ou retificação de informações pessoais (LXXII). D: cabível quando a falta de norma regulamentadora torne inviável o exercício de direitos (LXXI). E: visa anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural (LXXIII).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-014",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t05",
+    "enunciado": "Um cidadão pretende anular contrato firmado por município com empresa, por entender que houve lesão ao patrimônio público e à moralidade administrativa. O instrumento constitucional adequado é",
+    "alternativas": {
+      "A": "o habeas data, para conhecer as informações relativas ao contrato.",
+      "B": "o mandado de injunção, por ausência de norma regulamentadora.",
+      "C": "o habeas corpus, por se tratar de ilegalidade praticada por agente público.",
+      "D": "a ação popular, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.",
+      "E": "o mandado de segurança coletivo, que pode ser impetrado individualmente por qualquer cidadão em pleno gozo dos direitos políticos."
+    },
+    "correta": "D",
+    "comentario": "Correta: D (CF, art. 5º, LXXIII). A: o HD protege informações relativas à pessoa do impetrante (art. 5º, LXXII). B: o MI pressupõe falta de norma regulamentadora que inviabilize direitos (LXXI). C: o HC tutela a liberdade de locomoção (LXVIII). E: o MS coletivo tem legitimados específicos (LXX) e não pode ser impetrado individualmente pelo cidadão.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-015",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t06",
+    "enunciado": "Nos termos da Constituição Federal, é cargo privativo de brasileiro nato o de",
+    "alternativas": {
+      "A": "oficial da Polícia Militar.",
+      "B": "oficial das Forças Armadas.",
+      "C": "Governador de Estado.",
+      "D": "Senador da República.",
+      "E": "Ministro do Superior Tribunal de Justiça."
+    },
+    "correta": "B",
+    "comentario": "Correta: B. O art. 12, § 3º, da CF reserva a brasileiros natos os cargos de Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do STF, carreira diplomática, oficial das Forças Armadas e Ministro de Estado da Defesa. A, C, D e E não estão no rol taxativo (o Senador apenas não pode ser naturalizado se for Presidente do Senado).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-016",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t06",
+    "enunciado": "Um policial militar alistável, com oito anos de serviço, deseja candidatar-se a vereador. De acordo com o art. 14, § 8º, da Constituição Federal, ele",
+    "alternativas": {
+      "A": "é inelegível, pois militares não podem se candidatar enquanto estiverem na ativa.",
+      "B": "é elegível, devendo afastar-se da atividade.",
+      "C": "é elegível, devendo ser agregado pela autoridade superior e, se eleito, passará automaticamente para a inatividade no ato da diplomação.",
+      "D": "é elegível, independentemente de afastamento, pois o cargo de vereador é compatível com a atividade militar.",
+      "E": "somente será elegível se, antes do registro da candidatura, filiar-se a partido político com pelo menos dois anos de antecedência."
+    },
+    "correta": "B",
+    "comentario": "Correta: B. O militar alistável é elegível; se contar menos de dez anos de serviço, deverá afastar-se da atividade (CF, art. 14, § 8º, I). C: aplica-se ao militar com mais de dez anos de serviço (art. 14, § 8º, II). A: o militar alistável é elegível. D: há exigência de afastamento. E: o militar em serviço ativo não pode estar filiado a partido político (art. 142, § 3º, V, c/c art. 42, § 1º), por isso a filiação prévia lhe é dispensada, e não há na CF exigência de dois anos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-017",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t06",
+    "enunciado": "Nos termos do art. 6º da Constituição Federal, são direitos sociais, entre outros,",
+    "alternativas": {
+      "A": "a vida, a liberdade, a igualdade, a segurança e a propriedade, exclusivamente.",
+      "B": "a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer e a segurança.",
+      "C": "a nacionalidade, a cidadania e o pluralismo político.",
+      "D": "o habeas corpus, o mandado de segurança e a ação popular.",
+      "E": "a soberania, a independência nacional e a autodeterminação dos povos."
+    },
+    "correta": "B",
+    "comentario": "Correta: B. O art. 6º da CF prevê como direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados. A: são os direitos do caput do art. 5º. C: misturam nacionalidade com fundamentos do art. 1º. D: são garantias/remédios do art. 5º. E: são fundamento e princípios das relações internacionais (arts. 1º e 4º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-018",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t07",
+    "enunciado": "Compete privativamente à União legislar sobre normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização, inatividades e pensões das polícias militares e dos corpos de bombeiros militares. Essa previsão consta do art. 22, inciso XXI, da Constituição Federal. Com base nesse dispositivo e no texto constitucional, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A Lei nº 14.751/2023 (Lei Orgânica Nacional das PMs e CBMs) é exemplo de exercício dessa competência da União.",
+      "B": "Os Estados não podem editar leis sobre suas polícias militares, cabendo à União disciplinar integralmente o regime de seus integrantes.",
+      "C": "Os Municípios possuem competência concorrente com a União para legislar sobre inatividade dos policiais militares.",
+      "D": "As normas gerais sobre polícias militares são matéria de competência comum de União, Estados, DF e Municípios.",
+      "E": "Compete aos Estados legislar privativamente sobre material bélico das polícias militares."
+    },
+    "correta": "A",
+    "comentario": "Correta: A. A União edita normas gerais (CF, art. 22, XXI), como fez com a Lei nº 14.751/2023, cabendo aos Estados a legislação específica sobre seus militares (art. 42, § 1º, e art. 142, § 3º, X). B: os Estados legislam sobre o regime de seus militares, observadas as normas gerais. C: Municípios não têm essa competência. D: trata-se de competência legislativa privativa, não de competência material comum (art. 23). E: material bélico consta do inciso XXI como matéria da União.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-019",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t08",
+    "enunciado": "Nos termos do art. 37, caput, da Constituição Federal, a administração pública direta e indireta de qualquer dos Poderes obedecerá aos princípios de",
+    "alternativas": {
+      "A": "legalidade, imparcialidade, moralidade, probidade e eficiência.",
+      "B": "legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+      "C": "legalidade, impessoalidade, motivação, publicidade e economicidade.",
+      "D": "supremacia do interesse público, impessoalidade, moralidade, publicidade e razoabilidade.",
+      "E": "legalidade, impessoalidade, moralidade, proporcionalidade e eficácia."
+    },
+    "correta": "B",
+    "comentario": "Correta: B. São os princípios expressos do art. 37, caput (LIMPE), sendo a eficiência incluída pela EC nº 19/1998. A, C, D e E trocam princípios expressos por outros que não constam do caput do art. 37 (imparcialidade, probidade, motivação, economicidade, supremacia do interesse público, razoabilidade, proporcionalidade, eficácia).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-020",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t08",
+    "enunciado": "Uma viatura da Polícia Militar, em deslocamento de rotina, colide com um veículo particular, causando danos ao seu proprietário. Com base no art. 37, § 6º, da Constituição Federal, é correto afirmar que",
+    "alternativas": {
+      "A": "o Estado somente responderá se o particular comprovar a culpa do policial militar que conduzia a viatura no momento do acidente.",
+      "B": "o policial militar responde objetivamente perante o particular, e o Estado apenas de forma subsidiária, caso o agente não tenha bens suficientes.",
+      "C": "o Estado não responde, pois os atos praticados por militares estão excluídos da responsabilidade civil estatal.",
+      "D": "o direito de regresso contra o policial independe de dolo ou culpa.",
+      "E": "o Estado responde objetivamente pelos danos causados pelo seu agente, assegurado o direito de regresso contra o policial nos casos de dolo ou culpa."
+    },
+    "correta": "E",
+    "comentario": "Correta: E. As pessoas jurídicas de direito público responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa (CF, art. 37, § 6º) – responsabilidade objetiva do Estado e subjetiva do agente na ação regressiva. A: não se exige prova de culpa contra o Estado. B: a vítima aciona o Estado (STF, Tema 940). C: não há essa exclusão. D: o regresso exige dolo ou culpa.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-021",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t08",
+    "enunciado": "Considerando as regras da Constituição Federal sobre acumulação de cargos e o regime dos militares dos Estados, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "É vedada, em qualquer hipótese, ao militar estadual a acumulação de seu cargo com outro cargo público.",
+      "B": "Aplica-se aos militares dos Estados a regra de acumulação do art. 37, XVI, com prevalência da atividade militar.",
+      "C": "É permitida a acumulação remunerada de dois cargos de professor, ainda que não haja compatibilidade de horários.",
+      "D": "É permitida a acumulação de um cargo técnico com outro técnico, desde que haja compatibilidade de horários.",
+      "E": "A proibição de acumular não se estende às empresas públicas e às sociedades de economia mista."
+    },
+    "correta": "B",
+    "comentario": "Correta: B. O art. 42, § 3º, da CF (incluído pela EC nº 101/2019) estende aos militares dos Estados, do DF e dos Territórios o disposto no art. 37, XVI, com prevalência da atividade militar. A: a acumulação é admitida nas hipóteses do art. 37, XVI. C: a compatibilidade de horários é sempre exigida. D: admite-se um cargo de professor com outro técnico ou científico, não dois técnicos (art. 37, XVI, b). E: a proibição abrange autarquias, fundações, empresas públicas, sociedades de economia mista e suas subsidiárias (art. 37, XVII).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-022",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t09",
+    "enunciado": "De acordo com o art. 42 da Constituição Federal, os membros das Polícias Militares e dos Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são",
+    "alternativas": {
+      "A": "servidores públicos civis estaduais com regime especial.",
+      "B": "militares das Forças Armadas cedidos aos Estados.",
+      "C": "agentes de segurança pública vinculados à União.",
+      "D": "empregados públicos regidos pela legislação trabalhista.",
+      "E": "militares dos Estados, do Distrito Federal e dos Territórios."
+    },
+    "correta": "E",
+    "comentario": "Correta: E, conforme literalidade do art. 42, caput, da CF. A: são militares, não servidores civis. B: não integram as Forças Armadas, embora sejam forças auxiliares e reserva do Exército (art. 144, § 6º). C: subordinam-se aos Governadores (art. 144, § 6º). D: não são regidos pela CLT.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-023",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t09",
+    "enunciado": "Com base no art. 42 da Constituição Federal e nos dispositivos do art. 142 a ele aplicáveis, assinale a alternativa INCORRETA quanto aos militares dos Estados.",
+    "alternativas": {
+      "A": "Ao militar são proibidas a sindicalização e a greve.",
+      "B": "O militar, enquanto em serviço ativo, não pode estar filiado a partidos políticos.",
+      "C": "As patentes dos oficiais das Polícias Militares são conferidas pelo Presidente da República.",
+      "D": "Cabe à lei estadual específica dispor sobre as matérias do art. 142, § 3º, X, da Constituição Federal.",
+      "E": "Aplica-se aos pensionistas dos militares dos Estados o que for fixado em lei específica do respectivo ente estatal."
+    },
+    "correta": "C",
+    "comentario": "A INCORRETA é a C: as patentes dos oficiais são conferidas pelos respectivos governadores (CF, art. 42, § 1º). A: art. 142, § 3º, IV, c/c art. 42, § 1º. B: art. 142, § 3º, V. D: art. 42, § 1º. E: art. 42, § 2º.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-024",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t09",
+    "enunciado": "Um capitão da Polícia Militar foi condenado pela Justiça comum, por sentença transitada em julgado, à pena privativa de liberdade de três anos. À luz da Constituição Federal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O oficial perde automaticamente o posto e a patente, como efeito secundário da condenação criminal, independentemente de novo julgamento por tribunal.",
+      "B": "A perda do posto e da patente será decidida pelo Comandante-Geral da corporação, em processo administrativo disciplinar, assegurados o contraditório e a ampla defesa.",
+      "C": "O oficial somente poderia ser submetido a julgamento de indignidade se a pena fosse superior a quatro anos.",
+      "D": "O oficial será submetido a julgamento de indignidade ou incompatibilidade com o oficialato, cabendo ao tribunal competente decidir sobre a perda do posto e da patente.",
+      "E": "Por se tratar de condenação na Justiça comum, não há repercussão sobre o posto e a patente."
+    },
+    "correta": "D",
+    "comentario": "Correta: D. O oficial condenado na justiça comum ou militar a pena privativa de liberdade superior a dois anos, por sentença transitada em julgado, será submetido ao julgamento do inciso VI (CF, art. 142, § 3º, VII, aplicável por força do art. 42, § 1º). Para os militares estaduais, cabe ao tribunal competente (TJ ou TJM) decidir sobre a perda do posto e da patente (art. 125, § 4º); em SC, ao Tribunal de Justiça (CE/SC, art. 31, §§ 9º e 10). A: não é automática. B: não é decisão administrativa. C: o parâmetro é superior a dois anos. E: a condenação na justiça comum também enseja o julgamento.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-025",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t09",
+    "enunciado": "Com base no art. 142, § 2º, da Constituição Federal, aplicável aos militares dos Estados, e na jurisprudência do STF, assinale a alternativa correta acerca do habeas corpus e das punições disciplinares militares.",
+    "alternativas": {
+      "A": "Cabe habeas corpus para rediscutir livremente o mérito de qualquer punição disciplinar militar.",
+      "B": "Não cabe habeas corpus em nenhuma hipótese relacionada a punições disciplinares militares, nem mesmo quanto à legalidade.",
+      "C": "O habeas corpus contra punição disciplinar militar somente pode ser impetrado pelo Ministério Público.",
+      "D": "A vedação do art. 142, § 2º, aplica-se apenas aos militares das Forças Armadas, não alcançando os militares das Polícias Militares e dos Corpos de Bombeiros.",
+      "E": "Não cabe habeas corpus quanto ao mérito da punição disciplinar militar, mas ele é admitido para examinar seus pressupostos de legalidade."
+    },
+    "correta": "E",
+    "comentario": "Correta: E. O art. 142, § 2º, diz que 'não caberá habeas corpus em relação a punições disciplinares militares'; o STF, porém, entende que a vedação alcança o mérito da sanção, sendo cabível o HC para análise dos pressupostos de legalidade (hierarquia, poder disciplinar, ato ligado à função e pena suscetível de aplicação). A e B extrapolam esse entendimento. C: o HC pode ser impetrado por qualquer pessoa. D: o art. 42, § 1º, manda aplicar o art. 142, § 2º, aos militares estaduais.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-026",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t10",
+    "enunciado": "Acerca das medidas provisórias, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "As medidas provisórias perdem a eficácia se não forem convertidas em lei no prazo de trinta dias, improrrogável.",
+      "B": "O prazo de vigência da medida provisória corre normalmente durante os períodos de recesso do Congresso Nacional.",
+      "C": "É permitida a reedição, na mesma sessão legislativa, de medida provisória rejeitada, desde que com nova fundamentação.",
+      "D": "É vedada a edição de medida provisória sobre matéria relativa a direito penal, processual penal e processual civil.",
+      "E": "A medida provisória pode dispor sobre matéria reservada a lei complementar, desde que haja relevância e urgência."
+    },
+    "correta": "D",
+    "comentario": "Correta: D (CF, art. 62, § 1º, I, b). A: o prazo é de sessenta dias, prorrogável uma vez por igual período (art. 62, §§ 3º e 7º). B: o prazo suspende-se durante o recesso (art. 62, § 4º). C: é vedada a reedição, na mesma sessão legislativa, de MP rejeitada ou que tenha perdido a eficácia por decurso de prazo (art. 62, § 10). E: é vedada MP sobre matéria reservada a lei complementar (art. 62, § 1º, III).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-027",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t11",
+    "enunciado": "Compete privativamente ao Presidente da República, nos termos do art. 84 da Constituição Federal,",
+    "alternativas": {
+      "A": "declarar guerra, independentemente de autorização ou referendo do Congresso Nacional.",
+      "B": "nomear o Comandante-Geral das Polícias Militares dos Estados.",
+      "C": "julgar anualmente as contas prestadas pelos Governadores dos Estados.",
+      "D": "decretar o estado de defesa e o estado de sítio, bem como decretar e executar a intervenção federal.",
+      "E": "aprovar previamente, por voto secreto, a escolha de Ministros do Tribunal de Contas da União."
+    },
+    "correta": "D",
+    "comentario": "Correta: D (CF, art. 84, IX e X). A: declarar guerra depende de autorização do Congresso Nacional ou de referendo dele, quando ocorrida no intervalo das sessões (art. 84, XIX, e art. 49, II). B: o comando-geral das PMs é nomeado pelo Governador. C: não é atribuição do Presidente. E: aprovar a escolha de autoridades é competência do Senado (art. 52, III).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-028",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t12",
+    "enunciado": "Um soldado da Polícia Militar, em serviço, pratica crime militar contra um civil, não doloso contra a vida. De acordo com o art. 125, §§ 4º e 5º, da Constituição Federal, o processo e julgamento competem",
+    "alternativas": {
+      "A": "ao juiz de direito do juízo militar, singularmente.",
+      "B": "ao Conselho de Justiça, sob a presidência de juiz de direito.",
+      "C": "ao Tribunal do Júri.",
+      "D": "à Justiça Militar da União.",
+      "E": "ao Superior Tribunal Militar, em instância originária."
+    },
+    "correta": "A",
+    "comentario": "Correta: A. Compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares, cabendo ao Conselho de Justiça, sob a presidência de juiz de direito, processar e julgar os demais crimes militares (CF, art. 125, § 5º). B: o Conselho julga os demais crimes militares. C: o Júri é competente nos crimes dolosos contra a vida de civil (art. 125, § 4º). D e E: a Justiça Militar da União (STM) não julga militares estaduais (art. 124).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-029",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t13",
+    "enunciado": "Segundo a Constituição Federal, é função institucional do Ministério Público",
+    "alternativas": {
+      "A": "exercer o controle externo da atividade policial, na forma da lei complementar.",
+      "B": "exercer a polícia ostensiva e a preservação da ordem pública.",
+      "C": "julgar os crimes militares praticados por policiais militares.",
+      "D": "prestar orientação jurídica e defesa, em todos os graus, dos necessitados, com exclusividade.",
+      "E": "exercer a representação judicial e a consultoria jurídica dos Estados."
+    },
+    "correta": "A",
+    "comentario": "Correta: A (CF, art. 129, VII). B: atribuição das polícias militares (art. 144, § 5º). C: atribuição da Justiça Militar estadual (art. 125, § 4º). D: atribuição da Defensoria Pública (art. 134). E: atribuição dos Procuradores dos Estados (art. 132).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-030",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t14",
+    "enunciado": "Sobre o estado de defesa, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Na vigência do estado de defesa, é vedada a incomunicabilidade do preso.",
+      "B": "O estado de defesa depende de prévia autorização do Congresso Nacional, por maioria absoluta.",
+      "C": "O tempo de duração do estado de defesa não será superior a sessenta dias, prorrogável indefinidamente.",
+      "D": "A prisão por crime contra o Estado, determinada pelo executor da medida, poderá durar por prazo indeterminado.",
+      "E": "O estado de defesa pode ser decretado para enfrentar declaração de guerra ou resposta a agressão armada estrangeira."
+    },
+    "correta": "A",
+    "comentario": "Correta: A (CF, art. 136, § 3º, IV). B: o Presidente decreta o estado de defesa, ouvidos os Conselhos da República e de Defesa Nacional, submetendo o ato ao Congresso em 24 horas (art. 136, caput e § 4º); a autorização prévia é exigida para o estado de sítio (art. 137). C: não será superior a trinta dias, prorrogável uma vez por igual período (art. 136, § 2º). D: a prisão não poderá ser superior a dez dias, salvo quando autorizada pelo Poder Judiciário (art. 136, § 3º, III). E: essa é hipótese de estado de sítio (art. 137, II).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-031",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t15",
+    "enunciado": "Conforme o art. 142 da Constituição Federal, as Forças Armadas",
+    "alternativas": {
+      "A": "são constituídas pela Marinha, pelo Exército, pela Aeronáutica e pelas Polícias Militares, sob a autoridade suprema do Ministro da Defesa, e destinam-se à defesa da Pátria.",
+      "B": "são formadas pela Marinha, Exército e Aeronáutica, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria e à garantia dos poderes constitucionais e da lei e da ordem.",
+      "C": "são instituições estaduais permanentes, subordinadas aos Governadores e destinadas à preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+      "D": "são instituições nacionais temporárias, organizadas com base na hierarquia e disciplina, convocadas apenas em tempo de guerra.",
+      "E": "destinam-se exclusivamente à defesa da Pátria, sendo vedado seu emprego na garantia da lei e da ordem."
+    },
+    "correta": "B",
+    "comentario": "Correta: B (CF, art. 142, caput). A: as PMs não integram as Forças Armadas (são forças auxiliares e reserva do Exército – art. 144, § 6º) e a autoridade suprema é do Presidente. C: são instituições nacionais, não estaduais. D: são permanentes e regulares. E: a garantia da lei e da ordem está prevista no caput.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-032",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t16",
+    "enunciado": "De acordo com o art. 144, § 5º, da Constituição Federal, às polícias militares cabem",
+    "alternativas": {
+      "A": "a polícia ostensiva e a preservação da ordem pública.",
+      "B": "as funções de polícia judiciária e a apuração de infrações penais, exceto as militares.",
+      "C": "a segurança dos estabelecimentos penais.",
+      "D": "a proteção dos bens, serviços e instalações dos Municípios.",
+      "E": "a apuração de infrações penais contra a ordem política e social."
+    },
+    "correta": "A",
+    "comentario": "Correta: A (CF, art. 144, § 5º). B: atribuição das polícias civis (art. 144, § 4º). C: atribuição das polícias penais (art. 144, § 5º-A). D: destinação das guardas municipais (art. 144, § 8º). E: atribuição da Polícia Federal (art. 144, § 1º, I).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-033",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t16",
+    "enunciado": "A segurança pública, nos termos do art. 144, caput, da Constituição Federal, é",
+    "alternativas": {
+      "A": "direito do Estado e dever exclusivo das polícias, exercida para a preservação da soberania nacional e da integridade do território.",
+      "B": "dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+      "C": "dever da União, direito dos cidadãos, exercida exclusivamente pelas Forças Armadas e pelas polícias federais, para a preservação da ordem pública.",
+      "D": "responsabilidade exclusiva dos Estados, exercida para a defesa da Pátria e dos poderes constitucionais.",
+      "E": "dever do Estado e da família, exercida para a garantia do pleno desenvolvimento da pessoa."
+    },
+    "correta": "B",
+    "comentario": "Correta: B, literalidade do art. 144, caput, da CF. A, C e D distorcem o texto: é dever do Estado (em sentido amplo), direito e responsabilidade de todos. A defesa da Pátria é destinação das Forças Armadas (art. 142). E mistura a redação do direito à educação (art. 205).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-034",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t16",
+    "enunciado": "Nos termos do art. 144, § 6º, da Constituição Federal, as polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército, subordinam-se",
+    "alternativas": {
+      "A": "ao Comandante do Exército, juntamente com as polícias civis.",
+      "B": "ao Ministro da Justiça e Segurança Pública, juntamente com as polícias penais estaduais e distritais.",
+      "C": "juntamente com as polícias civis e as polícias penais estaduais e distritais, aos Governadores.",
+      "D": "ao Presidente da República, por serem reserva do Exército.",
+      "E": "aos Secretários de Segurança Pública, de forma exclusiva e independente dos Governadores."
+    },
+    "correta": "C",
+    "comentario": "Correta: C (CF, art. 144, § 6º, com redação da EC nº 104/2019). Embora sejam forças auxiliares e reserva do Exército, as PMs e os CBMs subordinam-se aos Governadores – por isso A, B e D estão erradas. E: a Constituição fala em subordinação aos Governadores.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-035",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t16",
+    "enunciado": "Considerando o art. 144 da Constituição Federal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Às polícias civis, dirigidas por delegados de polícia de carreira, incumbem, ressalvada a competência da União, as funções de polícia judiciária e a apuração de infrações penais, exceto as militares.",
+      "B": "Às polícias penais, vinculadas ao órgão administrador do sistema penal da unidade federativa a que pertencem, cabe a segurança dos estabelecimentos penais.",
+      "C": "Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.",
+      "D": "Aos corpos de bombeiros militares incumbe, com exclusividade, a polícia ostensiva e a preservação da ordem pública.",
+      "E": "A remuneração dos servidores policiais integrantes dos órgãos relacionados no art. 144 será fixada na forma do § 4º do art. 39."
+    },
+    "correta": "D",
+    "comentario": "A INCORRETA é a D: aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil; a polícia ostensiva e a preservação da ordem pública cabem às polícias militares (CF, art. 144, § 5º). A: art. 144, § 4º. B: art. 144, § 5º-A. C: art. 144, § 8º. E: art. 144, § 9º (subsídio).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-036",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t16",
+    "enunciado": "Em operação policial, um sargento da PM prende em flagrante um suspeito de homicídio doloso consumado contra civil. Considerando a repartição constitucional de atribuições, a apuração da infração penal comum, em regra, incumbe",
+    "alternativas": {
+      "A": "à Polícia Militar, por meio de inquérito policial militar, pois a prisão foi realizada por militar.",
+      "B": "à Polícia Federal, por se tratar de crime contra a vida.",
+      "C": "ao Corpo de Bombeiros Militar, no exercício de atividades de defesa civil.",
+      "D": "à Justiça Militar estadual, que conduzirá a investigação diretamente.",
+      "E": "à Polícia Civil, por meio do exercício da função de polícia judiciária."
+    },
+    "correta": "E",
+    "comentario": "Correta: E. Às polícias civis incumbem as funções de polícia judiciária e a apuração de infrações penais, exceto as militares (CF, art. 144, § 4º). O fato de a prisão ter sido feita por policial militar, que exerce a polícia ostensiva (§ 5º), não transforma o crime comum em militar – por isso A está errada. B: o crime não se enquadra nas hipóteses do § 1º. C: o CBM executa atividades de defesa civil. D: não cabe ao Judiciário investigar.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-037",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t17",
+    "enunciado": "Segundo o art. 1º da Constituição do Estado de Santa Catarina, constitui fundamento do Estado, ao lado da cidadania e da dignidade da pessoa humana,",
+    "alternativas": {
+      "A": "a soberania estadual.",
+      "B": "a independência do Estado em relação à União.",
+      "C": "a prevalência do interesse estadual sobre o municipal.",
+      "D": "a autonomia estadual.",
+      "E": "a autodeterminação do povo catarinense."
+    },
+    "correta": "D",
+    "comentario": "Correta: D. O art. 1º da CE/SC elenca como fundamentos: a soberania nacional, a autonomia estadual, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político. A: o Estado-membro não tem soberania, mas autonomia (a soberania é nacional). B, C e E não constam do texto.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-038",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t17",
+    "enunciado": "De acordo com a Constituição do Estado de Santa Catarina, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Compete ao Estado legislar privativamente sobre organização, garantias, direitos e deveres da Polícia Civil, sem observância de normas gerais da União.",
+      "B": "O Estado poderá intervir nos Municípios quando deixar de ser paga, sem motivo de força maior, por seis meses consecutivos, a dívida fundada.",
+      "C": "A Capital do Estado é a cidade de Florianópolis, sede dos Poderes.",
+      "D": "O decreto de intervenção estadual em Município será submetido à apreciação da Assembleia Legislativa no prazo de dez dias.",
+      "E": "A administração é obrigada a fornecer certidão de atos administrativos a qualquer interessado no prazo máximo de noventa dias."
+    },
+    "correta": "C",
+    "comentario": "Correta: C (CE/SC, art. 7º). A: o art. 10, XVI, trata a matéria como competência concorrente com a União. B: o prazo é de dois anos consecutivos (art. 11, I). D: o prazo é de vinte e quatro horas (art. 11, § 2º). E: o prazo máximo é de trinta dias (art. 16, § 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-039",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t18",
+    "enunciado": "Conforme o art. 31 da Constituição do Estado de Santa Catarina, são militares estaduais",
+    "alternativas": {
+      "A": "somente os oficiais da Polícia Militar e do Corpo de Bombeiros Militar.",
+      "B": "os integrantes da Polícia Militar, da Polícia Civil e da Polícia Penal.",
+      "C": "os integrantes da Polícia Militar e da Polícia Científica.",
+      "D": "os integrantes dos quadros efetivos da Polícia Militar e do Corpo de Bombeiros Militar.",
+      "E": "os servidores civis lotados na Secretaria de Estado da Segurança Pública."
+    },
+    "correta": "D",
+    "comentario": "Correta: D. Nos termos do art. 31, caput, da CE/SC (redação da EC nº 33/2003), são militares estaduais os integrantes dos quadros efetivos da PM e do CBM, que terão as mesmas garantias, deveres e obrigações – estatuto, lei de remuneração, lei de promoção de oficiais e praças e regulamento disciplinar único. A: abrange oficiais e praças. B, C e E: Polícia Civil, Polícia Penal, Polícia Científica e servidores civis não são militares.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-040",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t18",
+    "enunciado": "Sobre os militares estaduais, conforme a Constituição do Estado de Santa Catarina, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "O Estado prestará assistência jurídica integral e gratuita ao servidor militar indiciado ou processado em decorrência do serviço.",
+      "B": "As patentes dos oficiais são conferidas pelo Governador do Estado.",
+      "C": "Ao militar são proibidas a sindicalização e a greve.",
+      "D": "O militar, enquanto em efetivo serviço, não pode estar filiado a partidos políticos.",
+      "E": "O militar em atividade que aceitar cargo público civil permanente ficará agregado ao respectivo quadro, podendo ser promovido por merecimento."
+    },
+    "correta": "E",
+    "comentario": "A INCORRETA é a E: o militar em atividade que aceitar cargo público civil permanente será transferido para a reserva (CE/SC, art. 31, § 5º). A agregação ocorre quando aceita cargo, emprego ou função pública temporária, não eletiva, e, nessa situação, só pode ser promovido por antiguidade (art. 31, § 6º). A: art. 31, § 12. B: art. 31, § 4º. C: art. 31, § 7º. D: art. 31, § 8º.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-041",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t19",
+    "enunciado": "No processo legislativo estadual catarinense, se o Governador do Estado considerar um projeto de lei inconstitucional ou contrário ao interesse público, poderá vetá-lo total ou parcialmente. Segundo a Constituição Estadual,",
+    "alternativas": {
+      "A": "o prazo para o veto é de trinta dias corridos, contados da publicação do projeto.",
+      "B": "o veto parcial poderá abranger palavras ou expressões isoladas de um artigo.",
+      "C": "o silêncio do Governador, após o decurso do prazo constitucional para sanção, importará em veto tácito do projeto.",
+      "D": "o veto só poderá ser rejeitado pelo voto da maioria absoluta dos Deputados, em até trinta dias do seu recebimento.",
+      "E": "o veto somente poderá ser rejeitado pelo voto de três quintos dos Deputados, em votação secreta e em dois turnos."
+    },
+    "correta": "D",
+    "comentario": "Correta: D (CE/SC, art. 54, § 4º, redação da EC nº 66/2013). A: o prazo para vetar é de quinze dias úteis, contados do recebimento (art. 54, § 1º). B: o veto parcial somente abrangerá texto integral de artigo, parágrafo, inciso ou alínea (art. 54, § 2º). C: o silêncio importa sanção tácita (art. 54, § 3º). E: o quórum é de maioria absoluta e a EC nº 66/2013 suprimiu o escrutínio secreto.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-042",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t20",
+    "enunciado": "Em caso de impedimento do Governador e do Vice-Governador do Estado de Santa Catarina, ou vacância dos respectivos cargos, serão sucessivamente chamados ao exercício da governança, segundo a Constituição Estadual,",
+    "alternativas": {
+      "A": "o Presidente do Tribunal de Justiça e o Procurador-Geral de Justiça.",
+      "B": "o Presidente da Assembleia Legislativa e o Presidente do Tribunal de Justiça.",
+      "C": "o Secretário de Estado da Casa Civil e o Presidente da Assembleia Legislativa.",
+      "D": "o Presidente do Tribunal de Contas e o Presidente da Assembleia Legislativa.",
+      "E": "o Comandante-Geral da Polícia Militar e o Presidente do Tribunal de Justiça."
+    },
+    "correta": "B",
+    "comentario": "Correta: B (CE/SC, art. 67). A, C, D e E incluem autoridades que não figuram na linha sucessória do Executivo estadual.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-043",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t21",
+    "enunciado": "Nos termos do art. 90 da Constituição do Estado de Santa Catarina, funcionarão como órgãos de primeiro grau da Justiça Militar, com competência para processar e julgar, nos crimes militares definidos em lei, os militares estaduais,",
+    "alternativas": {
+      "A": "os Conselhos de Justiça, constituídos na forma da lei de organização judiciária.",
+      "B": "as Turmas Recursais dos Juizados Especiais Criminais.",
+      "C": "os Tribunais do Júri das comarcas.",
+      "D": "as Câmaras Criminais do Tribunal de Justiça.",
+      "E": "as auditorias da Justiça Militar da União."
+    },
+    "correta": "A",
+    "comentario": "Correta: A (CE/SC, art. 90, redação da EC nº 33/2003). Em SC não há Tribunal de Justiça Militar; o segundo grau é exercido pelo próprio TJSC (CF, art. 125, § 3º). B e C são órgãos da Justiça comum. D: as Câmaras do TJ atuam em segundo grau. E: a Justiça Militar da União não julga militares estaduais.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-044",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t22",
+    "enunciado": "Segundo o art. 107 da Constituição do Estado de Santa Catarina, a Polícia Militar é órgão permanente, força auxiliar, reserva do Exército, organizada com base na hierarquia e na disciplina, subordinada",
+    "alternativas": {
+      "A": "ao Secretário de Estado da Segurança Pública, com exclusividade.",
+      "B": "ao Comandante Militar do Sul.",
+      "C": "ao Presidente da Assembleia Legislativa.",
+      "D": "ao Ministro da Defesa.",
+      "E": "ao Governador do Estado."
+    },
+    "correta": "E",
+    "comentario": "Correta: E, literalidade do art. 107, caput, da CE/SC, em harmonia com o art. 144, § 6º, da CF. A, B, C e D indicam autoridades às quais a PM não está subordinada pela Constituição Estadual.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-constitucional-045",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t22",
+    "enunciado": "De acordo com o art. 107 da Constituição do Estado de Santa Catarina, NÃO se inclui entre as atividades de polícia ostensiva atribuídas à Polícia Militar",
+    "alternativas": {
+      "A": "o radiopatrulhamento terrestre, aéreo, lacustre e fluvial.",
+      "B": "o patrulhamento rodoviário.",
+      "C": "a guarda e a fiscalização das florestas e dos mananciais.",
+      "D": "a garantia do exercício do poder de polícia dos órgãos e entidades públicas, especialmente da área fazendária, sanitária e de proteção ambiental.",
+      "E": "a execução dos serviços administrativos de trânsito, como o registro e o licenciamento de veículos."
+    },
+    "correta": "E",
+    "comentario": "Correta: E. Desde a EC nº 92/2023, compete ao DETRAN a execução dos serviços administrativos de trânsito (CE/SC, art. 109-C). As demais constam do art. 107, I: A (alínea b), B (alínea c), C (alínea d) e D (alínea h). Atenção: a PM exerce a guarda e a fiscalização do trânsito urbano (alínea e), o que não se confunde com os serviços administrativos de trânsito.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-046",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t22",
+    "enunciado": "Considerando o Título V (Da Segurança Pública) da Constituição do Estado de Santa Catarina, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A Polícia Militar é comandada por oficial da reserva remunerada, de livre escolha do Secretário de Segurança Pública.",
+      "B": "Compete à Polícia Civil a segurança dos estabelecimentos penais do Estado.",
+      "C": "A Polícia Científica é dirigida por delegado de polícia de final de carreira.",
+      "D": "O regulamento disciplinar dos militares estaduais será revisto periodicamente, com intervalo de no máximo cinco anos.",
+      "E": "O Corpo de Bombeiros Militar é subordinado ao Comandante-Geral da Polícia Militar."
+    },
+    "correta": "D",
+    "comentario": "Correta: D (CE/SC, art. 105, § 2º). A: a PM é comandada por oficial da ativa do último posto da corporação (art. 107, § 1º, I). B: a segurança dos estabelecimentos penais cabe à Polícia Penal (art. 108-A). C: a direção da Polícia Científica é exercida por perito oficial de carreira, nomeado pelo Governador (art. 109-A, § 1º). E: o CBM é órgão autônomo subordinado ao Governador do Estado (art. 108).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-constitucional-047",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t22",
+    "enunciado": "Conforme a Constituição do Estado de Santa Catarina, assinale a alternativa que relaciona corretamente o órgão à sua atribuição.",
+    "alternativas": {
+      "A": "Polícia Militar – supervisão dos serviços de segurança privada e fiscalização de jogos e diversões públicas.",
+      "B": "Polícia Civil – realização de perícias criminais e dos serviços de identificação civil e criminal, como órgão permanente de perícia oficial do Estado.",
+      "C": "Corpo de Bombeiros Militar – estabelecer a prevenção balneária por salva-vidas e realizar perícias de incêndio e de áreas sinistradas.",
+      "D": "Polícia Científica – controle da propriedade e uso de armas, munições, explosivos e outros produtos controlados.",
+      "E": "DETRAN – exercício da polícia judiciária militar, nos termos de lei federal."
+    },
+    "correta": "C",
+    "comentario": "Correta: C (CE/SC, art. 108, IV e VII). A: supervisão da segurança privada e fiscalização de jogos e diversões são atribuições da Polícia Civil (art. 106, IV e VI). B: perícias criminais e identificação civil e criminal cabem à Polícia Científica (art. 109-A). D: o controle de armas e produtos controlados está no art. 106, V (Polícia Civil). E: a polícia judiciária militar é exercida pela PM e pelo CBM (arts. 107, I, f, e 108, VI); ao DETRAN cabem os serviços administrativos de trânsito (art. 109-C).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-constitucional-048",
+    "materia": "direito-constitucional",
+    "topico": "direito-constitucional-t22",
+    "enunciado": "Segundo a Constituição do Estado de Santa Catarina, compõem os órgãos por meio dos quais é exercida a segurança pública estadual, nos termos do art. 105,",
+    "alternativas": {
+      "A": "a Polícia Civil, a Polícia Militar, o Corpo de Bombeiros Militar, o órgão de perícia oficial e a Polícia Penal.",
+      "B": "a Polícia Militar, a Polícia Rodoviária Federal, a Guarda Municipal e o DETRAN.",
+      "C": "a Polícia Civil, a Polícia Militar e as Forças Armadas sediadas no Estado.",
+      "D": "somente a Polícia Militar e o Corpo de Bombeiros Militar, por serem forças auxiliares do Exército.",
+      "E": "a Polícia Civil, a Polícia Militar, a Defesa Civil e as Guardas Municipais."
+    },
+    "correta": "A",
+    "comentario": "Correta: A. O art. 105 da CE/SC enumera: I – Polícia Civil; II – Polícia Militar; III – Corpo de Bombeiros Militar (EC nº 33/2003); IV – órgão de perícia oficial, instituído como Instituto Geral de Perícia (EC nº 39/2005) e hoje denominado Polícia Científica (EC nº 84/2021, art. 109-A); e V – Polícia Penal (EC nº 80/2020). B: PRF é órgão federal e Guarda Municipal e DETRAN não constam do rol. C: Forças Armadas não integram a segurança pública estadual. D: o rol é mais amplo. E: a Defesa Civil tem capítulo próprio (art. 109), mas não está no rol do art. 105, assim como as guardas municipais.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  }
+]

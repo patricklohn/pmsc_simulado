@@ -1,0 +1,570 @@
+{
+  "id": "direito-constitucional",
+  "nome": "Direito Constitucional",
+  "area": "direito",
+  "questoesNaProva": 8,
+  "conteudoEdital": "Direito Constitucional: 1. Constituição (conceito, estrutura, elementos e classificação). 2. Poder Constituinte. 3. Constituição Federal de 1988: Art. 1º ao Art. 42; Art. 44 ao Art. 100; Art. 122 ao Art. 144. 4. Constituição do Estado de Santa Catarina: Art. 1º ao Art. 40; Art. 50 ao Art. 76; Art. 90; Art. 105 ao Art. 109-C.",
+  "visaoGeral": "São 8 questões, cobradas principalmente pela literalidade da Constituição Federal e da Constituição catarinense. A AOCP costuma trocar palavras-chave do texto legal (prazos, quóruns, autoridades competentes) e pedir a alternativa correta ou INCORRETA. Foque em direitos e garantias do art. 5º, administração pública (art. 37), militares dos Estados (arts. 42 e 142, § 3º), segurança pública (art. 144) e no Título V da Constituição de SC (arts. 105 a 109-C), sem descuidar da teoria da Constituição e do poder constituinte.",
+  "dicas": [
+    "Leia a letra seca do art. 5º, do art. 37, do art. 42, do art. 142, §§ 2º e 3º, e do art. 144 várias vezes: a AOCP troca uma palavra e transforma a alternativa em falsa.",
+    "Monte uma tabela 'órgão x atribuição' para o art. 144 da CF e para os arts. 106 a 109-C da CE/SC (PC, PM, CBM, Polícia Penal, Polícia Científica, Defesa Civil, DETRAN).",
+    "Decore números: prazos (24 horas, 30 dias, 60 + 60 dias, 2 anos, 3 anos), quóruns (1/3, maioria absoluta, 3/5) e idades mínimas para cargos eletivos.",
+    "Diferencie os crimes inafiançáveis e imprescritíveis (racismo e ação de grupos armados) dos inafiançáveis e insuscetíveis de graça ou anistia (tortura, tráfico, terrorismo e hediondos).",
+    "Para os militares estaduais, combine art. 42 e art. 142, § 3º, da CF com o art. 31 da CE/SC: proibição de greve e sindicalização, vedação de filiação partidária na ativa, perda do posto e da patente pelo tribunal competente.",
+    "Na CE/SC, atenção às emendas recentes: Polícia Penal (EC 80/2020), Polícia Científica (EC 84/2021) e Sistema Estadual de Trânsito/DETRAN (EC 92/2023).",
+    "Acompanhe a PEC 18/2025 (PEC da Segurança Pública), que altera o art. 144 e ainda tramitava no Senado em outubro de 2026; se promulgada antes da prova, revise o novo texto.",
+    "Resolva questões de provas de soldado PM (AOCP, Cebraspe, Vunesp) e anote os dispositivos que mais erra."
+  ],
+  "fontesEstudo": [
+    {
+      "titulo": "Constituição Federal de 1988 (Planalto, texto compilado)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    },
+    {
+      "titulo": "Constituição do Estado de Santa Catarina (ALESC, texto atualizado)",
+      "url": "https://leis.alesc.sc.gov.br/html/constituicao_estadual_1989.html"
+    },
+    {
+      "titulo": "Lei nº 14.751/2023 – Lei Orgânica Nacional das PMs e CBMs (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14751.htm"
+    },
+    {
+      "titulo": "A Constituição e o Supremo (STF) – CF anotada com jurisprudência",
+      "url": "https://portal.stf.jus.br/constituicao-supremo/constituicao.asp"
+    },
+    {
+      "titulo": "Polícia Militar de Santa Catarina",
+      "url": "https://www.pm.sc.gov.br/"
+    }
+  ],
+  "topicos": [
+    {
+      "id": "direito-constitucional-t01",
+      "titulo": "Constituição: conceito, estrutura, elementos e classificação",
+      "maisCobrado": false,
+      "resumo": "Constituição é a lei fundamental e suprema do Estado, que organiza seus elementos essenciais (forma de Estado e de governo, órgãos de poder, limites ao poder e direitos fundamentais). Pode ser vista em sentido sociológico (Lassalle: soma dos fatores reais de poder), político (Schmitt: decisão política fundamental) e jurídico (Kelsen: norma fundamental, topo do ordenamento).\n\nA CF/88 é estruturada em preâmbulo, parte dogmática (arts. 1º a 250) e ADCT. Quanto à classificação, é escrita, codificada, promulgada (democrática), rígida, formal, analítica, dogmática e eclética. Segundo José Afonso da Silva, seus elementos são orgânicos, limitativos, socioideológicos, de estabilização constitucional e formais de aplicabilidade.",
+      "pontosChave": [
+        "CF/88: escrita, promulgada, rígida, formal, analítica, dogmática e eclética.",
+        "Rigidez: emenda exige 3/5 em dois turnos em cada Casa (art. 60, § 2º).",
+        "Estrutura: preâmbulo + parte permanente + ADCT.",
+        "O preâmbulo não tem força normativa (STF) e não é parâmetro de controle de constitucionalidade.",
+        "Elementos orgânicos: estrutura do Estado e dos Poderes (ex.: Títulos III e IV).",
+        "Elementos limitativos: direitos e garantias individuais.",
+        "Elementos socioideológicos: direitos sociais, ordem econômica e social.",
+        "Elementos de estabilização: intervenção, emendas, estado de defesa e de sítio, controle de constitucionalidade.",
+        "Elementos formais de aplicabilidade: preâmbulo, ADCT, art. 5º, § 1º."
+      ],
+      "pegadinhas": [
+        "Afirmar que a CF/88 é semirrígida ou flexível: ela é rígida (há quem a chame de super-rígida por causa das cláusulas pétreas).",
+        "Confundir constituição outorgada (imposta) com promulgada (votada por assembleia eleita).",
+        "Trocar elementos limitativos (direitos individuais) por socioideológicos (direitos sociais)."
+      ],
+      "referencias": [
+        "CF/88, preâmbulo e ADCT",
+        "CF/88, art. 60, § 2º"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t02",
+      "titulo": "Poder Constituinte",
+      "maisCobrado": false,
+      "resumo": "Poder constituinte é o poder de criar ou modificar a Constituição. Sua titularidade é do povo. O poder originário cria uma nova Constituição e é inicial, autônomo, ilimitado (juridicamente) e incondicionado.\n\nO poder derivado é criado pelo originário e é secundário, limitado e condicionado. Divide-se em reformador (emendas – art. 60), revisor (revisão do art. 3º do ADCT, já exaurida) e decorrente (poder dos Estados de elaborar suas constituições – art. 25 da CF e art. 11 do ADCT). Fala-se ainda em poder difuso (mutação constitucional, mudança informal de sentido sem alteração do texto).",
+      "pontosChave": [
+        "Titular: o povo; exercente: assembleia constituinte ou outorgante.",
+        "Originário: inicial, autônomo, ilimitado e incondicionado.",
+        "Derivado reformador: limites formais, circunstanciais, materiais (art. 60).",
+        "PEC: 1/3 da Câmara ou do Senado, Presidente da República, ou mais da metade das Assembleias Legislativas (maioria relativa em cada uma).",
+        "Limite circunstancial: não se emenda na vigência de intervenção federal, estado de defesa ou de sítio.",
+        "Cláusulas pétreas: forma federativa; voto direto, secreto, universal e periódico; separação dos Poderes; direitos e garantias individuais.",
+        "Emenda é promulgada pelas Mesas da Câmara e do Senado, sem sanção.",
+        "Decorrente: Constituições Estaduais (a CE/SC é de 5/10/1989)."
+      ],
+      "pegadinhas": [
+        "Dizer que PEC pode ser proposta por 1/5 dos parlamentares (é 1/3) ou por iniciativa popular (não há previsão na CF).",
+        "Dizer que PEC rejeitada pode ser reapresentada na mesma sessão legislativa por maioria absoluta – isso vale para projeto de lei (art. 67), não para PEC.",
+        "Incluir a 'forma republicana' entre as cláusulas pétreas expressas (não está no art. 60, § 4º)."
+      ],
+      "referencias": [
+        "CF/88, art. 60",
+        "CF/88, art. 25",
+        "ADCT, arts. 3º e 11"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t03",
+      "titulo": "Princípios fundamentais (arts. 1º a 4º)",
+      "maisCobrado": false,
+      "resumo": "O Título I traz os fundamentos (art. 1º), a separação dos Poderes (art. 2º), os objetivos fundamentais (art. 3º) e os princípios das relações internacionais (art. 4º). A República Federativa do Brasil é formada pela união indissolúvel dos Estados, Municípios e DF e constitui-se em Estado Democrático de Direito.\n\nMnemônicos: fundamentos = SO-CI-DI-VA-PLU (soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político); objetivos começam com verbos (construir, garantir, erradicar, promover).",
+      "pontosChave": [
+        "Todo o poder emana do povo, que o exerce por representantes eleitos ou diretamente (art. 1º, parágrafo único).",
+        "Fundamentos: soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político.",
+        "Poderes da União: Legislativo, Executivo e Judiciário, independentes e harmônicos.",
+        "Objetivos: sociedade livre, justa e solidária; desenvolvimento nacional; erradicar pobreza e reduzir desigualdades; promover o bem de todos.",
+        "Relações internacionais: independência nacional, prevalência dos direitos humanos, autodeterminação, não intervenção, igualdade entre Estados, defesa da paz, solução pacífica, repúdio ao terrorismo e racismo, cooperação, asilo político.",
+        "O Brasil buscará a integração da América Latina (art. 4º, parágrafo único)."
+      ],
+      "pegadinhas": [
+        "Trocar fundamentos (art. 1º) por princípios das relações internacionais (art. 4º), como 'prevalência dos direitos humanos'.",
+        "Incluir o Ministério Público ou o Tribunal de Contas como Poder.",
+        "'Pluralismo político' não é sinônimo de pluripartidarismo apenas: é fundamento, e não objetivo."
+      ],
+      "referencias": [
+        "CF/88, arts. 1º a 4º"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t04",
+      "titulo": "Direitos e deveres individuais e coletivos (art. 5º)",
+      "maisCobrado": true,
+      "resumo": "O art. 5º garante a brasileiros e estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, desdobrada em 79 incisos. Para o policial militar, os incisos sobre inviolabilidade do domicílio, prisão, direitos do preso, sigilo das comunicações, reunião e crimes inafiançáveis são os mais relevantes.\n\nAs normas definidoras de direitos e garantias fundamentais têm aplicação imediata (§ 1º); o rol não é taxativo (§ 2º); tratados de direitos humanos aprovados com rito de emenda (3/5, dois turnos, cada Casa) equivalem a emendas constitucionais (§ 3º); o Brasil se submete ao Tribunal Penal Internacional (§ 4º).",
+      "pontosChave": [
+        "Casa (XI): entrada sem consentimento em flagrante delito, desastre ou para prestar socorro (a qualquer hora); por ordem judicial, só durante o dia.",
+        "Prisão (LXI): só em flagrante ou por ordem escrita e fundamentada de autoridade judiciária, salvo transgressão militar ou crime propriamente militar.",
+        "Preso: comunicação imediata ao juiz e à família (LXII); direito ao silêncio (LXIII); identificação dos responsáveis pela prisão (LXIV); relaxamento da prisão ilegal (LXV).",
+        "Sigilo telefônico (XII): quebra só por ordem judicial, para investigação criminal ou instrução processual penal.",
+        "Reunião (XVI): pacífica, sem armas, sem autorização, com prévio aviso.",
+        "Inafiançáveis e imprescritíveis: racismo (XLII) e ação de grupos armados contra a ordem constitucional (XLIV).",
+        "Inafiançáveis e insuscetíveis de graça ou anistia: tortura, tráfico, terrorismo e hediondos (XLIII).",
+        "Penas vedadas (XLVII): morte (salvo guerra declarada), perpétua, trabalhos forçados, banimento e cruéis.",
+        "Extradição (LI e LII): nato nunca; naturalizado por crime comum anterior à naturalização ou tráfico; estrangeiro nunca por crime político ou de opinião.",
+        "Prisão civil: só do devedor de alimentos (SV 25 – depositário infiel não)."
+      ],
+      "pegadinhas": [
+        "Dizer que, em flagrante delito, a entrada na casa só pode ocorrer durante o dia.",
+        "Inverter imprescritibilidade: tortura e tráfico são inafiançáveis, mas NÃO imprescritíveis.",
+        "Esquecer a exceção da transgressão militar e do crime propriamente militar no inciso LXI.",
+        "Afirmar que o direito de reunião depende de autorização (exige apenas prévio aviso).",
+        "Dizer que interceptação telefônica pode ser autorizada para processo civil ou por delegado."
+      ],
+      "referencias": [
+        "CF/88, art. 5º",
+        "STF, Súmula Vinculante 25",
+        "STF, Súmula Vinculante 11 (uso de algemas)"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t05",
+      "titulo": "Remédios constitucionais (HC, MS, MI, HD e ação popular)",
+      "maisCobrado": true,
+      "resumo": "Os remédios constitucionais são garantias para proteger direitos. Habeas corpus protege a liberdade de locomoção (LXVIII); mandado de segurança protege direito líquido e certo não amparado por HC ou HD (LXIX); mandado de segurança coletivo tem legitimados especiais (LXX); mandado de injunção supre a falta de norma regulamentadora (LXXI); habeas data garante acesso e retificação de dados pessoais (LXXII); ação popular, proposta por qualquer cidadão, anula atos lesivos ao patrimônio público, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural (LXXIII).\n\nSão gratuitas as ações de HC e HD (LXXVII). Na ação popular, o autor é isento de custas e sucumbência, salvo comprovada má-fé.",
+      "pontosChave": [
+        "HC: violência ou coação na liberdade de locomoção, por ilegalidade ou abuso de poder (preventivo ou repressivo).",
+        "Não cabe HC quanto ao mérito de punições disciplinares militares (art. 142, § 2º), mas cabe quanto à legalidade.",
+        "MS: direito líquido e certo, contra autoridade pública ou agente de pessoa jurídica no exercício de atribuições públicas.",
+        "MS coletivo: partido com representação no Congresso; sindicato, entidade de classe ou associação em funcionamento há pelo menos 1 ano.",
+        "MI: falta de norma regulamentadora que torne inviável direito, liberdade ou prerrogativa constitucional.",
+        "HD: informações relativas à pessoa do impetrante em bancos de dados governamentais ou de caráter público.",
+        "Ação popular: legitimado é o cidadão (eleitor).",
+        "Gratuitos: HC, HD e atos necessários ao exercício da cidadania."
+      ],
+      "pegadinhas": [
+        "Dizer que qualquer pessoa (inclusive estrangeiro) pode propor ação popular – só o cidadão.",
+        "Exigir 2 anos de funcionamento da associação para o MS coletivo (é 1 ano).",
+        "Confundir HD (dados pessoais) com MS para acesso a informações de interesse coletivo."
+      ],
+      "referencias": [
+        "CF/88, art. 5º, LXVIII a LXXIII e LXXVII",
+        "CF/88, art. 142, § 2º"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t06",
+      "titulo": "Direitos sociais, nacionalidade, direitos políticos e partidos (arts. 6º a 17)",
+      "maisCobrado": false,
+      "resumo": "Direitos sociais (art. 6º): educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância e assistência aos desamparados. Os arts. 7º a 11 tratam de direitos dos trabalhadores, sindicalização e greve.\n\nNacionalidade (arts. 12 e 13): brasileiros natos e naturalizados; cargos privativos de nato (§ 3º). Direitos políticos (arts. 14 a 16): sufrágio universal, voto direto e secreto, plebiscito, referendo e iniciativa popular; condições de elegibilidade, inelegibilidades e regras para o militar candidato (§ 8º); hipóteses de perda e suspensão (art. 15). Partidos políticos (art. 17).",
+      "pontosChave": [
+        "Cargos privativos de nato: Presidente e Vice, Presidente da Câmara e do Senado, Ministro do STF, carreira diplomática, oficial das Forças Armadas, Ministro de Estado da Defesa.",
+        "Não podem alistar-se: estrangeiros e conscritos durante o serviço militar obrigatório.",
+        "Idades: 35 (Presidente, Vice, Senador); 30 (Governador e Vice); 21 (Deputados, Prefeito, Vice, juiz de paz); 18 (Vereador).",
+        "Militar alistável é elegível: menos de 10 anos de serviço → afasta-se da atividade; mais de 10 → agregado e, se eleito, vai para a inatividade na diplomação.",
+        "É vedada a cassação de direitos políticos; perda/suspensão só nos casos do art. 15.",
+        "Lei que alterar o processo eleitoral não se aplica à eleição que ocorra até 1 ano da data de sua vigência (art. 16)."
+      ],
+      "pegadinhas": [
+        "Incluir oficial da Polícia Militar ou Governador entre os cargos privativos de nato.",
+        "Inverter as regras do militar com menos e mais de 10 anos de serviço.",
+        "Dizer que conscrito pode alistar-se durante o serviço militar obrigatório."
+      ],
+      "referencias": [
+        "CF/88, arts. 6º a 17"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t07",
+      "titulo": "Organização do Estado: União, Estados, Municípios, DF e intervenção (arts. 18 a 36)",
+      "maisCobrado": false,
+      "resumo": "A organização político-administrativa compreende União, Estados, DF e Municípios, todos autônomos (art. 18). A Constituição reparte competências: materiais exclusivas da União (art. 21), legislativas privativas da União (art. 22), comuns (art. 23) e concorrentes (art. 24).\n\nPara a segurança pública, destacam-se: art. 21, XIV (a União organiza e mantém a PC, a Polícia Penal, a PM e o CBM do DF) e art. 22, XXI (normas gerais de organização, efetivos, material bélico, garantias, convocação, mobilização, inatividades e pensões das PMs e CBMs – base da Lei nº 14.751/2023). A intervenção federal (arts. 34 a 36) é exceção à autonomia, decretada pelo Presidente e submetida ao Congresso em 24 horas.",
+      "pontosChave": [
+        "Territórios Federais integram a União; não são entes autônomos.",
+        "Competência privativa da União (art. 22) pode ser delegada aos Estados por lei complementar sobre questões específicas.",
+        "Concorrente (art. 24): União edita normas gerais; Estados suplementam; sem norma geral, Estado exerce competência plena; lei federal superveniente suspende a eficácia da estadual no que for contrária.",
+        "Art. 22, XXI: normas gerais das PMs e CBMs são da União (Lei nº 14.751/2023).",
+        "Intervenção federal: decreto do Presidente, apreciação do Congresso em 24 horas (art. 36, § 1º).",
+        "Dívida fundada suspensa por mais de 2 anos consecutivos autoriza intervenção (art. 34, V, a).",
+        "A União não intervém em Municípios de Estado; quem intervém é o Estado (art. 35).",
+        "Estados: deputados estaduais = triplo da representação na Câmara, até 36; acima disso, + tantos quantos forem os federais acima de 12 (art. 27)."
+      ],
+      "pegadinhas": [
+        "Afirmar que a intervenção federal é decretada pelo STF ou pelo Congresso.",
+        "Dizer que normas gerais sobre PMs são competência concorrente ou comum.",
+        "Afirmar que Estados e Municípios são soberanos (têm autonomia)."
+      ],
+      "referencias": [
+        "CF/88, arts. 18 a 36",
+        "Lei nº 14.751/2023"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t08",
+      "titulo": "Administração pública e servidores (arts. 37 a 41)",
+      "maisCobrado": true,
+      "resumo": "O art. 37 fixa os princípios expressos da administração pública (LIMPE: legalidade, impessoalidade, moralidade, publicidade e eficiência) e regras sobre acesso a cargos, concurso público, cargos em comissão, greve, acumulação, teto remuneratório, improbidade e responsabilidade civil do Estado.\n\nA responsabilidade do Estado é objetiva (art. 37, § 6º): pessoas jurídicas de direito público e de direito privado prestadoras de serviço público respondem pelos danos que seus agentes, nessa qualidade, causarem a terceiros, com regresso contra o agente em caso de dolo ou culpa. Os arts. 39 a 41 tratam dos servidores civis (regime, previdência, estabilidade após três anos e avaliação especial de desempenho).",
+      "pontosChave": [
+        "LIMPE: legalidade, impessoalidade, moralidade, publicidade e eficiência (EC 19/1998).",
+        "Concurso: validade de até 2 anos, prorrogável uma vez por igual período; aprovado tem prioridade sobre novos concursados no prazo improrrogável.",
+        "Cargos em comissão: livre nomeação e exoneração; funções de confiança só para servidores efetivos.",
+        "Acumulação (XVI): dois de professor; professor + técnico/científico; dois de saúde com profissão regulamentada – sempre com compatibilidade de horários.",
+        "Art. 42, § 3º: militares estaduais podem acumular nos casos do art. 37, XVI, com prevalência da atividade militar.",
+        "Improbidade (§ 4º): suspensão dos direitos políticos, perda da função, indisponibilidade dos bens e ressarcimento ao erário, sem prejuízo da ação penal.",
+        "Responsabilidade objetiva do Estado; regresso contra o agente só com dolo ou culpa (STF, Tema 940: a vítima aciona o Estado).",
+        "Estabilidade (art. 41): 3 anos de efetivo exercício + avaliação especial de desempenho."
+      ],
+      "pegadinhas": [
+        "Prorrogar concurso 'duas vezes' ou dizer que a validade é 'de dois anos' fixos.",
+        "Trocar 'eficiência' por 'eficácia' ou incluir 'razoabilidade' entre os princípios expressos do caput.",
+        "Afirmar que o regresso contra o agente independe de dolo ou culpa.",
+        "Esquecer que a proibição de acumular alcança empresas públicas e sociedades de economia mista."
+      ],
+      "referencias": [
+        "CF/88, arts. 37 a 41",
+        "CF/88, art. 42, § 3º"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t09",
+      "titulo": "Militares dos Estados (art. 42 c/c art. 142, §§ 2º e 3º)",
+      "maisCobrado": true,
+      "resumo": "Os membros das Polícias Militares e dos Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do DF e dos Territórios (art. 42). Aplicam-se a eles o art. 14, § 8º (elegibilidade), o art. 40, § 9º, e o art. 142, §§ 2º e 3º, cabendo a lei estadual específica dispor sobre as matérias do art. 142, § 3º, X; as patentes dos oficiais são conferidas pelos respectivos governadores.\n\nPor força do art. 142, § 3º: são proibidas sindicalização e greve; o militar em serviço ativo não pode estar filiado a partido político; o oficial só perde o posto e a patente se julgado indigno ou incompatível com o oficialato por tribunal (para os estaduais, o TJ ou TJM – art. 125, § 4º); o oficial condenado a pena privativa de liberdade superior a 2 anos, com trânsito em julgado, é submetido a esse julgamento. Não cabe HC em relação a punições disciplinares militares (art. 142, § 2º), salvo quanto à legalidade (STF).",
+      "pontosChave": [
+        "PM e CBM: hierarquia e disciplina; militares dos Estados, DF e Territórios.",
+        "Patentes dos oficiais estaduais: conferidas pelo Governador.",
+        "Proibidas sindicalização e greve (art. 142, § 3º, IV).",
+        "Na ativa, vedada filiação partidária (art. 142, § 3º, V).",
+        "Militar em atividade que toma posse em cargo civil permanente é transferido para a reserva (ressalvada a acumulação do art. 37, XVI, c).",
+        "Perda do posto/patente: decisão de tribunal; condenação a PPL > 2 anos com trânsito em julgado leva a esse julgamento.",
+        "Pensionistas: regime fixado em lei específica do ente (art. 42, § 2º).",
+        "Acumulação do art. 37, XVI, com prevalência da atividade militar (art. 42, § 3º – EC 101/2019)."
+      ],
+      "pegadinhas": [
+        "Dizer que as patentes dos oficiais da PM são conferidas pelo Presidente da República.",
+        "Afirmar que a perda do posto é automática com qualquer condenação ou que o parâmetro é pena superior a 4 anos.",
+        "Dizer que o militar estadual pode filiar-se a partido enquanto estiver na ativa.",
+        "Afirmar que não cabe HC em nenhuma hipótese envolvendo punição disciplinar."
+      ],
+      "referencias": [
+        "CF/88, art. 42",
+        "CF/88, art. 142, §§ 2º e 3º",
+        "CF/88, art. 14, § 8º",
+        "CF/88, art. 125, § 4º"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t10",
+      "titulo": "Poder Legislativo e processo legislativo (arts. 44 a 75)",
+      "maisCobrado": false,
+      "resumo": "O Legislativo federal é bicameral: Câmara dos Deputados (representantes do povo, sistema proporcional, mandato de 4 anos) e Senado Federal (representantes dos Estados e do DF, sistema majoritário, 3 senadores por ente, mandato de 8 anos, renovação de 1/3 e 2/3 a cada 4 anos). Os arts. 53 a 56 tratam das imunidades e vedações dos parlamentares; o art. 58, das comissões, incluindo as CPIs.\n\nO processo legislativo (arts. 59 a 69) abrange emendas, leis complementares, ordinárias, delegadas, medidas provisórias, decretos legislativos e resoluções. A fiscalização contábil, financeira e orçamentária é feita pelo Congresso, com auxílio do TCU (arts. 70 a 75).",
+      "pontosChave": [
+        "CPI: requerimento de 1/3, fato determinado, prazo certo, poderes de investigação próprios das autoridades judiciais; conclusões vão ao MP.",
+        "CPI não pode decretar interceptação telefônica, prisão (salvo flagrante) ou busca domiciliar (reserva de jurisdição).",
+        "MP: relevância e urgência; 60 dias + 60; prazo suspenso no recesso; trancamento de pauta após 45 dias.",
+        "Vedada MP sobre direito penal, processual penal e processual civil, nacionalidade, cidadania, direitos políticos, partidos, direito eleitoral e matéria de lei complementar.",
+        "Iniciativa privativa do Presidente inclui leis sobre efetivo das Forças Armadas e militares das Forças Armadas (art. 61, § 1º).",
+        "Lei complementar: maioria absoluta (art. 69).",
+        "Veto: 15 dias úteis; silêncio = sanção; derrubada por maioria absoluta em sessão conjunta."
+      ],
+      "pegadinhas": [
+        "Exigir maioria absoluta para criar CPI (basta 1/3).",
+        "Dizer que MP pode tratar de direito penal ou que vale 30 dias.",
+        "Dizer que o Senado representa o povo e a Câmara os Estados."
+      ],
+      "referencias": [
+        "CF/88, arts. 44 a 75"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t11",
+      "titulo": "Poder Executivo (arts. 76 a 91)",
+      "maisCobrado": false,
+      "resumo": "O Executivo federal é exercido pelo Presidente da República, auxiliado pelos Ministros de Estado. Eleição em dois turnos, mandato de 4 anos, uma reeleição. Em caso de impedimento ou vacância de Presidente e Vice, são chamados sucessivamente o Presidente da Câmara, o do Senado e o do STF (art. 80).\n\nO art. 84 lista as atribuições privativas do Presidente (ex.: decretar estado de defesa, de sítio e intervenção federal; exercer o comando supremo das Forças Armadas; declarar guerra com autorização ou referendo do Congresso). Os arts. 85 e 86 tratam dos crimes de responsabilidade; os arts. 89 a 91, do Conselho da República e do Conselho de Defesa Nacional.",
+      "pontosChave": [
+        "Linha sucessória: Vice → Presidente da Câmara → Presidente do Senado → Presidente do STF.",
+        "Vacância nos dois primeiros anos: eleição direta em 90 dias; nos dois últimos: eleição indireta pelo Congresso em 30 dias.",
+        "Art. 84: decretar estado de defesa, sítio e intervenção; comando supremo das Forças Armadas; nomear os Comandantes da Marinha, Exército e Aeronáutica.",
+        "Declarar guerra e celebrar a paz dependem de autorização ou referendo do Congresso.",
+        "Crimes comuns do Presidente: STF, após admissão por 2/3 da Câmara; crimes de responsabilidade: Senado.",
+        "Conselho da República e Conselho de Defesa Nacional são órgãos de consulta (opinam sobre estado de defesa e de sítio)."
+      ],
+      "pegadinhas": [
+        "Inverter a ordem Presidente da Câmara / Presidente do Senado na linha sucessória.",
+        "Dizer que o Presidente nomeia os Comandantes-Gerais das PMs (é o Governador)."
+      ],
+      "referencias": [
+        "CF/88, arts. 76 a 91"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t12",
+      "titulo": "Poder Judiciário e Justiça Militar (arts. 92 a 100 e 122 a 126)",
+      "maisCobrado": true,
+      "resumo": "Os arts. 92 a 100 tratam dos órgãos do Judiciário, do Estatuto da Magistratura, das garantias (vitaliciedade, inamovibilidade e irredutibilidade de subsídio) e vedações dos juízes, do STF e dos precatórios. Os arts. 122 a 124 tratam da Justiça Militar da União (STM e juízes militares), que julga os crimes militares definidos em lei, mas não os militares estaduais.\n\nO art. 125, §§ 3º a 5º, disciplina a Justiça Militar estadual: criada por lei estadual mediante proposta do TJ; primeiro grau com juízes de direito e Conselhos de Justiça; segundo grau pelo próprio TJ ou por TJM onde o efetivo for superior a 20 mil. Compete-lhe julgar os militares dos Estados nos crimes militares e as ações contra atos disciplinares militares, ressalvada a competência do júri quando a vítima for civil, e decidir sobre a perda do posto e da patente dos oficiais e da graduação das praças.",
+      "pontosChave": [
+        "Garantias: vitaliciedade (no 1º grau após 2 anos), inamovibilidade (salvo interesse público) e irredutibilidade de subsídio.",
+        "Vedado ao juiz exercer atividade político-partidária.",
+        "STM: 15 ministros vitalícios (3 Marinha, 4 Exército, 3 Aeronáutica, 5 civis).",
+        "Justiça Militar estadual julga apenas militares dos Estados; não julga civis.",
+        "Juiz de direito do juízo militar, singularmente: crimes militares contra civis e ações contra atos disciplinares.",
+        "Conselho de Justiça, presidido por juiz de direito: demais crimes militares.",
+        "Crime doloso contra a vida de civil praticado por militar estadual: Tribunal do Júri.",
+        "TJM só onde o efetivo militar for superior a 20 mil integrantes (SC não tem TJM)."
+      ],
+      "pegadinhas": [
+        "Dizer que a Justiça Militar estadual julga civis.",
+        "Atribuir ao Conselho de Justiça o julgamento de crime militar contra civil (é o juiz de direito, singularmente).",
+        "Dizer que o STM é segundo grau da Justiça Militar estadual."
+      ],
+      "referencias": [
+        "CF/88, arts. 92 a 100",
+        "CF/88, arts. 122 a 126"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t13",
+      "titulo": "Funções essenciais à Justiça (arts. 127 a 135)",
+      "maisCobrado": false,
+      "resumo": "O Ministério Público é instituição permanente, essencial à função jurisdicional, incumbida da defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis. Seus princípios institucionais são unidade, indivisibilidade e independência funcional. Entre suas funções: promover privativamente a ação penal pública, requisitar diligências e instauração de inquérito e exercer o controle externo da atividade policial (art. 129, VII).\n\nCompletam o capítulo a Advocacia Pública (AGU e Procuradores dos Estados), a Advocacia (o advogado é indispensável à administração da justiça) e a Defensoria Pública (orientação jurídica e defesa dos necessitados).",
+      "pontosChave": [
+        "Princípios do MP: unidade, indivisibilidade, independência funcional.",
+        "Ação penal pública: promoção privativa do MP.",
+        "Controle externo da atividade policial: MP, na forma da lei complementar.",
+        "Garantias dos membros do MP: vitaliciedade, inamovibilidade e irredutibilidade de subsídio.",
+        "PGJ dos Estados: nomeado pelo Governador a partir de lista tríplice, mandato de 2 anos, uma recondução.",
+        "Defensoria Pública: assistência jurídica integral e gratuita aos necessitados."
+      ],
+      "pegadinhas": [
+        "Atribuir o controle externo da atividade policial ao Judiciário ou à Defensoria.",
+        "Dizer que o MP é subordinado ao Executivo ou ao Judiciário."
+      ],
+      "referencias": [
+        "CF/88, arts. 127 a 135"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t14",
+      "titulo": "Estado de defesa e estado de sítio (arts. 136 a 141)",
+      "maisCobrado": false,
+      "resumo": "O estado de defesa é decretado pelo Presidente, ouvidos o Conselho da República e o Conselho de Defesa Nacional, para preservar ou restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções. O decreto é submetido ao Congresso em 24 horas, que decide em 10 dias por maioria absoluta. Dura até 30 dias, prorrogável uma vez.\n\nO estado de sítio depende de autorização prévia do Congresso (maioria absoluta) e cabe em comoção grave de repercussão nacional, ineficácia do estado de defesa, declaração de guerra ou resposta a agressão armada estrangeira.",
+      "pontosChave": [
+        "Defesa: decreto presidencial + apreciação posterior do Congresso (24 h para envio; 10 dias para decidir).",
+        "Defesa: até 30 dias, prorrogável uma vez por igual período.",
+        "Na defesa, prisão por crime contra o Estado: comunicada ao juiz; até 10 dias, salvo autorização judicial; vedada incomunicabilidade.",
+        "Sítio: autorização prévia do Congresso por maioria absoluta.",
+        "Sítio por comoção grave: até 30 dias, prorrogável por até 30 dias de cada vez; por guerra: o tempo que perdurar.",
+        "Não se emenda a Constituição durante estado de defesa ou de sítio."
+      ],
+      "pegadinhas": [
+        "Exigir autorização prévia do Congresso para o estado de defesa.",
+        "Dizer que no estado de defesa é permitida a incomunicabilidade do preso."
+      ],
+      "referencias": [
+        "CF/88, arts. 136 a 141"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t15",
+      "titulo": "Forças Armadas (arts. 142 e 143)",
+      "maisCobrado": false,
+      "resumo": "As Forças Armadas (Marinha, Exército e Aeronáutica) são instituições nacionais permanentes e regulares, organizadas com base na hierarquia e disciplina, sob a autoridade suprema do Presidente da República, e destinam-se à defesa da Pátria, à garantia dos poderes constitucionais e, por iniciativa de qualquer destes, da lei e da ordem.\n\nO § 3º do art. 142 traz o regime dos militares (aplicado também aos estaduais pelo art. 42, § 1º). O art. 143 prevê o serviço militar obrigatório, com isenção em tempo de paz para mulheres e eclesiásticos e serviço alternativo para quem alegar imperativo de consciência.",
+      "pontosChave": [
+        "Composição: Marinha, Exército e Aeronáutica.",
+        "Instituições nacionais, permanentes e regulares.",
+        "Autoridade suprema: Presidente da República.",
+        "Destinação: defesa da Pátria, garantia dos poderes constitucionais e da lei e da ordem (por iniciativa de qualquer dos poderes).",
+        "PMs e CBMs são forças auxiliares e reserva do Exército, mas não integram as Forças Armadas.",
+        "Não cabe HC quanto ao mérito de punições disciplinares militares."
+      ],
+      "pegadinhas": [
+        "Incluir as Polícias Militares entre as Forças Armadas.",
+        "Dizer que as Forças Armadas estão sob autoridade suprema do Ministro da Defesa."
+      ],
+      "referencias": [
+        "CF/88, arts. 142 e 143"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t16",
+      "titulo": "Segurança pública (art. 144)",
+      "maisCobrado": true,
+      "resumo": "A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, por meio da Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, polícias civis, polícias militares e corpos de bombeiros militares e polícias penais federal, estaduais e distrital (EC 104/2019).\n\nÀs polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições legais, a execução de atividades de defesa civil (§ 5º). PMs e CBMs, forças auxiliares e reserva do Exército, subordinam-se, com as polícias civis e penais estaduais e distritais, aos Governadores (§ 6º). As polícias civis, dirigidas por delegados de carreira, exercem a polícia judiciária e apuram infrações penais, exceto as militares (§ 4º). Guardas municipais protegem bens, serviços e instalações municipais (§ 8º); a remuneração dos policiais é por subsídio (§ 9º); o § 10 trata da segurança viária. Atenção: a PEC 18/2025, que reformula o art. 144, ainda tramitava em outubro de 2026.",
+      "pontosChave": [
+        "Finalidade: preservação da ordem pública e da incolumidade das pessoas e do patrimônio.",
+        "PM: polícia ostensiva e preservação da ordem pública (§ 5º).",
+        "CBM: atribuições legais + execução de atividades de defesa civil (§ 5º).",
+        "Polícia penal: segurança dos estabelecimentos penais (§ 5º-A).",
+        "PC: polícia judiciária e apuração de infrações penais, exceto as militares (§ 4º).",
+        "PM e CBM: forças auxiliares e reserva do Exército, subordinados aos Governadores (§ 6º).",
+        "Guardas municipais: proteção de bens, serviços e instalações do Município (§ 8º).",
+        "Remuneração dos policiais por subsídio – art. 39, § 4º (§ 9º).",
+        "A lei disciplinará a organização e o funcionamento dos órgãos para garantir a eficiência (§ 7º)."
+      ],
+      "pegadinhas": [
+        "Atribuir ao CBM a polícia ostensiva ou à PM a polícia judiciária comum.",
+        "Dizer que, por serem reserva do Exército, PMs se subordinam ao Presidente ou ao Comandante do Exército.",
+        "Esquecer que as polícias penais estaduais também se subordinam aos Governadores.",
+        "Afirmar que a polícia civil apura crimes militares."
+      ],
+      "referencias": [
+        "CF/88, art. 144",
+        "EC nº 104/2019"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t17",
+      "titulo": "Constituição de SC: princípios, direitos, organização do Estado e administração pública (arts. 1º a 30)",
+      "maisCobrado": false,
+      "resumo": "A Constituição do Estado de Santa Catarina (1989) define o Estado como unidade inseparável da República, formado pela união de seus Municípios, com fundamentos semelhantes aos da CF, mas com 'soberania nacional' e 'autonomia estadual' (art. 1º). A capital é Florianópolis (art. 7º). Os arts. 8º a 10 tratam das competências estaduais (inclusive manter a ordem e a segurança interna e legislar concorrentemente sobre organização, garantias, direitos e deveres da Polícia Civil); o art. 11, da intervenção do Estado nos Municípios.\n\nOs arts. 13 a 30 disciplinam a administração pública e os servidores civis: entidades da administração indireta e exigência de lei específica, responsabilidade objetiva (art. 15), princípios (art. 16), certidões em 30 dias, concurso público com validade de até 2 anos prorrogável uma vez (art. 21), entre outros.",
+      "pontosChave": [
+        "Fundamentos (art. 1º): soberania nacional, autonomia estadual, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político.",
+        "Soberania popular: sufrágio universal, voto direto e secreto, plebiscito, referendo e iniciativa popular (art. 2º).",
+        "Omissões do Poder Público que inviabilizem direitos devem ser supridas na esfera administrativa em 30 dias do requerimento (art. 4º, I).",
+        "Capital: Florianópolis, sede dos Poderes (art. 7º).",
+        "Intervenção estadual em Município: dívida fundada não paga por 2 anos; decreto do Governador apreciado pela ALESC em 24 horas (art. 11).",
+        "Lei específica para criar autarquia e autorizar empresa pública, sociedade de economia mista e fundação (art. 13, § 1º).",
+        "Certidões e cópias de atos: prazo máximo de 30 dias (art. 16, § 2º).",
+        "Processo administrativo: contraditório, ampla defesa e decisão motivada (art. 16, § 5º)."
+      ],
+      "pegadinhas": [
+        "Dizer que o Estado tem 'soberania estadual' (tem autonomia).",
+        "Trocar prazos: 24 horas para o decreto de intervenção, 30 dias para certidões."
+      ],
+      "referencias": [
+        "Constituição do Estado de SC, arts. 1º a 30"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t18",
+      "titulo": "Constituição de SC: militares estaduais (art. 31)",
+      "maisCobrado": true,
+      "resumo": "São militares estaduais os integrantes dos quadros efetivos da Polícia Militar e do Corpo de Bombeiros Militar, que têm as mesmas garantias, deveres e obrigações – estatuto, lei de remuneração, lei de promoção de oficiais e praças e regulamento disciplinar único (art. 31, EC 33/2003).\n\nO artigo reproduz e detalha regras da CF: ingresso por concurso, patentes conferidas pelo Governador, transferência para a reserva de quem aceitar cargo civil permanente, agregação em cargo temporário, proibição de sindicalização e greve, vedação de filiação partidária em efetivo serviço, perda do posto e da patente por decisão do Tribunal de Justiça e assistência jurídica integral e gratuita ao militar indiciado ou processado em decorrência do serviço. Todos os militares ativos, inativos e pensionistas integram o Sistema de Proteção Social dos Militares Estaduais (§ 14).",
+      "pontosChave": [
+        "Militares estaduais = PM + CBM (quadros efetivos).",
+        "Investidura por concurso de provas ou de provas e títulos, respeitada a classificação (§ 1º).",
+        "Patentes dos oficiais conferidas pelo Governador (§ 4º).",
+        "Cargo público civil permanente → transferência para a reserva (§ 5º).",
+        "Cargo temporário não eletivo → agregação; só promoção por antiguidade; após 2 anos de afastamento, inatividade (§ 6º).",
+        "Proibidas sindicalização e greve (§ 7º); vedada filiação partidária em efetivo serviço (§ 8º).",
+        "Perda do posto e da patente: Tribunal de Justiça, em tempo de paz (§ 9º); condenação a PPL > 2 anos leva a esse julgamento (§ 10).",
+        "Assistência jurídica integral e gratuita ao militar indiciado ou processado em decorrência do serviço (§ 12)."
+      ],
+      "pegadinhas": [
+        "Trocar transferência para a reserva (cargo civil permanente) por agregação (cargo temporário).",
+        "Dizer que o militar agregado pode ser promovido por merecimento (só antiguidade).",
+        "Atribuir a perda do posto ao Comandante-Geral ou ao Governador."
+      ],
+      "referencias": [
+        "Constituição do Estado de SC, art. 31"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t19",
+      "titulo": "Constituição de SC: Poder Legislativo, processo legislativo e fiscalização (arts. 32 a 40 e 50 a 62)",
+      "maisCobrado": false,
+      "resumo": "São Poderes do Estado o Legislativo, o Executivo e o Judiciário (art. 32). O Legislativo é exercido pela Assembleia Legislativa, composta de Deputados maiores de 21 anos eleitos pelo sistema proporcional (art. 33); as competências da ALESC estão nos arts. 39 (com sanção do Governador) e 40 (exclusivas).\n\nNo processo legislativo, destacam-se: iniciativa das leis (art. 50), com iniciativa privativa do Governador sobre organização, regime jurídico e efetivo da PM e do CBM (art. 50, § 2º, I); medidas provisórias estaduais (art. 51, 60 dias prorrogáveis); sanção e veto em 15 dias úteis, veto apreciado em 30 dias e derrubado por maioria absoluta (art. 54); leis complementares por maioria absoluta, incluindo a organização da PM e do CBM (art. 57, V). Os arts. 58 a 62 tratam da fiscalização com auxílio do Tribunal de Contas (7 Conselheiros).",
+      "pontosChave": [
+        "Deputado estadual: maior de 21 anos, sistema proporcional.",
+        "Iniciativa popular estadual: 1% do eleitorado, distribuído em pelo menos 20 Municípios (art. 50, § 1º).",
+        "Iniciativa privativa do Governador: organização, regime jurídico, efetivo, provimento, promoções, remuneração, reforma e reserva de PM e CBM (art. 50, § 2º, I).",
+        "MP estadual: relevância e urgência, 60 dias prorrogáveis por igual período (art. 51).",
+        "Veto: 15 dias úteis; silêncio = sanção; derrubada por maioria absoluta em 30 dias (art. 54).",
+        "Lei complementar (maioria absoluta): organização da PM e do CBM e regime jurídico de seus servidores (art. 57, V).",
+        "Emenda à CE/SC: 3/5 em dois turnos, promulgada pela Mesa da ALESC (art. 49).",
+        "TCE/SC: 7 Conselheiros, 4 escolhidos pela ALESC e 3 pelo Governador (art. 61)."
+      ],
+      "pegadinhas": [
+        "Dizer que o silêncio do Governador implica veto (implica sanção).",
+        "Admitir veto parcial de palavras isoladas (só texto integral de artigo, parágrafo, inciso ou alínea).",
+        "Afirmar que a organização da PM é matéria de lei ordinária."
+      ],
+      "referencias": [
+        "Constituição do Estado de SC, arts. 32 a 40 e 49 a 62"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t20",
+      "titulo": "Constituição de SC: Poder Executivo (arts. 63 a 76)",
+      "maisCobrado": false,
+      "resumo": "O Executivo estadual é exercido pelo Governador, auxiliado pelos Secretários de Estado (art. 63). Governador e Vice são eleitos dentre brasileiros maiores de 30 anos, por maioria absoluta, com segundo turno se necessário (art. 64). Em impedimento ou vacância de ambos, assumem sucessivamente o Presidente da Assembleia Legislativa e o Presidente do Tribunal de Justiça (art. 67); vagando os cargos nos últimos dois anos, a eleição é feita pela Assembleia em 30 dias (art. 68).\n\nO art. 71 lista as atribuições privativas do Governador, entre elas nomear e exonerar o Comandante-Geral da PM e o do CBM e os militares para cargos de interesse policial militar e de bombeiro militar (inciso XV). Os arts. 72 e 73 tratam dos crimes de responsabilidade; os arts. 74 a 76, dos Secretários de Estado.",
+      "pontosChave": [
+        "Governador e Vice: maiores de 30 anos; mandato de 4 anos, permitida uma reeleição.",
+        "Sucessão: Vice → Presidente da ALESC → Presidente do TJSC.",
+        "Vacância nos últimos dois anos: eleição pela ALESC em 30 dias, por maioria absoluta.",
+        "Ausência do Estado ou do País por mais de 15 dias exige licença da ALESC, sob pena de perda do cargo.",
+        "Governador nomeia e exonera os Comandantes-Gerais da PM e do CBM (art. 71, XV).",
+        "Crimes comuns do Governador: julgamento pelo STJ."
+      ],
+      "pegadinhas": [
+        "Incluir o Procurador-Geral de Justiça ou o Presidente do TCE na linha sucessória.",
+        "Dizer que o Governador decide sobre a perda do posto dos oficiais (é o TJ)."
+      ],
+      "referencias": [
+        "Constituição do Estado de SC, arts. 63 a 76"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t21",
+      "titulo": "Constituição de SC: Justiça Militar estadual (art. 90)",
+      "maisCobrado": false,
+      "resumo": "Os Conselhos de Justiça funcionam como órgãos de primeiro grau da Justiça Militar, constituídos na forma da lei de organização judiciária, com competência para processar e julgar, nos crimes militares definidos em lei, os militares estaduais (art. 90, redação da EC 33/2003).\n\nComo SC não possui Tribunal de Justiça Militar (exigência de efetivo superior a 20 mil para criá-lo – CF, art. 125, § 3º), o segundo grau é exercido pelo próprio Tribunal de Justiça, que também decide sobre a perda do posto e da patente dos oficiais e da graduação das praças. Lembre que, pela CF, o juiz de direito julga singularmente os crimes militares contra civis.",
+      "pontosChave": [
+        "Primeiro grau da Justiça Militar estadual: Conselhos de Justiça (e o juiz de direito do juízo militar).",
+        "Julgam militares estaduais nos crimes militares definidos em lei.",
+        "Segundo grau em SC: Tribunal de Justiça.",
+        "Crime militar contra civil: juiz de direito, singularmente (CF, art. 125, § 5º).",
+        "Crime doloso contra a vida de civil: Tribunal do Júri."
+      ],
+      "pegadinhas": [
+        "Dizer que SC possui Tribunal de Justiça Militar.",
+        "Atribuir à Justiça Militar da União o julgamento de militares estaduais."
+      ],
+      "referencias": [
+        "Constituição do Estado de SC, art. 90",
+        "CF/88, art. 125, §§ 3º a 5º"
+      ]
+    },
+    {
+      "id": "direito-constitucional-t22",
+      "titulo": "Constituição de SC: segurança pública (arts. 105 a 109-C)",
+      "maisCobrado": true,
+      "resumo": "A segurança pública estadual é exercida pela Polícia Civil, Polícia Militar, Corpo de Bombeiros Militar, órgão de perícia oficial (Instituto Geral de Perícia, hoje Polícia Científica – EC 84/2021) e Polícia Penal (art. 105). O regulamento disciplinar dos militares estaduais deve ser revisto no máximo a cada cinco anos (art. 105, § 2º).\n\nA Polícia Militar (art. 107) é órgão permanente, força auxiliar e reserva do Exército, organizada com base na hierarquia e disciplina, subordinada ao Governador, e exerce a polícia ostensiva relacionada com a preservação da ordem e da segurança pública, o radiopatrulhamento terrestre, aéreo, lacustre e fluvial, o patrulhamento rodoviário, a guarda e fiscalização das florestas, mananciais e do trânsito urbano, a polícia judiciária militar, a proteção do meio ambiente e a garantia do poder de polícia de órgãos públicos; coopera com a defesa civil e atua preventivamente como força de dissuasão e repressivamente como de restauração da ordem pública. É comandada por oficial da ativa do último posto.\n\nO CBM (art. 108) faz prevenção e combate a incêndio, busca e salvamento, atendimento pré-hospitalar, perícias de incêndio, prevenção balneária por salva-vidas e polícia judiciária militar. A Polícia Civil (art. 106) exerce a polícia judiciária, supervisiona a segurança privada, controla armas e produtos controlados e fiscaliza jogos e diversões. A Polícia Penal (art. 108-A) cuida dos estabelecimentos penais; a Defesa Civil (art. 109) estimula os bombeiros voluntários; a Polícia Científica (art. 109-A) faz perícias e identificação civil e criminal; o DETRAN executa os serviços administrativos de trânsito (arts. 109-B e 109-C, EC 92/2023).",
+      "pontosChave": [
+        "Órgãos (art. 105): PC, PM, CBM, perícia oficial (Polícia Científica) e Polícia Penal.",
+        "Regulamento disciplinar dos militares: revisão no máximo a cada 5 anos (art. 105, § 2º).",
+        "PM: subordinada ao Governador; comandada por oficial da ativa do último posto (art. 107, § 1º, I).",
+        "PM: radiopatrulhamento terrestre, aéreo, lacustre e fluvial; patrulhamento rodoviário; trânsito urbano; florestas e mananciais; meio ambiente; polícia judiciária militar.",
+        "PM: força de dissuasão (preventiva) e de restauração da ordem pública (repressiva).",
+        "CBM: atendimento pré-hospitalar, perícia de incêndio, salva-vidas, análise de projetos contra incêndio, polícia judiciária militar.",
+        "PC: dirigida por delegado; segurança privada, armas e produtos controlados, jogos e diversões públicas.",
+        "Polícia Científica: dirigida por perito oficial de carreira nomeado pelo Governador.",
+        "DETRAN: execução dos serviços administrativos de trânsito (art. 109-C, EC 92/2023)."
+      ],
+      "pegadinhas": [
+        "Atribuir à PM a execução dos serviços administrativos de trânsito (é do DETRAN) – a PM faz a guarda e fiscalização do trânsito urbano.",
+        "Atribuir à PM a supervisão da segurança privada ou o controle de armas (Polícia Civil).",
+        "Dizer que o CBM é subordinado ao Comando-Geral da PM (é órgão autônomo, subordinado ao Governador).",
+        "Dizer que a PM é comandada por oficial da reserva."
+      ],
+      "referencias": [
+        "Constituição do Estado de SC, arts. 105 a 109-C"
+      ]
+    }
+  ]
+}

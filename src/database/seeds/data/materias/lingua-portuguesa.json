@@ -1,0 +1,465 @@
+{
+  "id": "lingua-portuguesa",
+  "nome": "Língua Portuguesa",
+  "area": "comuns",
+  "questoesNaProva": 8,
+  "conteudoEdital": "1. Compreensão e interpretação de textos; tipologias e gêneros textuais; elementos da comunicação e funções da linguagem. 2. Semântica: denotação e conotação; significação de palavras e expressões; relações de antonímia e sinonímia; figuras de linguagem. 3. Morfologia: estrutura e formação das palavras; Ortografia oficial; Acentuação gráfica; Emprego das classes de palavras no texto. 4. Sintaxe: termos da oração e relações sintático-semânticas estabelecidas entre termos, orações, períodos ou parágrafos; concordância verbal ou nominal; Emprego do sinal indicativo de crase; concordância nominal e verbal; regências nominal e verbal. 5. Reescrita de orações, períodos, frases e parágrafos. 6. Sintaxe da oração e do período. 7. Emprego dos sinais de Pontuação e sua função no texto. 8. Elementos de coesão e suas funções no texto. 9. Função textual dos vocábulos. 10. Concordância nominal e verbal. 11. Regências nominal e verbal. 12. Significação das palavras.",
+  "visaoGeral": "São 8 questões, e a AOCP costuma ancorar a maior parte delas em um ou dois textos-base (artigos de opinião, crônicas, notícias), com perguntas de interpretação, valor de conectivos, referência de pronomes, sinônimos no contexto e reescrita. A gramática é cobrada de forma contextual. Os temas que mais caem são concordância, regência, crase, pontuação e classes de palavras. Como o edital repete concordância e regência em mais de um item, priorize esses conteúdos, e também coesão/conectivos e reescrita. Lembre-se de que o domínio da norma-padrão também pesa na Redação (NPR = NC − NE ÷ TL).",
+  "dicas": [
+    "Faça as questões de texto voltando ao trecho citado: a AOCP quase sempre indica o parágrafo ou transcreve a passagem.",
+    "Para conectivos, decore os grupos (adversativas, concessivas, causais, conclusivas, condicionais) e treine substituições.",
+    "Em reescrita, verifique duas coisas, nesta ordem: sentido mantido e correção gramatical.",
+    "Crase: use o truque de trocar a palavra feminina por uma masculina ('à lei' → 'ao regulamento').",
+    "Concordância: ache o sujeito antes de olhar o verbo; desconfie de sujeito posposto e de 'haver' no sentido de existir.",
+    "Regência: memorize os verbos clássicos (assistir, aspirar, visar, obedecer, preferir, implicar, esquecer/lembrar).",
+    "Acentuação: estude as regras do Acordo de 1990 (ideia, voo, leem, feiura, para) e saiba justificar cada acento.",
+    "Leia o enunciado com atenção a CORRETA × INCORRETA — a AOCP alterna os comandos com frequência.",
+    "Resolva provas anteriores da AOCP (PM-ES, PM-PE, PM-CE, PC-ES) para se acostumar ao estilo de texto e de alternativa."
+  ],
+  "fontesEstudo": [
+    {
+      "titulo": "Acordo Ortográfico – Decreto nº 6.583/2008 (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6583.htm"
+    },
+    {
+      "titulo": "Vocabulário Ortográfico da Língua Portuguesa – VOLP (ABL)",
+      "url": "https://www.academia.org.br/nossa-lingua/busca-no-vocabulario"
+    },
+    {
+      "titulo": "Manual de Redação da Presidência da República (3ª ed.)",
+      "url": "https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica"
+    },
+    {
+      "titulo": "Instituto AOCP – concursos e provas anteriores",
+      "url": "https://www.institutoaocp.org.br"
+    }
+  ],
+  "topicos": [
+    {
+      "id": "lingua-portuguesa-t01",
+      "titulo": "Compreensão e interpretação de textos",
+      "maisCobrado": true,
+      "resumo": "Compreender é identificar o que o texto diz explicitamente (informação literal); interpretar é deduzir o que está implícito (inferência, pressupostos e subentendidos). A AOCP costuma abrir a prova com um ou mais textos e fazer várias questões sobre eles, pedindo a alternativa 'de acordo com o texto', 'infere-se que' ou 'é correto afirmar'.\n\nO método mais seguro é voltar ao texto para cada alternativa e procurar o trecho que a confirma. As alternativas erradas normalmente extrapolam (dizem mais do que o texto), restringem ('apenas', 'somente', 'exclusivamente'), contradizem ou trocam a relação de causa e consequência.",
+      "pontosChave": [
+        "'De acordo com o texto' = resposta literal; 'infere-se' = conclusão autorizada pelo texto, nunca opinião pessoal.",
+        "Leia primeiro o enunciado e, depois, o texto com foco no que foi perguntado.",
+        "Identifique a tese (ideia central) e os argumentos de cada parágrafo.",
+        "Palavras absolutas (sempre, nunca, todos, exclusivamente) costumam indicar alternativa errada.",
+        "Pressuposto: informação garantida por marca linguística (ex.: 'deixou de fumar' pressupõe que fumava).",
+        "Subentendido: insinuação que depende do contexto, sem marca explícita.",
+        "Conectivos (contudo, portanto, embora) revelam a posição do autor e a relação entre as ideias."
+      ],
+      "pegadinhas": [
+        "Alternativa verdadeira no mundo real, mas que não está no texto — está errada.",
+        "Trocar 'o autor critica' por 'o autor defende' (inversão de posicionamento).",
+        "Generalizar o que o texto diz sobre parte do grupo ('alguns jovens' → 'os jovens')."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 1"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t02",
+      "titulo": "Tipologias e gêneros textuais",
+      "maisCobrado": true,
+      "resumo": "Tipos textuais são modos de organização do texto, em número limitado: narração, descrição, dissertação (expositiva e argumentativa), injunção e diálogo. Gêneros textuais são formas concretas de circulação social, em número ilimitado: notícia, crônica, artigo de opinião, editorial, receita, bula, ofício, boletim de ocorrência etc.\n\nUm mesmo gênero pode combinar vários tipos (uma crônica pode narrar e descrever), e a questão pede o tipo PREDOMINANTE. A AOCP pede tanto a classificação do texto-base quanto as características de um gênero.",
+      "pontosChave": [
+        "Narrativo: personagens, enredo, tempo, espaço, narrador; verbos no pretérito.",
+        "Descritivo: caracterização estática de seres, objetos e lugares; muitos adjetivos.",
+        "Dissertativo-argumentativo: tese + argumentos + conclusão, com o objetivo de convencer.",
+        "Expositivo: informa e explica sem defender ponto de vista.",
+        "Injuntivo: instrui ou ordena (verbos no imperativo ou no infinitivo): receitas, manuais, regulamentos.",
+        "Notícia: fato recente, linguagem objetiva, 3ª pessoa; reportagem aprofunda; artigo de opinião é assinado e opinativo; editorial expressa a opinião do veículo.",
+        "Crônica: texto curto, ligado ao cotidiano, muitas vezes narrativo e com reflexão."
+      ],
+      "pegadinhas": [
+        "Confundir tipo (narração) com gênero (crônica).",
+        "Texto com dados estatísticos não é necessariamente expositivo: se houver tese, é argumentativo.",
+        "Presença de diálogo não torna o texto 'dialogal' se a narração predomina."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 1"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t03",
+      "titulo": "Elementos da comunicação e funções da linguagem",
+      "maisCobrado": false,
+      "resumo": "Segundo Jakobson, todo ato de comunicação tem seis elementos: emissor, receptor, mensagem, código, canal e referente (contexto). A cada elemento corresponde uma função da linguagem, conforme o foco do texto.\n\nNa prova, a pergunta típica é 'predomina a função...'. Um texto pode ter várias funções, mas uma delas se destaca. O ruído é tudo o que atrapalha a comunicação (interferência no rádio, letra ilegível).",
+      "pontosChave": [
+        "Referencial (denotativa): foco no referente; informação objetiva (notícias, textos científicos).",
+        "Emotiva (expressiva): foco no emissor; 1ª pessoa, exclamações, interjeições.",
+        "Conativa (apelativa): foco no receptor; imperativo, vocativo, 2ª pessoa (propagandas, campanhas).",
+        "Fática: foco no canal; testar, iniciar ou manter o contato ('Alô?', 'Câmbio', 'Entendeu?').",
+        "Metalinguística: foco no código; a língua explicando a própria língua (dicionários, gramáticas, poema sobre o poema).",
+        "Poética: foco na mensagem; elaboração formal, rimas, ritmo, jogos de palavras."
+      ],
+      "pegadinhas": [
+        "Propaganda com rima pode ter função poética, mas, se o objetivo central é convencer o consumidor, predomina a conativa.",
+        "Texto em 1ª pessoa não é automaticamente emotivo; um relato objetivo em 1ª pessoa pode ser referencial."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 1"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t04",
+      "titulo": "Semântica: denotação, conotação, sinonímia, antonímia e significação das palavras",
+      "maisCobrado": true,
+      "resumo": "Semântica estuda o significado. Denotação é o sentido literal, de dicionário; conotação é o sentido figurado, que depende do contexto. A AOCP cobra muito a substituição de palavras do texto por sinônimos 'sem alteração de sentido' — o sinônimo deve funcionar NAQUELE contexto.\n\nTambém caem homônimos (palavras com mesma pronúncia e/ou grafia e sentidos diferentes: sessão/seção/cessão; concerto/conserto) e parônimos (palavras parecidas na forma: infligir/infringir; ratificar/retificar; descrição/discrição; tráfego/tráfico; eminente/iminente; deferir/diferir). Os itens 2 e 12 do edital (significação das palavras) são cobrados juntos.",
+      "pontosChave": [
+        "Sinônimos: sentidos equivalentes no contexto (equívoco = engano).",
+        "Antônimos: sentidos opostos (legítimo × fraudulento).",
+        "Polissemia: uma palavra com vários sentidos ('banco' de sentar e financeiro).",
+        "Sessão = reunião; seção = repartição; cessão = ato de ceder.",
+        "Ratificar = confirmar; retificar = corrigir.",
+        "Infringir = violar (norma); infligir = aplicar (pena).",
+        "Eminente = notável; iminente = prestes a acontecer.",
+        "Tráfego = trânsito; tráfico = comércio (geralmente ilícito)."
+      ],
+      "pegadinhas": [
+        "Sinônimo de dicionário que não serve no contexto do texto.",
+        "Trocar parônimos em frases de contexto policial (infligir/infringir).",
+        "Expressões idiomáticas ('balde de água fria') são sempre conotativas."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, itens 2 e 12",
+        "VOLP – Academia Brasileira de Letras"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t05",
+      "titulo": "Figuras de linguagem",
+      "maisCobrado": false,
+      "resumo": "Figuras de linguagem são recursos que dão expressividade ao texto. Dividem-se em figuras de palavra (metáfora, comparação, metonímia, catacrese), de pensamento (antítese, paradoxo, hipérbole, eufemismo, ironia, prosopopeia, gradação) e de construção/sintaxe (elipse, zeugma, pleonasmo, polissíndeto, assíndeto, anáfora, hipérbato).\n\nNa AOCP, normalmente aparece um trecho do texto e se pede a figura, ou se dá uma lista para identificar a única associação correta.",
+      "pontosChave": [
+        "Metáfora: comparação implícita, sem conectivo ('Aquele policial é uma rocha').",
+        "Comparação (símile): com conectivo ('forte como um touro').",
+        "Metonímia: troca por relação de proximidade (autor pela obra, continente pelo conteúdo, parte pelo todo).",
+        "Hipérbole: exagero ('chorei rios de lágrimas').",
+        "Eufemismo: suavização ('partiu desta para melhor'). Diminutivos podem ter esse efeito.",
+        "Antítese: ideias opostas; paradoxo: ideias opostas que se fundem numa contradição aparente.",
+        "Prosopopeia (personificação): atribuição de características humanas a seres inanimados.",
+        "Ironia: dizer o contrário do que se pensa; pleonasmo: redundância ('subir para cima')."
+      ],
+      "pegadinhas": [
+        "Metáfora × comparação: a presença de 'como', 'tal qual' indica comparação.",
+        "Antítese × paradoxo: no paradoxo, os opostos se aplicam ao mesmo ser ao mesmo tempo.",
+        "Catacrese é metáfora já desgastada pelo uso ('pé da mesa', 'braço da cadeira')."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 2"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t06",
+      "titulo": "Estrutura e formação das palavras",
+      "maisCobrado": false,
+      "resumo": "Estrutura: radical (núcleo do sentido), afixos (prefixos e sufixos), desinências (nominais e verbais), vogal temática e vogais/consoantes de ligação. Formação: derivação (prefixal, sufixal, prefixal e sufixal, parassintética, regressiva, imprópria) e composição (justaposição e aglutinação), além de hibridismo, onomatopeia, sigla e abreviação.\n\nA diferença mais cobrada é entre parassíntese (prefixo e sufixo simultâneos; a palavra não existe só com um deles: entristecer, anoitecer, emagrecer) e derivação prefixal e sufixal (infelizmente: existem 'infeliz' e 'felizmente').",
+      "pontosChave": [
+        "Derivação regressiva: substantivo formado de verbo por redução (combate, ataque, pesca, luta).",
+        "Derivação imprópria: mudança de classe sem alterar a forma ('o jantar', 'o sim').",
+        "Justaposição: radicais intactos (pontapé, girassol, guarda-chuva).",
+        "Aglutinação: perda de fonemas (planalto, embora, fidalgo, aguardente).",
+        "Hibridismo: elementos de línguas diferentes (automóvel, sociologia, burocracia).",
+        "Parassíntese: en+tarde+ecer, a+manh+ecer, des+alm+ado."
+      ],
+      "pegadinhas": [
+        "Infelizmente/deslealdade: prefixal e sufixal, não parassíntese.",
+        "Achar que 'combate' é derivado de sufixo: é regressiva (do verbo combater).",
+        "Planalto não é justaposição: houve perda de fonema (aglutinação)."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 3"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t07",
+      "titulo": "Ortografia oficial",
+      "maisCobrado": false,
+      "resumo": "A ortografia segue o Acordo Ortográfico de 1990 (Decreto nº 6.583/2008), obrigatório desde 2016, e o Vocabulário Ortográfico da Língua Portuguesa (VOLP), da ABL. A AOCP cobra grafias de palavras com s/ss/ç/sc/x/ch/z/g/j, uso do hífen e os porquês.\n\nDicas de família de palavras ajudam: paralisia → paralisar; análise → analisar; pesquisa → pesquisar; ascender → ascensão; exceto → exceção.",
+      "pontosChave": [
+        "Por que: perguntas (diretas ou indiretas) e 'pelo qual' ('Por que fugiu?').",
+        "Por quê: no fim de frase ('Fugiu por quê?').",
+        "Porque: explicação ou causa ('Fugiu porque teve medo').",
+        "Porquê: substantivo, com artigo ('o porquê da fuga').",
+        "Verbos terminados em -isar vêm de palavras com 's' (análise → analisar); -izar é sufixo (real → realizar).",
+        "Grafias corretas: exceção, ascensão, privilégio, beneficente, empecilho, asterisco, mendigo, cabeleireiro.",
+        "Mal (advérbio, oposto de bem) × mau (adjetivo, oposto de bom).",
+        "Há (tempo passado) × a (tempo futuro ou distância): 'há dois anos', 'daqui a dois dias'."
+      ],
+      "pegadinhas": [
+        "'Por quê' no início de pergunta está errado.",
+        "Grafias contaminadas pela pronúncia: 'previlégio', 'beneficiente', 'impecilho', 'mendingo'.",
+        "Hífen: 'autoescola', 'antissocial', 'microondas' → 'micro-ondas' (vogais iguais separam com hífen)."
+      ],
+      "referencias": [
+        "Decreto nº 6.583/2008 (Acordo Ortográfico)",
+        "VOLP – Academia Brasileira de Letras"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t08",
+      "titulo": "Acentuação gráfica",
+      "maisCobrado": true,
+      "resumo": "As regras de acentuação dependem da posição da sílaba tônica: oxítonas, paroxítonas e proparoxítonas, além de monossílabos tônicos, hiatos e acentos diferenciais. O Acordo de 1990 aboliu alguns acentos, que são alvo frequente de questões.\n\nA pergunta típica da AOCP é 'as palavras X e Y são acentuadas pela mesma regra que...' — por isso é preciso saber a regra, não apenas a grafia.",
+      "pontosChave": [
+        "Proparoxítonas: todas acentuadas (vítima, público, legítima).",
+        "Paroxítonas: acentuadas se terminadas em l, n, r, x, ps, ã(s), ão(s), i(s), us, um/uns, ditongo (fácil, hífen, caráter, tórax, órfã, júri, vírus, álbum, história).",
+        "Oxítonas: acentuadas se terminadas em a(s), e(s), o(s), em/ens (já, café, avô, também, parabéns).",
+        "Monossílabos tônicos terminados em a(s), e(s), o(s) (pá, pé, nó).",
+        "Hiato: i/u tônicos sozinhos na sílaba ou com s (saída, baú, prejuízo), exceto antes de 'nh' (rainha).",
+        "Acordo de 1990: sem acento em ditongos abertos ei/oi de paroxítonas (ideia, heroico, joia), em oo/ee (voo, enjoo, leem, creem) e em i/u após ditongo em paroxítonas (feiura, baiuca).",
+        "Diferenciais mantidos: pôr (verbo), pôde (passado); têm/vêm (plural). Facultativo: fôrma/forma, dêmos/demos.",
+        "Diferenciais abolidos: para, pelo, polo, pera."
+      ],
+      "pegadinhas": [
+        "Ditongo aberto em oxítona continua acentuado: herói, papéis, chapéu, anéis.",
+        "i/u após ditongo em posição final continua acentuado: Piauí, tuiuiú.",
+        "'Saúde', 'baú' e 'prejuízo' são acentuados pela regra do hiato, não pela da oxítona/paroxítona."
+      ],
+      "referencias": [
+        "Decreto nº 6.583/2008 (Acordo Ortográfico), Bases VIII a XI"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t09",
+      "titulo": "Emprego das classes de palavras",
+      "maisCobrado": true,
+      "resumo": "São dez as classes de palavras: substantivo, adjetivo, artigo, numeral, pronome, verbo (variáveis), advérbio, preposição, conjunção e interjeição (invariáveis). Na AOCP, a cobrança é contextual: a mesma palavra pode mudar de classe conforme o uso.\n\nCasos clássicos: 'bastante' (adjetivo = suficiente, varia; advérbio = muito, invariável), 'meio' (numeral/adjetivo × advérbio), 'menos' (sempre invariável), 'só' (adjetivo = sozinho × advérbio = somente), substantivação ('o jantar', 'o porquê'). Também são cobrados tempos e modos verbais e o valor dos pronomes.",
+      "pontosChave": [
+        "Adjetivo caracteriza substantivo e varia; advérbio modifica verbo, adjetivo ou advérbio e é invariável.",
+        "'Bastantes provas' (adjetivo/suficientes) × 'bastante cansados' (advérbio/muito).",
+        "'Meio-dia e meia' (numeral) × 'meio cansada' (advérbio).",
+        "Pretérito mais-que-perfeito simples: 'pedira' = tinha pedido.",
+        "Futuro do pretérito: 'encontraria'; correlaciona-se com o imperfeito do subjuntivo ('se adotasse').",
+        "Pronomes oblíquos: o/a = objeto direto; lhe = objeto indireto.",
+        "Preposições ligam termos e indicam relações (causa, lugar, meio, posse)."
+      ],
+      "pegadinhas": [
+        "'Menas' não existe; 'menos' é invariável.",
+        "'Só' no plural (sós) quando significa 'sozinhos'.",
+        "Palavra antecedida de artigo vira substantivo (derivação imprópria)."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, itens 3 e 9",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t10",
+      "titulo": "Sintaxe: termos da oração",
+      "maisCobrado": true,
+      "resumo": "Os termos da oração dividem-se em essenciais (sujeito e predicado), integrantes (objeto direto, objeto indireto, complemento nominal, agente da passiva) e acessórios (adjunto adnominal, adjunto adverbial, aposto). O vocativo é termo independente.\n\nPara classificar o predicado, observe o verbo: de ligação (predicado nominal, com predicativo do sujeito), significativo (predicado verbal) ou ambos (verbo-nominal).",
+      "pontosChave": [
+        "Tipos de sujeito: simples, composto, oculto (desinencial), indeterminado e oração sem sujeito.",
+        "Verbos impessoais (sem sujeito): haver = existir, fazer/haver indicando tempo, fenômenos da natureza.",
+        "Predicativo do sujeito: característica atribuída ao sujeito por verbo de ligação ('A fiscalização é necessária').",
+        "Agente da passiva: quem pratica a ação na voz passiva analítica, introduzido por 'por/pelo(s)'.",
+        "Complemento nominal: completa substantivo abstrato, adjetivo ou advérbio, sempre com preposição; tem valor paciente ('respeito às leis').",
+        "Adjunto adnominal preposicionado tem valor agente ou de posse ('a decisão do juiz').",
+        "Aposto explica um termo; vocativo chama o interlocutor."
+      ],
+      "pegadinhas": [
+        "Complemento nominal × adjunto adnominal: 'o combate ao crime' / 'a invasão da casa' (paciente → CN) × 'a chegada da tropa' (agente → adjunto adnominal).",
+        "Sujeito posposto ao verbo continua sendo sujeito ('Ocorreram dezenas de golpes').",
+        "'Se' + VTD = voz passiva sintética (sujeito presente); 'se' + VTI/VI = sujeito indeterminado."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, itens 4 e 6",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t11",
+      "titulo": "Sintaxe do período: coordenação, subordinação e relações sintático-semânticas",
+      "maisCobrado": true,
+      "resumo": "O período composto pode ser por coordenação (orações independentes: aditivas, adversativas, alternativas, conclusivas, explicativas) ou por subordinação (orações dependentes: substantivas, adjetivas e adverbiais). A AOCP cobra principalmente o VALOR SEMÂNTICO dos conectivos e das orações (causa, concessão, condição, finalidade, consequência, proporção, tempo, conformidade, comparação).\n\nAs orações substantivas exercem funções de substantivo (sujeito, objeto, complemento nominal, predicativo, aposto). As adjetivas são introduzidas por pronome relativo e podem ser restritivas (sem vírgula) ou explicativas (com vírgulas).",
+      "pontosChave": [
+        "Adversativas: mas, porém, contudo, todavia, entretanto, no entanto.",
+        "Conclusivas: logo, portanto, por isso, por conseguinte, pois (posposto ao verbo).",
+        "Concessivas: embora, ainda que, mesmo que, se bem que, conquanto (verbo no subjuntivo).",
+        "Condicionais: se, caso, desde que, contanto que, a menos que.",
+        "Causais: porque, como (no início do período), visto que, uma vez que, já que.",
+        "Finais: para que, a fim de que; proporcionais: à medida que, à proporção que.",
+        "'É necessário que...', 'É preciso que...' → oração subordinada substantiva subjetiva.",
+        "Adjetiva restritiva (sem vírgula) restringe; explicativa (entre vírgulas) generaliza."
+      ],
+      "pegadinhas": [
+        "'Desde que' pode ser temporal ('desde que chegou') ou condicional ('desde que cumpra').",
+        "'Como' pode ser causal, comparativo ou conformativo.",
+        "'À medida que' (proporção) ≠ 'na medida em que' (causa)."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, itens 4 e 6",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t12",
+      "titulo": "Concordância verbal e nominal",
+      "maisCobrado": true,
+      "resumo": "Concordância verbal: o verbo concorda com o sujeito em número e pessoa. Concordância nominal: artigos, adjetivos, pronomes e numerais concordam com o substantivo em gênero e número. O edital repete o tema três vezes (itens 4 e 10), o que indica alta probabilidade de cobrança.\n\nOs casos mais cobrados são os verbos impessoais, a voz passiva sintética, o sujeito posposto, as expressões partitivas e as palavras 'anexo', 'obrigado', 'meio', 'bastante', 'mesmo', 'próprio', 'é proibido' e 'é necessário'.",
+      "pontosChave": [
+        "Haver = existir é impessoal: 'Havia muitas mensagens'; na locução, o auxiliar também fica no singular: 'Deve haver provas'.",
+        "Existir, ocorrer e acontecer são pessoais: 'Devem existir fraudes', 'Ocorreram golpes'.",
+        "Fazer indicando tempo: 'Faz dois anos'.",
+        "Voz passiva sintética: 'Vendem-se celulares'. Com VTI: 'Precisa-se de policiais' (singular).",
+        "Sujeito composto posposto: plural ou concordância com o mais próximo.",
+        "Anexo, obrigado, mesmo, próprio, quite: variam ('seguem anexas', 'obrigada', 'elas mesmas').",
+        "'É proibido entrada' (sem artigo, invariável) × 'É proibida a entrada' (com artigo).",
+        "Meio (= um pouco) e menos são invariáveis; bastante varia quando adjetivo."
+      ],
+      "pegadinhas": [
+        "'Haviam' no sentido de existir — erro clássico.",
+        "Esquecer a concordância com sujeito posposto ('Ocorreu dezenas de casos').",
+        "'Em anexo' é invariável, mas 'anexo' sozinho concorda."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, itens 4 e 10",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t13",
+      "titulo": "Emprego do sinal indicativo de crase",
+      "maisCobrado": true,
+      "resumo": "Crase é a fusão da preposição 'a' com o artigo feminino 'a(s)' ou com o 'a' inicial dos pronomes aquele(s), aquela(s), aquilo, a qual, as quais. Só ocorre se houver, ao mesmo tempo, um termo que exige a preposição 'a' e uma palavra feminina que admite artigo.\n\nTruque da troca: substitua a palavra feminina por uma masculina; se aparecer 'ao', há crase ('respeito à lei' → 'respeito ao regulamento').",
+      "pontosChave": [
+        "Crase obrigatória: horas determinadas ('às 22 horas'), locuções femininas ('à procura de', 'às pressas', 'à noite').",
+        "'À moda de' subentendida: 'bife à milanesa'.",
+        "Não há crase antes de masculino, verbo, pronomes pessoais, de tratamento (exceto senhora/senhorita/dona), demonstrativos esta/essa.",
+        "Não há crase em 'a' singular antes de palavra no plural ('a pessoas estranhas').",
+        "'De segunda a sexta' (sem crase) × 'da segunda à sexta' (com crase).",
+        "Facultativa: antes de pronome possessivo feminino, de nome próprio feminino e após 'até'.",
+        "Casa (lar) e terra (chão firme) sem determinante não levam crase."
+      ],
+      "pegadinhas": [
+        "'Valorizar à comunicação': o verbo é transitivo direto, não há preposição.",
+        "'À pé', 'à cavalo': palavras masculinas, sem crase.",
+        "'Referiu-se à esta': demonstrativo 'esta' não admite artigo."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 4",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t14",
+      "titulo": "Regência verbal e nominal",
+      "maisCobrado": true,
+      "resumo": "Regência é a relação entre um termo regente (verbo ou nome) e seu complemento, com ou sem preposição. Alguns verbos mudam de sentido conforme a regência, e esse é o ponto mais cobrado.\n\nA regência também explica a escolha dos pronomes oblíquos (o/a para objeto direto; lhe para objeto indireto de pessoa) e dos pronomes relativos precedidos de preposição ('a lei a que obedeço', 'o cargo a que aspiro', 'a praça de que cuido').",
+      "pontosChave": [
+        "Assistir: ver (VTI, 'assistir ao jogo'); ajudar (VTD, 'assistir o doente'); caber (VTI, 'assiste ao réu o direito').",
+        "Aspirar: desejar (VTI, 'aspirar ao cargo'); respirar (VTD, 'aspirar o ar').",
+        "Visar: pretender (VTI, 'visar ao bem'); mirar/dar visto (VTD).",
+        "Obedecer/desobedecer: VTI ('obedecer ao sinal').",
+        "Preferir: VTDI, 'preferir uma coisa a outra' (sem 'mais' e sem 'do que').",
+        "Esquecer/lembrar: VTD sem pronome; com pronome exigem 'de' ('esqueci-me do nome').",
+        "Implicar (acarretar): VTD ('implica prisão'); chegar/ir: preposição 'a' ('chegou ao local').",
+        "Regência nominal: apto a/para, ansioso por, respeito a/por, acessível a, contrário a."
+      ],
+      "pegadinhas": [
+        "'Assistir o filme' e 'obedecer o regulamento' — incorretos na norma-padrão.",
+        "'Prefiro mais isso do que aquilo' — duplo erro.",
+        "'Chegou em casa' é coloquial; a norma-padrão pede 'chegou a casa'."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, itens 4 e 11",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t15",
+      "titulo": "Reescrita de orações, períodos, frases e parágrafos",
+      "maisCobrado": true,
+      "resumo": "Questões de reescrita pedem a alternativa que mantém o sentido original E a correção gramatical, ou a que altera um deles. É a combinação de vários conteúdos: conectivos, pontuação, concordância, regência, colocação pronominal, vozes verbais e correlação de tempos.\n\nEstratégia: verifique primeiro se a relação lógica foi mantida (adversativa continua adversativa ou vira concessiva equivalente); depois confira a gramática (subjuntivo após 'embora', concordância na voz passiva, crase após mudança de regência).",
+      "pontosChave": [
+        "Mas/porém → embora/ainda que (com verbo no subjuntivo) mantém o contraste.",
+        "Portanto/logo não substituem adversativas.",
+        "Voz ativa → passiva: o objeto direto vira sujeito; o tempo verbal se mantém no auxiliar 'ser'.",
+        "Deslocar adjunto adverbial para o início pede vírgula (quando extenso).",
+        "Transformar oração desenvolvida em reduzida exige manter o valor semântico.",
+        "Atenção à correlação verbal: 'se adotasse → encontraria'; 'se adotar → encontrará'."
+      ],
+      "pegadinhas": [
+        "Alternativa gramaticalmente correta que altera o sentido — está errada.",
+        "Frase sem oração principal após a reescrita (fragmento).",
+        "'Como' no início do período tem valor causal, não adversativo."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 5"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t16",
+      "titulo": "Emprego dos sinais de pontuação",
+      "maisCobrado": true,
+      "resumo": "A vírgula é o sinal mais cobrado. Regra de ouro: não se separa por vírgula o sujeito do verbo, nem o verbo de seus complementos, quando estão na ordem direta. Usa-se vírgula para isolar termos deslocados ou intercalados, vocativos, apostos explicativos, enumerações e orações adjetivas explicativas.\n\nOutros sinais: dois-pontos (explicação, enumeração, citação), ponto e vírgula (separa itens longos ou orações já com vírgulas), travessão (fala de personagem ou intercalação enfática), parênteses e aspas.",
+      "pontosChave": [
+        "Vírgula separa termos de mesma função em enumeração ('na pressa, no medo e na confiança').",
+        "Isola adjunto adverbial deslocado ou intercalado ('Nas últimas décadas, porém, ...').",
+        "Isola conjunções intercaladas: 'Os resultados, contudo, ...'.",
+        "Vírgula antes de 'e' quando os sujeitos são diferentes ou no polissíndeto.",
+        "Oração adjetiva explicativa: entre vírgulas; restritiva: sem vírgula.",
+        "Dois-pontos introduzem explicação/esclarecimento ('a premissa é simples: ...').",
+        "Travessão em narrativa: fala de personagem (discurso direto)."
+      ],
+      "pegadinhas": [
+        "Vírgula entre sujeito longo e verbo — erro clássico.",
+        "Retirar as vírgulas de uma oração explicativa a torna restritiva (muda o sentido).",
+        "Vocativo sempre isolado por vírgula ('Condutor, reduza a velocidade')."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 7",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t17",
+      "titulo": "Elementos de coesão e suas funções no texto",
+      "maisCobrado": true,
+      "resumo": "Coesão é a conexão entre as partes do texto. A coesão referencial retoma (anáfora) ou antecipa (catáfora) elementos por meio de pronomes, sinônimos, hiperônimos, expressões nominais e elipse. A coesão sequencial encadeia ideias por meio de conectivos (conjunções, advérbios, locuções).\n\nA AOCP pergunta muito 'a que termo se refere o pronome X' e 'qual o valor do conectivo Y'. Pronomes demonstrativos como 'esse(s)' costumam resumir (encapsular) ideias já ditas.",
+      "pontosChave": [
+        "Anáfora: retoma algo já dito ('Seu Antônio... O velho...').",
+        "Catáfora: antecipa algo que será dito ('Só desejo isto: paz').",
+        "Este/esta: o que será dito ou o mais próximo; esse/essa: o que já foi dito.",
+        "Elipse: omissão de termo recuperável pelo contexto.",
+        "Cujo/cuja: pronome relativo de posse; concorda com o termo possuído, sem artigo depois.",
+        "Pronomes relativos (que, o qual, onde, cujo) retomam antecedente e introduzem oração adjetiva.",
+        "Conectivos sequenciais: além disso (adição), no entanto (oposição), portanto (conclusão), afinal (fechamento)."
+      ],
+      "pegadinhas": [
+        "'Onde' só para lugar físico; para ideias, use 'em que'/'no qual'.",
+        "Referente do pronome nem sempre é o termo mais próximo — leia o sentido.",
+        "'Cujo o' é erro: não se usa artigo depois de 'cujo'."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 8"
+      ]
+    },
+    {
+      "id": "lingua-portuguesa-t18",
+      "titulo": "Função textual dos vocábulos",
+      "maisCobrado": false,
+      "resumo": "Algumas palavras assumem diferentes funções conforme o contexto, e a banca pede o valor no texto. As mais cobradas são 'que' e 'se'.\n\n'Que' pode ser pronome relativo (substituível por 'o qual'), conjunção integrante (introduz oração substantiva; substituível por 'isso'), conjunção comparativa, consecutiva ('tão... que'), causal, partícula expletiva ('é... que'), pronome interrogativo, substantivo ('quê') etc. 'Se' pode ser conjunção condicional, conjunção integrante, pronome apassivador, índice de indeterminação do sujeito, pronome reflexivo ou parte integrante do verbo.",
+      "pontosChave": [
+        "Que relativo: tem antecedente e pode ser trocado por 'o qual/a qual/os quais'.",
+        "Que integrante: introduz oração substantiva; troca-se a oração por 'isso'.",
+        "Que expletivo (realce): 'é... que' pode ser retirado sem prejuízo ('É aqui que moro' → 'Aqui moro').",
+        "Que consecutivo: correlação 'tão/tanto/tal... que'.",
+        "Se apassivador: com VTD, sujeito presente ('Vendem-se casas').",
+        "Se indeterminador: com VTI, VI ou VL, verbo no singular ('Precisa-se de soldados').",
+        "Se condicional: 'Se cada cidadão adotasse...'."
+      ],
+      "pegadinhas": [
+        "Confundir 'que' relativo com integrante após substantivo ('a notícia de que...' é integrante; 'a notícia que li' é relativo).",
+        "Classificar o 'se' de verbos pronominais (encontrar-se, queixar-se) como apassivador."
+      ],
+      "referencias": [
+        "Anexo II, Língua Portuguesa, item 9",
+        "Gramáticas normativas (Bechara, Cegalla, Cunha & Cintra)"
+      ]
+    }
+  ]
+}

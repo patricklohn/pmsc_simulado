@@ -1,0 +1,371 @@
+{
+  "id": "direito-penal-militar",
+  "nome": "Direito Penal Militar",
+  "area": "direito",
+  "questoesNaProva": 6,
+  "conteudoEdital": "Direito Penal Militar: 1. Decreto-Lei nº 1001 de 1969, Parte Geral (Título I ao VIII) e Parte Especial (Título I ao VIII).",
+  "visaoGeral": "O edital cobra o Código Penal Militar (Decreto-Lei 1.001/1969) na Parte Geral inteira e no Livro I da Parte Especial (crimes militares em tempo de paz). As questões costumam explorar o conceito de crime militar do art. 9º (com as alterações das Leis 13.491/2017 e 14.688/2023), a competência da Justiça Militar estadual, as diferenças entre o CPM e o CP comum e os crimes típicos da caserna: violência contra superior, desrespeito, recusa de obediência, deserção, abandono de posto, embriaguez e dormir em serviço, peculato, concussão e corrupção. Estude pelo texto compilado do Planalto, pois a Lei 14.688/2023 alterou dezenas de artigos.",
+  "dicas": [
+    "Leia o art. 9º do CPM várias vezes, alínea por alínea, já com a redação da Lei 14.688/2023 (sem a figura do \"assemelhado\").",
+    "Faça um quadro com as diferenças entre CPM e CP: tentativa (o CPM permite a pena do consumado em caso de excepcional gravidade), estado de necessidade (teoria diferenciadora no CPM), erro de direito/erro de fato, furto de uso (crime no CPM), sursis e prescrição.",
+    "Decore as penas dos crimes militares próprios mais cobrados: deserção (detenção de 6 meses a 2 anos), abandono de posto (3 meses a 1 ano), embriaguez em serviço (6 meses a 2 anos) e dormir em serviço (3 meses a 1 ano).",
+    "Memorize os prazos da deserção: mais de 8 dias de ausência; atenuante pela apresentação voluntária (metade até 8 dias após a consumação; 1/3 até 60 dias); prescrição só extingue a punibilidade aos 45 anos (praça) ou 60 anos (oficial).",
+    "Revise a competência: crime doloso contra a vida de civil praticado por PM vai ao Tribunal do Júri; civil não é julgado pela Justiça Militar estadual (Súmula 53 do STJ).",
+    "Compare peculato, concussão e corrupção passiva no CPM (arts. 303, 305 e 308) com o CP: verbos iguais, penas diferentes. A corrupção passiva militar passou a ter pena de 2 a 12 anos com a Lei 14.688/2023.",
+    "Observe as penas principais após 2023: morte, reclusão, detenção, prisão e impedimento (as penas de suspensão do exercício e de reforma foram revogadas)."
+  ],
+  "fontesEstudo": [
+    {
+      "titulo": "Código Penal Militar – Decreto-Lei nº 1.001/1969 (texto compilado, Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm"
+    },
+    {
+      "titulo": "Lei nº 14.688/2023 – altera o Código Penal Militar (Câmara dos Deputados)",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2023/lei-14688-20-setembro-2023-794728-publicacaooriginal-169356-pl.html"
+    },
+    {
+      "titulo": "Lei nº 13.491/2017 – amplia o conceito de crime militar (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13491.htm"
+    },
+    {
+      "titulo": "Constituição Federal – art. 125, §§ 3º a 5º (Justiça Militar estadual)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    },
+    {
+      "titulo": "Código de Processo Penal Militar – Decreto-Lei nº 1.002/1969 (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002.htm"
+    },
+    {
+      "titulo": "Súmulas do STJ (pesquisa oficial)",
+      "url": "https://scon.stj.jus.br/SCON/sumstj/"
+    }
+  ],
+  "topicos": [
+    {
+      "id": "direito-penal-militar-t01",
+      "titulo": "Aplicação da lei penal militar (Título I): legalidade, lei no tempo e no espaço e conceitos de militar e de superior",
+      "maisCobrado": false,
+      "resumo": "O Título I da Parte Geral (arts. 1º a 28) traz o princípio da legalidade (art. 1º), a abolitio criminis e a retroatividade da lei mais benigna (art. 2º), a ultra-atividade das leis excepcionais e temporárias (art. 4º), o tempo do crime pela teoria da atividade (art. 5º) e o lugar do crime pela ubiquidade (art. 6º) – com a peculiaridade de que, nos crimes omissivos, o fato se considera praticado no lugar em que deveria realizar-se a ação omitida. A lei penal militar aplica-se ao crime cometido, no todo ou em parte, no território nacional ou fora dele, ainda que o agente esteja sendo processado ou já tenha sido julgado pela justiça estrangeira (art. 7º), e a pena cumprida no estrangeiro atenua a imposta no Brasil, quando diversas, ou nela é computada, quando idênticas (art. 8º).\n\nA Lei 14.688/2023 revogou a figura do \"assemelhado\" (art. 21) e deu nova redação ao art. 22: é militar, para o efeito do CPM, qualquer pessoa que, em tempo de paz ou de guerra, seja incorporada a instituições militares ou nelas matriculada, para servir em posto ou em graduação ou em regime de sujeição à disciplina militar. O art. 24 passou a definir superior como o militar que ocupa nível hierárquico, posto ou graduação superiores, conforme a antiguidade, ou o que, em virtude da função, exerce autoridade sobre outro de igual posto ou graduação; o militar sobre o qual se exerce essa autoridade é o inferior hierárquico.\n\nOutros conceitos: o militar da reserva ou reformado, quando empregado na administração militar, equipara-se ao militar da ativa (art. 12); equipara-se ao comandante toda autoridade com função de direção (art. 23); o CPM não compreende as infrações dos regulamentos disciplinares (art. 19); os crimes em tempo de guerra recebem, salvo disposição especial, as penas do tempo de paz aumentadas de 1/3 (art. 20); no cômputo dos prazos, inclui-se o dia do começo (art. 16).",
+      "pontosChave": [
+        "Tempo do crime: atividade (art. 5º); lugar: ubiquidade, mas nos omissivos vale o lugar onde deveria ser realizada a ação omitida (art. 6º).",
+        "Extraterritorialidade ampla: aplica-se mesmo que o agente esteja sendo processado ou já julgado no estrangeiro (art. 7º).",
+        "Navios e aeronaves brasileiros sob comando militar ou militarmente utilizados são extensão do território nacional (art. 7º, § 1º).",
+        "Lei 14.688/2023 revogou a figura do assemelhado (art. 21).",
+        "Militar (art. 22): pessoa incorporada às instituições militares ou nelas matriculada, para servir em posto, graduação ou regime de sujeição à disciplina militar.",
+        "Superior (art. 24): por hierarquia/antiguidade ou por função sobre militar de igual posto ou graduação.",
+        "Reserva ou reformado empregado na administração militar equipara-se ao militar da ativa (art. 12).",
+        "O CPM não abrange as transgressões disciplinares (art. 19)."
+      ],
+      "pegadinhas": [
+        "Dizer que, nos crimes omissivos, o lugar do crime é onde se produziu o resultado.",
+        "Afirmar que o assemelhado continua sujeito ao CPM.",
+        "Negar a condição de superior ao militar de mesma graduação que exerce função de comando sobre o colega."
+      ],
+      "referencias": [
+        "CPM, arts. 1º a 8º e 10 a 28",
+        "Lei 14.688/2023"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t02",
+      "titulo": "Crime militar em tempo de paz (art. 9º) e competência da Justiça Militar",
+      "maisCobrado": true,
+      "resumo": "O art. 9º é o coração da matéria. Inciso I: crimes do CPM definidos de modo diverso na lei penal comum ou nela não previstos, qualquer que seja o agente (crimes propriamente militares e outros exclusivos do CPM). Inciso II (redação da Lei 13.491/2017): os crimes previstos no CPM E OS PREVISTOS NA LEGISLAÇÃO PENAL, quando praticados: a) por militar da ativa contra militar na mesma situação; b) por militar da ativa, em lugar sujeito à administração militar, contra militar da reserva ou reformado ou contra civil; c) por militar em serviço ou atuando em razão da função, em comissão de natureza militar ou em formatura, ainda que fora do lugar sujeito à administração militar, contra militar da reserva, reformado ou civil; d) por militar, durante manobras ou exercício, contra militar da reserva ou reformado ou contra civil; e) por militar da ativa contra o patrimônio sob a administração militar ou contra a ordem administrativa militar. Inciso III: crimes praticados por militar da reserva, reformado ou civil contra as instituições militares, nas hipóteses das alíneas a a d.\n\nCom a Lei 13.491/2017, surgiram os chamados crimes militares por extensão: crimes previstos apenas na legislação penal comum ou extravagante (não no CPM) passam a ser militares quando praticados nas circunstâncias do inciso II. A Lei 14.688/2023 ajustou as alíneas (retirando o \"assemelhado\") e tornou hediondos os crimes do CPM idênticos aos da Lei 8.072/1990 (art. 1º, parágrafo único, VI).\n\nCompetência: os crimes dolosos contra a vida cometidos por militares contra civil são da competência do Tribunal do Júri (art. 9º, § 1º; CF, art. 125, § 4º), salvo, para militares das Forças Armadas, os contextos do § 2º (atribuições fixadas pelo Presidente da República ou pelo Ministro da Defesa, segurança de instituição ou missão militar, operações de paz e GLO), que vão à Justiça Militar da União. A Justiça Militar estadual julga apenas os militares dos Estados (CF, art. 125, § 4º); o civil que pratica crime contra instituição militar estadual é julgado pela Justiça Comum estadual (Súmula 53 do STJ). Outras súmulas do STJ: 6 (acidente de trânsito com viatura da PM é da Justiça Comum, salvo se autor e vítima forem policiais militares em atividade), 75 (fuga de preso de estabelecimento penal – Justiça Comum), 78 (PM que comete crime em outra unidade da Federação é julgado pela Justiça Militar da própria corporação) e 90 (crime militar e crime comum simultâneos são separados).",
+      "pontosChave": [
+        "Art. 9º, II, abrange os crimes do CPM e os previstos na legislação penal comum (Lei 13.491/2017 – crimes militares por extensão).",
+        "Alínea a: militar da ativa contra militar da ativa (redação da Lei 14.688/2023).",
+        "Alínea c: militar em serviço ou atuando em razão da função contra civil ou militar inativo, ainda que fora de lugar sujeito à administração militar.",
+        "Crime doloso contra a vida de civil praticado por militar estadual: Tribunal do Júri (art. 9º, § 1º; CF, art. 125, § 4º).",
+        "§ 2º (Forças Armadas, em contextos específicos como GLO): Justiça Militar da União.",
+        "Justiça Militar estadual não julga civis (Súmula 53 do STJ).",
+        "Súmula 6 do STJ: acidente com viatura da PM – Justiça Comum, salvo se autor e vítima forem PMs em atividade.",
+        "Súmula 78 do STJ: PM é julgado pela Justiça Militar da sua corporação, ainda que o crime ocorra em outro Estado."
+      ],
+      "pegadinhas": [
+        "Afirmar que só são crimes militares os previstos no CPM (a Lei 13.491/2017 ampliou o conceito).",
+        "Dizer que o homicídio doloso de civil por PM em serviço é julgado pela Justiça Militar estadual.",
+        "Afirmar que o civil que desacata policial militar em serviço é julgado pela Justiça Militar estadual.",
+        "Estender aos policiais militares a regra do § 2º, que é exclusiva das Forças Armadas."
+      ],
+      "referencias": [
+        "CPM, art. 9º",
+        "Lei 13.491/2017",
+        "Lei 14.688/2023",
+        "CF/88, art. 125, §§ 4º e 5º",
+        "Súmulas 6, 53, 75, 78 e 90 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t03",
+      "titulo": "Do crime (Título II): causalidade, tentativa, dolo e culpa, erro, coação, obediência hierárquica, excludentes e excesso",
+      "maisCobrado": true,
+      "resumo": "O Título II (arts. 29 a 47) segue a lógica do CP comum, mas com diferenças cobradas em prova. Tentativa: pune-se com a pena do crime consumado diminuída de 1/3 a 2/3, \"podendo o juiz, no caso de excepcional gravidade, aplicar a pena do crime consumado\" (art. 30, parágrafo único). Desistência voluntária e arrependimento eficaz: o agente só responde pelos atos já praticados (art. 31). Crime impossível: nenhuma pena é aplicável (art. 32). O crime culposo só é punido nos casos expressos (art. 33, parágrafo único).\n\nErro: o erro de direito (art. 35) permite atenuar ou substituir a pena quando o agente supõe lícito o fato por ignorância ou erro de interpretação escusáveis, SALVO em crime que atente contra o dever militar; o erro de fato plenamente escusável isenta de pena (art. 36). Não é culpado quem comete o crime sob coação irresistível ou em estrita obediência a ordem direta de superior hierárquico, em matéria de serviço (art. 38); se a ordem tem por objeto ato manifestamente criminoso, ou há excesso, também é punível o inferior (art. 38, § 2º). Nos crimes com violação do dever militar, só se admite a coação física ou material (art. 40).\n\nO CPM adota a teoria diferenciadora do estado de necessidade: exculpante (art. 39 – protege direito próprio ou de pessoa ligada por estreitas relações de parentesco ou afeição, sacrificando direito alheio ainda que superior, quando não era razoavelmente exigível conduta diversa) e justificante (art. 43 – o mal causado é consideravelmente inferior ao mal evitado, e o agente não era legalmente obrigado a arrostar o perigo). Exclusão de crime (art. 42): estado de necessidade, legítima defesa, estrito cumprimento do dever legal e exercício regular de direito; também não há crime quando o comandante de navio, aeronave ou praça de guerra, na iminência de perigo ou grave calamidade, compele os subalternos, por meios violentos, a executar serviços e manobras urgentes para salvar a unidade ou vidas. O excesso culposo é punível (art. 45); o excesso escusável, decorrente de surpresa ou perturbação de ânimo, não é punível (parágrafo único); no excesso doloso, o juiz pode atenuar a pena (art. 46). Pelo art. 47, a qualidade de superior ou inferior deixa de ser elementar quando não conhecida do agente ou quando a ação é praticada em repulsa a agressão.",
+      "pontosChave": [
+        "Tentativa: redução de 1/3 a 2/3, mas o juiz pode aplicar a pena do consumado em caso de excepcional gravidade (art. 30, parágrafo único).",
+        "Erro de direito não beneficia o agente em crime que atente contra o dever militar (art. 35).",
+        "Obediência hierárquica (art. 38, b): ordem direta de superior, em matéria de serviço; ordem manifestamente criminosa torna punível também o inferior.",
+        "Nos crimes com violação do dever militar, só a coação física ou material é invocável (art. 40).",
+        "Estado de necessidade exculpante (art. 39) x justificante (art. 43) – teoria diferenciadora.",
+        "Art. 42, parágrafo único: comandante que compele subalternos por meios violentos em perigo iminente não comete crime.",
+        "Excesso escusável (surpresa ou perturbação de ânimo) não é punível (art. 45, parágrafo único).",
+        "Art. 47: qualidade de superior/inferior desconhecida do agente deixa de ser elementar."
+      ],
+      "pegadinhas": [
+        "Dizer que a tentativa no CPM nunca pode receber a pena do crime consumado.",
+        "Afirmar que o CPM, como o CP, adota a teoria unitária do estado de necessidade.",
+        "Admitir coação moral irresistível em crime de violação do dever militar."
+      ],
+      "referencias": [
+        "CPM, arts. 29 a 47"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t04",
+      "titulo": "Imputabilidade penal (Título III) e concurso de agentes (Título IV)",
+      "maisCobrado": false,
+      "resumo": "Não é imputável quem, no momento da ação ou omissão, não possui a capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento, em virtude de doença mental ou de desenvolvimento mental incompleto ou retardado (art. 48). Se a capacidade estiver apenas consideravelmente diminuída, a pena pode ser reduzida de 1/3 a 2/3 (parágrafo único, com redação da Lei 14.688/2023). A embriaguez completa proveniente de caso fortuito ou força maior exclui a imputabilidade; a incompleta, da mesma origem, permite redução de 1/3 a 2/3 (art. 49).\n\nA Lei 14.688/2023 alinhou o CPM à Constituição: o menor de 18 anos é penalmente inimputável, ficando sujeito às normas da legislação especial (art. 50). Foram revogados os arts. 51 e 52, que permitiam equiparar a maiores os menores de 18 e maiores de 16 anos em determinadas situações.\n\nConcurso de agentes (arts. 53 e 54): quem, de qualquer modo, concorre para o crime incide nas penas a ele cominadas. A punibilidade de cada concorrente é independente e não se comunicam as condições pessoais, salvo quando elementares. A pena é agravada para quem promove ou organiza a cooperação, coage outrem, instiga subordinado ou não punível, ou age mediante paga; é atenuada para quem tem participação de somenos importância. Nos crimes de autoria coletiva necessária, reputam-se cabeças os que dirigem, provocam, instigam ou excitam a ação; quando o crime é cometido por inferiores e um ou mais oficiais, estes são considerados cabeças, assim como os inferiores que exercem função de oficial (art. 53, §§ 4º e 5º). O ajuste, a determinação ou instigação e o auxílio não são puníveis se o crime não chega, pelo menos, a ser tentado (art. 54).",
+      "pontosChave": [
+        "Inimputabilidade: critério biopsicológico (art. 48).",
+        "Semi-imputabilidade: redução de 1/3 a 2/3 (art. 48, parágrafo único).",
+        "Embriaguez completa por caso fortuito ou força maior exclui a imputabilidade (art. 49).",
+        "Menor de 18 anos é inimputável (art. 50); arts. 51 e 52 foram revogados pela Lei 14.688/2023.",
+        "Teoria monista no concurso de agentes (art. 53).",
+        "Cabeças: oficiais, quando o crime envolve inferiores e oficiais, e inferiores que exercem função de oficial (art. 53, § 5º).",
+        "Ajuste, instigação e auxílio só são puníveis se o crime for ao menos tentado (art. 54)."
+      ],
+      "pegadinhas": [
+        "Afirmar que o CPM ainda permite equiparar a maior de idade o militar de 17 anos.",
+        "Dizer que a embriaguez voluntária completa exclui a imputabilidade no CPM.",
+        "Considerar cabeça apenas quem dirige a ação, ignorando a regra especial dos oficiais."
+      ],
+      "referencias": [
+        "CPM, arts. 48 a 54",
+        "Lei 14.688/2023"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t05",
+      "titulo": "Das penas (Título V): penas principais, aplicação, sursis, livramento condicional, penas acessórias e efeitos da condenação",
+      "maisCobrado": true,
+      "resumo": "Penas principais (art. 55, após a Lei 14.688/2023): morte, reclusão, detenção, prisão e impedimento. As antigas penas de suspensão do exercício do posto, graduação, cargo ou função e de reforma foram revogadas. A pena de morte (só em tempo de guerra) é executada por fuzilamento (art. 56). Limites genéricos: reclusão de 1 a 30 anos; detenção de 30 dias a 10 anos (art. 58). A pena de reclusão ou detenção de até 2 anos aplicada a militar é convertida em prisão, quando não cabível o sursis, cumprida pelo oficial em recinto de estabelecimento militar e pela praça em estabelecimento penal militar (art. 59); acima de 2 anos, cumpre-se em penitenciária militar ou, na falta, em estabelecimento prisional civil (art. 61). O impedimento sujeita o condenado a permanecer no recinto da unidade, sem prejuízo da instrução militar (art. 63).\n\nAplicação da pena: o juiz considera a gravidade do crime e a personalidade do réu (art. 69). Agravantes (art. 70) incluem reincidência, motivo fútil ou torpe, embriaguez (salvo caso fortuito), estar de serviço e emprego de arma ou material de serviço; algumas só agravam o crime praticado por militar (parágrafo único). Reincidência temporária de 5 anos (art. 71). Quando a lei não menciona o quantum, a agravação ou atenuação fica entre 1/5 e 1/3 (art. 73). Concurso material soma as penas (art. 79); concurso formal aumenta de 1/6 até metade (art. 79-A); crime continuado aumenta de 1/6 a 2/3, ou até o triplo nos casos de violência contra vítimas diferentes (art. 80); pena unificada não ultrapassa 30 anos (reclusão) ou 15 anos (detenção) (art. 81).\n\nSursis (art. 84): pena não superior a 2 anos, suspensa por 3 a 5 anos (reclusão) ou 2 a 4 anos (detenção); para maiores de 70 anos ou por razões de saúde, pena de até 4 anos, suspensa por 4 a 6 anos. Não se aplica em tempo de guerra nem, em tempo de paz, a crimes como violência contra superior ou militar de serviço, desrespeito a superior, insubordinação e deserção (art. 88). Livramento condicional (art. 89): pena igual ou superior a 2 anos, cumprida metade (primário) ou dois terços (reincidente). Penas acessórias (art. 98): perda de posto e patente, indignidade e incompatibilidade com o oficialato, exclusão das Forças Armadas, perda da função pública, inabilitação para função pública, incapacidade para o poder familiar, tutela ou curatela e suspensão dos direitos políticos. Efeitos da condenação: tornar certa a obrigação de reparar o dano e perda de instrumentos e produtos do crime em favor da Fazenda Pública (art. 109).",
+      "pontosChave": [
+        "Penas principais: morte, reclusão, detenção, prisão e impedimento (art. 55, com a Lei 14.688/2023).",
+        "Reclusão: 1 a 30 anos; detenção: 30 dias a 10 anos (art. 58).",
+        "Pena de até 2 anos aplicada a militar é convertida em prisão, se não couber sursis (art. 59).",
+        "Agravação/atenuação sem quantum definido: de 1/5 a 1/3 (art. 73).",
+        "Sursis: pena até 2 anos; prova de 3 a 5 anos (reclusão) ou 2 a 4 anos (detenção) (art. 84).",
+        "Sem sursis para violência contra superior, desrespeito, insubordinação e deserção (art. 88).",
+        "Livramento: pena ≥ 2 anos, cumprida metade (primário) ou 2/3 (reincidente) (art. 89).",
+        "Perda de posto e patente: condenação a pena privativa de liberdade superior a 2 anos, por crime comum ou militar (art. 99)."
+      ],
+      "pegadinhas": [
+        "Incluir a reforma ou a suspensão do exercício do posto entre as penas principais vigentes.",
+        "Usar no CPM o período de prova do sursis do CP (2 a 4 anos) também para a reclusão.",
+        "Afirmar que o desertor pode receber sursis."
+      ],
+      "referencias": [
+        "CPM, arts. 55 a 109",
+        "Lei 14.688/2023"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t06",
+      "titulo": "Medidas de segurança, ação penal e extinção da punibilidade (Títulos VI a VIII)",
+      "maisCobrado": false,
+      "resumo": "Medidas de segurança (arts. 110 a 120): são pessoais ou patrimoniais. As pessoais dividem-se em detentivas (internação em estabelecimento de custódia e tratamento ou em seção especial de estabelecimento penal) e não detentivas (tratamento ambulatorial, interdição de licença para dirigir, exílio local e proibição de frequentar determinados lugares). As patrimoniais são a interdição de estabelecimento ou sede de sociedade ou associação e o confisco. A internação ou o tratamento ambulatorial têm prazo indeterminado, com mínimo de 1 a 3 anos (art. 112, § 1º).\n\nAção penal (arts. 121 e 122): é promovida pelo Ministério Público; a Lei 14.688/2023 passou a admitir ação privada subsidiária, se a ação pública não for intentada no prazo legal. Nos crimes dos arts. 136 a 141 (segurança externa), quando o agente for militar, a ação depende de requisição do Comando da Força a que estiver subordinado.\n\nExtinção da punibilidade (art. 123): morte do agente; anistia, graça ou indulto; retroatividade de lei que não mais considera o fato criminoso; prescrição; ressarcimento do dano no peculato culposo; e perdão judicial, nos casos previstos em lei. A prescrição da pretensão punitiva regula-se pelo máximo da pena (art. 125): 30 anos para a pena de morte; 20, 16, 12, 8 e 4 anos nas faixas equivalentes às do CP; 3 anos se o máximo for inferior a 1 ano. Os prazos são reduzidos de metade se o agente era, ao tempo do crime, menor de 21 ou maior de 70 anos (art. 129). Regras especiais: na insubmissão, a prescrição começa a correr quando o insubmisso completa 30 anos (art. 131); na deserção, mesmo decorrido o prazo, a prescrição só extingue a punibilidade quando o desertor atinge 45 anos ou, se oficial, 60 anos (art. 132). A execução das penas acessórias é imprescritível (art. 130), e a prescrição deve ser declarada de ofício (art. 133). A reabilitação pode ser requerida 5 anos após a extinção da pena (art. 134).",
+      "pontosChave": [
+        "Medidas de segurança pessoais (detentivas e não detentivas) e patrimoniais (interdição e confisco) – art. 110.",
+        "Ação penal pública, promovida pelo MP; ação privada subsidiária admitida (art. 121, parágrafo único).",
+        "Crimes dos arts. 136 a 141: ação depende de requisição do Comando da Força, se o agente for militar (art. 122).",
+        "Extinção: morte, anistia/graça/indulto, abolitio, prescrição, ressarcimento no peculato culposo e perdão judicial (art. 123).",
+        "Prescrição: 30 anos para a pena de morte; 3 anos se o máximo for inferior a 1 ano (art. 125).",
+        "Insubmissão: prescrição corre a partir dos 30 anos de idade (art. 131).",
+        "Deserção: punibilidade só se extingue aos 45 anos (praça) ou 60 anos (oficial) (art. 132).",
+        "Penas acessórias: execução imprescritível (art. 130). Reabilitação: 5 anos (art. 134)."
+      ],
+      "pegadinhas": [
+        "Dizer que, na deserção, basta o decurso do prazo prescricional comum para extinguir a punibilidade.",
+        "Afirmar que o CPM não admite ação penal privada em hipótese alguma.",
+        "Usar o prazo de 2 anos do CP para a reabilitação no CPM (são 5 anos)."
+      ],
+      "referencias": [
+        "CPM, arts. 110 a 135"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t07",
+      "titulo": "Crimes contra a segurança externa do país (Parte Especial, Título I)",
+      "maisCobrado": false,
+      "resumo": "O Título I da Parte Especial (arts. 136 a 148) protege a segurança externa do Brasil. Destacam-se: hostilidade contra país estrangeiro (art. 136 – praticar o militar ato de hostilidade que exponha o Brasil a perigo de guerra), provocação a país estrangeiro (art. 137), ato de jurisdição indevida (art. 138), violação de território estrangeiro (art. 139), entendimento para empenhar o Brasil à neutralidade ou à guerra (art. 140), entendimento para gerar conflito ou divergência com o Brasil (art. 141), tentativa contra a soberania do Brasil (art. 142), consecução de notícia, informação ou documento para fim de espionagem (art. 143), revelação de notícia, informação ou documento sigiloso (art. 144), turbação de objeto ou documento (art. 145), penetração com o fim de espionagem (art. 146), desenho ou levantamento de plano ou planta de local militar (art. 147) e sobrevoo em local interdito (art. 148).\n\nNos crimes dos arts. 136 a 141, a ação penal, quando o agente for militar, depende de requisição do Comando da Força a que estiver subordinado; no caso do art. 141, se o agente for civil e não houver coautor militar, a requisição é do Ministério da Justiça (art. 122). Pelo art. 28, os crimes contra a segurança externa do país ou contra as instituições militares definidos no CPM excluem os da mesma natureza definidos em outras leis.",
+      "pontosChave": [
+        "Título I = crimes contra a segurança externa (arts. 136 a 148).",
+        "Espionagem: arts. 143 a 146.",
+        "Ação penal dos arts. 136 a 141 depende de requisição (art. 122).",
+        "Prevalência do CPM sobre outras leis para crimes contra a segurança externa e contra as instituições militares (art. 28).",
+        "Vários tipos exigem a qualidade de militar (ex.: art. 136 – \"praticar o militar\")."
+      ],
+      "pegadinhas": [
+        "Classificar a espionagem como crime contra a autoridade ou a disciplina militar.",
+        "Dizer que a requisição se aplica a todos os crimes do Título I (vale para os arts. 136 a 141)."
+      ],
+      "referencias": [
+        "CPM, arts. 28, 122 e 136 a 148"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t08",
+      "titulo": "Crimes contra a autoridade ou disciplina militar (Parte Especial, Título II)",
+      "maisCobrado": true,
+      "resumo": "Motim (art. 149): reunirem-se militares agindo contra a ordem recebida de superior ou negando-se a cumpri-la, recusando obediência, assentindo em recusa conjunta ou ocupando quartel, navio, aeronave etc. – reclusão de 4 a 8 anos, com aumento de 1/3 para os cabeças. Se os agentes estavam armados, há revolta (parágrafo único – reclusão de 8 a 20 anos). Também são crimes a organização de grupo para a prática de violência (art. 150), a omissão de lealdade militar (art. 151), a conspiração (art. 152 – isento de pena quem denuncia o ajuste a tempo), a aliciação (art. 154), o incitamento (art. 155) e a apologia de fato criminoso (art. 156).\n\nViolência contra superior (art. 157): detenção de 3 meses a 2 anos; reclusão de 3 a 9 anos se o superior é comandante da unidade ou oficial-general; aumento de 1/3 se praticada com arma e de 1/6 se ocorre em serviço; se resultar morte, reclusão de 12 a 30 anos. Violência contra militar de serviço (art. 158 – oficial de dia, de serviço ou de quarto, sentinela, vigia ou plantão): reclusão de 3 a 8 anos. Desrespeito a superior (art. 160): desrespeitar superior diante de outro militar – detenção de 3 meses a 1 ano, aumentada de metade se contra comandante, oficial-general ou oficial de serviço. Desrespeito a símbolo nacional (art. 161) e despojamento desprezível de uniforme ou insígnia (art. 162). Insubordinação: recusa de obediência a ordem do superior sobre assunto ou matéria de serviço (art. 163 – detenção de 1 a 2 anos), oposição a ordem de sentinela (art. 164), reunião ilícita (art. 165) e publicação ou crítica indevida (art. 166).\n\nUsurpação e excesso ou abuso de autoridade: assunção de comando sem ordem (art. 167), conservação ilegal de comando (art. 168), uso indevido de uniforme ou insígnia (arts. 171 e 172), rigor excessivo (art. 174 – exceder a faculdade de punir o subordinado, com rigor não permitido, ou ofendê-lo por palavra, ato ou escrito), violência contra inferior (art. 175) e ofensa aviltante a inferior (art. 176). Resistência mediante ameaça ou violência (art. 177 – detenção de 6 meses a 2 anos; reclusão de 2 a 4 anos se o ato não se executa; reclusão de 6 a 20 anos se resulta morte). Fuga de preso (art. 178), fuga culposa (art. 179 – deixar, por culpa, fugir pessoa legalmente presa confiada à sua guarda ou condução), evasão, arrebatamento e amotinamento de presos (arts. 180 a 182).",
+      "pontosChave": [
+        "Motim (desarmados): reclusão de 4 a 8 anos; revolta (armados): 8 a 20 anos; cabeças com +1/3.",
+        "Violência contra superior: aumento de 1/3 com arma e de 1/6 se em serviço (art. 157, §§ 2º e 5º).",
+        "Violência contra militar de serviço (sentinela, vigia, plantão, oficial de dia): reclusão de 3 a 8 anos (art. 158).",
+        "Desrespeito a superior exige que o fato ocorra diante de outro militar (art. 160).",
+        "Recusa de obediência: ordem do superior sobre assunto ou matéria de serviço (art. 163).",
+        "Rigor excessivo (art. 174), violência contra inferior (art. 175) e ofensa aviltante (art. 176): crimes do superior contra o subordinado.",
+        "Fuga culposa de preso sob guarda: detenção de 3 meses a 1 ano (art. 179).",
+        "Resistência com resultado morte: reclusão de 6 a 20 anos (art. 177, § 1º-A, incluído pela Lei 14.688/2023)."
+      ],
+      "pegadinhas": [
+        "Trocar motim (militares desarmados) por revolta (armados).",
+        "Dizer que o desrespeito a superior se consuma mesmo sem a presença de outro militar.",
+        "Enquadrar como violência contra superior a agressão a sentinela que não é superior (art. 158)."
+      ],
+      "referencias": [
+        "CPM, arts. 149 a 182"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t09",
+      "titulo": "Crimes contra o serviço militar e o dever militar (Parte Especial, Título III): insubmissão, deserção, abandono de posto, embriaguez e dormir em serviço",
+      "maisCobrado": true,
+      "resumo": "Insubmissão (art. 183): deixar o convocado de apresentar-se à incorporação no prazo marcado, ou ausentar-se antes do ato oficial de incorporação – pena de impedimento de 3 meses a 1 ano. É crime propriamente militar praticado por civil. Também integram o capítulo a criação ou simulação de incapacidade física (art. 184), a substituição de convocado (art. 185) e o favorecimento a convocado (art. 186).\n\nDeserção (art. 187): ausentar-se o militar, sem licença, da unidade em que serve, ou do lugar em que deve permanecer, por mais de 8 dias – detenção de 6 meses a 2 anos; se oficial, a pena é agravada. Casos assimilados (art. 188): não se apresentar no lugar designado dentro de 8 dias após o fim do trânsito ou das férias, ou após o término ou cassação da licença, ou após cumprir a pena, entre outros. Atenuante especial (art. 189): apresentação voluntária dentro de 8 dias após a consumação reduz a pena de metade; de mais de 8 até 60 dias, de 1/3. Agravante especial: deserção em unidade estacionada em fronteira ou país estrangeiro (+1/3). Há ainda a deserção especial (art. 190 – deixar de apresentar-se no momento da partida do navio, da aeronave ou do deslocamento da unidade), o concerto para deserção (art. 191), a deserção por evasão ou fuga (art. 192), o favorecimento a desertor (art. 193 – isento de pena o ascendente, descendente, cônjuge ou irmão) e a omissão de oficial (art. 194).\n\nAbandono de posto (art. 195): abandonar, sem ordem superior, o posto ou lugar de serviço que lhe tenha sido designado, ou o serviço que lhe cumpria, antes de terminá-lo – detenção de 3 meses a 1 ano. Descumprimento de missão (art. 196). Embriaguez em serviço (art. 202): embriagar-se o militar, quando em serviço, ou apresentar-se embriagado para prestá-lo – detenção de 6 meses a 2 anos. Dormir em serviço (art. 203): dormir o militar, quando em serviço, como oficial de quarto ou de ronda, ou em situação equivalente, ou, não sendo oficial, em serviço de sentinela, vigia, plantão às máquinas, ao leme, de ronda ou em qualquer serviço de natureza semelhante – detenção de 3 meses a 1 ano. O capítulo IV trata do exercício de comércio por oficial da ativa (art. 204).",
+      "pontosChave": [
+        "Insubmissão: crime propriamente militar cometido por civil convocado; pena de impedimento (art. 183).",
+        "Deserção: ausência sem licença por MAIS de 8 dias; detenção de 6 meses a 2 anos (art. 187).",
+        "Apresentação voluntária: até 8 dias após a consumação reduz a pena pela metade; de 8 a 60 dias, 1/3 (art. 189).",
+        "Deserção não admite sursis (art. 88) e sua prescrição só extingue a punibilidade aos 45/60 anos (art. 132).",
+        "Abandono de posto: detenção de 3 meses a 1 ano (art. 195).",
+        "Embriaguez em serviço: embriagar-se em serviço OU apresentar-se embriagado para prestá-lo; detenção de 6 meses a 2 anos (art. 202).",
+        "Dormir em serviço: detenção de 3 meses a 1 ano; abrange sentinela, vigia, plantão, ronda e serviços semelhantes (art. 203).",
+        "Favorecimento a desertor: isento de pena o ascendente, descendente, cônjuge ou irmão (art. 193, parágrafo único)."
+      ],
+      "pegadinhas": [
+        "Dizer que a deserção se consuma com 8 dias de ausência (são MAIS de 8 dias).",
+        "Afirmar que só há embriaguez em serviço se o militar beber durante o serviço (apresentar-se embriagado também é crime).",
+        "Considerar a insubmissão crime praticado por militar da ativa."
+      ],
+      "referencias": [
+        "CPM, arts. 183 a 204",
+        "CPM, arts. 88 e 132"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t10",
+      "titulo": "Crimes contra a pessoa (Parte Especial, Título IV)",
+      "maisCobrado": false,
+      "resumo": "Homicídio simples (art. 205): reclusão de 6 a 20 anos; o juiz pode reduzir a pena de 1/6 a 1/3 nas hipóteses de relevante valor social ou moral ou domínio de violenta emoção logo após injusta provocação da vítima (§ 1º). O homicídio qualificado (§ 2º – reclusão de 12 a 30 anos) inclui qualificadoras semelhantes às do CP e uma própria do CPM: prevalecer-se o agente da situação de serviço (inciso VI). A Lei 14.688/2023 incluiu o inciso VII, que qualifica o homicídio contra autoridade ou agente descrito nos arts. 142 e 144 da CF, integrantes do sistema prisional e da Força Nacional, no exercício da função ou em decorrência dela, ou contra seus familiares, em razão dessa condição.\n\nHomicídio culposo (art. 206): detenção de 1 a 4 anos, com aumento de 1/3 por inobservância de regra técnica ou omissão de socorro. Lesão corporal (art. 209): leve, grave (§ 1º), gravíssima (§ 2º), qualificada pelo resultado (§ 3º) e, desde 2023, seguida de morte (§ 3º-A – reclusão de 4 a 12 anos). Também há genocídio (art. 208), rixa (art. 211), abandono de pessoa (art. 212), maus-tratos (art. 213), crimes contra a honra (arts. 214 a 221, com aumento de 1/3 se cometidos contra superior ou contra militar em razão de suas funções – art. 218), crimes contra a liberdade (constrangimento ilegal, ameaça, sequestro, violação de domicílio etc.), crimes sexuais (estupro, art. 232, unificado com o antigo atentado violento ao pudor; ato de libidinagem em lugar sujeito à administração militar, art. 235) e ultraje público ao pudor (arts. 238 e 239).",
+      "pontosChave": [
+        "Homicídio simples: 6 a 20 anos; qualificado: 12 a 30 anos (art. 205).",
+        "Qualificadora própria do CPM: prevalecer-se da situação de serviço (art. 205, § 2º, VI).",
+        "Homicídio contra agente de segurança pública em razão da função é qualificado (art. 205, § 2º, VII).",
+        "Lesão corporal seguida de morte: reclusão de 4 a 12 anos (art. 209, § 3º-A).",
+        "Crimes contra a honra contra superior ou militar em razão da função: aumento de 1/3 (art. 218).",
+        "Estupro (art. 232): reclusão de 6 a 10 anos; o art. 233 foi revogado pela Lei 14.688/2023."
+      ],
+      "pegadinhas": [
+        "Desconhecer a qualificadora \"prevalecendo-se o agente da situação de serviço\", que não existe no CP.",
+        "Afirmar que o homicídio doloso de civil por PM em serviço, por estar no CPM, é julgado pela Justiça Militar (vai ao Júri)."
+      ],
+      "referencias": [
+        "CPM, arts. 205 a 239"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t11",
+      "titulo": "Crimes contra o patrimônio (Parte Especial, Título V)",
+      "maisCobrado": false,
+      "resumo": "Furto (art. 240): reclusão de até 6 anos. Furto atenuado: se o agente é primário e de pequeno valor a coisa (não excedente a 1/10 do maior salário mínimo), o juiz pode substituir a reclusão por detenção, diminuí-la de 1 a 2/3 ou considerar a infração como disciplinar (§ 1º); a atenuação também vale se o agente primário restitui a coisa ou repara o dano antes de instaurada a ação penal (§ 2º). Há qualificadoras pelo repouso noturno, por pertencer a coisa à Fazenda Pública, por destruição de obstáculo, abuso de confiança, fraude, escalada, destreza, chave falsa e concurso de pessoas; a Lei 14.688/2023 incluiu a subtração de arma e material militar. Diferentemente do CP, o CPM pune o furto de uso (art. 241 – subtrair coisa para uso momentâneo e restituí-la imediatamente: detenção até 6 meses, aumentada de metade se a coisa é veículo motorizado, embarcação, aeronave ou arma).\n\nRoubo (art. 242 – reclusão de 4 a 15 anos, com aumento de 1/3 até metade nas hipóteses do § 2º, entre elas a de a vítima estar em serviço de natureza militar), extorsão (art. 243), extorsão mediante sequestro (art. 244), chantagem (art. 245), extorsão indireta (art. 246), apropriação indébita (art. 248), estelionato e outras fraudes (art. 251), receptação (art. 254 – qualificada se a coisa é arma, munição, explosivo ou material militar de uso restrito: reclusão de 3 a 10 anos), dano (arts. 259 a 266) e usura (art. 267).",
+      "pontosChave": [
+        "Furto simples no CPM: reclusão até 6 anos (art. 240).",
+        "Furto atenuado: o juiz pode até considerar o fato infração disciplinar (art. 240, § 1º).",
+        "Furto de uso é crime no CPM (art. 241), ao contrário do CP.",
+        "Furto de uso de veículo, embarcação, aeronave ou arma: aumento de metade.",
+        "Roubo: aumento se a vítima está em serviço de natureza militar (art. 242, § 2º, IV).",
+        "Receptação de arma, munição ou material militar de uso restrito: reclusão de 3 a 10 anos (art. 254, § 2º)."
+      ],
+      "pegadinhas": [
+        "Afirmar que o furto de uso é fato atípico também no CPM.",
+        "Dizer que o furto atenuado jamais pode ser tratado como infração disciplinar."
+      ],
+      "referencias": [
+        "CPM, arts. 240 a 267"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t12",
+      "titulo": "Crimes contra a incolumidade pública (Parte Especial, Título VI), com destaque para o art. 290 (entorpecentes)",
+      "maisCobrado": false,
+      "resumo": "O Título VI (arts. 268 a 297) reúne crimes de perigo comum praticados em lugar sujeito à administração militar (incêndio, explosão, inundação, desabamento etc.), crimes contra os meios de transporte e de comunicação – inclusive dirigir veículo motorizado sob administração militar, na via pública, em estado de embriaguez (art. 279 – detenção de 3 meses a 1 ano) e violar regra de trânsito expondo a perigo a incolumidade alheia (art. 280) – e crimes contra a saúde.\n\nO mais cobrado é o art. 290: receber, preparar, produzir, vender, fornecer, ter em depósito, transportar, trazer consigo, ainda que para uso próprio, guardar, ministrar ou entregar de qualquer forma a consumo substância entorpecente ou que determine dependência física ou psíquica, em lugar sujeito à administração militar, sem autorização ou em desacordo com determinação legal ou regulamentar – reclusão de até 5 anos. Incorre na mesma pena, ainda que fora do lugar sujeito à administração militar, o militar que fornece droga a outro militar, o militar que, em serviço ou missão, pratica qualquer das condutas e quem fornece droga a militar em serviço, manobras ou exercício (§ 1º). O STF (Plenário, HC 103.684) firmou que o art. 290 prevalece pelo critério da especialidade sobre a Lei 11.343/2006 e que não se aplica o princípio da insignificância à posse de pequena quantidade de droga em lugar sujeito à administração militar. A Lei 14.688/2023 acrescentou formas mais graves para o tráfico (§§ 3º a 5º).",
+      "pontosChave": [
+        "Art. 290: posse de droga em lugar sujeito à administração militar, \"ainda que para uso próprio\", é crime punido com reclusão de até 5 anos.",
+        "O art. 290 não distingue usuário de traficante no caput.",
+        "STF: não se aplica a insignificância nem o art. 28 da Lei 11.343/2006 a esses casos (especialidade).",
+        "Embriaguez ao volante de veículo sob administração militar: art. 279.",
+        "Crimes de perigo comum no CPM exigem, em regra, lugar sujeito à administração militar."
+      ],
+      "pegadinhas": [
+        "Aplicar ao militar flagrado com droga no quartel as medidas educativas do art. 28 da Lei de Drogas.",
+        "Reconhecer insignificância pela pequena quantidade de droga."
+      ],
+      "referencias": [
+        "CPM, arts. 268 a 297",
+        "STF, HC 103.684/DF (Plenário)"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t13",
+      "titulo": "Crimes contra a administração militar (Parte Especial, Título VII)",
+      "maisCobrado": true,
+      "resumo": "Desacato a superior (art. 298): desacatar superior, ofendendo-lhe a dignidade ou o decoro, ou procurando deprimir-lhe a autoridade – reclusão de até 4 anos, agravada se o superior é oficial-general ou comandante da unidade. Desacato a militar no exercício de função de natureza militar ou em razão dela (art. 299) e desacato a servidor público em lugar sujeito à administração militar (art. 300) – detenção de 6 meses a 2 anos. Desobediência a ordem legal de autoridade militar (art. 301 – detenção até 6 meses) e ingresso clandestino em local sob administração militar (art. 302).\n\nPeculato (art. 303): apropriar-se de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse ou detenção em razão do cargo ou comissão, ou desviá-lo – reclusão de 3 a 15 anos, aumentada de 1/3 se o valor superar 20 salários mínimos. Peculato-furto (§ 2º): o agente, sem ter a posse, subtrai ou contribui para a subtração valendo-se da facilidade que lhe proporciona a qualidade de militar ou de servidor. Peculato culposo (§ 3º – detenção de 3 meses a 1 ano), em que a reparação do dano antes da sentença irrecorrível extingue a punibilidade e, depois, reduz a pena de metade (§ 4º). Peculato mediante aproveitamento do erro de outrem (art. 304).\n\nConcussão (art. 305): EXIGIR vantagem indevida – reclusão de 2 a 8 anos. Excesso de exação (art. 306) e desvio (art. 307). Corrupção passiva (art. 308): SOLICITAR ou RECEBER vantagem indevida, ou ACEITAR promessa – reclusão de 2 a 12 anos (redação da Lei 14.688/2023), aumentada de 1/3 se o agente retarda, deixa de praticar ou pratica ato com infração de dever funcional. Corrupção ativa (art. 309), participação ilícita (art. 310), falsidades (arts. 311 a 318), prevaricação (art. 319 – retardar ou deixar de praticar ato de ofício para satisfazer interesse ou sentimento pessoal), inobservância de lei, regulamento ou instrução (art. 324), violação de sigilo (arts. 325 e 326), abandono de cargo (art. 330) e crimes de particular contra a administração militar (arts. 332 a 339).",
+      "pontosChave": [
+        "Desacato a superior: reclusão de até 4 anos (art. 298).",
+        "Desacato a militar em função de natureza militar: detenção de 6 meses a 2 anos (art. 299).",
+        "Peculato militar: reclusão de 3 a 15 anos (art. 303), pena maior que a do CP.",
+        "Peculato-furto: subtração valendo-se da facilidade proporcionada pela qualidade de militar (art. 303, § 2º).",
+        "Peculato culposo: reparação antes da sentença irrecorrível extingue a punibilidade (art. 303, § 4º).",
+        "Concussão (exigir): reclusão de 2 a 8 anos (art. 305).",
+        "Corrupção passiva (solicitar/receber/aceitar promessa): reclusão de 2 a 12 anos (art. 308).",
+        "Desobediência a ordem legal de autoridade militar: detenção até 6 meses (art. 301)."
+      ],
+      "pegadinhas": [
+        "Supor que as penas do peculato e da concussão militares são iguais às do CP.",
+        "Confundir concussão (exigir) com corrupção passiva (solicitar).",
+        "Atribuir ao desacato a superior a pena de detenção até 6 meses (é reclusão de até 4 anos)."
+      ],
+      "referencias": [
+        "CPM, arts. 298 a 339"
+      ]
+    },
+    {
+      "id": "direito-penal-militar-t14",
+      "titulo": "Crimes contra a administração da Justiça Militar (Parte Especial, Título VIII)",
+      "maisCobrado": false,
+      "resumo": "O Título VIII (arts. 340 a 354) protege a regular atuação da Justiça Militar. Destacam-se: recusa de função na Justiça Militar (art. 340), desacato a autoridade judiciária militar (art. 341 – reclusão de até 4 anos), coação no curso do processo (art. 342), denunciação caluniosa (art. 343), comunicação falsa de crime (art. 344), autoacusação falsa (art. 345), falso testemunho ou falsa perícia (art. 346 – reclusão de 2 a 6 anos, aumentada de 1/3 se praticado mediante suborno; o fato deixa de ser punível se, antes da sentença, o agente se retrata ou declara a verdade), corrupção ativa de testemunha, perito ou intérprete (art. 347), publicidade opressiva (art. 348), desobediência a decisão judicial (art. 349), favorecimento pessoal (art. 350), favorecimento real (art. 351), inutilização, sonegação ou descaminho de material probante (art. 352), exploração de prestígio (art. 353) e desobediência a decisão sobre perda ou suspensão de atividade ou direito (art. 354).\n\nNo favorecimento pessoal (art. 350), quem auxilia autor de crime militar punido com morte ou reclusão a subtrair-se à ação da autoridade recebe detenção até 6 meses; se o crime for punido com detenção ou impedimento, detenção até 3 meses; e fica isento de pena quem presta o auxílio sendo ascendente, descendente, cônjuge ou irmão do criminoso.",
+      "pontosChave": [
+        "Falso testemunho (art. 346): retratação antes da sentença torna o fato impunível.",
+        "Favorecimento pessoal (art. 350): isenção de pena para ascendente, descendente, cônjuge ou irmão.",
+        "Desacato a autoridade judiciária militar: reclusão de até 4 anos (art. 341).",
+        "Denunciação caluniosa no CPM exige imputação de crime sujeito à jurisdição militar (art. 343)."
+      ],
+      "pegadinhas": [
+        "Estender a isenção do favorecimento pessoal a amigos ou companheiros de farda.",
+        "Dizer que a retratação no falso testemunho só reduz a pena."
+      ],
+      "referencias": [
+        "CPM, arts. 340 a 354"
+      ]
+    }
+  ]
+}

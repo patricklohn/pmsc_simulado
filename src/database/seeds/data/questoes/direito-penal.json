@@ -1,0 +1,614 @@
+[
+  {
+    "id": "direito-penal-001",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t01",
+    "enunciado": "Sobre a lei penal em branco, assinale a alternativa que apresenta exemplo de norma penal em branco HETEROGÊNEA (em sentido estrito).",
+    "alternativas": {
+      "A": "O crime de homicídio simples, previsto no art. 121, caput, do Código Penal.",
+      "B": "O tráfico de drogas (art. 33 da Lei 11.343/2006), cujo conceito de droga é complementado por portaria da Anvisa.",
+      "C": "O crime de furto simples, previsto no art. 155, caput, do Código Penal.",
+      "D": "O peculato (art. 312 do CP), complementado pelo conceito de funcionário público do art. 327 do próprio Código.",
+      "E": "O crime de estupro, previsto no art. 213 do Código Penal."
+    },
+    "correta": "B",
+    "comentario": "Correta a B. Lei penal em branco heterogênea é aquela cujo complemento provém de norma de espécie diversa da lei, como a Portaria SVS/MS nº 344/1998, que relaciona as substâncias consideradas drogas para a Lei 11.343/2006 (art. 1º, parágrafo único, e art. 66). A D traz exemplo de lei penal em branco HOMOGÊNEA (complemento na própria lei – art. 327 do CP). A, C e E são tipos completos, que não dependem de complemento normativo.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-002",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t01",
+    "enunciado": "Acerca do conflito aparente de normas penais, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Pelo princípio da especialidade, a norma especial, que contém todos os elementos da geral e mais alguns especializantes, prevalece sobre esta.",
+      "B": "Pelo princípio da subsidiariedade, a norma primária prevalece sobre a subsidiária, que só incide quando o fato não constitui crime mais grave.",
+      "C": "Pelo princípio da consunção, o crime-meio pode ser absorvido pelo crime-fim, como no falso que se exaure no estelionato (Súmula 17 do STJ).",
+      "D": "Pelo princípio da alternatividade, quem pratica, no mesmo contexto, mais de um verbo de um tipo misto alternativo comete crime único.",
+      "E": "Pelo princípio da especialidade, prevalece sempre a norma que comina a pena mais grave, ainda que seja a norma geral."
+    },
+    "correta": "E",
+    "comentario": "A alternativa E é a incorreta: a especialidade não depende da gravidade da pena. A norma especial prevalece sobre a geral mesmo quando é mais branda (ex.: infanticídio – art. 123 – prevalece sobre o homicídio – art. 121). As demais alternativas descrevem corretamente a especialidade (A), a subsidiariedade expressa, como no art. 132 do CP (B), a consunção, conforme a Súmula 17 do STJ (C), e a alternatividade nos tipos de ação múltipla (D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-003",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t02",
+    "enunciado": "Às 23h50 do dia anterior ao seu 18º aniversário, João efetuou disparos de arma de fogo contra Pedro, com intenção de matá-lo. Pedro foi socorrido, mas faleceu no hospital três dias depois. De acordo com o Código Penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "João responderá por homicídio consumado, pois o crime se considera praticado no momento do resultado, quando ele já era maior de idade.",
+      "B": "João responderá por homicídio tentado, pois na data da ação ainda não havia resultado morte.",
+      "C": "João é penalmente inimputável, pois se considera praticado o crime no momento da ação ou omissão, ainda que outro seja o do resultado.",
+      "D": "Aplica-se a teoria da ubiquidade quanto ao tempo do crime, devendo o juiz escolher o momento mais favorável ao réu.",
+      "E": "João responderá pelo crime como imputável, mas com a pena reduzida de um a dois terços pela menoridade."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. O CP adota a teoria da atividade quanto ao tempo do crime: \"Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado\" (art. 4º). Como João tinha 17 anos no momento dos disparos, é inimputável (art. 27 do CP e art. 228 da CF), sujeitando-se ao ECA. A ubiquidade (D) refere-se ao LUGAR do crime (art. 6º). A e B adotam critérios errados, e a E não tem previsão legal.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-004",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t02",
+    "enunciado": "De acordo com o art. 7º do Código Penal, ficam sujeitos à lei brasileira, de forma INCONDICIONADA, embora cometidos no estrangeiro, os crimes",
+    "alternativas": {
+      "A": "praticados por brasileiro, em qualquer hipótese.",
+      "B": "praticados em aeronaves ou embarcações brasileiras, mercantes ou de propriedade privada, quando em território estrangeiro e aí não sejam julgados.",
+      "C": "que, por tratado ou convenção, o Brasil se obrigou a reprimir.",
+      "D": "contra o patrimônio ou a fé pública de sociedade de economia mista instituída pelo Poder Público.",
+      "E": "cometidos por estrangeiro contra brasileiro fora do Brasil."
+    },
+    "correta": "D",
+    "comentario": "Correta a D: o art. 7º, I, b, do CP prevê a extraterritorialidade incondicionada para os crimes contra o patrimônio ou a fé pública da União, do DF, de Estado, de Território, de Município, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo Poder Público. As hipóteses das alternativas A, B e C estão no inciso II (extraterritorialidade condicionada), e a da E, no § 3º, também condicionada, pois exige os requisitos do § 2º e outros adicionais.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-005",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t03",
+    "enunciado": "Durante uma discussão de trânsito, Carlos desferiu um soco no rosto de Marcos, com a intenção apenas de machucá-lo. Marcos caiu, bateu a cabeça no meio-fio e morreu. As circunstâncias evidenciam que Carlos não quis o resultado morte nem assumiu o risco de produzi-lo. Nessa situação, Carlos responderá por",
+    "alternativas": {
+      "A": "lesão corporal seguida de morte, crime preterdoloso, pois houve dolo na lesão e culpa quanto ao resultado morte.",
+      "B": "homicídio doloso simples, pois quem agride outrem assume sempre o risco do resultado morte.",
+      "C": "homicídio culposo, absorvida a lesão corporal dolosa.",
+      "D": "lesão corporal leve, apenas, já que a morte decorreu de causa absolutamente independente.",
+      "E": "lesão corporal leve em concurso material com homicídio culposo."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 129, § 3º, do CP tipifica a lesão corporal seguida de morte quando \"resulta morte e as circunstâncias evidenciam que o agente não quis o resultado, nem assumiu o risco de produzi-lo\" (reclusão de 4 a 12 anos). Trata-se de crime preterdoloso: dolo no antecedente (lesão) e culpa no consequente (morte), nos termos do art. 19 do CP. Não há dolo eventual (B), nem concurso de crimes (E); a queda após o soco não é causa absolutamente independente (D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-006",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t04",
+    "enunciado": "Ao se aproximar de um matagal durante uma caçada autorizada, Paulo vê um vulto se mexendo e, supondo tratar-se de um animal, dispara. Na verdade, atinge e mata um colega que ali se escondera. Considerando que o erro poderia ter sido evitado com a cautela ordinária, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Trata-se de erro de proibição evitável, que diminui a pena do homicídio doloso de um sexto a um terço.",
+      "B": "Trata-se de erro de tipo inevitável, que exclui o dolo e a culpa, tornando o fato atípico.",
+      "C": "Trata-se de erro de tipo evitável: exclui-se o dolo, mas Paulo pode responder por homicídio culposo.",
+      "D": "Trata-se de descriminante putativa, que sempre isenta o agente de pena, ainda que o erro derive de culpa.",
+      "E": "Trata-se de erro sobre a pessoa, devendo Paulo responder por homicídio doloso consumado."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. Paulo errou sobre elemento constitutivo do tipo (\"alguém\"), pois pensava atirar em um animal. Pelo art. 20 do CP, o erro de tipo exclui o dolo, \"mas permite a punição por crime culposo, se previsto em lei\". Sendo o erro evitável, ele responde por homicídio culposo (art. 121, § 3º). Não é erro de proibição (A), que recai sobre a ilicitude; não é inevitável (B), conforme o enunciado; não há descriminante putativa (D); e o erro sobre a pessoa (E) pressupõe que o agente queira atingir uma pessoa e atinja outra.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-007",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t04",
+    "enunciado": "Rafael, com intenção de matar Tiago, dispara contra ele, mas, por erro de pontaria, atinge também Bruno, que estava ao lado. Tiago e Bruno morrem. Segundo o Código Penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Rafael responde apenas por um homicídio doloso, considerado o crime contra a vítima visada, ficando absorvida a outra morte.",
+      "B": "Trata-se de aberratio criminis, devendo Rafael responder por homicídio doloso de Tiago e lesão culposa de Bruno.",
+      "C": "Trata-se de erro sobre a pessoa, consideradas as qualidades de Bruno para fins de qualificação do crime.",
+      "D": "Rafael responde por dois homicídios dolosos em concurso material, com soma das penas em qualquer hipótese.",
+      "E": "Trata-se de erro na execução (aberratio ictus) com unidade de ação e duplo resultado, aplicando-se a regra do concurso formal."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. Pelo art. 73 do CP, quando, por acidente ou erro no uso dos meios de execução, o agente atinge pessoa diversa, responde como se tivesse praticado o crime contra a pessoa visada; \"no caso de ser também atingida a pessoa que o agente pretendia ofender, aplica-se a regra do art. 70\" (concurso formal). Não é aberratio criminis (B), que envolve resultado diverso do pretendido (art. 74), nem erro sobre a pessoa (C – art. 20, § 3º). Não há absorção (A) e, havendo uma só ação, a regra é a do concurso formal, e não a do material (D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-008",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t05",
+    "enunciado": "Durante a madrugada, Lucas arrombou a porta de uma loja e iniciou a separação de objetos para levá-los. Antes de sair, arrependido, deixou tudo no local e foi embora, sem que nada o impedisse de prosseguir. Nos termos do Código Penal, Lucas",
+    "alternativas": {
+      "A": "responderá por tentativa de furto qualificado, com redução de um a dois terços.",
+      "B": "só responderá pelos atos já praticados, como o dano à porta, por ter havido desistência voluntária.",
+      "C": "terá direito ao arrependimento posterior, com redução de pena de um a dois terços.",
+      "D": "praticou crime impossível, pois não chegou a retirar os bens do estabelecimento.",
+      "E": "ficará isento de qualquer responsabilidade penal, inclusive pelos atos já praticados."
+    },
+    "correta": "B",
+    "comentario": "Correta a B. Pelo art. 15 do CP, \"o agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelos atos já praticados\". Como Lucas desistiu sem interferência externa, não há tentativa (A), que exige não consumação por circunstâncias alheias à vontade do agente. O arrependimento posterior (C) pressupõe crime consumado com reparação do dano. Não há crime impossível (D), e os atos já praticados, como o dano, continuam puníveis (E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-009",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t05",
+    "enunciado": "Sobre o arrependimento posterior, previsto no art. 16 do Código Penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Aplica-se apenas aos crimes cometidos sem violência ou grave ameaça à pessoa.",
+      "B": "Exige a reparação do dano ou a restituição da coisa.",
+      "C": "Exige que o ato de reparação seja voluntário, ainda que não espontâneo.",
+      "D": "Pode ser reconhecido se a reparação ocorrer até a sentença de primeiro grau.",
+      "E": "Constitui causa de diminuição de pena, de um a dois terços, e não de exclusão do crime."
+    },
+    "correta": "D",
+    "comentario": "A D é a incorreta. O art. 16 do CP exige que a reparação ou restituição ocorra \"até o recebimento da denúncia ou da queixa\". Se a reparação ocorrer depois disso e antes do julgamento, incide apenas a atenuante genérica do art. 65, III, b. As demais alternativas estão corretas: o benefício só cabe em crimes sem violência ou grave ameaça à pessoa (A), exige reparação ou restituição (B) e ato voluntário (C), e é causa de diminuição de pena de 1/3 a 2/3 (E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-010",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t05",
+    "enunciado": "Um policial militar flagra um indivíduo subtraindo produtos em um supermercado monitorado por câmeras e seguranças, que acompanharam toda a ação desde o início. A defesa alega crime impossível. Com base na jurisprudência sumulada do STJ, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Sistema de vigilância eletrônica ou por seguranças no estabelecimento, por si só, não torna impossível a configuração do furto.",
+      "B": "Há crime impossível sempre que o estabelecimento possuir câmeras de segurança, por ineficácia absoluta do meio.",
+      "C": "Há crime impossível por absoluta impropriedade do objeto, já que os produtos não poderiam sair da loja.",
+      "D": "O fato é atípico, por aplicação obrigatória do princípio da insignificância em furtos ocorridos em supermercados.",
+      "E": "Trata-se de flagrante preparado, o que torna o fato atípico, nos termos da Súmula 145 do STF."
+    },
+    "correta": "A",
+    "comentario": "Correta a A, que reproduz a Súmula 567 do STJ. O monitoramento torna a consumação mais difícil, mas não absolutamente impossível; trata-se, no máximo, de ineficácia relativa, compatível com a tentativa (art. 14, II, do CP). Não há impropriedade absoluta do objeto (C), a insignificância não é automática (D) e não houve flagrante preparado, pois ninguém induziu o agente a praticar o crime (E – Súmula 145 do STF).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-011",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t06",
+    "enunciado": "Durante um roubo a uma agência bancária, o criminoso mantém uma funcionária como refém, com arma apontada para a cabeça dela. Um atirador de elite da Polícia Militar, observados os requisitos legais, efetua disparo que neutraliza o agressor. De acordo com o Código Penal, o policial agiu",
+    "alternativas": {
+      "A": "em estado de necessidade, por estar diante de perigo atual que não provocou por sua vontade.",
+      "B": "em exercício regular de direito, por ser atirador habilitado e autorizado pelo comando.",
+      "C": "sob coação moral irresistível, causa que exclui a culpabilidade e afasta a punição.",
+      "D": "em estrito cumprimento do dever legal, excludente que dispensa qualquer moderação no uso da força.",
+      "E": "em legítima defesa, por previsão expressa relativa ao agente de segurança pública que protege vítima refém."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. O parágrafo único do art. 25 do CP, incluído pela Lei 13.964/2019, dispõe: \"Observados os requisitos previstos no caput deste artigo, considera-se também em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes\". Não se trata de estado de necessidade (A), pois há agressão humana injusta; nem de exercício regular de direito (B) ou coação (C). O estrito cumprimento do dever legal (D) não dispensa a moderação, e o excesso é sempre punível (art. 23, parágrafo único).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-012",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t06",
+    "enunciado": "Sobre as causas de exclusão da ilicitude previstas no Código Penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Em qualquer das hipóteses do art. 23, o agente responderá pelo excesso doloso ou culposo.",
+      "B": "Não pode alegar estado de necessidade quem tinha o dever legal de enfrentar o perigo.",
+      "C": "No estado de necessidade, admite-se a atuação diante de perigo futuro e remoto, desde que o agente não o tenha provocado.",
+      "D": "Na legítima defesa, a agressão repelida pode ser atual ou iminente, e o direito defendido pode ser próprio ou de terceiro.",
+      "E": "Embora seja razoável exigir-se o sacrifício do direito ameaçado, a pena poderá ser reduzida de um a dois terços."
+    },
+    "correta": "C",
+    "comentario": "A C é a incorreta: o art. 24 do CP exige perigo ATUAL, \"que não provocou por sua vontade, nem podia de outro modo evitar\". Perigo futuro ou remoto não autoriza o estado de necessidade. Estão corretas a A (art. 23, parágrafo único), a B (art. 24, § 1º), a D (art. 25: \"injusta agressão, atual ou iminente, a direito seu ou de outrem\") e a E (art. 24, § 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-013",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t07",
+    "enunciado": "Nos termos do Código Penal, a respeito da imputabilidade penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A emoção e a paixão excluem a imputabilidade quando o agente atua sob seu domínio, logo após injusta provocação da vítima.",
+      "B": "É isento de pena quem, por embriaguez completa decorrente de caso fortuito ou força maior, era inteiramente incapaz de entender o caráter ilícito do fato.",
+      "C": "A embriaguez voluntária completa exclui a imputabilidade, ainda que o agente tenha bebido por vontade própria e sem prever o crime.",
+      "D": "Os menores de 18 anos são imputáveis quando demonstrarem, por perícia, plena capacidade de entendimento do caráter ilícito do fato.",
+      "E": "O semi-imputável é sempre isento de pena, devendo receber medida de segurança."
+    },
+    "correta": "B",
+    "comentario": "Correta a B, que reproduz o art. 28, § 1º, do CP. A emoção e a paixão não excluem a imputabilidade (art. 28, I – A), nem a embriaguez voluntária ou culposa (art. 28, II – C). O CP adota critério puramente biológico para os menores de 18 anos, que são sempre inimputáveis (art. 27 – D). O semi-imputável não é isento de pena: sua pena pode ser reduzida de 1/3 a 2/3 ou substituída por medida de segurança (arts. 26, parágrafo único, e 98 – E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-014",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t07",
+    "enunciado": "Um gerente bancário é obrigado a abrir o cofre da agência porque criminosos mantêm sua família sob a mira de armas, ameaçando matá-la. Sobre a situação e o tema, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O gerente agiu em legítima defesa de terceiros, excluindo-se a ilicitude, pois protegeu a vida de seus familiares.",
+      "B": "O gerente responde pelo crime, com pena apenas atenuada, pois podia ter resistido à ameaça e acionado a polícia.",
+      "C": "Trata-se de coação física irresistível, que exclui a culpabilidade e transfere a responsabilidade ao coator.",
+      "D": "Trata-se de coação moral irresistível, que exclui a culpabilidade; só é punível o autor da coação.",
+      "E": "Trata-se de obediência hierárquica, pois o gerente cumpriu ordem que não era manifestamente ilegal."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. Pelo art. 22 do CP, \"se o fato é cometido sob coação irresistível [...], só é punível o autor da coação\". A coação moral irresistível exclui a culpabilidade por inexigibilidade de conduta diversa. A coação física irresistível (C) exclui a própria conduta, e não a culpabilidade. Não há legítima defesa (A), pois o gerente não repeliu a agressão, mas cedeu a ela; a atenuante (B) só se aplica à coação resistível (art. 65, III, c); e a obediência hierárquica (E) pressupõe relação de direito público entre superior e subordinado.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-015",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t08",
+    "enunciado": "Sobre o concurso de pessoas, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "As circunstâncias e condições de caráter pessoal sempre se comunicam aos coautores e partícipes, ainda que não sejam elementares do crime.",
+      "B": "Se a participação for de menor importância, a pena pode ser diminuída de um sexto a um terço.",
+      "C": "Se algum dos concorrentes quis participar de crime menos grave, ser-lhe-á aplicada a pena deste, aumentada até metade se o resultado mais grave era previsível.",
+      "D": "O ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis se o crime não chega, pelo menos, a ser tentado.",
+      "E": "O particular que, ciente da condição funcional do comparsa, concorre para a apropriação de bem público por funcionário responde por peculato."
+    },
+    "correta": "A",
+    "comentario": "A A é a incorreta. O art. 30 do CP dispõe que \"não se comunicam as circunstâncias e as de caráter pessoal, salvo quando elementares do crime\". Por isso, a condição de funcionário público, elementar do peculato, comunica-se ao particular que dela tem conhecimento (E). As alternativas B, C e D reproduzem, respectivamente, o art. 29, § 1º, o art. 29, § 2º, e o art. 31 do CP.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-016",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t08",
+    "enunciado": "A respeito da distinção entre crime e contravenção penal e das regras da Lei das Contravenções Penais (Decreto-Lei 3.688/1941), assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Considera-se contravenção a infração penal a que a lei comina pena de reclusão ou de detenção.",
+      "B": "A tentativa de contravenção é punida com a pena da contravenção consumada diminuída de um a dois terços.",
+      "C": "A lei brasileira aplica-se às contravenções praticadas no estrangeiro, nos mesmos casos de extraterritorialidade dos crimes.",
+      "D": "Nas contravenções, a ação penal é, em regra, pública condicionada à representação do ofendido.",
+      "E": "Não é punível a tentativa de contravenção, e a ela se comina, isolada, alternativa ou cumulativamente, pena de prisão simples ou de multa."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. O art. 4º da LCP dispõe que \"não é punível a tentativa de contravenção\", e o art. 1º da Lei de Introdução ao Código Penal (Decreto-Lei 3.914/1941) define contravenção como a infração a que a lei comina, isoladamente, pena de prisão simples ou de multa, ou ambas, alternativa ou cumulativamente. Reclusão e detenção são penas de crime (A). A lei brasileira só se aplica à contravenção praticada no território nacional (art. 2º da LCP – C), e a ação penal é pública incondicionada (art. 17 da LCP – D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-017",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t09",
+    "enunciado": "Nos termos do art. 43 do Código Penal, NÃO constitui pena restritiva de direitos",
+    "alternativas": {
+      "A": "a prestação pecuniária.",
+      "B": "a perda de bens e valores.",
+      "C": "o recolhimento domiciliar.",
+      "D": "a interdição temporária de direitos.",
+      "E": "a limitação de fim de semana."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. O art. 43 do CP prevê como penas restritivas de direitos: prestação pecuniária, perda de bens e valores, limitação de fim de semana, prestação de serviço à comunidade ou a entidades públicas e interdição temporária de direitos. O recolhimento domiciliar é pena restritiva de direitos prevista na Lei 9.605/1998 (art. 8º, V, e art. 13), e não no Código Penal. É pegadinha frequente quando a prova cobra as duas leis.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-018",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t09",
+    "enunciado": "Considerando as regras do Código Penal sobre aplicação da pena e concurso de crimes, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "No concurso formal próprio, aplica-se a mais grave das penas cabíveis, ou, se iguais, somente uma delas, aumentada de um sexto a dois terços.",
+      "B": "No crime continuado, aplica-se a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada de um sexto a dois terços.",
+      "C": "No concurso material, aplica-se a pena mais grave aumentada até a metade.",
+      "D": "O tempo de cumprimento das penas privativas de liberdade não pode ser superior a 30 anos.",
+      "E": "No concurso formal, as penas serão sempre somadas, ainda que não haja desígnios autônomos."
+    },
+    "correta": "B",
+    "comentario": "Correta a B, nos termos do art. 71, caput, do CP. No concurso formal próprio, o aumento é de 1/6 até METADE (art. 70 – A); a soma das penas só ocorre no concurso formal impróprio, quando há desígnios autônomos (art. 70, segunda parte – E). No concurso material, as penas são somadas (art. 69 – C). Desde a Lei 13.964/2019, o limite de cumprimento é de 40 anos (art. 75 – D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-019",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t10",
+    "enunciado": "Sobre a suspensão condicional da pena (sursis) e o livramento condicional no Código Penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "A execução da pena privativa de liberdade não superior a dois anos poderá ser suspensa por dois a quatro anos, preenchidos os requisitos legais.",
+      "B": "A condenação anterior a pena de multa não impede a concessão do sursis.",
+      "C": "O sursis pode ser concedido ao maior de setenta anos condenado a pena não superior a quatro anos, com período de prova de quatro a seis anos.",
+      "D": "O livramento condicional somente pode ser concedido ao condenado a pena privativa de liberdade igual ou superior a quatro anos.",
+      "E": "Para o livramento condicional, exige-se, entre outros requisitos, o não cometimento de falta grave nos últimos doze meses."
+    },
+    "correta": "D",
+    "comentario": "A D é a incorreta: o art. 83 do CP permite o livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos. As demais estão corretas: A (art. 77, caput), B (art. 77, § 1º), C (art. 77, § 2º – sursis etário) e E (art. 83, III, b, incluído pela Lei 13.964/2019).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-020",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t11",
+    "enunciado": "De acordo com o art. 107 do Código Penal, NÃO é causa de extinção da punibilidade",
+    "alternativas": {
+      "A": "o casamento do agente com a vítima, nos crimes contra a dignidade sexual.",
+      "B": "a retroatividade de lei que não mais considera o fato como criminoso.",
+      "C": "a renúncia do direito de queixa ou o perdão aceito, nos crimes de ação privada.",
+      "D": "a retratação do agente, nos casos em que a lei a admite.",
+      "E": "o perdão judicial, nos casos previstos em lei."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O casamento do agente com a vítima (antigo inciso VII do art. 107) e o casamento da vítima com terceiro (inciso VIII) deixaram de extinguir a punibilidade com a Lei 11.106/2005, que revogou esses incisos. As alternativas B, C, D e E correspondem, respectivamente, aos incisos III, V, VI e IX do art. 107 do CP.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-021",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t11",
+    "enunciado": "Tiago, com 19 anos na data do fato, praticou crime de falso testemunho (art. 342 do CP), cuja pena máxima cominada é de 4 anos de reclusão. Considerando apenas a prescrição da pretensão punitiva pela pena máxima em abstrato, o prazo prescricional será de",
+    "alternativas": {
+      "A": "8 anos.",
+      "B": "12 anos.",
+      "C": "6 anos.",
+      "D": "2 anos.",
+      "E": "4 anos."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. Pelo art. 109, IV, do CP, a prescrição ocorre em 8 anos se o máximo da pena é superior a 2 anos e não excede a 4. Como Tiago era menor de 21 anos ao tempo do crime, o prazo é reduzido de metade (art. 115), resultando em 4 anos. A ressalva do art. 115 (crime que envolva violência sexual contra a mulher) não se aplica ao caso.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-022",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t12",
+    "enunciado": "Com relação ao feminicídio, após a entrada em vigor da Lei 14.994/2024, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Continua sendo qualificadora do homicídio, com pena de reclusão de 12 a 30 anos.",
+      "B": "Passou a ser crime autônomo, tipificado no art. 121-A do Código Penal, com pena de reclusão de 20 a 40 anos.",
+      "C": "Passou a ser crime autônomo, mas deixou de integrar o rol dos crimes hediondos.",
+      "D": "Configura-se exclusivamente quando o crime envolve violência doméstica e familiar.",
+      "E": "Passou a ser causa de aumento de pena do homicídio simples, de um terço até a metade."
+    },
+    "correta": "B",
+    "comentario": "Correta a B. A Lei 14.994/2024 (Pacote Antifeminicídio) revogou o inciso VI do § 2º do art. 121 e criou o art. 121-A: \"Matar mulher por razões da condição do sexo feminino: Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos\". O crime permanece hediondo (art. 1º, I-B, da Lei 8.072/1990 – C). Pelo § 1º do art. 121-A, há razões da condição do sexo feminino quando o crime envolve violência doméstica e familiar OU menosprezo ou discriminação à condição de mulher (D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-023",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t12",
+    "enunciado": "Um policial militar de folga, em trajes civis, é reconhecido por integrantes de uma facção e executado por ser policial. Segundo o Código Penal, o crime praticado pelos autores é",
+    "alternativas": {
+      "A": "homicídio simples, pois o policial não estava no exercício da função no momento do crime.",
+      "B": "homicídio privilegiado, por ter sido cometido por relevante valor social, segundo os autores.",
+      "C": "homicídio qualificado, por ter sido praticado contra policial em decorrência da função, sendo crime hediondo.",
+      "D": "homicídio qualificado apenas por motivo torpe, sem previsão específica quanto à condição de policial.",
+      "E": "feminicídio, se a vítima for policial do sexo feminino, independentemente das razões do crime."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. O art. 121, § 2º, VII, a, do CP qualifica o homicídio cometido contra autoridade ou agente descrito nos arts. 142 e 144 da CF, \"no exercício da função ou em decorrência dela\", ou contra seu cônjuge, companheiro ou parente consanguíneo até o terceiro grau, em razão dessa condição. O homicídio qualificado é hediondo (Lei 8.072/1990, art. 1º, I). Não importa que o policial esteja de folga (A), pois o crime ocorreu em decorrência da função. O feminicídio (E) exige razões da condição do sexo feminino.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-024",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t13",
+    "enunciado": "Ricardo, de 30 anos, subtraiu, sem violência ou grave ameaça, R$ 2.000,00 da carteira de seu pai, de 55 anos, com quem reside. Nos termos do Código Penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Ricardo responderá por furto, mas a ação penal depende de representação do pai.",
+      "B": "Ricardo responderá por furto qualificado pelo abuso de confiança, sem qualquer benefício legal.",
+      "C": "Ricardo responderá por furto com pena reduzida de um a dois terços, por se tratar de crime familiar.",
+      "D": "Ricardo é isento de pena, por força de escusa absolutória, pois o crime foi praticado em prejuízo de ascendente.",
+      "E": "Ricardo é isento de pena, e a imunidade se estenderia a um amigo que o tivesse ajudado na subtração."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. O art. 181, II, do CP isenta de pena quem comete crime contra o patrimônio em prejuízo de ascendente ou descendente. A imunidade não se aplica se o crime for de roubo ou extorsão ou envolver violência ou grave ameaça, ao estranho que participa do crime (E) nem se a vítima tiver 60 anos ou mais (art. 183, I a III). Como o pai tem 55 anos e não houve violência, incide a escusa absolutória. A representação (A) é exigida nas hipóteses do art. 182 (cônjuge separado, irmão, tio ou sobrinho com quem o agente coabita).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-025",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t14",
+    "enunciado": "Em um ônibus lotado, um homem, sem a anuência da passageira ao lado, pratica contra ela ato libidinoso para satisfazer a própria lascívia, sem violência ou grave ameaça. O fato foi presenciado por um policial militar. A conduta configura, em tese,",
+    "alternativas": {
+      "A": "importunação sexual (art. 215-A do CP), crime de ação penal pública incondicionada.",
+      "B": "contravenção penal de importunação ofensiva ao pudor, processada mediante ação pública condicionada.",
+      "C": "assédio sexual (art. 216-A do CP), processado mediante ação penal privada da ofendida.",
+      "D": "estupro (art. 213 do CP), ainda que ausentes violência e grave ameaça à vítima.",
+      "E": "ato obsceno (art. 233 do CP), crime de menor potencial ofensivo de ação privada."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 215-A do CP (Lei 13.718/2018) tipifica a importunação sexual: \"Praticar contra alguém e sem a sua anuência ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro: Pena – reclusão, de 1 (um) a 5 (cinco) anos, se o ato não constitui crime mais grave\". A mesma lei revogou a contravenção do art. 61 da LCP (B) e tornou pública incondicionada a ação penal nos crimes contra a liberdade sexual (art. 225). O assédio (C) exige relação de hierarquia ou ascendência; o estupro (D) exige violência ou grave ameaça; e o ato obsceno (E) é crime de ação pública.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-026",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t15",
+    "enunciado": "Abordado por uma guarnição da Polícia Militar, um indivíduo apresenta nome falso para ocultar a existência de mandado de prisão em seu desfavor, alegando depois que exercia o direito de não produzir prova contra si mesmo. De acordo com a jurisprudência sumulada do STJ, a conduta",
+    "alternativas": {
+      "A": "é atípica, por se tratar de exercício legítimo da autodefesa garantida ao investigado.",
+      "B": "configura falsidade ideológica (art. 299 do CP), absorvida pelo crime de favorecimento pessoal.",
+      "C": "configura uso de documento falso, ainda que nenhum documento tenha sido apresentado.",
+      "D": "somente será típica se o agente tiver obtido vantagem econômica com a falsa identidade.",
+      "E": "é típica, configurando falsa identidade, ainda que em situação de alegada autodefesa."
+    },
+    "correta": "E",
+    "comentario": "Correta a E, que reproduz a Súmula 522 do STJ: \"A conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de alegada autodefesa\". O crime é o de falsa identidade (art. 307 do CP), cuja vantagem pode ser de qualquer natureza, inclusive a de evitar a prisão, e não apenas econômica (D). Não houve uso de documento falso (C) nem falsidade ideológica em documento (B).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-027",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t16",
+    "enunciado": "Um fiscal municipal exige de um comerciante a quantia de R$ 5.000,00 para não lavrar auto de infração contra o estabelecimento. O comerciante, intimidado, não chega a entregar o dinheiro. Nessa situação, o fiscal praticou",
+    "alternativas": {
+      "A": "corrupção passiva tentada, pois não chegou a haver o recebimento da vantagem.",
+      "B": "concussão consumada, crime formal que se consuma com a mera exigência da vantagem indevida.",
+      "C": "prevaricação, pois deixou de praticar ato de ofício para satisfazer interesse pessoal.",
+      "D": "extorsão, crime contra o patrimônio, com pena de reclusão de 4 a 10 anos.",
+      "E": "excesso de exação, por exigir tributo ou contribuição que sabia indevido."
+    },
+    "correta": "B",
+    "comentario": "Correta a B. O art. 316 do CP tipifica a concussão: \"Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida: Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa\". É crime formal, que se consuma com a exigência, sendo o recebimento mero exaurimento. A corrupção passiva (A) tem como núcleos solicitar, receber ou aceitar promessa; a prevaricação (C) exige interesse ou sentimento pessoal; e o excesso de exação (E) refere-se a tributo ou contribuição social.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-028",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t16",
+    "enunciado": "Por descuido, um servidor público deixa aberto o cofre da repartição, permitindo que um colega subtraia valores ali guardados. Sobre o peculato culposo atribuído ao servidor descuidado, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A reparação do dano, em qualquer momento, apenas atenua a pena.",
+      "B": "A reparação do dano somente produz efeitos se ocorrer antes do recebimento da denúncia.",
+      "C": "Se a reparação do dano preceder a sentença irrecorrível, extingue-se a punibilidade; se lhe for posterior, reduz-se de metade a pena imposta.",
+      "D": "O peculato culposo não admite qualquer benefício pela reparação do dano, por se tratar de crime contra a administração pública.",
+      "E": "A reparação do dano extingue a punibilidade tanto do peculato culposo quanto do doloso."
+    },
+    "correta": "C",
+    "comentario": "Correta a C, que reproduz o art. 312, § 3º, do CP: \"No caso do parágrafo anterior [peculato culposo], a reparação do dano, se precede à sentença irrecorrível, extingue a punibilidade; se lhe é posterior, reduz de metade a pena imposta\". O benefício é exclusivo do peculato culposo (E). No peculato doloso, a reparação pode configurar, conforme o momento, arrependimento posterior (art. 16) ou atenuante (art. 65, III, b).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-029",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t16",
+    "enunciado": "Durante o cumprimento de mandado de prisão, o investigado empurra e ameaça os policiais militares para impedir a sua captura, mas, ainda assim, é preso. Considerando o Código Penal, a conduta configura",
+    "alternativas": {
+      "A": "resistência simples (art. 329, caput), sem prejuízo das penas correspondentes à violência.",
+      "B": "resistência qualificada, pois houve emprego de violência contra os policiais.",
+      "C": "desobediência (art. 330), pois o agente descumpriu a ordem legal de prisão.",
+      "D": "desacato (art. 331), pois a violência foi dirigida a funcionário público.",
+      "E": "fato atípico, por se tratar de legítima autodefesa do preso contra a captura."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 329 do CP pune quem se opõe \"à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo\" com detenção de 2 meses a 2 anos. A forma qualificada (§ 1º – reclusão de 1 a 3 anos) ocorre quando o ato, em razão da resistência, não se executa, o que não se verificou, pois a prisão foi efetuada (B). O § 2º determina a aplicação das penas da resistência sem prejuízo das correspondentes à violência. Havendo violência ou ameaça, não se trata de mera desobediência (C).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-030",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t17",
+    "enunciado": "Acerca do princípio da legalidade em matéria penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Admite-se a criação de crimes por medida provisória, desde que haja relevância e urgência.",
+      "B": "A analogia é amplamente admitida no Direito Penal, inclusive para prejudicar o réu.",
+      "C": "Decretos do Poder Executivo podem cominar penas para condutas não previstas em lei.",
+      "D": "Não há crime sem lei anterior que o defina, sendo vedada medida provisória sobre direito penal.",
+      "E": "A lei penal pode retroagir para prejudicar o réu, desde que expressamente prevista essa possibilidade."
+    },
+    "correta": "D",
+    "comentario": "Correta a D, conforme o art. 5º, XXXIX, da CF, o art. 1º do CP e o art. 62, § 1º, I, b, da CF, que veda a edição de medida provisória sobre direito penal (A). A analogia só é admitida em benefício do réu (B). Decretos não podem criar crimes ou penas (C), em razão da reserva legal. A lei penal não retroagirá, salvo para beneficiar o réu (art. 5º, XL, da CF – E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-031",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t17",
+    "enunciado": "Sobre o princípio da insignificância, conforme a jurisprudência do STF e do STJ, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Exige-se a mínima ofensividade da conduta do agente.",
+      "B": "Exige-se a ausência de periculosidade social da ação.",
+      "C": "É inaplicável aos crimes ou contravenções penais praticados contra a mulher no âmbito das relações domésticas (Súmula 589 do STJ).",
+      "D": "É inaplicável aos crimes contra a administração pública (Súmula 599 do STJ).",
+      "E": "Quando reconhecido, exclui a culpabilidade do agente, mantendo intactas a tipicidade e a ilicitude da conduta."
+    },
+    "correta": "E",
+    "comentario": "A E é a incorreta. O princípio da insignificância exclui a TIPICIDADE MATERIAL da conduta, tornando o fato atípico; não atua sobre a culpabilidade. Os vetores fixados pelo STF são: mínima ofensividade da conduta (A), nenhuma periculosidade social da ação (B), reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica provocada. As alternativas C e D reproduzem as Súmulas 589 e 599 do STJ.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-032",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t18",
+    "enunciado": "De acordo com a Lei 9.605/1998, a responsabilidade penal da pessoa jurídica",
+    "alternativas": {
+      "A": "ocorre quando a infração é cometida por decisão de seu representante ou órgão colegiado, no interesse ou benefício da entidade, e não exclui a das pessoas físicas.",
+      "B": "exclui a responsabilidade das pessoas físicas que concorreram para o fato, como diretores, gerentes e prepostos da empresa.",
+      "C": "somente é admitida quando o crime for culposo, vedada a imputação de crime doloso à empresa.",
+      "D": "depende de requisição do Ministério do Meio Ambiente para a propositura da ação penal pelo MP.",
+      "E": "limita-se às sanções administrativas e civis, sendo vedada a imposição de penas criminais à empresa, que não tem vontade própria."
+    },
+    "correta": "A",
+    "comentario": "Correta a A, que reproduz o art. 3º, caput e parágrafo único, da Lei 9.605/1998, em consonância com o art. 225, § 3º, da CF. A responsabilidade da pessoa jurídica não exclui a das pessoas físicas (B), alcança crimes dolosos e culposos (C) e é penal, com as penas do art. 21: multa, restritivas de direitos e prestação de serviços à comunidade (E). A ação penal é pública incondicionada (art. 26 – D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-033",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t18",
+    "enunciado": "Uma guarnição da PM atende denúncia e constata que um morador mantém seu cachorro acorrentado, ferido e sem alimentação, caracterizando maus-tratos. De acordo com a Lei 9.605/1998, a pena prevista para essa conduta, por se tratar de cão, é de",
+    "alternativas": {
+      "A": "detenção, de 3 meses a 1 ano, e multa.",
+      "B": "detenção, de 6 meses a 1 ano, e multa.",
+      "C": "reclusão, de 2 a 5 anos, multa e proibição da guarda.",
+      "D": "reclusão, de 1 a 4 anos, e multa.",
+      "E": "apenas multa, por se tratar de infração de menor potencial ofensivo."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. O art. 32, § 1º-A, da Lei 9.605/1998 (incluído pela Lei 14.064/2020) dispõe: \"Quando se tratar de cão ou gato, a pena para as condutas descritas no caput deste artigo será de reclusão, de 2 (dois) a 5 (cinco) anos, multa e proibição da guarda\". A pena da alternativa A é a do caput (demais animais). Por ter pena máxima superior a 2 anos, a forma qualificada não é infração de menor potencial ofensivo (E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-034",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t18",
+    "enunciado": "Nos termos da Lei 9.605/1998, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Não é crime o abate de animal, quando realizado em estado de necessidade, para saciar a fome do agente ou de sua família.",
+      "B": "Não é crime o abate de animal para proteger lavouras, pomares e rebanhos da ação predatória ou destruidora de animais, independentemente de qualquer autorização.",
+      "C": "Nas infrações penais previstas na lei, a ação penal é pública incondicionada.",
+      "D": "Nos crimes previstos na lei, a suspensão condicional da pena pode ser aplicada nos casos de condenação a pena privativa de liberdade não superior a três anos.",
+      "E": "Não constitui crime a prática de grafite realizada com o objetivo de valorizar o patrimônio mediante manifestação artística, desde que consentida pelo proprietário ou autorizada pelo órgão competente, conforme o caso."
+    },
+    "correta": "B",
+    "comentario": "A B é a incorreta. O art. 37, II, da Lei 9.605/1998 só afasta o crime quando o abate para proteger lavouras, pomares e rebanhos é feito \"desde que legal e expressamente autorizado pela autoridade competente\". As demais alternativas estão corretas: A (art. 37, I), C (art. 26), D (art. 16) e E (art. 65, § 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-035",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t19",
+    "enunciado": "Acerca das súmulas do STF e do STJ em matéria penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Não há crime quando a preparação do flagrante pela polícia torna impossível a sua consumação.",
+      "B": "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.",
+      "C": "É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base.",
+      "D": "A lei penal mais grave nunca se aplica ao crime permanente iniciado antes de sua vigência, em respeito à irretroatividade.",
+      "E": "A reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial."
+    },
+    "correta": "D",
+    "comentario": "A D é a incorreta, pois contraria a Súmula 711 do STF: \"A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência é anterior à cessação da continuidade ou da permanência\". Como o crime permanente se prolonga no tempo, a lei nova incide enquanto durar a permanência. As demais reproduzem a Súmula 145 do STF (A) e as Súmulas 231 (B), 444 (C) e 241 (E) do STJ.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-036",
+    "materia": "direito-penal",
+    "topico": "direito-penal-t19",
+    "enunciado": "Marcelo, ex-soldado, foi condenado definitivamente pelo crime de deserção (art. 187 do CPM) e cumpriu a pena há dois anos. Agora, pratica um crime de estelionato. Nos termos do Código Penal, na dosimetria da pena do estelionato,",
+    "alternativas": {
+      "A": "Marcelo será considerado reincidente, pois o período depurador de cinco anos ainda não transcorreu.",
+      "B": "a condenação por deserção gera reincidência apenas se o novo crime também for militar.",
+      "C": "a reincidência dependerá de a pena anterior ter sido superior a dois anos.",
+      "D": "Marcelo será reincidente específico, com vedação de qualquer benefício.",
+      "E": "Marcelo não será considerado reincidente, pois, para esse efeito, não se consideram os crimes militares próprios."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. O art. 64, II, do CP estabelece que, para efeito de reincidência, \"não se consideram os crimes militares próprios e políticos\". A deserção é crime propriamente militar (só pode ser praticada por militar e não tem correspondente na legislação comum). Assim, ainda que não decorrido o período depurador de 5 anos (art. 64, I), a condenação anterior não gera reincidência para o crime comum.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  }
+]

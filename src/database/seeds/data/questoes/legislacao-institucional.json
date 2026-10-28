@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "legislacao-institucional-001",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "De acordo com a Lei nº 6.218/1983 (Estatuto dos Policiais Militares de Santa Catarina), a hierarquia policial-militar é a ordenação da autoridade em níveis diferentes dentro da estrutura da Polícia Militar. Sobre essa ordenação, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Faz-se por postos ou graduações e, dentro de um mesmo posto ou graduação, pela idade.",
+      "B": "Faz-se por postos ou graduações e, dentro de um mesmo posto ou graduação, pelo merecimento.",
+      "C": "Faz-se exclusivamente pelo tempo total de serviço público prestado ao Estado.",
+      "D": "Faz-se pela função exercida, independentemente do posto ou da graduação ocupados.",
+      "E": "Faz-se por postos ou graduações e, dentro de um mesmo posto ou graduação, pela antiguidade."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 14, § 1º, da Lei 6.218/1983: a ordenação se faz por postos ou graduações e, dentro de um mesmo posto ou graduação, pela antiguidade. A idade só entra como último critério de desempate da antiguidade (art. 17, § 2º, b). O merecimento é critério de promoção, não de ordenação, e o tempo total de serviço público e a função exercida não ordenam a hierarquia.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-002",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Considerando o disposto no Estatuto dos Policiais Militares de Santa Catarina (Lei nº 6.218/1983) acerca dos graus hierárquicos, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Posto é o grau da praça, conferido por ato do Comandante-Geral da Polícia Militar.",
+      "B": "Graduação é o grau do oficial, conferida por ato do Governador e confirmada em Carta Patente.",
+      "C": "Graduação é o grau da praça, conferida por ato do Governador do Estado em Carta Patente.",
+      "D": "Posto é o grau do oficial, conferido por ato do Governador e confirmado em Carta Patente.",
+      "E": "Posto é o grau do oficial, conferido pelo Comandante-Geral e confirmado pelo Secretário."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 16, § 1º: posto é o grau hierárquico do oficial, conferido por ato do Governador do Estado e confirmado em Carta Patente. Pelo § 2º, graduação é o grau hierárquico da praça, conferida pelo Comandante-Geral da Polícia Militar. As demais alternativas trocam os conceitos ou as autoridades competentes.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-003",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "No que se refere à precedência entre praças especiais e demais praças, nos termos da Lei nº 6.218/1983, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "O Aluno-Oficial PM é hierarquicamente superior ao Subtenente PM.",
+      "B": "O Aluno do Curso de Formação de Sargentos equipara-se a 3º Sargento para fins de precedência.",
+      "C": "Em igualdade de posto ou graduação, os militares da ativa precedem os da inatividade.",
+      "D": "Em estágio operacional, o Aluno do Curso de Formação de Sargentos precede os Cabos.",
+      "E": "O Aspirante-a-Oficial PM é hierarquicamente superior às demais praças."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. O art. 18, III, equipara o Aluno do Curso de Formação de Sargentos a Cabo PM, e não a 3º Sargento, para efeito de precedência. Estão corretas as demais: art. 18, I (Aspirante superior às demais praças), art. 18, II (Aluno-Oficial superior ao Subtenente), art. 18, parágrafo único (precedência sobre os Cabos durante os estágios operacionais) e art. 17, § 3º (precedência da ativa sobre a inatividade).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-004",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Segundo a Lei nº 6.218/1983, os integrantes da Polícia Militar desempenham papéis distintos conforme o círculo hierárquico. A respeito dos cabos e soldados, é correto afirmar que",
+    "alternativas": {
+      "A": "têm por dever primordial a dedicação exclusiva ao estudo técnico-profissional.",
+      "B": "exercem prioritariamente funções de chefia das organizações policiais-militares.",
+      "C": "são preparados, ao longo da carreira, para o exercício do comando e da direção.",
+      "D": "auxiliam e complementam as atividades dos oficiais na administração.",
+      "E": "são essencialmente elementos de execução."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 39: os cabos e soldados são essencialmente elementos de execução. A preparação para o comando é própria do oficial (art. 37). Auxiliar e complementar as atividades dos oficiais cabe aos subtenentes e sargentos (art. 38). A dedicação ao estudo e ao aprendizado técnico-profissional é exigida das praças especiais (art. 40).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-005",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "O art. 28 da Lei nº 6.218/1983 elenca as manifestações essenciais do valor policial-militar. Assinale a alternativa que apresenta uma dessas manifestações.",
+    "alternativas": {
+      "A": "A solidariedade corporativa na apuração de faltas cometidas por colegas.",
+      "B": "A obediência irrestrita a qualquer ordem, ainda que manifestamente ilegal.",
+      "C": "A preservação dos interesses pessoais do superior hierárquico imediato.",
+      "D": "O espírito de corpo, orgulho do policial-militar pela organização onde serve.",
+      "E": "A busca prioritária por promoções e vantagens pecuniárias na carreira."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. O art. 28, IV, prevê o espírito de corpo, entendido como orgulho do policial-militar pela organização onde serve. O mesmo artigo lista ainda o sentimento de servir à comunidade, o civismo e o culto das tradições históricas, a fé na missão da PM, o amor à profissão e o aprimoramento técnico-profissional. Obedecer a ordens manifestamente ilegais, proteger interesses pessoais do superior ou dar cobertura corporativa a faltas contraria os preceitos de ética (art. 29) e o art. 41, parágrafo único.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-006",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "O Soldado PM Ricardo, da ativa, foi convidado por um amigo a ingressar como sócio-gerente em uma loja de materiais esportivos. À luz do art. 30 da Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "É permitido, desde que haja autorização prévia e escrita do comandante da OPM em que serve.",
+      "B": "É vedada qualquer participação societária, inclusive como acionista ou quotista.",
+      "C": "É permitido, desde que a atividade comercial seja exercida fora do horário de serviço.",
+      "D": "É vedado gerir a sociedade, admitindo-se apenas a participação como acionista ou quotista.",
+      "E": "É permitido, desde que a empresa não contrate com a Administração Pública estadual."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. O art. 30 veda ao policial-militar da ativa comerciar e tomar parte na administração ou gerência de sociedade, ou dela ser sócio ou participar, exceto como acionista ou quotista de sociedade anônima ou por quotas de responsabilidade limitada. O § 2º permite apenas a gestão direta dos próprios bens. A Lei 6.218/1983 não prevê como exceções o horário de folga nem a autorização do comandante, e a participação como quotista ou acionista é permitida.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-007",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Acerca da violação das obrigações e dos deveres policiais-militares, nos termos da Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "No concurso de crime militar e transgressão da mesma natureza, aplicam-se cumulativamente ambas as penas.",
+      "B": "No concurso de crime militar e transgressão da mesma natureza, aplica-se somente a pena relativa ao crime.",
+      "C": "A violação dos preceitos éticos é tão grave quanto menor for o grau hierárquico de quem a comete.",
+      "D": "A violação das obrigações constituirá sempre crime militar, vedada a punição apenas disciplinar.",
+      "E": "No concurso de crime militar e transgressão da mesma natureza, aplica-se somente a sanção disciplinar."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. Art. 42, § 2º: no concurso de crime militar e de contravenção ou de transgressão disciplinar da mesma natureza, aplica-se somente a pena relativa ao crime. O § 1º diz que a violação da ética é tão mais grave quanto mais elevado for o grau hierárquico de quem a comete. O caput prevê que a violação pode constituir crime, contravenção ou transgressão disciplinar, conforme a legislação.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-008",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Conforme o Estatuto dos Policiais Militares de Santa Catarina (Lei nº 6.218/1983), as penas disciplinares de detenção ou prisão",
+    "alternativas": {
+      "A": "não podem ultrapassar 10 (dez) dias.",
+      "B": "não podem ultrapassar 15 (quinze) dias.",
+      "C": "não podem ultrapassar 30 (trinta) dias.",
+      "D": "não possuem limite fixado no Estatuto.",
+      "E": "não podem ultrapassar 60 (sessenta) dias."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. O art. 47, § 1º, estabelece que as penas disciplinares de detenção ou prisão não podem ultrapassar 30 (trinta) dias. O Regulamento Disciplinar especifica e classifica as transgressões (art. 47, caput), mas sempre dentro desse teto legal.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-009",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Sobre os Conselhos de Justificação e de Disciplina previstos na Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O Tribunal de Justiça julga os Conselhos de Disciplina; o Comandante-Geral, os de Justificação.",
+      "B": "O Conselho de Disciplina destina-se a oficiais; o de Justificação, às praças com estabilidade.",
+      "C": "A praça submetida a Conselho de Disciplina permanece obrigatoriamente no exercício de suas atividades.",
+      "D": "Militares da reserva remunerada e reformados não podem ser submetidos a nenhum dos Conselhos.",
+      "E": "O Comandante-Geral julga, em última instância, os Conselhos de Disciplina; o TJ, os de Justificação."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 48, § 2º: compete ao Tribunal de Justiça julgar os processos do Conselho de Justificação, destinado a oficiais. Art. 49, § 2º: compete ao Comandante-Geral julgar, em última instância, os processos dos Conselhos de Disciplina, destinados ao Aspirante e às praças com estabilidade. Inativos podem ser submetidos a ambos (arts. 48, § 3º, e 49, § 3º), e quem é submetido a Conselho de Disciplina é afastado das atividades (art. 49, § 1º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-010",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "O Cabo PM Silva sentiu-se prejudicado por ato disciplinar de seu superior hierárquico e pretende apresentar pedido de reconsideração. Considerando a redação atual do art. 51 da Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O prazo é de 5 dias úteis da publicação em boletim, e o pedido pode ser subscrito por vários militares.",
+      "B": "O prazo é de 15 dias corridos do recebimento da comunicação oficial, e o pedido pode ser coletivo.",
+      "C": "O prazo é de 120 dias corridos da publicação do ato, e o pedido não pode ser feito coletivamente.",
+      "D": "O prazo é de 10 dias úteis da intimação pessoal da decisão, e o pedido pode ser feito coletivamente.",
+      "E": "O prazo é de 5 dias úteis da intimação pessoal da decisão, e o pedido não pode ser feito coletivamente."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Com a redação dada pela LC 749/2019, o art. 51, II, fixa o prazo de 5 dias úteis para o pedido de reconsideração, a queixa ou a representação, contados da intimação pessoal da parte. Após 3 tentativas frustradas de intimação, o prazo corre da publicação oficial (§ 1º). O § 2º proíbe que esses pedidos sejam feitos coletivamente. Os prazos de 15 e de 120 dias corridos pertenciam à redação revogada.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-011",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Nos termos do art. 66 da Lei nº 6.218/1983, os policiais militares têm direito a períodos de afastamento total do serviço. Assinale a alternativa que apresenta corretamente esses períodos.",
+    "alternativas": {
+      "A": "Núpcias: 8 dias; luto: 8 dias; instalação: até 30 dias; trânsito: até 10 dias.",
+      "B": "Núpcias: 5 dias; luto: 5 dias; instalação: até 10 dias; trânsito: até 30 dias.",
+      "C": "Núpcias: 8 dias; luto: 8 dias; instalação: até 10 dias; trânsito: até 30 dias.",
+      "D": "Núpcias: 8 dias; luto: 2 dias; instalação: até 15 dias; trânsito: até 20 dias.",
+      "E": "Núpcias: 10 dias; luto: 8 dias; instalação: até 8 dias; trânsito: até 30 dias."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. O art. 66 prevê núpcias de 8 dias (I), luto de 8 dias (II), instalação de até 10 dias (III) e trânsito de até 30 dias (IV). Esses afastamentos são remunerados e contados como tempo de efetivo serviço para todos os efeitos legais (art. 67).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-012",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Acerca da licença para tratar de interesses particulares, disciplinada na Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Independe de tempo de serviço e é concedida sem prejuízo da contagem do tempo de serviço.",
+      "B": "Exige mais de 10 anos de efetivo serviço e é concedida com remuneração, pelo prazo máximo de 6 meses.",
+      "C": "Exige mais de 10 anos de efetivo serviço e é concedida sem remuneração, pelo prazo mínimo de 6 meses.",
+      "D": "Exige mais de 10 anos de efetivo serviço e não pode ser interrompida em nenhuma hipótese.",
+      "E": "Exige mais de 5 anos de efetivo serviço e é concedida sem remuneração, pelo prazo mínimo de 6 meses."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. Art. 70: a licença só pode ser concedida a quem tiver mais de 10 anos de efetivo serviço. Pelo parágrafo único, é sempre concedida com prejuízo da remuneração e da contagem de tempo de serviço, pelo prazo mínimo de 6 meses. O art. 72 admite a interrupção, por exemplo em caso de mobilização, de estado de sítio ou para cumprimento de punição.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-013",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Durante a folga, o Soldado PM Andrade foi preso em flagrante delito por autoridade policial civil. Segundo a Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Deve ser entregue de imediato à autoridade policial-militar mais próxima, após lavrado o flagrante.",
+      "B": "A autoridade deve apresentá-lo ao Comandante-Geral, a quem caberá decidir sobre a lavratura do auto de flagrante.",
+      "C": "A autoridade pode mantê-lo na delegacia até a audiência de custódia, sem comunicar a PM.",
+      "D": "A prisão em flagrante de policial-militar pela autoridade policial civil é vedada pelo Estatuto.",
+      "E": "Ele deve ser recolhido a estabelecimento prisional comum, separado dos demais presos."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 75: somente em caso de flagrante delito o policial-militar pode ser preso por autoridade policial, que fica obrigada a entregá-lo imediatamente à autoridade policial-militar mais próxima e só pode retê-lo pelo tempo necessário à lavratura do flagrante. Pelo § 1º, cabe ao Comandante-Geral responsabilizar a autoridade que descumprir essa regra. A Lei 14.751/2023 traz garantia semelhante (art. 18, VIII).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-014",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Durante operação policial em área atingida por calamidade pública, o Soldado PM Pereira teve seu paradeiro ignorado. Não há qualquer indício de deserção. De acordo com a Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Ausente após mais de 8 dias de paradeiro ignorado; oficialmente extraviado após mais de 60 dias.",
+      "B": "Desaparecido após mais de 24 horas de paradeiro ignorado; extraviado após mais de 8 dias.",
+      "C": "Desaparecido após mais de 30 dias de paradeiro ignorado; extraviado após mais de 90 dias.",
+      "D": "Desertor após mais de 8 dias de paradeiro ignorado, por presunção legal absoluta.",
+      "E": "Desaparecido após mais de 8 dias de paradeiro ignorado; oficialmente extraviado após mais de 30 dias."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 98: é desaparecido quem, em serviço, viagem, operação ou calamidade pública, tiver paradeiro ignorado por mais de 8 dias, desde que não haja indício de deserção (parágrafo único). Art. 99: permanecendo desaparecido por mais de 30 dias, é oficialmente considerado extraviado. O prazo de 24 horas consecutivas caracteriza o ausente (art. 96), e a deserção segue a legislação penal militar (art. 97).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-015",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Com base nos arts. 81 e 86 da Lei nº 6.218/1983, que tratam da agregação, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O militar passa à inatividade remunerada, liberando definitivamente sua vaga no quadro.",
+      "B": "O militar da ativa permanece ocupando vaga numerada; para praças, o ato é do Governador.",
+      "C": "O militar da ativa deixa de ocupar vaga, ficando sem número; para praças, o ato é do Comandante-Geral.",
+      "D": "O militar retorna ao seu quadro, ocupando a primeira vaga que ocorrer; o ato é sempre do Governador.",
+      "E": "A agregação é pena disciplinar aplicada à praça sem estabilidade, por ato do Comandante da OPM."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. Art. 81: agregação é a situação em que o policial-militar da ativa deixa de ocupar vaga na escala hierárquica de seu quadro, nela permanecendo sem número. Art. 86: a agregação se faz por ato do Governador para os oficiais e do Comandante-Geral para as praças. Retornar ao quadro na primeira vaga é a reversão (art. 87), e a agregação não é pena disciplinar.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-016",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "Quanto às formas de exclusão do serviço ativo previstas na Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A demissão e o licenciamento aplicam-se indistintamente a oficiais e praças.",
+      "B": "A demissão é aplicada exclusivamente às praças; o licenciamento, somente aos oficiais.",
+      "C": "A demissão só ocorre a pedido, e o licenciamento só ocorre ex officio.",
+      "D": "O licenciamento é aplicado somente às praças com estabilidade assegurada.",
+      "E": "A demissão é aplicada exclusivamente aos oficiais; o licenciamento, somente às praças."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 118: a demissão é aplicada exclusivamente aos oficiais, a pedido ou ex officio. Art. 124: o licenciamento do serviço ativo é aplicado somente às praças, também a pedido ou ex officio. Para a praça com estabilidade e para o Aspirante, a exclusão por razão disciplinar é a exclusão a bem da disciplina (art. 127).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-017",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "O 2º Sargento PM Costa, com estabilidade assegurada, foi submetido a Conselho de Disciplina e considerado culpado. Nos termos da Lei nº 6.218/1983, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A exclusão a bem da disciplina compete ao Governador, e só o Tribunal de Justiça pode revertê-la.",
+      "B": "A exclusão afasta a obrigação de indenizar prejuízos causados à Fazenda Estadual.",
+      "C": "A exclusão a bem da disciplina mantém o grau hierárquico e garante indenização proporcional.",
+      "D": "Exige-se condenação criminal transitada em julgado superior a 2 anos para a exclusão.",
+      "E": "A exclusão compete ao Comandante-Geral, e só ele pode restabelecer a situação anterior da praça."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 127, III: a exclusão a bem da disciplina aplica-se ao Aspirante ou à praça com estabilidade julgados culpados pelo Conselho de Disciplina. O ato é do Comandante-Geral (art. 128), e a situação anterior só pode ser readquirida por decisão dele (art. 127, parágrafo único, II). A exclusão acarreta a perda do grau hierárquico, não isenta de indenizar a Fazenda (art. 129) e não dá direito a remuneração ou indenização (art. 129, parágrafo único).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-018",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t01",
+    "enunciado": "O art. 154 da Lei nº 6.218/1983 enumera as recompensas policiais-militares. Assinale a alternativa que NÃO corresponde a uma recompensa prevista nesse dispositivo.",
+    "alternativas": {
+      "A": "Dispensa do serviço.",
+      "B": "Elogios, louvores e referências elogiosas.",
+      "C": "Licença especial.",
+      "D": "Condecorações por serviços prestados.",
+      "E": "Prêmios de honra ao mérito."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. O art. 154, § 1º, lista como recompensas os prêmios de honra ao mérito, as condecorações por serviços prestados, os elogios, louvores e referências elogiosas e a dispensa do serviço. A licença especial não é recompensa: é uma espécie de licença (art. 68, § 1º, I) concedida após cada quinquênio de serviço público (art. 69).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-019",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "Segundo o Regulamento de Processo Administrativo Disciplinar (PAD) da PMSC, aprovado pela Portaria nº 009/2001, o processo pode ter rito sumário ou sumaríssimo. Assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Ambos os ritos aplicam-se a quaisquer infrações, cabendo a escolha do rito exclusivamente ao acusado.",
+      "B": "O sumário aplica-se somente a oficiais; o sumaríssimo, somente a praças sem estabilidade.",
+      "C": "O sumário apura faltas graves ou passíveis de licenciamento; o sumaríssimo, as leves ou médias.",
+      "D": "O sumário apura infrações leves ou médias; o sumaríssimo, as graves ou passíveis de licenciamento.",
+      "E": "O sumaríssimo é o único rito admitido quando a infração puder ensejar licenciamento."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. Art. 10, § 1º: o rito sumário é usado para infrações que, em tese, sejam graves ou para sanções que possam ensejar o licenciamento a bem da disciplina. Art. 10, § 2º: o sumaríssimo é usado para infrações leves ou médias. O art. 62, § 2º, proíbe expressamente o sumaríssimo nas transgressões graves.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-020",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "Considerando os prazos fixados na Portaria nº 009/2001 (Regulamento do PAD da PMSC), assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O PAD de rito sumário deve ser concluído em 40 dias úteis, improrrogáveis em qualquer hipótese.",
+      "B": "O PAD de rito sumário deve ser concluído em 30 dias úteis; o de rito sumaríssimo, em 15 dias úteis.",
+      "C": "O PAD de rito sumário deve ser concluído em 15 dias úteis; o de rito sumaríssimo, em 30 dias úteis.",
+      "D": "O PAD de rito sumário deve ser concluído em 30 dias corridos; o sumaríssimo, em 10 dias corridos.",
+      "E": "O PAD de rito sumário deve ser concluído em 20 dias úteis; o de rito sumaríssimo, em 5 dias úteis."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. Art. 12: o rito sumário deve ser concluído em 30 dias úteis, contados do primeiro dia útil após o recebimento da delegação. Esse prazo pode ser prorrogado por prazo certo (§ 1º). Art. 63: o rito sumaríssimo tem prazo de 15 dias úteis, prorrogáveis se necessário.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-021",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "Um comandante de companhia recebeu, por carta sem identificação do remetente, notícia de que um soldado estaria cometendo irregularidades. De acordo com a Portaria nº 009/2001, o documento de denúncia sem identificação do denunciante",
+    "alternativas": {
+      "A": "será arquivado, por vício quanto à forma.",
+      "B": "ensejará obrigatoriamente a instauração de inquérito policial militar.",
+      "C": "será arquivado, por falta de objeto.",
+      "D": "ensejará a imediata instauração de PAD de rito sumário.",
+      "E": "será encaminhado à Corregedoria-Geral para instauração de Conselho de Disciplina."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 7º, § 3º: a denúncia sem identificação do denunciante é arquivada por vício quanto à forma, em atenção à vedação ao anonimato (CF, art. 5º, IV). O arquivamento por falta de objeto ocorre quando o fato narrado não configura, em tese, transgressão disciplinar ou ilícito penal (art. 7º, § 4º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-022",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "Nos termos do art. 22 da Portaria nº 009/2001, não poderá participar como autoridade processante o policial-militar que se enquadre em determinadas situações. Assinale a alternativa que NÃO constitui hipótese de impedimento prevista nesse artigo.",
+    "alternativas": {
+      "A": "Ser amigo íntimo do acusado.",
+      "B": "Ter denunciado a irregularidade.",
+      "C": "Ser parente colateral do acusado em quarto grau.",
+      "D": "Ser parente afim do acusado em linha reta.",
+      "E": "Ser inimigo do acusado."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. O art. 22 impede de atuar como autoridade processante quem for amigo íntimo ou inimigo do acusado (I), seu cônjuge, companheiro ou parente consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau inclusive (II), ou quem tiver denunciado a irregularidade (III). O parentesco colateral de quarto grau fica fora desse limite.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-023",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "Em PAD de rito sumário, o acusado, ao apresentar a defesa prévia, confessou por escrito a autoria e a prática das transgressões leves que lhe foram imputadas. Segundo a Portaria nº 009/2001, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A autoridade processante deve aplicar de imediato a sanção, sem remeter os autos à julgadora.",
+      "B": "Dispensam-se as demais fases, passando-se ao relatório e à remessa dos autos para julgamento.",
+      "C": "A confissão é irrelevante, e todas as fases do processo devem ser obrigatoriamente cumpridas.",
+      "D": "O processo converte-se em sindicância, para que a confissão seja confirmada por prova testemunhal idônea.",
+      "E": "O processo é automaticamente arquivado, pois a confissão extingue a punibilidade disciplinar."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. Art. 26: se o acusado confessar a autoria e a prática das transgressões na defesa prévia, a autoridade processante passa ao relatório, dispensa as demais fases e remete os autos à autoridade competente para o julgamento. Em falta grave que possa ensejar licenciamento a bem da disciplina, o processo deve, preferencialmente, concluir todas as fases mesmo com a confissão (art. 27).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-024",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "Sobre o julgamento do PAD, conforme o Regulamento aprovado pela Portaria nº 009/2001, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A autoridade julgadora tem 5 dias úteis para decidir, contados da publicação do relatório.",
+      "B": "A autoridade julgadora tem 20 dias úteis para decidir, mas o julgamento fora do prazo não gera nulidade.",
+      "C": "A autoridade julgadora está vinculada à conclusão do relatório e não pode decidir em sentido diverso.",
+      "D": "A autoridade julgadora pode agravar a penalidade proposta sem necessidade de fundamentação.",
+      "E": "A autoridade julgadora tem 20 dias úteis para decidir, sob pena de nulidade absoluta do processo."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. Art. 59: a decisão deve ser proferida em 20 dias úteis do recebimento do processo, e o art. 61, parágrafo único, diz que o julgamento fora do prazo não implica nulidade. O art. 60 permite à julgadora dar solução diferente da proposta pela processante, desde que fundamentada nas provas dos autos, e o § 2º exige fundamentação em qualquer hipótese.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-025",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "De acordo com o art. 2º do Regulamento de Processo Administrativo Disciplinar da PMSC (Portaria nº 009/2001), aplicam-se subsidiariamente ao PAD, no que não forem incompatíveis, as disposições",
+    "alternativas": {
+      "A": "da Lei federal nº 9.784/1999.",
+      "B": "do Código de Processo Penal comum.",
+      "C": "do Estatuto dos Servidores Públicos Civis do Estado.",
+      "D": "do Código de Processo Penal Militar.",
+      "E": "do Código de Processo Civil."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 2º da Portaria 009/2001: aplicam-se subsidiariamente as disposições do Código de Processo Penal Militar, no que não forem incompatíveis com o Regulamento. A Lei 5.209/1976 (art. 13) também manda aplicar subsidiariamente o CPPM ao Conselho de Disciplina.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-026",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t02",
+    "enunciado": "Com relação ao processo administrativo disciplinar de rito sumaríssimo, previsto na Portaria nº 009/2001, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A nomeação de defensor é facultativa, a critério do acusado, e a decisão sai em 10 dias úteis.",
+      "B": "Dispensa o libelo acusatório e o contraditório, dada a menor gravidade das infrações.",
+      "C": "A defesa escrita deve ser apresentada em 10 dias úteis, vedada a realização de diligências.",
+      "D": "A nomeação de defensor é obrigatória, e a decisão deve ser proferida em 20 dias úteis.",
+      "E": "É o rito adequado para apreciar a conduta de militar no mau comportamento sem interesse em melhorar."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 62, § 3º: no rito sumaríssimo, nomear defensor é facultativo, a critério do acusado. Art. 63, § 2º: a autoridade julgadora decide em 10 dias úteis. A defesa escrita é apresentada em 5 dias úteis e admite diligências (art. 63, IV e V). O contraditório e a ampla defesa são assegurados (art. 62, caput), e o rito é vedado para transgressões graves e para o caso de mau comportamento (art. 62, § 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-027",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "Segundo a Lei nº 14.751/2023 (Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares), as polícias militares e os corpos de bombeiros militares dos Estados, instituições militares permanentes, subordinam-se",
+    "alternativas": {
+      "A": "aos governadores dos Estados, do Distrito Federal e dos Territórios.",
+      "B": "ao Comandante do Exército, por meio da Inspetoria-Geral das Polícias Militares.",
+      "C": "ao Ministro da Justiça e Segurança Pública, como integrantes do Susp.",
+      "D": "aos Secretários de Segurança Pública, vedada a subordinação ao governador.",
+      "E": "ao Presidente da República, em razão da condição de forças auxiliares."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 7º da Lei 14.751/2023 (em harmonia com o art. 144, § 6º, da CF): as PMs e os CBMs subordinam-se aos governadores. A IGPM/BM, integrante do Comando do Exército, cuida do controle e da coordenação relativos à condição de força auxiliar e reserva do Exército (art. 28), sem relação de subordinação. A convocação ou mobilização pela União só ocorre em situações extraordinárias (arts. 24 e 25).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-028",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "O art. 2º, § 3º, da Lei nº 14.751/2023 dispõe que as polícias militares e os corpos de bombeiros militares são instituições integrantes de determinados sistemas. Assinale a alternativa que NÃO apresenta sistema expressamente mencionado nesse dispositivo.",
+    "alternativas": {
+      "A": "Sistema Nacional de Proteção e Defesa Civil (Sinpdec).",
+      "B": "Sistema Nacional do Meio Ambiente (Sisnama).",
+      "C": "Sistema Único de Segurança Pública (Susp).",
+      "D": "Defesa Nacional.",
+      "E": "Sistema Brasileiro de Inteligência (Sisbin)."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. O art. 2º, § 3º, V, da Lei 14.751/2023 lista as instituições como integrantes do Susp, da Defesa Nacional, do Sinpdec e do Sisnama. O Sisbin não aparece nesse rol.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-029",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "O art. 3º da Lei nº 14.751/2023 elenca princípios básicos a serem observados pelas polícias militares e pelos corpos de bombeiros militares. Assinale a alternativa que apresenta apenas princípios previstos nesse artigo.",
+    "alternativas": {
+      "A": "Legalidade, impessoalidade, supremacia do interesse militar sobre o civil, moralidade e publicidade.",
+      "B": "Hierarquia, disciplina, efetividade, universalidade do serviço e interação comunitária.",
+      "C": "Hierarquia, disciplina, sigilo das ações operacionais, eficiência e autonomia financeira.",
+      "D": "Hierarquia, obediência irrestrita, moralidade, eficiência e participação comunitária.",
+      "E": "Legalidade, discricionariedade operacional, eficiência, razoabilidade e economicidade."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. O art. 3º prevê hierarquia, disciplina, proteção dos direitos humanos, legalidade, impessoalidade, publicidade com transparência e prestação de contas, moralidade, eficiência, efetividade, razoabilidade e proporcionalidade, universalidade na prestação do serviço e participação e interação comunitária. Sigilo das ações operacionais, autonomia financeira, supremacia do interesse militar, obediência irrestrita, discricionariedade operacional e economicidade não constam do rol.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-030",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "De acordo com a estrutura hierárquica básica estabelecida no art. 12 da Lei nº 14.751/2023, são praças especiais",
+    "alternativas": {
+      "A": "o cadete, o aluno-oficial e o aluno-sargento.",
+      "B": "o aspirante a oficial, o aluno-sargento e o aluno-soldado.",
+      "C": "o segundo-tenente, o aspirante a oficial e o cadete.",
+      "D": "o aspirante a oficial, o cadete e o aluno-oficial.",
+      "E": "o subtenente, o cadete e o aluno-oficial."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 12, II: são praças especiais o aspirante a oficial, o cadete e o aluno-oficial. O aluno-sargento e o aluno-soldado estão entre as praças (art. 12, III, e e h), assim como o subtenente. O segundo-tenente é oficial subalterno (art. 12, I, c).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-031",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "O art. 13 da Lei nº 14.751/2023 estabelece condições básicas para ingresso nas polícias militares, além do previsto na lei do ente federado. Assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Ter procedimento social e idoneidade moral irrepreensíveis, apurados por investigação.",
+      "B": "Comprovar escolaridade superior na data de admissão, de incorporação ou de formatura.",
+      "C": "Não possuir tatuagem visível de qualquer natureza quando em uso dos diversos uniformes.",
+      "D": "Ser aprovado em exame de saúde e em exame toxicológico com larga janela de detecção.",
+      "E": "Estar quite com as obrigações militares e eleitorais e no gozo dos direitos políticos."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. A Lei 14.751/2023 não proíbe qualquer tatuagem visível. O art. 13, X, veda apenas tatuagens visíveis, quando em uso dos uniformes, de suásticas, obscenidades, ideologias terroristas ou que façam apologia à violência, às drogas ilícitas ou à discriminação de raça, credo, sexo ou origem. As demais alternativas reproduzem o art. 13, VIII, IX, II e IV, e VI.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-032",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "No que tange à progressão do militar na hierarquia, a Lei nº 14.751/2023 dispõe que",
+    "alternativas": {
+      "A": "a promoção em ressarcimento de preterição foi extinta pela Lei Orgânica Nacional, por incompatível com o mérito.",
+      "B": "a progressão depende da lotação do militar no quadro de organização da unidade.",
+      "C": "as promoções seguem exclusivamente o critério de antiguidade, vedado o merecimento.",
+      "D": "a promoção segue antiguidade e merecimento, admitidas também bravura, post mortem e requisitos de inatividade.",
+      "E": "a promoção por merecimento dispensa parâmetros objetivos, cabendo à livre escolha do comandante."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. O art. 14 baseia a progressão no valor moral e profissional, de forma seletiva, gradual e sucessiva, por antiguidade e merecimento, este com parâmetros objetivos, independentemente da lotação. O parágrafo único admite ainda as promoções por bravura, post mortem e por completar os requisitos de transferência para a inatividade, sem prejuízo da promoção em ressarcimento de preterição.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-033",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "Considerando os quadros previstos no art. 15 da Lei nº 14.751/2023, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O QOEM é integrado por oficiais concursados, sem exigência de curso de formação de oficiais.",
+      "B": "O QOE é integrado por oficiais oriundos do quadro de praças, admitida a promoção até coronel.",
+      "C": "O Quadro de Praças (QP) admite progressão até a graduação de primeiro-sargento.",
+      "D": "O QOE é integrado por oficiais oriundos do quadro de praças, admitida a promoção até tenente-coronel.",
+      "E": "O Quadro de Praças (QP) dispensa nível superior, exigindo-se apenas o ensino médio completo."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 15, II: o QOE é integrado por oficiais oriundos do quadro de praças, possuidores do curso de habilitação, admitida a promoção até o posto de tenente-coronel. O QP permite progressão até subtenente e exige nível superior (art. 15, V, c/c art. 13, IX). O QOEM exige o respectivo curso de formação de oficiais (art. 15, I).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-034",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "Nos termos do art. 16, § 2º, da Lei nº 14.751/2023, que trata dos cursos exigidos como requisito para promoção das praças, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O CFP destina-se aos aprovados em concurso, como aluno-soldado, e habilita à promoção a soldado.",
+      "B": "O CAP destina-se aos terceiros-sargentos e habilita à promoção à graduação de subtenente.",
+      "C": "O CFP destina-se aos cabos, habilitando à promoção à graduação de terceiro-sargento.",
+      "D": "O CFP destina-se aos aprovados em concurso, na graduação de soldado, habilitando a cabo.",
+      "E": "O CFS tem ingresso na graduação de cabo e habilita à promoção a segundo-sargento."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 16, § 2º, II: o CFP é destinado aos aprovados em concurso público, na graduação de aluno-soldado, e habilita à promoção a soldado (a). O CFS tem ingresso na graduação de aluno-sargento e habilita à promoção a terceiro-sargento (b). O CAP é destinado aos segundos-sargentos e habilita à promoção a primeiro-sargento (c).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-035",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "Entre as garantias asseguradas pela Lei nº 14.751/2023 aos militares estaduais, destaca-se a estabilidade dos militares de carreira, que é adquirida após",
+    "alternativas": {
+      "A": "3 (três) anos de efetivo serviço nas corporações militares.",
+      "B": "5 (cinco) anos de efetivo serviço nas corporações militares.",
+      "C": "conclusão do curso de formação, independentemente do tempo de serviço.",
+      "D": "2 (dois) anos de efetivo serviço, após aprovação em estágio probatório.",
+      "E": "10 (dez) anos de efetivo serviço nas corporações militares."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 18, XXVI: é garantia a estabilidade dos militares de carreira após 3 anos de efetivo serviço nas corporações militares. Atenção à pegadinha: a redação do art. 50, IV, a, da Lei estadual 6.218/1983 ainda menciona estabilidade das praças com 10 anos ou mais de efetivo serviço. Quando o enunciado citar a Lei 14.751/2023, a resposta é 3 anos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-036",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "Conforme o parágrafo único do art. 18 da Lei nº 14.751/2023, salvo as prisões disciplinares militares, os militares dos Estados têm a prerrogativa de serem presos somente",
+    "alternativas": {
+      "A": "por ordem judicial, vedada a prisão em flagrante de militar estadual em serviço.",
+      "B": "por ordem do Secretário de Segurança Pública, com comunicação ao juiz competente em até 48 horas.",
+      "C": "em flagrante de crime hediondo, vedada qualquer outra modalidade de prisão.",
+      "D": "por ordem escrita do juiz competente ou em flagrante, comunicando-se de imediato o comando.",
+      "E": "por ordem escrita do Comandante-Geral ou em flagrante, sem necessidade de comunicação."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Pelo art. 18, parágrafo único, salvo as prisões disciplinares militares, os militares só podem ser presos por ordem escrita da autoridade judiciária competente ou em flagrante delito. Nesse caso, a autoridade respectiva fará imediata comunicação ao chefe do órgão de direção superior da instituição militar. O inciso VIII acrescenta que, preso em flagrante, o militar permanece na repartição policial apenas pelo tempo necessário à lavratura do auto.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-037",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "Após prender em flagrante o autor de um roubo, o Soldado PM Lima pretende publicar em rede social a foto do preso sob sua custódia, sem qualquer autorização judicial. À luz da Lei nº 14.751/2023, essa conduta",
+    "alternativas": {
+      "A": "é vedada apenas se o preso for adolescente, por força exclusiva do Estatuto da Criança e do Adolescente.",
+      "B": "é permitida, desde que o militar esteja de folga no momento da publicação da imagem.",
+      "C": "é permitida, desde que haja autorização verbal do comandante da guarnição.",
+      "D": "é permitida, desde que o rosto do preso não seja integralmente exibido na publicação.",
+      "E": "é vedada, pois é proibido divulgar imagens de pessoas sob custódia sem prévia autorização judicial."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. O art. 19, VI, da Lei 14.751/2023 proíbe aos militares em atividade divulgar imagens de pessoas sob sua custódia sem prévia autorização judicial. A lei não prevê exceção por estar de folga, por ocultar o rosto ou por autorização do comandante.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-038",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "O Cabo PM Souza, com 12 anos de serviço, pretende candidatar-se a vereador. Segundo o art. 22 da Lei nº 14.751/2023, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Será afastado do serviço ativo no dia do pedido de registro, sem remuneração.",
+      "B": "Será excluído do serviço ativo mediante licenciamento ex officio, no dia da convenção partidária.",
+      "C": "Será agregado com remuneração e, se eleito, permanecerá na ativa, agregado, durante todo o mandato.",
+      "D": "Será agregado após o pedido de registro, com remuneração; se eleito, irá para a reserva na diplomação.",
+      "E": "Não poderá candidatar-se, pois a militar da ativa é vedada a elegibilidade."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 22, II: o militar com mais de 10 anos de serviço é agregado no dia posterior ao pedido de registro da candidatura, com remuneração, enquanto durar o pleito. Se eleito, passa para a reserva remunerada no ato da diplomação, com remuneração proporcional ao tempo de serviço. Com menos de 10 anos, ele seria afastado do serviço ativo (art. 22, I). O critério de 10 anos acompanha o art. 14, § 8º, da CF.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-039",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "A Lei nº 14.751/2023 instituiu datas comemorativas nacionais para as polícias militares e para os corpos de bombeiros militares. Essas datas são, respectivamente,",
+    "alternativas": {
+      "A": "21 de abril e 7 de setembro.",
+      "B": "2 de julho e 21 de abril.",
+      "C": "13 de maio e 2 de julho.",
+      "D": "25 de agosto e 2 de julho.",
+      "E": "21 de abril e 2 de julho."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 35, § 1º: são datas comemorativas nacionais o dia 21 de abril para as polícias militares e o dia 2 de julho para os corpos de bombeiros militares. A lei faculta a definição de datas estaduais com base na história e na tradição de cada corporação.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-040",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t03",
+    "enunciado": "Sobre o comandante-geral da polícia militar, nos termos do art. 29 da Lei nº 14.751/2023, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "É oficial da ativa do último posto do QOEM, com CCEM, e apresenta plano de comando em até 60 dias.",
+      "B": "É escolhido entre oficiais da ativa e apresenta plano de comando em até 180 dias da posse.",
+      "C": "É escolhido entre oficiais da reserva remunerada do último posto e tem mandato fixo de 4 anos.",
+      "D": "É nomeado pelo Ministro da Justiça, dentre coronéis da ativa indicados em lista tríplice pelo governador.",
+      "E": "É nomeado pelo governador, dispensado o curso de comando e estado-maior (CCEM)."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 29: os comandantes-gerais são nomeados por ato do governador entre os oficiais da ativa do último posto do QOEM. O § 1º exige o curso de comando e estado-maior (CCEM) e permite a permanência, a critério do governador, durante o governo de quem o nomeou, sem mandato fixo. O § 2º manda apresentar, em até 60 dias da posse, plano de comando com metas, indicadores e prestação de contas.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-041",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t04",
+    "enunciado": "A Lei Complementar estadual nº 587/2013 dispõe sobre o ingresso nas carreiras das instituições militares de Santa Catarina. Conforme os requisitos de idade observados no Edital nº 002/CCP/2026, com base nessa lei, o candidato deve",
+    "alternativas": {
+      "A": "ter no mínimo 16 anos até a inscrição e não ter completado 28 anos até a matrícula no curso.",
+      "B": "ter no mínimo 18 anos até a inclusão e não ter completado 30 anos até o último dia de inscrição.",
+      "C": "ter no mínimo 21 anos até a inclusão e não ter completado 35 anos até a data da prova.",
+      "D": "ter no mínimo 18 anos até a inclusão, inexistindo limite máximo de idade para o ingresso.",
+      "E": "ter no mínimo 18 anos até a inscrição e não ter completado 30 anos até a data da inclusão."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. O item 3.1 do Edital 002/CCP/2026, elaborado conforme a LC 587/2013, exige idade mínima de 18 anos completos até a data da inclusão (b) e que o candidato não tenha completado 30 anos até o último dia de inscrição (c). Pareceres da ALESC confirmam que a LC 587/2013 fixa idade máxima de 30 anos. Atenção: o limite de idade é aferido na inscrição, e não na inclusão.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-042",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t04",
+    "enunciado": "Entre os requisitos para ingresso na carreira de praça da PMSC, previstos na LC nº 587/2013 e reproduzidos no Edital nº 002/CCP/2026, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Possuir diploma de nível médio completo, reconhecido pelo órgão de educação competente.",
+      "B": "Não ter sido condenado por crime doloso, com sentença transitada em julgado.",
+      "C": "Não exercer nem ter exercido atividades prejudiciais ou perigosas à segurança nacional.",
+      "D": "Estar em dia com os deveres do serviço militar obrigatório, no caso de candidatos homens.",
+      "E": "Possuir Carteira Nacional de Habilitação (CNH) válida."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Para o QPPM exige-se nível superior em qualquer área, com diploma reconhecido pelo MEC (Edital, item 3.1, q, conforme a LC 587/2013). O ensino médio não basta, e a Lei 14.751/2023 também exige escolaridade superior (art. 13, IX). Os demais requisitos estão no art. 2º da LC 587/2013, citado no edital: incisos VIII (crime doloso), IX (segurança nacional) e II (serviço militar), além da CNH (Edital, item 3.1, p).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-043",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t04",
+    "enunciado": "No Edital nº 002/CCP/2026 (CFP/PMSC), não há reserva de vagas para candidatos com deficiência. Esse tratamento fundamenta-se, entre outras normas,",
+    "alternativas": {
+      "A": "no art. 8º da LC nº 587/2013 e nas peculiaridades das funções (CF, art. 42, § 1º, c/c art. 142, X).",
+      "B": "no art. 10 da Lei nº 6.218/1983, ainda vigente, que veda o ingresso de pessoas com deficiência.",
+      "C": "na revogação, pela Lei nº 14.751/2023, de toda reserva de vagas em concursos públicos estaduais.",
+      "D": "na exclusiva discricionariedade da banca examinadora, sem qualquer amparo em lei estadual ou federal.",
+      "E": "na Lei nº 5.209/1976, que define a capacidade profissional mínima das praças."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. O item 2.1 do edital afasta a reserva de vagas para pessoas com deficiência pelas peculiaridades das funções do cargo, com base nos arts. 42, § 1º, c/c 142, X, da CF, no art. 8º da LC 587/2013 e na Lei estadual 17.292/2017. O art. 10 da Lei 6.218/1983 foi revogado pela própria LC 587/2013, e a Lei 5.209/1976 trata do Conselho de Disciplina.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-044",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t05",
+    "enunciado": "Nos termos da Lei Complementar nº 801/2022, que dispõe sobre a promoção das praças militares estaduais, a promoção das praças é efetivada por ato",
+    "alternativas": {
+      "A": "do Subcomandante-Geral, na condição de Presidente da CPP.",
+      "B": "do Secretário de Estado da Segurança Pública.",
+      "C": "do Diretor de Pessoal da respectiva instituição militar estadual.",
+      "D": "do Comandante-Geral da respectiva instituição militar estadual.",
+      "E": "do Governador do Estado, mediante proposta da Comissão de Promoção de Praças."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 11 da LC 801/2022: a promoção das praças é efetivada por ato do Comandante-Geral da respectiva instituição. No mesmo sentido, a Lei 14.751/2023 (art. 29, § 3º) atribui aos comandantes-gerais a promoção das praças. O Subcomandante-Geral preside a CPP (art. 26, I), órgão que processa as promoções (art. 25) mas não as efetiva.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-045",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t05",
+    "enunciado": "O art. 7º da LC nº 801/2022 enumera os critérios de promoção das praças militares estaduais. Assinale a alternativa que NÃO apresenta critério previsto nesse artigo.",
+    "alternativas": {
+      "A": "Em ressarcimento de preterição.",
+      "B": "Por requerimento, com transferência automática para a reserva remunerada.",
+      "C": "Por tempo máximo de permanência na graduação, independentemente de vaga.",
+      "D": "Por bravura.",
+      "E": "Por merecimento intelectual, na conclusão, com aproveitamento, do Curso de Formação de Sargentos."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. O art. 7º prevê antiguidade, merecimento, merecimento intelectual na conclusão do CFS, bravura, ressarcimento de preterição, post mortem e promoção por requerimento com transferência automática para a reserva remunerada. A promoção por tempo máximo de permanência no posto ou graduação existiu no Estatuto (art. 62, VI) e foi revogada pela LC 417/2008, e a LC 801/2022 não a prevê.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-046",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t05",
+    "enunciado": "Entre os requisitos exigidos pela LC nº 801/2022 para que a praça concorra à promoção por antiguidade e merecimento, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Comportamento no mínimo \"bom\", dispensado o teste de aptidão física para cabos e sargentos.",
+      "B": "Comportamento no mínimo \"bom\" e inspeção de saúde e TAF válidos, com validade de 1 ano.",
+      "C": "Qualquer comportamento, bastando o conceito profissional favorável do comandante imediato.",
+      "D": "Comportamento \"excepcional\" e aprovação em curso de pós-graduação reconhecido pelo MEC.",
+      "E": "Comportamento no mínimo \"ótimo\" e inspeção de saúde e TAF válidos, com validade de 2 anos."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. O art. 8º exige classificação no mínimo no comportamento \"bom\" (I) e inspeção de saúde e TAF válidos até a data da promoção (II). O § 1º fixa a validade de ambos em 1 ano. O mesmo artigo pede ainda interstício, arregimentação, cursos específicos (CHC para Cabo, CAS para 1º Sargento), conceito profissional e moral favoráveis e ausência de impedimentos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-047",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t05",
+    "enunciado": "Considerando os interstícios mínimos previstos no art. 10 da LC nº 801/2022, com as alterações promovidas pela LC nº 880/2025, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Cabo: 4 anos na graduação.",
+      "B": "3º Sargento: 4 anos na graduação.",
+      "C": "Soldado: 5 anos, a contar da inclusão, para promoção a Cabo.",
+      "D": "2º Sargento: 2 anos na graduação.",
+      "E": "1º Sargento: 5 anos na graduação."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. O art. 10 fixa os interstícios: Soldado, 7 anos a contar da formatura no CFP, para promoção a Cabo (III, na redação da LC 880/2025); Cabo, 2 anos (IV); 3º Sargento, 4 anos (V); 2º Sargento, 3 anos (VI); e 1º Sargento, 3 anos (VII). Na falta absoluta de candidatos, o Comandante-Geral pode reduzi-los pela metade (§ 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-048",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t05",
+    "enunciado": "Acerca da Comissão de Promoção de Praças (CPP), disciplinada na LC nº 801/2022, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "É presidida pelo Subcomandante-Geral, e o Secretário não tem direito a voto nas decisões colegiadas.",
+      "B": "É composta exclusivamente por oficiais superiores, designados por período de 1 ano.",
+      "C": "É presidida pelo Comandante-Geral, e todos os membros, inclusive o Secretário, têm direito a voto.",
+      "D": "Seus membros são designados pelo Governador, por período não inferior a 4 anos.",
+      "E": "Compete ao Secretário relatar os processos de promoção por bravura e post mortem."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Art. 26, I: o Subcomandante-Geral preside a CPP, que inclui também oficiais de vários círculos, um Subtenente, um Sargento e um Cabo. Art. 27, parágrafo único: as decisões são colegiadas, sem direito a voto do Secretário. Os membros são designados pelo Comandante-Geral por período não inferior a 2 anos (art. 26, § 1º), e relatar processos cabe aos oficiais superiores, intermediários e subalternos (art. 29).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-049",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t05",
+    "enunciado": "Segundo a LC nº 801/2022, para ascensão às graduações de 2º Sargento, 1º Sargento e Subtenente, as promoções observam a seguinte proporção:",
+    "alternativas": {
+      "A": "1 por antiguidade e 2 por merecimento, exigida a primeira metade do almanaque.",
+      "B": "1 por antiguidade e 2 por merecimento, exigido para o merecimento estar no 1º terço do almanaque.",
+      "C": "2 por antiguidade e 1 por merecimento, exigido para o merecimento estar no 1º terço do almanaque.",
+      "D": "3 por antiguidade e 1 por merecimento, exigida a metade superior do almanaque.",
+      "E": "1 por antiguidade e 1 por merecimento, sem qualquer exigência de posição no almanaque."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. Art. 13: para 2º Sargento, 1º Sargento e Subtenente, as promoções são 1 por antiguidade e 2 por merecimento. O parágrafo único exige, para o merecimento, que a praça tenha atingido, pela ordem de antiguidade no almanaque, o limite do 1º terço da respectiva graduação.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-050",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t06",
+    "enunciado": "A Lei Complementar nº 765/2020 instituiu o Regime Remuneratório Especial dos Militares Estaduais. Sobre esse regime, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Fixou subsídio com aumento de valor nominal de 20% para todos os postos e graduações.",
+      "B": "É fixado por subsídio em parcela única, vedadas gratificações, salvo as verbas ressalvadas em lei.",
+      "C": "Aplica-se somente aos militares da ativa, excluídos os inativos e os pensionistas.",
+      "D": "É estabelecido por soldo, acrescido de gratificações por tempo de serviço, de função e de risco de vida.",
+      "E": "É facultativo para os militares que ingressaram nas instituições após setembro de 2020."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. Art. 3º, §§ 1º e 2º, da LC 765/2020: o regime é estabelecido por subsídio fixado em parcela única. Fica vedado o acréscimo de gratificação, adicional, abono, prêmio ou outra espécie remuneratória, salvo as verbas do art. 4º. A regularização ocorreu sem aumento de valor nominal (art. 3º, caput). O regime vincula ativos, inativos e pensionistas, além de quem ingressar a partir de 1º/9/2020 (art. 6º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-051",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t06",
+    "enunciado": "O art. 4º da LC nº 765/2020 relaciona parcelas cuja percepção NÃO é excluída pelo subsídio do Regime Remuneratório Especial dos Militares Estaduais. Assinale a alternativa que apresenta parcela que, ao contrário, está compreendida no subsídio e é com ele incompatível.",
+    "alternativas": {
+      "A": "A Indenização por Regime Especial de Serviço Ativo (LC nº 614/2013).",
+      "B": "O décimo terceiro vencimento, na forma da Constituição do Estado.",
+      "C": "As diárias e a ajuda de custo, nos termos da legislação específica.",
+      "D": "O terço de férias.",
+      "E": "O auxílio-alimentação."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. Pelo art. 5º, a Indenização por Regime Especial de Serviço Ativo (art. 6º da LC 614/2013) está compreendida no subsídio e é com ele incompatível, assim como a Indenização de Auxílio à Saúde e o benefício do art. 50, II, do Estatuto. O décimo terceiro, o terço de férias, as diárias e a ajuda de custo e o auxílio-alimentação podem ser recebidos junto com o subsídio (art. 4º, I, II, III e XI).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-052",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t06",
+    "enunciado": "A respeito da vinculação ao Regime Remuneratório Especial dos Militares Estaduais (LC nº 765/2020), assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Permitiu opção retratável a qualquer tempo, enquanto o militar permanecer no serviço ativo da corporação.",
+      "B": "Permitiu aos ingressantes posteriores a 2020 escolher entre o subsídio e o regime da LC 614/2013.",
+      "C": "Vinculou só os novos ingressantes, sendo vedado aos militares antigos aderir ao novo regime.",
+      "D": "Vinculou todos os militares a partir de 1º/1/2022, sem possibilidade de qualquer opção.",
+      "E": "Vinculou todos a partir de 1º/9/2020; os já integrantes podiam optar pela LC 614/2013 até 30/6/2021."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. Art. 6º: ficam vinculados ao regime todos os militares ativos e inativos e seus pensionistas, a contar de 1º/9/2020, e também quem ingressar a partir de então. Art. 7º: quem já integrava as instituições na data da publicação podia optar por permanecer no regime da LC 614/2013. Pelo § 1º, essa opção é irretratável e devia ser exercida até 30/6/2021.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-053",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t07",
+    "enunciado": "De acordo com o Regulamento da Lei de Organização Básica da PMSC (RLOB), aprovado pelo Decreto nº 1.601/2021, para o cumprimento de sua missão constitucional, a PMSC compõe-se de:",
+    "alternativas": {
+      "A": "Comando-Geral, Casa Militar, grandes comandos, órgãos de controle externo e órgãos de execução.",
+      "B": "Comando-Geral, Secretaria de Segurança Pública, órgãos de direção setorial e órgãos de execução.",
+      "C": "Comando-Geral, órgãos de direção setorial, órgãos legislativos, órgãos de apoio e órgãos de execução.",
+      "D": "Comando-Geral, assistência direta ao Comandante-Geral, direção setorial, grandes comandos, apoio e execução.",
+      "E": "Comando-Geral, órgãos consultivos, Tribunal de Justiça Militar, grandes comandos e órgãos de apoio."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 2º do RLOB: a PMSC compõe-se de Comando-Geral, órgãos de assistência direta e imediata ao Comandante-Geral, órgãos de direção setorial, grandes comandos, órgãos de apoio e órgãos de execução. A Secretaria de Segurança Pública, a Casa Militar e o Judiciário não integram a estrutura da corporação. A PMSC apenas mantém efetivos à disposição de alguns desses órgãos (art. 3º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-054",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t07",
+    "enunciado": "Conforme o art. 18 do Regulamento aprovado pelo Decreto nº 1.601/2021, é órgão de assistência direta e imediata ao Comandante-Geral da PMSC:",
+    "alternativas": {
+      "A": "a Diretoria de Pessoal (DP).",
+      "B": "o Comando de Polícia Militar Ambiental (CPMA).",
+      "C": "o Centro de Seleção, Ingresso e Estudos de Pessoal (CESIEP).",
+      "D": "a Academia de Polícia Militar da Trindade (APMT).",
+      "E": "a Corregedoria-Geral (Correg-G)."
+    },
+    "correta": "E",
+    "comentario": "Gabarito E. O art. 18 aponta como órgãos de assistência direta e imediata ao Comandante-Geral a Corregedoria-Geral, a Agência Central de Inteligência (ACI), o Centro de Comunicação Social (CCS) e o Centro de Controle Interno (CConIn). A DP e a APMT são órgãos de direção setorial (art. 27), o CPMA é grande comando (art. 39, III) e o CESIEP é órgão de apoio da DP (art. 58).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-055",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t07",
+    "enunciado": "Sobre os órgãos de execução da PMSC, nos termos do Decreto nº 1.601/2021, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O comando de unidade (batalhão ou regimento) é privativo de major do QOPM.",
+      "B": "Grupos destacados têm de 6 a 30 policiais militares e são comandados pela praça mais antiga.",
+      "C": "Grupos incorporados são constituídos de, no mínimo, 10 e, no máximo, 50 policiais militares.",
+      "D": "A subunidade independente é comandada privativamente por capitão do QOPM.",
+      "E": "O pelotão incorporado é comandado privativamente por subtenente ou sargento, conforme a antiguidade."
+    },
+    "correta": "B",
+    "comentario": "Gabarito B. Art. 93, §§ 2º e 3º: grupos destacados têm de 6 a 30 policiais militares, sob o comando da praça mais antiga neles lotada. Grupos incorporados têm de 3 a 30 (§ 1º). O comando de unidade é privativo de tenente-coronel (art. 89) e o de subunidade independente, de major (art. 91, III). O pelotão incorporado é comandado por oficial subalterno do QOPM (art. 92, I).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-institucional-056",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t07",
+    "enunciado": "O art. 14 do Regulamento aprovado pelo Decreto nº 1.601/2021 prevê comissões de caráter permanente no Comando-Geral da PMSC. Nesse contexto, a Comissão de Promoção de Oficiais (CPO) é presidida pelo",
+    "alternativas": {
+      "A": "Diretor de Pessoal.",
+      "B": "Chefe do Estado-Maior Geral.",
+      "C": "Subcomandante-Geral.",
+      "D": "Comandante-Geral.",
+      "E": "Corregedor-Geral."
+    },
+    "correta": "D",
+    "comentario": "Gabarito D. Art. 14: a CPO é presidida pelo Comandante-Geral (I), e a Comissão de Promoção de Praças (II) e a Comissão de Concurso Público (III) são presididas pelo Subcomandante-Geral. A presidência da CPP pelo Subcomandante-Geral também consta do art. 26, I, da LC 801/2022.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-057",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t08",
+    "enunciado": "De acordo com a Lei estadual nº 5.209/1976, que dispõe sobre os Conselhos de Disciplina da Polícia Militar de Santa Catarina, o Conselho de Disciplina é composto de",
+    "alternativas": {
+      "A": "2 oficiais e 1 praça estável; o oficial mais antigo preside, e a praça atua como escrivã.",
+      "B": "3 oficiais da ativa; o mais moderno preside, e o mais antigo é o interrogante e relator.",
+      "C": "3 oficiais da ativa; o mais antigo, no mínimo capitão, preside, e o mais moderno é o escrivão.",
+      "D": "5 oficiais da ativa; o mais antigo, no mínimo major, preside, e o mais moderno é o escrivão.",
+      "E": "3 oficiais da ativa ou da reserva, sendo o presidente sempre um tenente-coronel."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. Art. 4º da Lei 5.209/1976: o Conselho é composto de 3 oficiais da Polícia Militar, da ativa. Pelo parágrafo único, o membro mais antigo, no mínimo um Capitão, é o presidente, o que lhe segue em antiguidade é o interrogante e relator e o mais moderno é o escrivão.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-institucional-058",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t08",
+    "enunciado": "Conforme a Lei nº 5.209/1976, o Conselho de Disciplina dispõe de prazo para concluir seus trabalhos, inclusive a remessa do relatório. Esse prazo é de",
+    "alternativas": {
+      "A": "30 dias da citação do acusado, improrrogável em qualquer hipótese.",
+      "B": "60 dias da constituição, prorrogável pelo presidente do Conselho por até 30 dias.",
+      "C": "30 dias da constituição, prorrogável pelo Comandante-Geral por até 20 dias, a pedido do Conselho.",
+      "D": "20 dias da constituição, prorrogável pelo Comandante-Geral por até 30 dias, a pedido do Conselho.",
+      "E": "45 dias da constituição, prorrogável pelo Governador por igual período."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. Art. 10 da Lei 5.209/1976: o Conselho tem 30 dias, contados da data de sua constituição, para concluir os trabalhos, inclusive a remessa do relatório. Pelo parágrafo único, o Comandante-Geral pode prorrogar esse prazo por até 20 dias, mediante solicitação do Conselho. Também caem em prova a defesa escrita em 5 dias após o interrogatório (art. 9º) e a decisão do Comandante-Geral em 20 dias (art. 12).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-059",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t08",
+    "enunciado": "Acerca da finalidade e do funcionamento do Conselho de Disciplina, nos termos da Lei nº 5.209/1976, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "O Conselho aprecia somente a capacidade das praças da ativa, excluídos reservistas e reformados.",
+      "B": "A deliberação do Conselho de Disciplina é tomada por maioria de votos de seus membros.",
+      "C": "Ao acusado é assegurada ampla defesa, devendo estar presente a todas as sessões, salvo a secreta.",
+      "D": "O Conselho aprecia, em rito sumário, a capacidade moral ou profissional das praças especiais e praças.",
+      "E": "Compete ao Comandante-Geral da Polícia Militar constituir os Conselhos de Disciplina."
+    },
+    "correta": "A",
+    "comentario": "Gabarito A. O art. 1º estende a apreciação às praças especiais e praças da ativa, da reserva remunerada ou reformadas. O Estatuto também admite submeter inativos a Conselho de Disciplina (Lei 6.218/1983, art. 49, § 3º). As demais alternativas reproduzem os arts. 1º, 3º, 9º, caput e § 1º, e 11, § 2º, da Lei 5.209/1976.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-institucional-060",
+    "materia": "legislacao-institucional",
+    "topico": "legislacao-institucional-t08",
+    "enunciado": "Considerando as disposições da Lei nº 5.209/1976 sobre a decisão do Comandante-Geral e a prescrição, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O Comandante-Geral fica vinculado ao julgamento do Conselho e não pode deixar de acatá-lo.",
+      "B": "Considerada crime a razão da culpa, o Comandante-Geral aplica pena disciplinar e arquiva o processo.",
+      "C": "A submissão a Conselho de Disciplina prescreve em 6 anos do ato ou fato, salvo outro prazo do CPM.",
+      "D": "A submissão de praça a Conselho de Disciplina prescreve em 2 anos do conhecimento do fato.",
+      "E": "Recebidos os autos, o Comandante-Geral tem 60 dias para decidir, prorrogáveis por igual período uma vez."
+    },
+    "correta": "C",
+    "comentario": "Gabarito C. Art. 14: a submissão a Conselho de Disciplina prescreve em seis anos contados da prática do ato ou fato, salvo outro prazo previsto no Código Penal Militar. Pelo art. 12, o Comandante-Geral decide em 20 dias e pode aceitar ou não o julgamento, justificando-se. Se considerar crime a razão da culpa, remete o processo ao Auditor (art. 12, III).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "id": "informatica-001",
+    "materia": "informatica",
+    "topico": "informatica-t01",
+    "enunciado": "Sobre os tipos de memória de um computador, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A memória ROM é volátil e armazena temporariamente os programas em execução.",
+      "B": "A memória RAM é volátil, ou seja, perde seu conteúdo quando o computador é desligado.",
+      "C": "O disco rígido (HD) é uma memória principal, acessada diretamente pela CPU em cada instrução.",
+      "D": "A memória cache é um tipo de memória secundária, mais lenta que a RAM.",
+      "E": "O SSD é uma memória volátil, por isso exige energia constante para manter os arquivos."
+    },
+    "correta": "B",
+    "comentario": "Correta a B: a RAM é a memória principal de trabalho, de leitura e escrita, e volátil. A: a ROM é NÃO volátil e armazena firmware. C: o HD é memória secundária (de massa), não volátil. D: a cache é a memória mais rápida depois dos registradores, situada entre a CPU e a RAM. E: o SSD é memória secundária NÃO volátil (memória flash).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-002",
+    "materia": "informatica",
+    "topico": "informatica-t01",
+    "enunciado": "Os periféricos podem ser classificados em dispositivos de entrada, de saída ou de entrada e saída. Assinale a alternativa que apresenta um dispositivo classificado como de ENTRADA E SAÍDA.",
+    "alternativas": {
+      "A": "Teclado.",
+      "B": "Monitor convencional (sem toque).",
+      "C": "Scanner.",
+      "D": "Tela sensível ao toque (touchscreen).",
+      "E": "Caixa de som."
+    },
+    "correta": "D",
+    "comentario": "Correta a D: a tela touchscreen exibe informações (saída) e recebe comandos pelo toque (entrada). Teclado e scanner são dispositivos de entrada; monitor convencional e caixa de som são dispositivos de saída. Outros exemplos de entrada e saída: impressora multifuncional, pendrive e modem.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-003",
+    "materia": "informatica",
+    "topico": "informatica-t02",
+    "enunciado": "Em relação aos tipos de licença de software, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Software freeware é distribuído gratuitamente, mas não necessariamente tem seu código-fonte aberto.",
+      "B": "Todo software livre é necessariamente gratuito e proíbe a venda de cópias.",
+      "C": "Software shareware é aquele cujo código-fonte é aberto e pode ser modificado livremente.",
+      "D": "Software proprietário permite ao usuário estudar e modificar o código-fonte sem restrições.",
+      "E": "O LibreOffice é um exemplo de software proprietário, pago e de código fechado."
+    },
+    "correta": "A",
+    "comentario": "Correta a A: freeware significa apenas uso gratuito; o código pode ser fechado. B: software livre refere-se às quatro liberdades (executar, estudar, redistribuir e modificar/aperfeiçoar), podendo ser comercializado. C: shareware é distribuído para avaliação, com limitação de tempo ou de recursos. D: o software proprietário restringe acesso e modificação do código. E: o LibreOffice é software livre e gratuito.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-004",
+    "materia": "informatica",
+    "topico": "informatica-t02",
+    "enunciado": "Ao ligar o computador, um programa gravado em memória não volátil da placa-mãe realiza testes iniciais do hardware e localiza o carregador do sistema operacional. Esse programa é um exemplo de",
+    "alternativas": {
+      "A": "software aplicativo, como um editor de textos.",
+      "B": "driver de dispositivo, instalado pelo usuário.",
+      "C": "utilitário de compactação de arquivos.",
+      "D": "sistema operacional de rede.",
+      "E": "firmware, como a BIOS ou a UEFI."
+    },
+    "correta": "E",
+    "comentario": "Correta a E: BIOS/UEFI é firmware – software gravado em memória não volátil do hardware – que executa o POST (teste inicial) e dá início à carga do sistema operacional. Aplicativos (A) atendem tarefas do usuário; drivers (B) permitem ao sistema operacional controlar dispositivos; utilitários (C) executam tarefas de manutenção; o sistema operacional (D) é carregado depois, justamente pelo processo iniciado pelo firmware.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-005",
+    "materia": "informatica",
+    "topico": "informatica-t03",
+    "enunciado": "Um batalhão da Polícia Militar mantém um portal interno, acessível apenas por seus servidores, que utiliza as mesmas tecnologias da internet. Esse tipo de rede é denominado",
+    "alternativas": {
+      "A": "extranet, pois é aberta a qualquer usuário da internet.",
+      "B": "internet, pois utiliza o protocolo HTTP.",
+      "C": "intranet, rede privada que utiliza os mesmos protocolos da internet (TCP/IP), com acesso restrito.",
+      "D": "WAN pública, pois dispensa autenticação.",
+      "E": "rede ponto a ponto, que interliga apenas dois computadores e não utiliza protocolos de comunicação."
+    },
+    "correta": "C",
+    "comentario": "Correta a C: intranet é uma rede privada, de acesso restrito aos membros da organização, que utiliza os mesmos protocolos e serviços da internet (TCP/IP, HTTP, navegador). A extranet estende parte da intranet a usuários externos autorizados (parceiros, fornecedores), e não a qualquer usuário. As demais alternativas trazem conceitos incorretos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-006",
+    "materia": "informatica",
+    "topico": "informatica-t03",
+    "enunciado": "Acerca das unidades de medida de armazenamento de dados, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "O bit é a menor unidade de informação, podendo assumir os valores 0 ou 1.",
+      "B": "Um byte equivale a 10 bits.",
+      "C": "Um quilobyte (KB), no padrão binário tradicionalmente adotado em informática, corresponde a 1.024 bytes.",
+      "D": "Um gigabyte (GB) é maior que um megabyte (MB).",
+      "E": "Um terabyte (TB) corresponde a 1.024 gigabytes no padrão binário."
+    },
+    "correta": "B",
+    "comentario": "A INCORRETA é a B: um byte equivale a 8 bits. As demais estão corretas: o bit é a menor unidade (0 ou 1); no padrão binário, 1 KB = 1.024 bytes, 1 MB = 1.024 KB, 1 GB = 1.024 MB e 1 TB = 1.024 GB.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-007",
+    "materia": "informatica",
+    "topico": "informatica-t04",
+    "enunciado": "No LibreOffice Writer 7, em português, com configuração padrão, o atalho de teclado utilizado para CENTRALIZAR o parágrafo selecionado é",
+    "alternativas": {
+      "A": "Ctrl + C.",
+      "B": "Ctrl + J.",
+      "C": "Ctrl + E.",
+      "D": "Ctrl + L.",
+      "E": "Ctrl + R."
+    },
+    "correta": "C",
+    "comentario": "Correta a C: no Writer, Ctrl+E centraliza. Ctrl+J justifica, Ctrl+L alinha à esquerda e Ctrl+R alinha à direita. Ctrl+C é o comando Copiar. Atenção: no Microsoft Word em português o atalho de centralizar também é Ctrl+E, mas a justificação é Ctrl+J e o alinhamento à esquerda é Ctrl+Q – diferença comum em provas.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-008",
+    "materia": "informatica",
+    "topico": "informatica-t04",
+    "enunciado": "Um policial está redigindo um relatório no LibreOffice Writer 7 e deseja iniciar o próximo tópico obrigatoriamente em uma nova página. Para inserir uma quebra de página manual, ele pode utilizar o atalho",
+    "alternativas": {
+      "A": "Ctrl + Enter.",
+      "B": "Shift + Enter.",
+      "C": "Alt + Enter.",
+      "D": "Ctrl + Shift + N.",
+      "E": "Ctrl + P."
+    },
+    "correta": "A",
+    "comentario": "Correta a A: Ctrl+Enter insere quebra de página manual no Writer. Shift+Enter insere quebra de linha (sem criar novo parágrafo); Ctrl+Shift+Enter insere quebra de coluna; Ctrl+P abre a impressão. Ctrl+Shift+N abre o gerenciador de modelos no LibreOffice.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-009",
+    "materia": "informatica",
+    "topico": "informatica-t04",
+    "enunciado": "Considerando o LibreOffice Writer 7, em português, com configuração padrão, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "A tecla F7 inicia a verificação ortográfica e gramatical.",
+      "B": "O formato padrão de salvamento de documentos é o ODT (OpenDocument Text).",
+      "C": "O atalho Ctrl + H abre a caixa de diálogo Localizar e substituir.",
+      "D": "A tecla F5 inicia a apresentação de slides do documento em tela cheia.",
+      "E": "O Writer permite exportar o documento diretamente para o formato PDF."
+    },
+    "correta": "D",
+    "comentario": "A INCORRETA é a D: no Writer, F5 exibe/oculta o Navegador, que permite localizar rapidamente títulos, tabelas, figuras e outros objetos do documento; F5 inicia a apresentação no Impress. As demais estão corretas: F7 – ortografia e gramática; .odt – formato nativo; Ctrl+H – Localizar e substituir; Arquivo > Exportar como PDF.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "informatica-010",
+    "materia": "informatica",
+    "topico": "informatica-t05",
+    "enunciado": "Em uma planilha do LibreOffice Calc 7, as células A1, A2, A3 e A4 contêm, respectivamente, os valores 2, 4, 6 e 8. Ao digitar na célula B1 a fórmula =MÉDIA(A1:A4), o resultado exibido será",
+    "alternativas": {
+      "A": "20.",
+      "B": "4.",
+      "C": "8.",
+      "D": "6.",
+      "E": "5."
+    },
+    "correta": "E",
+    "comentario": "Correta a E: MÉDIA calcula a média aritmética: (2 + 4 + 6 + 8) / 4 = 20 / 4 = 5. O valor 20 seria o resultado de =SOMA(A1:A4); 8, de =MÁXIMO(A1:A4); e 4, de =CONT.NÚM(A1:A4).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-011",
+    "materia": "informatica",
+    "topico": "informatica-t05",
+    "enunciado": "No LibreOffice Calc 7, a célula C1 contém a fórmula =$A$1*B1. Ao copiar a célula C1 e colá-la na célula D3, a fórmula resultante em D3 será",
+    "alternativas": {
+      "A": "=$A$1*C3",
+      "B": "=$A$1*B3",
+      "C": "=$A$3*C3",
+      "D": "=$B$3*C3",
+      "E": "=$A$1*B1"
+    },
+    "correta": "A",
+    "comentario": "Correta a A. A referência $A$1 é absoluta (linha e coluna travadas pelo $), portanto não muda. A referência B1 é relativa: de C1 para D3 houve deslocamento de +1 coluna e +2 linhas; assim, B1 passa a C3. Resultado: =$A$1*C3.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "informatica-012",
+    "materia": "informatica",
+    "topico": "informatica-t05",
+    "enunciado": "No LibreOffice Calc 7, em português, a célula A1 contém o valor 6,5. Na célula B1 foi digitada a fórmula =SE(A1>=7;\"Aprovado\";\"Reprovado\"). O resultado exibido em B1 será",
+    "alternativas": {
+      "A": "Aprovado.",
+      "B": "VERDADEIRO.",
+      "C": "Reprovado.",
+      "D": "#NOME?",
+      "E": "6,5."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. A função SE tem a sintaxe =SE(teste; valor_se_verdadeiro; valor_se_falso), com argumentos separados por ponto e vírgula no Calc em português. Como 6,5 não é maior ou igual a 7, o teste é falso e retorna-se o terceiro argumento: \"Reprovado\".",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-013",
+    "materia": "informatica",
+    "topico": "informatica-t05",
+    "enunciado": "No LibreOffice Calc 7, para referenciar, em uma fórmula, a célula A1 de outra planilha do mesmo documento, chamada Planilha2, utiliza-se a sintaxe",
+    "alternativas": {
+      "A": "=Planilha2!A1",
+      "B": "=Planilha2:A1",
+      "C": "=Planilha2#A1",
+      "D": "=A1@Planilha2",
+      "E": "=Planilha2.A1"
+    },
+    "correta": "E",
+    "comentario": "Correta a E: no Calc, a referência a outra planilha usa o PONTO entre o nome da planilha e a célula (=Planilha2.A1; em forma absoluta, =$Planilha2.$A$1). A sintaxe com exclamação (=Planilha2!A1) é a do Microsoft Excel – pegadinha clássica. Os demais formatos não existem.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "informatica-014",
+    "materia": "informatica",
+    "topico": "informatica-t06",
+    "enunciado": "No LibreOffice Impress 7, com configuração padrão, a tecla utilizada para iniciar a apresentação de slides a partir do PRIMEIRO slide é",
+    "alternativas": {
+      "A": "F7.",
+      "B": "F5.",
+      "C": "F11.",
+      "D": "F2.",
+      "E": "F1."
+    },
+    "correta": "B",
+    "comentario": "Correta a B: F5 inicia a apresentação do primeiro slide; Shift+F5 inicia a partir do slide atual. F7 abre a verificação ortográfica; F1, a Ajuda; F2 edita texto; F11 abre a barra de estilos. O formato nativo do Impress é .odp.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-015",
+    "materia": "informatica",
+    "topico": "informatica-t06",
+    "enunciado": "No LibreOffice Impress 7, um usuário deseja que o brasão da corporação e o mesmo padrão de fontes e cores apareçam automaticamente em todos os slides da apresentação. O recurso mais adequado para isso é",
+    "alternativas": {
+      "A": "o modo de exibição Classificador de slides.",
+      "B": "a ferramenta Transição de slides.",
+      "C": "o modo de exibição Notas.",
+      "D": "o Slide mestre.",
+      "E": "o recurso Ocultar slide."
+    },
+    "correta": "D",
+    "comentario": "Correta a D: o Slide mestre (Exibir > Slide mestre) define elementos e formatações comuns (logotipos, fundo, fontes, cores, rodapés) aplicados a todos os slides que o utilizam. O Classificador de slides exibe miniaturas para reorganizar; Notas exibe as anotações do apresentador; Transição define o efeito entre slides; Ocultar slide impede a exibição de um slide durante a apresentação.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-016",
+    "materia": "informatica",
+    "topico": "informatica-t07",
+    "enunciado": "No Windows 11, em português, a combinação de teclas que abre o Explorador de Arquivos é",
+    "alternativas": {
+      "A": "Windows + E.",
+      "B": "Windows + L.",
+      "C": "Windows + D.",
+      "D": "Windows + I.",
+      "E": "Windows + R."
+    },
+    "correta": "A",
+    "comentario": "Correta a A: Windows+E abre o Explorador de Arquivos. Windows+L bloqueia a sessão; Windows+D mostra/oculta a área de trabalho; Windows+I abre as Configurações; Windows+R abre a caixa Executar.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-017",
+    "materia": "informatica",
+    "topico": "informatica-t07",
+    "enunciado": "Sobre atalhos de teclado do Windows 11, em português, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Windows + V abre o histórico da área de transferência.",
+      "B": "Windows + Shift + S abre a Ferramenta de Captura para recortar parte da tela.",
+      "C": "Ctrl + Shift + Esc abre diretamente o Gerenciador de Tarefas.",
+      "D": "Windows + Tab abre a Visão de Tarefas, que exibe as janelas abertas e as áreas de trabalho virtuais.",
+      "E": "Windows + D bloqueia o computador e retorna à tela de login."
+    },
+    "correta": "E",
+    "comentario": "A INCORRETA é a E: Windows+D exibe (ou oculta) a área de trabalho, minimizando as janelas. Quem bloqueia o computador é Windows+L. As demais estão corretas.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-018",
+    "materia": "informatica",
+    "topico": "informatica-t07",
+    "enunciado": "No Explorador de Arquivos do Windows 11, considerando a configuração padrão, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Arrastar um arquivo com o mouse para uma pasta de outra unidade de disco move o arquivo, apagando-o da origem.",
+      "B": "Selecionar um arquivo e pressionar Delete o exclui permanentemente, sem passar pela Lixeira.",
+      "C": "Arrastar um arquivo com o mouse para outra pasta da mesma unidade de disco move o arquivo.",
+      "D": "Arquivos excluídos de um pendrive são sempre enviados para a Lixeira do computador.",
+      "E": "Pressionar Shift + Delete envia o arquivo para a Lixeira, permitindo restauração."
+    },
+    "correta": "C",
+    "comentario": "Correta a C: arrastar na MESMA unidade move; arrastar para OUTRA unidade copia (A errada). Delete envia para a Lixeira (B errada), enquanto Shift+Delete exclui permanentemente, sem passar pela Lixeira (E errada). Em regra, arquivos excluídos de unidades removíveis, como pendrives, não vão para a Lixeira (D errada). Para forçar a cópia ao arrastar, segura-se Ctrl; para forçar a movimentação, Shift.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "informatica-019",
+    "materia": "informatica",
+    "topico": "informatica-t08",
+    "enunciado": "Serviços como o Google Docs e o Microsoft 365 na web permitem ao usuário utilizar editores de texto e planilhas diretamente pelo navegador, sem instalação local. Esse modelo de serviço em nuvem é classificado como",
+    "alternativas": {
+      "A": "IaaS (Infraestrutura como Serviço).",
+      "B": "SaaS (Software como Serviço).",
+      "C": "PaaS (Plataforma como Serviço).",
+      "D": "nuvem privada local.",
+      "E": "computação em grade (grid)."
+    },
+    "correta": "B",
+    "comentario": "Correta a B: no SaaS, o usuário acessa o aplicativo pronto pela internet, sem instalar ou gerenciar infraestrutura. IaaS oferece recursos de infraestrutura (servidores virtuais, armazenamento, rede); PaaS oferece plataforma para desenvolver e implantar aplicações. Nuvem privada e grid não descrevem o modelo de serviço em questão.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-020",
+    "materia": "informatica",
+    "topico": "informatica-t08",
+    "enunciado": "Acerca de ferramentas de colaboração e armazenamento em nuvem, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Arquivos armazenados em nuvem pública só podem ser acessados a partir da rede interna da organização, e nunca por meio de dispositivos móveis.",
+      "B": "Ferramentas de edição colaborativa em nuvem impedem que dois usuários editem o mesmo arquivo ao mesmo tempo.",
+      "C": "Serviços de armazenamento em nuvem dispensam totalmente o uso de conexão com a internet para sincronizar arquivos.",
+      "D": "Ferramentas como Google Docs e Microsoft 365 permitem edição simultânea, comentários e consulta ao histórico de versões do documento.",
+      "E": "Compartilhar um arquivo do OneDrive ou do Google Drive sempre o torna público para qualquer pessoa na internet."
+    },
+    "correta": "D",
+    "comentario": "Correta a D: edição simultânea (coautoria), comentários e histórico de versões são recursos típicos das suítes em nuvem. A: nuvem pública é acessível pela internet, de qualquer lugar, com autenticação. B: a coautoria simultânea é justamente um diferencial. C: a sincronização exige internet (pode-se trabalhar offline em arquivos já sincronizados, mas a atualização na nuvem depende de conexão). E: é possível compartilhar com pessoas específicas e definir permissões (visualizar, comentar, editar).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-021",
+    "materia": "informatica",
+    "topico": "informatica-t09",
+    "enunciado": "De acordo com a Lei nº 13.709/2018 (LGPD), é considerado DADO PESSOAL SENSÍVEL",
+    "alternativas": {
+      "A": "o número do CPF do titular.",
+      "B": "o endereço residencial do titular.",
+      "C": "o endereço de e-mail profissional do titular.",
+      "D": "o número de telefone celular do titular.",
+      "E": "o dado biométrico vinculado a uma pessoa natural."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. Pelo art. 5º, II, da LGPD, dado pessoal sensível é o dado sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural. CPF, endereço, e-mail e telefone são dados pessoais (art. 5º, I), mas não sensíveis.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-022",
+    "materia": "informatica",
+    "topico": "informatica-t09",
+    "enunciado": "Segundo o art. 4º da Lei nº 13.709/2018 (LGPD), a lei NÃO se aplica ao tratamento de dados pessoais realizado",
+    "alternativas": {
+      "A": "para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais, que serão regidos por legislação específica.",
+      "B": "por órgãos e entidades públicos em qualquer hipótese, já que a LGPD alcança apenas o tratamento realizado por pessoas jurídicas de direito privado com finalidade lucrativa.",
+      "C": "por meio digital, uma vez que a LGPD trata apenas de dados em meio físico.",
+      "D": "por empresas estrangeiras que ofertem serviços a pessoas localizadas no Brasil.",
+      "E": "para fins econômicos por pessoa natural."
+    },
+    "correta": "A",
+    "comentario": "Correta a A: art. 4º, III, da LGPD (o § 1º prevê que esse tratamento será regido por legislação específica, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular). Também ficam fora da lei o tratamento por pessoa natural para fins exclusivamente particulares e não econômicos, e para fins exclusivamente jornalísticos, artísticos ou acadêmicos. B: a LGPD aplica-se ao poder público (arts. 1º e 23). C: aplica-se a meios digitais e físicos (art. 1º). D: aplica-se a quem oferte bens ou serviços a indivíduos no Brasil (art. 3º). E: só o uso particular e NÃO econômico é excluído.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "informatica-023",
+    "materia": "informatica",
+    "topico": "informatica-t09",
+    "enunciado": "Conforme as definições do art. 5º da Lei nº 13.709/2018 (LGPD), assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Operador é a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais e que responde perante a ANPD.",
+      "B": "Titular é a pessoa jurídica que realiza o tratamento dos dados em nome do controlador.",
+      "C": "Encarregado é a pessoa indicada pelo controlador e pelo operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD).",
+      "D": "Dado anonimizado é aquele que, mesmo após a aplicação de técnicas de proteção, permite a identificação direta e imediata do titular por qualquer pessoa que tenha acesso a ele.",
+      "E": "Controlador é a pessoa natural a quem se referem os dados pessoais objeto de tratamento."
+    },
+    "correta": "C",
+    "comentario": "Correta a C: art. 5º, VIII. A descreve o CONTROLADOR (art. 5º, VI). O OPERADOR realiza o tratamento em nome do controlador (art. 5º, VII) – B troca operador por titular. D: dado anonimizado é o relativo a titular que não possa ser identificado, considerando meios técnicos razoáveis (art. 5º, III). E descreve o TITULAR (art. 5º, V).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "informatica-024",
+    "materia": "informatica",
+    "topico": "informatica-t10",
+    "enunciado": "No navegador Mozilla Firefox, em sua configuração padrão, o atalho de teclado que abre uma nova janela privativa é",
+    "alternativas": {
+      "A": "Ctrl + Shift + N.",
+      "B": "Ctrl + Shift + T.",
+      "C": "Ctrl + J.",
+      "D": "Ctrl + Shift + P.",
+      "E": "Ctrl + H."
+    },
+    "correta": "D",
+    "comentario": "Correta a D: no Firefox, Ctrl+Shift+P abre janela privativa. No Google Chrome (janela anônima) e no Microsoft Edge (janela InPrivate), o atalho é Ctrl+Shift+N (A). Ctrl+Shift+T reabre a última guia fechada; Ctrl+J abre os downloads; Ctrl+H abre o histórico.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-025",
+    "materia": "informatica",
+    "topico": "informatica-t10",
+    "enunciado": "Sobre a navegação privativa (janela anônima do Chrome, InPrivate do Edge e janela privativa do Firefox), assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "O histórico de navegação da sessão privativa não é salvo no computador após o fechamento da janela.",
+      "B": "A navegação privativa torna o usuário anônimo perante o provedor de internet, o empregador e os sites visitados, ocultando seu endereço IP.",
+      "C": "Os cookies e dados de sites criados durante a sessão privativa são descartados ao fechar todas as janelas privativas.",
+      "D": "Arquivos baixados durante a navegação privativa permanecem salvos no computador.",
+      "E": "Favoritos criados durante a sessão privativa continuam disponíveis após o encerramento da sessão."
+    },
+    "correta": "B",
+    "comentario": "A INCORRETA é a B: a navegação privativa apenas evita que dados (histórico, cookies, dados de formulários) fiquem salvos no dispositivo; ela não oculta o IP nem impede que o provedor, a rede da empresa ou os sites visitados registrem a atividade. As demais estão corretas: os downloads e os favoritos criados permanecem.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-026",
+    "materia": "informatica",
+    "topico": "informatica-t11",
+    "enunciado": "Um oficial precisa enviar um e-mail a todos os comandantes de companhia de modo que cada destinatário NÃO veja os endereços dos demais. Para isso, deve inserir os endereços no campo",
+    "alternativas": {
+      "A": "Para.",
+      "B": "Cc (com cópia).",
+      "C": "Assunto.",
+      "D": "Responder a.",
+      "E": "Cco (com cópia oculta)."
+    },
+    "correta": "E",
+    "comentario": "Correta a E: os destinatários no campo Cco (Bcc) recebem a mensagem sem que seus endereços sejam exibidos aos demais. Os endereços em Para e Cc ficam visíveis a todos os destinatários. Assunto é o título da mensagem.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "informatica-027",
+    "materia": "informatica",
+    "topico": "informatica-t11",
+    "enunciado": "Em relação aos protocolos utilizados no serviço de correio eletrônico, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O POP3 é utilizado para o envio de mensagens entre servidores de e-mail.",
+      "B": "O SMTP é utilizado para receber mensagens no computador do usuário, mantendo-as sincronizadas no servidor e entre vários dispositivos.",
+      "C": "O HTTP é o protocolo exclusivo de envio de mensagens nos clientes de e-mail instalados no computador.",
+      "D": "O IMAP permite acessar as mensagens mantendo-as no servidor, sincronizando pastas e o status de leitura entre vários dispositivos.",
+      "E": "O FTP é o protocolo padrão para o recebimento de mensagens com anexos."
+    },
+    "correta": "D",
+    "comentario": "Correta a D: o IMAP mantém as mensagens no servidor e sincroniza o estado entre dispositivos. O SMTP é o protocolo de ENVIO (A e B erradas). O POP3 é de recebimento e, por padrão, baixa as mensagens para o dispositivo local. O HTTP/HTTPS é usado no webmail (acesso pelo navegador), e o FTP é para transferência de arquivos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-028",
+    "materia": "informatica",
+    "topico": "informatica-t12",
+    "enunciado": "Programa malicioso capaz de se propagar automaticamente pelas redes, enviando cópias de si mesmo de computador para computador, sem necessidade de se anexar a outro programa ou arquivo hospedeiro e sem depender da execução explícita pelo usuário. Essa descrição corresponde ao",
+    "alternativas": {
+      "A": "vírus de macro.",
+      "B": "worm.",
+      "C": "spyware.",
+      "D": "adware.",
+      "E": "rootkit."
+    },
+    "correta": "B",
+    "comentario": "Correta a B: o worm (verme) propaga-se sozinho, explorando vulnerabilidades, e consome muitos recursos da rede e do sistema. O vírus (incluindo o de macro) depende de um hospedeiro e de execução para se propagar. Spyware monitora e coleta informações; adware exibe propaganda; rootkit esconde e assegura a presença do invasor ou de outro código malicioso.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-029",
+    "materia": "informatica",
+    "topico": "informatica-t12",
+    "enunciado": "Um usuário baixou um suposto \"protetor de tela gratuito\" que, além de exibir as animações prometidas, passou a executar secretamente ações maliciosas, como instalar outros códigos e permitir acesso remoto ao computador. Esse tipo de código malicioso é denominado",
+    "alternativas": {
+      "A": "ransomware.",
+      "B": "worm.",
+      "C": "cavalo de troia (trojan).",
+      "D": "keylogger.",
+      "E": "phishing."
+    },
+    "correta": "C",
+    "comentario": "Correta a C: o cavalo de troia é um programa que, além de executar as funções para as quais foi aparentemente projetado, executa outras, normalmente maliciosas, sem o conhecimento do usuário. Ransomware torna os dados inacessíveis (criptografa) e exige resgate; worm se autopropaga pela rede; keylogger captura o que é digitado; phishing é um golpe de engenharia social para obter dados, não um programa em si.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "informatica-030",
+    "materia": "informatica",
+    "topico": "informatica-t13",
+    "enunciado": "Acerca de mecanismos de proteção e de antivírus, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "O firewall, por si só, é capaz de remover vírus já instalados no computador, dispensando o uso de antivírus.",
+      "B": "A quarentena isola arquivos suspeitos, impedindo sua execução até que sejam analisados, restaurados ou excluídos.",
+      "C": "A detecção por assinatura compara arquivos com uma base de códigos maliciosos conhecidos, que deve ser atualizada com frequência.",
+      "D": "A detecção heurística procura identificar comportamentos suspeitos, o que permite detectar ameaças ainda não catalogadas.",
+      "E": "Manter o sistema operacional e os aplicativos atualizados reduz a exploração de vulnerabilidades por códigos maliciosos."
+    },
+    "correta": "A",
+    "comentario": "A INCORRETA é a A: o firewall controla e filtra o tráfego de rede segundo regras, podendo bloquear acessos não autorizados e a propagação de worms, mas não varre nem remove vírus já instalados – função do antivírus. Os mecanismos são complementares. As demais alternativas estão corretas.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  }
+]

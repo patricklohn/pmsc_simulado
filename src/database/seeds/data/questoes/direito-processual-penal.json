@@ -1,0 +1,614 @@
+[
+  {
+    "id": "direito-processual-penal-001",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t01",
+    "enunciado": "De acordo com o Código de Processo Penal, a respeito da aplicação da lei processual penal no tempo, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A lei processual penal nova somente se aplica aos processos iniciados após a sua entrada em vigor.",
+      "B": "A lei processual penal nova torna nulos os atos praticados sob a lei anterior que com ela sejam incompatíveis.",
+      "C": "A lei processual penal nova retroage apenas quando beneficiar o réu, anulando os atos já praticados.",
+      "D": "A lei processual penal aplica-se desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.",
+      "E": "A lei processual penal nova só pode ser aplicada após o trânsito em julgado das ações em curso."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. O art. 2º do CPP consagra o princípio do tempus regit actum (aplicação imediata): a lei processual nova aplica-se desde logo aos processos em curso, mas os atos praticados sob a lei anterior permanecem válidos. Não há retroatividade que anule atos já realizados, nem exigência de que o processo seja novo. A retroatividade benéfica é regra da lei penal material (CF, art. 5º, XL), e não da lei puramente processual.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-002",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t02",
+    "enunciado": "Sobre as características do inquérito policial, previstas no Código de Processo Penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Nos crimes de ação penal privada, a autoridade policial somente poderá instaurar inquérito a requerimento de quem tenha qualidade para intentá-la.",
+      "B": "Todas as peças do inquérito policial serão, num só processado, reduzidas a escrito ou datilografadas e rubricadas pela autoridade.",
+      "C": "O inquérito policial acompanhará a denúncia ou queixa sempre que servir de base a uma ou outra.",
+      "D": "A autoridade assegurará no inquérito o sigilo necessário à elucidação do fato ou exigido pelo interesse da sociedade.",
+      "E": "A autoridade policial poderá mandar arquivar autos de inquérito quando se convencer da inexistência de crime."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. A assertiva incorreta é a que permite à autoridade policial arquivar o inquérito: o art. 17 do CPP veda expressamente que a autoridade policial mande arquivar autos de inquérito (indisponibilidade). As demais reproduzem o CPP: procedimento escrito (art. 9º), sigilo (art. 20), o inquérito acompanha a denúncia ou queixa quando lhe servir de base (art. 12) e, na ação privada, depende de requerimento do ofendido (art. 5º, § 5º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-003",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t02",
+    "enunciado": "Um policial militar prende em flagrante um indivíduo pela prática de furto e o apresenta à autoridade policial, que lavra o auto e mantém a prisão. De acordo com a regra geral do art. 10 do CPP, o inquérito policial deverá terminar no prazo de",
+    "alternativas": {
+      "A": "90 dias, independentemente de o indiciado estar preso ou solto.",
+      "B": "30 dias, contado a partir da lavratura do auto de prisão em flagrante.",
+      "C": "15 dias, prorrogáveis uma vez por igual período pela autoridade policial.",
+      "D": "10 dias, contado a partir do dia em que se executar a prisão.",
+      "E": "5 dias, contado a partir da comunicação da prisão ao juiz competente."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. Conforme o art. 10 do CPP, o inquérito deve terminar em 10 dias se o indiciado estiver preso em flagrante ou preventivamente, contado o prazo do dia em que se executar a ordem de prisão; se solto, o prazo é de 30 dias. O prazo de 15 dias é o do inquérito da Polícia Federal para preso (Lei 5.010/66) e o de 90 dias é o da Lei de Drogas para indiciado solto (Lei 11.343/06, art. 51). Prorrogação não é ato da própria autoridade policial.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-004",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t02",
+    "enunciado": "Acerca da instauração do inquérito policial, de acordo com o Código de Processo Penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A representação do ofendido, nos crimes de ação pública condicionada, só pode ser oferecida após a conclusão do inquérito.",
+      "B": "O inquérito, nos crimes em que a ação pública depender de representação, não poderá sem ela ser iniciado.",
+      "C": "Nos crimes de ação penal privada, o inquérito será instaurado de ofício sempre que houver prisão em flagrante.",
+      "D": "Do despacho que indeferir o requerimento de abertura de inquérito caberá apelação ao Tribunal de Justiça.",
+      "E": "Nos crimes de ação penal pública incondicionada, o inquérito somente poderá ser iniciado mediante requisição do Ministério Público."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. Correta a literalidade do art. 5º, § 4º, do CPP. Na ação pública incondicionada, o inquérito pode ser instaurado de ofício (art. 5º, I). Contra o indeferimento do requerimento de abertura cabe recurso para o chefe de Polícia (art. 5º, § 2º), e não apelação. Na ação privada, sempre se exige requerimento de quem tenha qualidade para intentá-la (art. 5º, § 5º). A representação é condição para o início do próprio inquérito.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-005",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t03",
+    "enunciado": "De acordo com o art. 28-A do CPP, incluído pela Lei nº 13.964/2019, o acordo de não persecução penal poderá ser proposto pelo Ministério Público quando, não sendo caso de arquivamento, o investigado tiver confessado formal e circunstancialmente a prática de infração penal",
+    "alternativas": {
+      "A": "de qualquer natureza, desde que a pena mínima seja igual ou inferior a 4 anos.",
+      "B": "sem violência ou grave ameaça e com pena máxima inferior a 4 anos.",
+      "C": "sem violência ou grave ameaça e com pena mínima inferior a 4 anos.",
+      "D": "sem violência ou grave ameaça e com pena máxima não superior a 2 anos.",
+      "E": "com ou sem violência, desde que o investigado seja primário e de bons antecedentes."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. O art. 28-A do CPP exige: não ser caso de arquivamento, confissão formal e circunstanciada, infração sem violência ou grave ameaça e pena mínima inferior a 4 anos (considerando causas de aumento e diminuição, § 1º). O critério é a pena mínima, e não a máxima; pena máxima não superior a 2 anos é o conceito de infração de menor potencial ofensivo (Lei 9.099/95, art. 61), hipótese em que, cabendo transação penal, o ANPP é vedado (art. 28-A, § 2º, I).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-006",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t03",
+    "enunciado": "Com relação ao acordo de não persecução penal (ANPP), assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O ANPP pode ser proposto pela autoridade policial ao final do inquérito, com posterior ciência do Ministério Público.",
+      "B": "Cumprido integralmente o acordo, o juízo competente decretará a extinção de punibilidade.",
+      "C": "O ANPP é cabível nos crimes praticados no âmbito de violência doméstica contra a mulher, desde que sem lesão grave.",
+      "D": "A homologação do acordo dispensa audiência, bastando a assinatura do investigado e do membro do Ministério Público.",
+      "E": "A celebração e o cumprimento do acordo constarão da certidão de antecedentes criminais para todos os fins."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. Correta: art. 28-A, § 13, do CPP. O § 2º, IV, veda o ANPP nos crimes praticados no âmbito de violência doméstica ou familiar ou contra a mulher por razões da condição de sexo feminino. A homologação exige audiência para verificar a voluntariedade, com oitiva do investigado na presença do defensor (§ 4º). A celebração e o cumprimento não constam de certidão de antecedentes, salvo para impedir novo acordo em 5 anos (§ 12). A legitimidade para propor é do Ministério Público (caput).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-007",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t04",
+    "enunciado": "Sobre a ação penal, de acordo com o Código de Processo Penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A queixa contra qualquer dos autores do crime não obrigará ao processo de todos, em razão da oportunidade.",
+      "B": "A renúncia ao exercício do direito de queixa em relação a um dos autores não se estende aos demais.",
+      "C": "O Ministério Público poderá desistir da ação penal pública, desde que antes da sentença.",
+      "D": "A representação será irretratável depois de oferecida a denúncia.",
+      "E": "O direito de representação decai em 6 meses contados da data do fato, independentemente de se saber quem é o autor."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. Correta: art. 25 do CPP. O MP não pode desistir da ação penal (art. 42, indisponibilidade). A queixa contra qualquer dos autores obriga ao processo de todos (art. 48, indivisibilidade), e a renúncia em relação a um se estende a todos (art. 49). A decadência de 6 meses conta-se do dia em que o ofendido vier a saber quem é o autor do crime (art. 38).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-008",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t04",
+    "enunciado": "Quanto à ação civil ex delicto, nos termos do Código de Processo Penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "O despacho de arquivamento do inquérito ou das peças de informação não impede a propositura da ação civil.",
+      "B": "O juiz, ao proferir sentença condenatória, fixará valor mínimo para reparação dos danos causados pela infração.",
+      "C": "Faz coisa julgada no cível a sentença penal que reconhecer ter sido o ato praticado em legítima defesa.",
+      "D": "A sentença absolutória que decidir que o fato imputado não constitui crime impede a propositura da ação civil.",
+      "E": "Transitada em julgado a sentença condenatória, poderão promover-lhe a execução, no juízo cível, o ofendido, seu representante legal ou seus herdeiros."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. A incorreta contraria o art. 67, III, do CPP: a sentença absolutória que decide que o fato não constitui crime NÃO impede a ação civil, pois o ilícito civil pode subsistir. As demais estão corretas: execução da sentença condenatória no cível (art. 63), coisa julgada no cível das excludentes de ilicitude (art. 65), arquivamento não impede a ação civil (art. 67, I) e fixação de valor mínimo (art. 387, IV).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-processual-penal-009",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t05",
+    "enunciado": "De acordo com o Código de Processo Penal, a competência será, de regra, determinada pelo lugar em que",
+    "alternativas": {
+      "A": "se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.",
+      "B": "tiver domicílio o réu, independentemente do local da consumação.",
+      "C": "for praticado o primeiro ato de execução, ainda que a consumação venha a ocorrer em local diverso, em outra comarca.",
+      "D": "residir a vítima, em qualquer caso, de modo a facilitar a produção da prova e a oitiva do ofendido em juízo.",
+      "E": "o réu for preso, quando se tratar de prisão em flagrante."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 70 do CPP adota a teoria do resultado: a competência é determinada pelo lugar da consumação ou, na tentativa, pelo do último ato de execução. O domicílio ou residência do réu é critério subsidiário, usado quando não for conhecido o lugar da infração (art. 72) ou, na ação exclusivamente privada, por opção do querelante (art. 73). O local da prisão não fixa competência.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-010",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t05",
+    "enunciado": "Um policial militar estadual, em serviço, pratica homicídio doloso contra um civil. Considerando a Constituição Federal, a competência para processar e julgar o crime é",
+    "alternativas": {
+      "A": "da Justiça Federal, pois o crime envolve agente de segurança pública.",
+      "B": "do Conselho Permanente de Justiça, por se tratar de militar em atividade.",
+      "C": "do Juiz de Direito do Juízo Militar, que julga singularmente todos os crimes militares cometidos contra civis.",
+      "D": "do Tribunal do Júri, pois a competência da Justiça Militar estadual é ressalvada quando a vítima for civil.",
+      "E": "da Justiça Militar estadual, pois o crime foi praticado por militar estadual em serviço, independentemente da condição da vítima."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. Nos termos do art. 125, § 4º, da CF/88, compete à Justiça Militar estadual processar e julgar os militares dos Estados nos crimes militares definidos em lei, ressalvada a competência do júri quando a vítima for civil. Assim, o crime doloso contra a vida de civil praticado por PM vai ao Tribunal do Júri. Não há competência da Justiça Federal. O juiz de direito do juízo militar julga singularmente os demais crimes militares cometidos contra civis (art. 125, § 5º), não os dolosos contra a vida.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-011",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t06",
+    "enunciado": "De acordo com o art. 155 do Código de Processo Penal, o juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação,",
+    "alternativas": {
+      "A": "salvo quando o Ministério Público assim requerer de forma fundamentada.",
+      "B": "salvo quando o réu for revel ou estiver foragido.",
+      "C": "ressalvados os depoimentos prestados pelos policiais condutores do flagrante.",
+      "D": "ressalvada a confissão realizada perante a autoridade policial.",
+      "E": "ressalvadas as provas cautelares, não repetíveis e antecipadas."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. O art. 155 do CPP permite usar elementos do inquérito para corroborar a prova judicial, mas proíbe condenação fundada exclusivamente neles, ressalvadas as provas cautelares, não repetíveis e antecipadas (ex.: perícias, exame de corpo de delito). Depoimentos de policiais e confissão extrajudicial precisam ser confirmados em juízo; revelia ou pedido do MP não afastam a regra.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-012",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t06",
+    "enunciado": "Sobre provas no processo penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "São inadmissíveis as provas ilícitas, devendo ser desentranhadas do processo.",
+      "B": "São admissíveis as provas derivadas quando puderem ser obtidas por uma fonte independente das primeiras.",
+      "C": "Quando a infração deixar vestígios, a confissão do acusado poderá suprir o exame de corpo de delito.",
+      "D": "São também inadmissíveis as provas derivadas das ilícitas, salvo quando não evidenciado o nexo de causalidade entre umas e outras.",
+      "E": "A cadeia de custódia é o conjunto de procedimentos utilizados para manter e documentar a história cronológica do vestígio."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. A incorreta contraria o art. 158 do CPP: quando a infração deixa vestígios, é indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão. As demais reproduzem o art. 157 (ilicitude, prova derivada, nexo causal e fonte independente) e o art. 158-A (cadeia de custódia, incluído pela Lei 13.964/2019).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-013",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t07",
+    "enunciado": "Policiais militares são acionados logo após um roubo e passam a perseguir, sem interrupção, o autor do crime, que é alcançado e detido duas horas depois. Segundo o art. 302 do CPP, trata-se de flagrante",
+    "alternativas": {
+      "A": "presumido, pois o agente foi encontrado logo depois com instrumentos, armas ou objetos que façam presumir ser ele o autor.",
+      "B": "impróprio, pois o agente foi perseguido logo após, em situação que faça presumir ser autor da infração.",
+      "C": "preparado, pois a polícia provocou a prática do crime.",
+      "D": "próprio, pois o agente acabara de cometer a infração penal.",
+      "E": "diferido, pois a intervenção policial foi retardada para o momento mais eficaz à formação de provas e à obtenção de informações."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. O art. 302, III, do CPP trata do flagrante impróprio (imperfeito ou quase flagrante): o agente é perseguido logo após, pela autoridade, pelo ofendido ou por qualquer pessoa, em situação que faça presumir ser autor da infração. Não há prazo fixo de horas; importa a perseguição contínua. Flagrante próprio são os incisos I e II; presumido (ficto) é o inciso IV (encontrado logo depois com instrumentos, armas ou objetos). O flagrante preparado gera crime impossível (Súmula 145 do STF), e o diferido é a ação controlada.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-014",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t07",
+    "enunciado": "Nos termos do art. 301 do Código de Processo Penal, em relação a quem se encontre em flagrante delito,",
+    "alternativas": {
+      "A": "as autoridades policiais deverão prendê-lo apenas mediante prévia ordem escrita do juiz competente.",
+      "B": "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prendê-lo.",
+      "C": "qualquer do povo deverá e as autoridades policiais e seus agentes poderão prendê-lo.",
+      "D": "somente as autoridades policiais e seus agentes poderão prendê-lo, vedada a prisão por particular.",
+      "E": "qualquer do povo e as autoridades policiais deverão prendê-lo, sob pena de responderem por prevaricação."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. O art. 301 do CPP distingue o flagrante facultativo (qualquer do povo PODERÁ prender) do flagrante obrigatório ou compulsório (autoridades policiais e seus agentes DEVERÃO prender). A prisão em flagrante dispensa ordem judicial (CF, art. 5º, LXI). O particular não tem dever legal de prender.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-015",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t07",
+    "enunciado": "Durante patrulhamento, policiais militares recebem informações concretas e verificam, por meio de campana, intensa movimentação típica de comércio de drogas em uma residência, que mantém entorpecentes em depósito. Considerando o CPP e a jurisprudência do STF, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Nas infrações permanentes, o agente está em flagrante enquanto não cessar a permanência, e o ingresso em domicílio sem mandado é lícito se amparado em fundadas razões, justificadas a posteriori.",
+      "B": "Mesmo em flagrante delito, o ingresso em domicílio depende de consentimento do morador ou de mandado judicial.",
+      "C": "Como o tráfico na modalidade ter em depósito é crime instantâneo, o flagrante só seria possível no momento exato da venda da droga ao usuário, o que impede a atuação policial no caso.",
+      "D": "O ingresso no domicílio sem mandado judicial somente é admitido durante o dia, ainda que haja flagrante delito.",
+      "E": "A simples denúncia anônima, por si só, autoriza o ingresso forçado em domicílio a qualquer hora do dia ou da noite, dispensando campana, diligências prévias ou qualquer justificativa posterior."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 303 do CPP dispõe que, nas infrações permanentes (como ter em depósito droga), o agente está em flagrante enquanto não cessar a permanência. A CF (art. 5º, XI) permite o ingresso em casa, sem consentimento, em caso de flagrante delito, a qualquer hora do dia ou da noite. O STF (RE 603.616, Tema 280) fixou que a entrada forçada sem mandado é lícita quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem flagrante delito. A denúncia anônima isolada não basta, segundo a jurisprudência.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-processual-penal-016",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t07",
+    "enunciado": "Acerca da lavratura do auto de prisão em flagrante, de acordo com o Código de Processo Penal, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "A prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente, ao Ministério Público e à família do preso ou à pessoa por ele indicada.",
+      "B": "Em até 24 horas após a realização da prisão, será encaminhado ao juiz o auto de prisão em flagrante e, caso o autuado não informe advogado, cópia integral para a Defensoria Pública.",
+      "C": "A falta de testemunhas da infração impede a lavratura do auto de prisão em flagrante.",
+      "D": "Apresentado o preso, a autoridade competente ouvirá o condutor e colherá, desde logo, sua assinatura, entregando-lhe cópia do termo e recibo de entrega do preso.",
+      "E": "No mesmo prazo de 24 horas, será entregue ao preso, mediante recibo, a nota de culpa, assinada pela autoridade, com o motivo da prisão."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. A incorreta contraria o art. 304, § 2º, do CPP: a falta de testemunhas da infração não impede o auto, mas, nesse caso, com o condutor, deverão assiná-lo pelo menos duas pessoas que tenham testemunhado a apresentação do preso à autoridade. As demais reproduzem o art. 304, caput, e o art. 306, caput, §§ 1º e 2º.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-017",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t07",
+    "enunciado": "Após a prisão em flagrante, o juiz deverá promover audiência de custódia no prazo máximo de 24 horas. Nessa audiência, de acordo com o art. 310 do CPP, o juiz deverá, fundamentadamente,",
+    "alternativas": {
+      "A": "conceder liberdade provisória apenas nos crimes afiançáveis, sendo ela sempre vedada nos crimes inafiançáveis, como os hediondos.",
+      "B": "relaxar a prisão ilegal, converter a prisão em flagrante em preventiva ou conceder liberdade provisória, com ou sem fiança.",
+      "C": "homologar o auto de prisão em flagrante e manter o preso recolhido até o oferecimento da denúncia, qualquer que seja o crime praticado.",
+      "D": "decretar a prisão preventiva de ofício sempre que o crime for punido com reclusão.",
+      "E": "converter automaticamente a prisão em flagrante em temporária, pelo prazo de 5 dias."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. O art. 310 do CPP prevê três opções após a audiência de custódia: relaxar a prisão ilegal (I); converter o flagrante em preventiva, quando presentes os requisitos do art. 312 e inadequadas ou insuficientes as cautelares diversas (II); ou conceder liberdade provisória, com ou sem fiança (III). Não existe manutenção automática do flagrante nem conversão em temporária, e a preventiva não é decretada de ofício (art. 311). Crimes inafiançáveis admitem liberdade provisória sem fiança.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-018",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t08",
+    "enunciado": "De acordo com o art. 311 do CPP, com redação dada pela Lei nº 13.964/2019, em qualquer fase da investigação policial ou do processo penal, caberá a prisão preventiva decretada pelo juiz",
+    "alternativas": {
+      "A": "exclusivamente a requerimento do Ministério Público, vedada a representação policial.",
+      "B": "a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial.",
+      "C": "de ofício durante o processo e, na fase investigatória, apenas mediante representação da autoridade policial.",
+      "D": "por representação da autoridade policial ou do comandante da unidade policial militar que efetuou a prisão.",
+      "E": "de ofício, ou a requerimento do Ministério Público, do querelante ou do assistente."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. Com o Pacote Anticrime, o art. 311 do CPP deixou de prever a decretação de ofício da preventiva, em qualquer fase, reforçando o sistema acusatório (art. 3º-A). Os legitimados são o MP, o querelante, o assistente de acusação e a autoridade policial (por representação). Comandantes militares não têm legitimidade para representar pela preventiva no processo penal comum.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-019",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t08",
+    "enunciado": "Sobre as hipóteses de admissibilidade da prisão preventiva previstas no art. 313 do CPP, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Será admitida se o investigado tiver sido condenado por outro crime doloso, em sentença transitada em julgado, ressalvado o período depurador.",
+      "B": "Será admitida se o crime envolver violência doméstica e familiar contra a mulher, para garantir a execução das medidas protetivas de urgência.",
+      "C": "Será admitida nos crimes culposos punidos com pena privativa de liberdade máxima superior a 4 anos.",
+      "D": "Será admitida nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 anos.",
+      "E": "Não será admitida com a finalidade de antecipação de cumprimento de pena."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. A preventiva é admitida em crimes DOLOSOS com pena máxima superior a 4 anos (art. 313, I); não cabe, em regra, em crimes culposos. As demais assertivas reproduzem o art. 313, II, III e § 2º, do CPP. Também cabe preventiva quando houver dúvida sobre a identidade civil (art. 313, § 1º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-020",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t08",
+    "enunciado": "Assinale a alternativa que apresenta medida que NÃO consta do rol de medidas cautelares diversas da prisão do art. 319 do CPP.",
+    "alternativas": {
+      "A": "Proibição de manter contato com pessoa determinada.",
+      "B": "Comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz.",
+      "C": "Prestação de serviços à comunidade ou a entidades públicas.",
+      "D": "Recolhimento domiciliar no período noturno e nos dias de folga.",
+      "E": "Monitoração eletrônica."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. A prestação de serviços à comunidade é pena restritiva de direitos (CP, art. 43, IV), e não medida cautelar. O art. 319 do CPP prevê, entre outras: comparecimento periódico em juízo (I), proibição de acesso a lugares (II), proibição de contato com pessoa determinada (III), proibição de ausentar-se da comarca (IV), recolhimento domiciliar noturno (V), suspensão de função pública (VI), internação provisória (VII), fiança (VIII) e monitoração eletrônica (IX).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-021",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t09",
+    "enunciado": "Um policial militar conduz à delegacia indivíduo preso em flagrante por crime cuja pena máxima é de 4 anos de reclusão, que não se enquadra nas vedações legais. Segundo o CPP, a fiança",
+    "alternativas": {
+      "A": "somente poderá ser concedida pelo juiz, pois a autoridade policial não arbitra fiança em crimes punidos com reclusão.",
+      "B": "poderá ser concedida pelo policial militar condutor da ocorrência, ainda no local da prisão, mediante recibo.",
+      "C": "só poderá ser concedida pelo Ministério Público, após a audiência de custódia.",
+      "D": "não poderá ser concedida, pois todo crime punido com reclusão é inafiançável.",
+      "E": "poderá ser concedida pela própria autoridade policial, por se tratar de pena máxima não superior a 4 anos."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. Pelo art. 322 do CPP, a autoridade policial somente pode conceder fiança nos casos de infração cuja pena privativa de liberdade máxima não seja superior a 4 anos; nos demais casos, a fiança é requerida ao juiz, que decide em 48 horas. O critério é o patamar da pena, e não a espécie (reclusão ou detenção). Policial condutor e MP não concedem fiança.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-022",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t09",
+    "enunciado": "Sobre fiança e liberdade provisória, considerando o CPP, a Constituição Federal e o entendimento do STF, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O crime de racismo é afiançável, mas imprescritível.",
+      "B": "A inafiançabilidade do crime impede, automaticamente, qualquer forma de liberdade provisória.",
+      "C": "O crime de tortura é afiançável quando praticado por agente público no exercício da função.",
+      "D": "Os crimes hediondos são afiançáveis, mas insuscetíveis de liberdade provisória sem fiança.",
+      "E": "Os crimes hediondos são inafiançáveis, o que não impede a concessão de liberdade provisória sem fiança."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. Segundo o art. 323 do CPP e o art. 5º, XLII e XLIII, da CF, são inafiançáveis o racismo, a tortura, o tráfico de drogas, o terrorismo, os crimes hediondos e a ação de grupos armados contra a ordem constitucional. A inafiançabilidade, porém, não impede a liberdade provisória sem fiança: a Lei 11.464/2007 retirou essa vedação da Lei 8.072/90, e o STF considera inconstitucionais vedações abstratas à liberdade provisória. O racismo é inafiançável e imprescritível.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-processual-penal-023",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t10",
+    "enunciado": "De acordo com o Código de Processo Penal, poderão ser opostas as exceções de",
+    "alternativas": {
+      "A": "impedimento, insanidade mental, falsidade, restituição e coisa julgada.",
+      "B": "suspeição, insanidade mental, incompetência de juízo, decadência e litispendência.",
+      "C": "suspeição, prescrição, decadência, litispendência e coisa julgada.",
+      "D": "incompetência de juízo, nulidade, perempção, ilegitimidade de parte e prescrição.",
+      "E": "suspeição, incompetência de juízo, litispendência, ilegitimidade de parte e coisa julgada."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. O art. 95 do CPP enumera as exceções: suspeição, incompetência de juízo, litispendência, ilegitimidade de parte e coisa julgada. Prescrição, decadência e perempção são causas extintivas da punibilidade (CP, art. 107), reconhecíveis de ofício (CPP, art. 61). Insanidade mental, falsidade e restituição de coisas apreendidas são outros incidentes processuais, e não exceções.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-024",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t11",
+    "enunciado": "Acerca das medidas assecuratórias previstas no Código de Processo Penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O sequestro alcança apenas bens imóveis adquiridos com os proventos da infração, sendo incabível sobre bens móveis.",
+      "B": "O sequestro será levantado se a ação penal for intentada no prazo de 60 dias, contado da data em que concluída a diligência.",
+      "C": "O sequestro somente poderá ser decretado após o oferecimento da denúncia ou queixa.",
+      "D": "Para a decretação do sequestro, bastará a existência de indícios veementes da proveniência ilícita dos bens.",
+      "E": "A especialização da hipoteca legal dispensa prova da materialidade e indícios de autoria."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. Correta: art. 126 do CPP. O sequestro pode ser ordenado em qualquer fase do processo ou ainda antes de oferecida a denúncia ou queixa (art. 127) e também recai sobre bens móveis (art. 132). A hipoteca legal exige certeza da infração e indícios suficientes da autoria (art. 134). O sequestro é levantado se a ação penal NÃO for intentada no prazo de 60 dias, contado da conclusão da diligência (art. 131, I).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-processual-penal-025",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t12",
+    "enunciado": "Segundo o art. 366 do Código de Processo Penal, se o acusado, citado por edital, não comparecer nem constituir advogado,",
+    "alternativas": {
+      "A": "ficarão suspensos o processo e o curso do prazo prescricional.",
+      "B": "ficará suspenso o processo, mas o prazo prescricional continuará a correr.",
+      "C": "o processo seguirá à sua revelia, com nomeação de defensor dativo.",
+      "D": "será realizada nova citação, por hora certa, na pessoa de seu vizinho.",
+      "E": "será decretada automaticamente sua prisão preventiva."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 366 do CPP determina a suspensão do processo e do prazo prescricional, podendo o juiz determinar a produção antecipada de provas urgentes e, se for o caso, decretar a preventiva nos termos do art. 312 (não automaticamente). Para o STJ, a suspensão da prescrição é regulada pelo máximo da pena cominada (Súmula 415). A citação por hora certa é cabível quando o réu se oculta (art. 362), e não após o edital.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-processual-penal-026",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t13",
+    "enunciado": "De acordo com o art. 394 do CPP, o procedimento comum será",
+    "alternativas": {
+      "A": "sumário, quando tiver por objeto crime cuja sanção máxima cominada for superior a 4 anos de pena privativa de liberdade.",
+      "B": "sumaríssimo, quando tiver por objeto crime cuja sanção máxima cominada for inferior a 4 anos.",
+      "C": "sumário, para as infrações penais de menor potencial ofensivo, na forma da lei.",
+      "D": "ordinário, quando tiver por objeto crime cuja sanção mínima cominada for superior a 4 anos de pena privativa de liberdade.",
+      "E": "ordinário, quando tiver por objeto crime cuja sanção máxima cominada for igual ou superior a 4 anos de pena privativa de liberdade."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. O art. 394, § 1º, do CPP define: ordinário — sanção máxima igual ou superior a 4 anos (I); sumário — sanção máxima inferior a 4 anos (II); sumaríssimo — infrações de menor potencial ofensivo, na forma da Lei 9.099/95 (III). O critério é a pena máxima cominada.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-027",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t14",
+    "enunciado": "Sobre as nulidades no processo penal, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Nenhum ato será declarado nulo se da nulidade não resultar prejuízo para a acusação ou para a defesa.",
+      "B": "Não será declarada a nulidade de ato que houver influído na decisão da causa.",
+      "C": "A parte poderá arguir nulidade a que haja dado causa, desde que demonstre prejuízo.",
+      "D": "A deficiência da defesa constitui sempre nulidade absoluta, independentemente de prejuízo.",
+      "E": "As nulidades relativas nunca se convalidam, podendo ser arguidas a qualquer tempo."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. Correta: art. 563 do CPP (pas de nullité sans grief). Nenhuma das partes pode arguir nulidade a que haja dado causa (art. 565). Pela Súmula 523 do STF, a falta de defesa é nulidade absoluta, mas a deficiência só anula o processo se houver prova de prejuízo. Não se declara nulidade de ato que NÃO houver influído na apuração da verdade ou na decisão da causa (art. 566). As nulidades relativas convalidam-se se não arguidas no momento oportuno (art. 572).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-028",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t15",
+    "enunciado": "Contra a decisão do juiz que não receber a denúncia ou a queixa, de acordo com o Código de Processo Penal, caberá",
+    "alternativas": {
+      "A": "recurso em sentido estrito.",
+      "B": "apelação.",
+      "C": "carta testemunhável.",
+      "D": "agravo em execução penal.",
+      "E": "embargos infringentes e de nulidade."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 581, I, do CPP prevê recurso em sentido estrito contra a decisão que não receber a denúncia ou a queixa (no JECRIM, a rejeição desafia apelação — Lei 9.099/95, art. 82). Apelação é cabível contra sentenças definitivas (art. 593); agravo em execução é o recurso da LEP (art. 197); embargos infringentes cabem contra acórdão não unânime desfavorável ao réu (art. 609, parágrafo único); carta testemunhável cabe contra a decisão que denega ou obsta o seguimento do recurso (art. 639).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-029",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t15",
+    "enunciado": "Com relação ao habeas corpus, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Destina-se a proteger qualquer direito líquido e certo violado por ilegalidade ou abuso de poder de autoridade pública.",
+      "B": "Poderá ser impetrado por qualquer pessoa, em seu favor ou de outrem, bem como pelo Ministério Público.",
+      "C": "Cabe para discutir o mérito das punições disciplinares militares.",
+      "D": "Não pode ser concedido de ofício pelo juiz ou tribunal.",
+      "E": "Somente poderá ser impetrado por advogado regularmente inscrito na OAB ou pelo Defensor Público."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. Correta: art. 654 do CPP; o HC dispensa capacidade postulatória. Ele tutela a liberdade de locomoção (CF, art. 5º, LXVIII); direito líquido e certo não amparado por HC é objeto de mandado de segurança. Não cabe HC em relação a punições disciplinares militares (CF, art. 142, § 2º), admitindo-se apenas o exame de legalidade (competência, hipótese, pena cabível), não do mérito. Juízes e tribunais podem expedir HC de ofício (art. 654, § 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-030",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t16",
+    "enunciado": "Nos termos da Lei nº 7.960/1989, a prisão temporária",
+    "alternativas": {
+      "A": "será decretada pelo juiz, mediante representação da autoridade policial ou requerimento do MP, pelo prazo de 5 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+      "B": "será decretada pelo juiz, a requerimento da vítima ou de seu representante legal, pelo prazo de 5 dias, prorrogável quantas vezes forem necessárias à investigação.",
+      "C": "poderá ser decretada de ofício pelo juiz, durante o inquérito policial ou no curso da ação penal, pelo prazo de 10 dias, prorrogável uma única vez em caso de necessidade.",
+      "D": "será decretada pelo juiz somente na fase processual, com prazo de 30 dias prorrogáveis sucessivamente.",
+      "E": "será decretada pelo delegado de polícia, com comunicação ao juiz competente em até 24 horas, pelo prazo de 5 dias, improrrogável, devendo o preso ser solto ao final."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 2º da Lei 7.960/89 prevê decretação pelo juiz mediante representação da autoridade policial ou requerimento do MP, com prazo de 5 dias prorrogáveis uma vez por igual período em caso de extrema e comprovada necessidade. Não há decretação de ofício. É cabível apenas na fase de investigação (inquérito). Nos crimes hediondos e equiparados, o prazo é de 30 dias, prorrogável por igual período (Lei 8.072/90, art. 2º, § 4º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-processual-penal-031",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t16",
+    "enunciado": "A prisão temporária somente é cabível quanto aos crimes listados no art. 1º, III, da Lei nº 7.960/1989. Assinale a alternativa que apresenta crime NÃO previsto nesse rol.",
+    "alternativas": {
+      "A": "Furto qualificado.",
+      "B": "Roubo.",
+      "C": "Extorsão mediante sequestro.",
+      "D": "Tráfico de drogas.",
+      "E": "Homicídio doloso."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O furto (simples ou qualificado) não consta do rol taxativo do art. 1º, III, da Lei 7.960/89, que inclui, entre outros, homicídio doloso (a), sequestro ou cárcere privado (b), roubo (c), extorsão (d), extorsão mediante sequestro (e), estupro (f), associação criminosa (l), genocídio (m), tráfico de drogas (n), crimes contra o sistema financeiro (o) e crimes de terrorismo (p). Segundo o STF (ADIs 3.360 e 4.109), a temporária exige imprescindibilidade para a investigação e fundadas razões de autoria em crime do rol.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-032",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t17",
+    "enunciado": "Policiais militares atendem ocorrência de lesão corporal leve em briga de trânsito, sem envolver violência doméstica. O autor do fato assume o compromisso de comparecer ao Juizado Especial Criminal. De acordo com a Lei nº 9.099/1995,",
+    "alternativas": {
+      "A": "deverá ser lavrado o auto de prisão em flagrante, com posterior concessão de fiança pelo delegado.",
+      "B": "deverá ser instaurado inquérito policial, com prazo de 30 dias para conclusão.",
+      "C": "lavrado o termo circunstanciado, não se imporá prisão em flagrante, nem se exigirá fiança.",
+      "D": "a prisão em flagrante é obrigatória, pois a lesão corporal é crime de ação pública incondicionada.",
+      "E": "o autor será preso em flagrante e apresentado em audiência de custódia em 24 horas."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. Lesão corporal leve (CP, art. 129, caput: detenção de 3 meses a 1 ano) é infração de menor potencial ofensivo (pena máxima não superior a 2 anos — Lei 9.099/95, art. 61). Pelo art. 69, parágrafo único, ao autor do fato que, após a lavratura do termo circunstanciado, for imediatamente encaminhado ao Juizado ou assumir o compromisso de comparecer, não se imporá prisão em flagrante, nem se exigirá fiança. A lesão leve, aliás, depende de representação (Lei 9.099/95, art. 88).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-033",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t17",
+    "enunciado": "Nos termos do art. 89 da Lei nº 9.099/1995, nos crimes em que a pena mínima cominada for igual ou inferior a um ano, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo",
+    "alternativas": {
+      "A": "por 1 a 2 anos, desde que o crime seja de menor potencial ofensivo e o acusado seja primário e de bons antecedentes.",
+      "B": "por 2 a 4 anos, inclusive nos crimes praticados com violência doméstica contra a mulher.",
+      "C": "por 2 a 4 anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime.",
+      "D": "por até 5 anos, independentemente de o acusado estar sendo processado ou já ter sido condenado por outro crime.",
+      "E": "por 2 a 4 anos, aplicável apenas às infrações de menor potencial ofensivo."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. O sursis processual (art. 89) aplica-se a crimes com pena mínima igual ou inferior a 1 ano, abrangidos ou não pela Lei 9.099/95 (não se restringe às IMPO), pelo período de prova de 2 a 4 anos, desde que o acusado não esteja sendo processado nem tenha sido condenado por outro crime, presentes os requisitos do sursis (CP, art. 77). Não se aplica à violência doméstica contra a mulher (Lei 11.340/06, art. 41; Súmula 536 do STJ).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-processual-penal-034",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t18",
+    "enunciado": "De acordo com a Lei nº 9.296/1996, que regulamenta a interceptação de comunicações telefônicas, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "A interceptação será admitida quando o fato investigado constituir infração penal punida, no máximo, com pena de detenção.",
+      "B": "A decisão será fundamentada, sob pena de nulidade, e não poderá exceder o prazo de 15 dias, renovável por igual tempo uma vez comprovada a indispensabilidade do meio de prova.",
+      "C": "A interceptação depende de ordem do juiz competente da ação principal, sob segredo de justiça.",
+      "D": "A lei aplica-se também à interceptação do fluxo de comunicações em sistemas de informática e telemática.",
+      "E": "Não será admitida quando a prova puder ser feita por outros meios disponíveis."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. A incorreta inverte o art. 2º, III, da Lei 9.296/96: NÃO será admitida a interceptação quando o fato investigado constituir infração punida, no máximo, com detenção. As demais reproduzem o art. 1º, caput e parágrafo único, o art. 2º, II, e o art. 5º. O STF admite renovações sucessivas, desde que fundamentadas.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-processual-penal-035",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t18",
+    "enunciado": "Considerando a Lei nº 9.296/1996, com as alterações da Lei nº 13.964/2019, sobre a captação ambiental de sinais eletromagnéticos, ópticos ou acústicos, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A captação ambiental terá prazo máximo de 30 dias, vedada a renovação.",
+      "B": "A captação ambiental pode ser autorizada para investigar qualquer infração penal, independentemente da pena.",
+      "C": "Realizar captação ambiental sem autorização judicial, quando exigida, é mero ilícito administrativo.",
+      "D": "A captação ambiental dispensa autorização judicial quando realizada pela polícia em local público.",
+      "E": "Não há crime se a captação é realizada por um dos interlocutores."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. O art. 10-A, § 1º, da Lei 9.296/96 dispõe que não há crime se a captação é realizada por um dos interlocutores. A captação ambiental exige autorização judicial e é admitida para infrações com pena máxima superior a 4 anos ou conexas (art. 8º-A, II), pelo prazo de até 15 dias, renovável por decisão judicial (art. 8º-A, § 3º). Realizá-la sem autorização judicial, quando exigida, é crime punido com reclusão de 2 a 4 anos e multa (art. 10-A).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-processual-penal-036",
+    "materia": "direito-processual-penal",
+    "topico": "direito-processual-penal-t19",
+    "enunciado": "Durante a condução de um preso, um policial militar avalia a necessidade de utilizar algemas. De acordo com a Súmula Vinculante nº 11 do STF, o uso de algemas é lícito",
+    "alternativas": {
+      "A": "em casos de fundado receio de fuga ou de perigo à integridade física, dispensada qualquer justificativa formal, bastando o registro verbal à autoridade.",
+      "B": "em qualquer caso de prisão em flagrante, independentemente de justificativa, por se tratar de ato inerente à condução de preso pela polícia.",
+      "C": "somente quando o preso for reincidente ou possuir maus antecedentes.",
+      "D": "em casos de resistência, de fundado receio de fuga ou de perigo à integridade física própria ou alheia, justificada a excepcionalidade por escrito.",
+      "E": "apenas mediante prévia autorização judicial, salvo nos crimes hediondos e equiparados, em que o uso é obrigatório durante toda a condução."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. A Súmula Vinculante 11 do STF: só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual, sem prejuízo da responsabilidade civil do Estado. Não depende de autorização judicial prévia nem de antecedentes do preso.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  }
+]

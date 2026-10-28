@@ -1,0 +1,298 @@
+{
+  "id": "informatica",
+  "nome": "Informática",
+  "area": "comuns",
+  "questoesNaProva": 5,
+  "conteudoEdital": "Informática: 1. Conceitos de Hardware e Software. 2. Conceitos básicos e modos de utilização de tecnologias, ferramentas, aplicativos e procedimentos de informática. 3. Conceitos e modos de utilização de aplicativos para a edição de textos, planilhas e apresentações com a suíte de escritório LibreOffice 7 em português. 4. Conceitos e modos de utilização do sistema operacional Windows 11 em português. 5. Ferramentas de colaboração e armazenamento em nuvem e a LGPD (Lei 13.709/2018 – Lei Geral de Proteção de Dados). 6. Noções básicas de ferramentas e aplicativos de navegação Edge, Chrome e Firefox e correio eletrônico. 7. Noções básicas de segurança e proteção: vírus, worms e seus derivados e antivírus.",
+  "visaoGeral": "São só 5 questões, mas costumam ser diretas: a AOCP gosta de atalhos de teclado (Windows 11, LibreOffice e navegadores), fórmulas simples do Calc, conceitos de malware e diferenças entre protocolos e serviços. A novidade deste edital é a LGPD, cobrada em conceitos do art. 5º, princípios e hipóteses de não aplicação. Foque em LibreOffice (atenção às diferenças em relação ao Microsoft Office), Windows 11 e segurança.",
+  "dicas": [
+    "Monte uma tabela de atalhos: LibreOffice Writer/Calc/Impress, Windows 11 e navegadores – e treine as diferenças entre LibreOffice e Microsoft Office.",
+    "No Calc, domine referências relativas e absolutas ($), separador ';' nas funções, referência a outra planilha com ponto (Planilha2.A1) e as funções SOMA, MÉDIA, SE, CONT.SE, CONT.NÚM, CONT.VALORES, MÁXIMO, MÍNIMO e PROCV.",
+    "Em segurança, saiba diferenciar vírus (precisa de hospedeiro), worm (autopropagação), cavalo de troia, ransomware, spyware (keylogger/screenlogger), backdoor, rootkit e bot; e golpes como phishing e pharming.",
+    "Na LGPD, decore os conceitos do art. 5º (dado pessoal, sensível, anonimizado, titular, controlador, operador, encarregado) e as exclusões do art. 4º (segurança pública e investigação penal).",
+    "Use a Cartilha de Segurança para Internet do CERT.br – é a fonte das definições usadas pelas bancas."
+  ],
+  "fontesEstudo": [
+    { "titulo": "Lei nº 13.709/2018 – LGPD (texto compilado, Planalto)", "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm" },
+    { "titulo": "Cartilha de Segurança para Internet – CERT.br", "url": "https://cartilha.cert.br/" },
+    { "titulo": "Ajuda do LibreOffice (português)", "url": "https://help.libreoffice.org/latest/pt-BR/text/shared/main0108.html" },
+    { "titulo": "Atalhos de teclado do Windows – Suporte Microsoft", "url": "https://support.microsoft.com/pt-br/windows/atalhos-de-teclado-no-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec" },
+    { "titulo": "Guia de Boas Práticas LGPD – Governo Federal", "url": "https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/guias" }
+  ],
+  "topicos": [
+    {
+      "id": "informatica-t01",
+      "titulo": "Hardware: componentes, memórias e periféricos",
+      "maisCobrado": true,
+      "resumo": "Hardware é a parte física do computador. A CPU (processador) executa as instruções, com unidade de controle, unidade lógica e aritmética (ULA) e registradores. A memória principal é a RAM (volátil, leitura e escrita) e a ROM (não volátil, guarda firmware). A memória cache, muito rápida, fica entre a CPU e a RAM. As memórias secundárias (de massa) – HD, SSD, pendrive, cartão de memória, mídias ópticas – são não voláteis.\n\nPeriféricos de entrada: teclado, mouse, scanner, microfone, webcam. De saída: monitor, impressora, caixa de som, projetor. De entrada e saída: tela touchscreen, impressora multifuncional, pendrive, modem, placa de rede. A placa-mãe interliga os componentes; a fonte fornece energia; portas e conexões comuns: USB, HDMI, Ethernet (RJ-45).",
+      "pontosChave": [
+        "RAM: volátil, memória principal de trabalho.",
+        "ROM: não volátil, armazena firmware (BIOS/UEFI).",
+        "Cache: mais rápida que a RAM, entre CPU e RAM.",
+        "HD (magnético) e SSD (flash): memória secundária não volátil; SSD é mais rápido e sem partes móveis.",
+        "Hierarquia de velocidade: registradores > cache > RAM > armazenamento secundário.",
+        "Touchscreen e multifuncional: entrada e saída.",
+        "CPU: unidade de controle + ULA + registradores."
+      ],
+      "pegadinhas": [
+        "Afirmar que a ROM é volátil ou que a RAM guarda dados com o computador desligado.",
+        "Classificar o SSD como memória volátil ou memória principal.",
+        "Classificar o scanner como dispositivo de saída."
+      ],
+      "referencias": ["Conceitos gerais de arquitetura de computadores"]
+    },
+    {
+      "id": "informatica-t02",
+      "titulo": "Software: tipos, licenças e sistemas operacionais",
+      "maisCobrado": false,
+      "resumo": "Software é a parte lógica: programas e dados. Classifica-se em software básico/de sistema (sistema operacional, drivers, firmware), aplicativos (editores de texto, planilhas, navegadores) e utilitários (antivírus, compactadores, desfragmentadores). Firmware, como a BIOS/UEFI, fica gravado em memória não volátil e inicializa o hardware (POST) antes de carregar o sistema operacional.\n\nQuanto à licença: software livre garante as quatro liberdades (executar, estudar o código, redistribuir e modificar/distribuir versões modificadas) e pode ser vendido; código aberto (open source) enfatiza o acesso ao código; freeware é gratuito, mas pode ser fechado; shareware é distribuído para avaliação, com limite de tempo ou de recursos; software proprietário restringe uso, cópia e modificação. Exemplos: LibreOffice e Linux (livres), Windows e Microsoft Office (proprietários).",
+      "pontosChave": [
+        "Software básico: sistema operacional, drivers e firmware.",
+        "Aplicativo: atende tarefas do usuário; utilitário: manutenção e suporte.",
+        "BIOS/UEFI: firmware que executa o POST e inicia o boot.",
+        "Software livre: 4 liberdades, não necessariamente gratuito.",
+        "Freeware: gratuito, código não necessariamente aberto.",
+        "Shareware: versão de avaliação limitada.",
+        "LibreOffice e Linux são livres; Windows é proprietário."
+      ],
+      "pegadinhas": [
+        "Dizer que software livre é sinônimo de gratuito.",
+        "Confundir freeware com software livre.",
+        "Classificar o driver como software aplicativo."
+      ],
+      "referencias": ["Free Software Foundation – definição de software livre"]
+    },
+    {
+      "id": "informatica-t03",
+      "titulo": "Conceitos básicos de tecnologias, redes, internet e procedimentos",
+      "maisCobrado": false,
+      "resumo": "A internet é a rede mundial baseada no conjunto de protocolos TCP/IP. A intranet é uma rede privada, de acesso restrito a uma organização, que usa as mesmas tecnologias da internet; a extranet estende parte da intranet a usuários externos autorizados. Classificação por abrangência: PAN, LAN, MAN e WAN. Protocolos comuns: HTTP/HTTPS (web; HTTPS com criptografia TLS), FTP (transferência de arquivos), SMTP/POP3/IMAP (e-mail), DNS (traduz nomes em endereços IP) e DHCP (atribui IP automaticamente).\n\nUnidades de medida: bit (0 ou 1) é a menor unidade; 1 byte = 8 bits; no padrão binário, 1 KB = 1.024 bytes, 1 MB = 1.024 KB, 1 GB = 1.024 MB, 1 TB = 1.024 GB. Procedimentos de informática incluem backup (completo, incremental e diferencial), compactação de arquivos (ZIP), organização em pastas e nomes de arquivos com extensões que indicam o tipo (.odt, .ods, .odp, .pdf, .docx, .xlsx, .exe).",
+      "pontosChave": [
+        "Intranet: privada, restrita, usa TCP/IP.",
+        "Extranet: acesso externo autorizado à intranet.",
+        "HTTPS: HTTP com criptografia (cadeado no navegador).",
+        "DNS converte nomes de domínio em endereços IP.",
+        "1 byte = 8 bits; 1 KB = 1.024 bytes.",
+        "Backup incremental copia o alterado desde o último backup de qualquer tipo; o diferencial, desde o último completo.",
+        "Extensões indicam o tipo de arquivo."
+      ],
+      "pegadinhas": [
+        "Dizer que a intranet usa protocolos diferentes dos da internet.",
+        "Afirmar que 1 byte = 10 bits.",
+        "Confundir backup incremental com diferencial."
+      ],
+      "referencias": ["Conceitos gerais de redes de computadores", "Cartilha de Segurança para Internet – CERT.br (backup)"]
+    },
+    {
+      "id": "informatica-t04",
+      "titulo": "LibreOffice Writer 7",
+      "maisCobrado": true,
+      "resumo": "O Writer é o editor de textos do LibreOffice; o formato nativo é o .odt (OpenDocument Text), mas abre e salva .docx e exporta diretamente para PDF. Os menus principais são Arquivo, Editar, Exibir, Inserir, Formatar, Estilos, Tabela, Formulário, Ferramentas, Janela e Ajuda.\n\nAtalhos importantes: Ctrl+N (novo), Ctrl+O (abrir), Ctrl+S (salvar), Ctrl+Shift+S (salvar como), Ctrl+P (imprimir), Ctrl+B (negrito), Ctrl+I (itálico), Ctrl+U (sublinhado), Ctrl+E (centralizar), Ctrl+J (justificar), Ctrl+L (esquerda), Ctrl+R (direita), Ctrl+Z (desfazer), Ctrl+Y (refazer), Ctrl+H (localizar e substituir), Ctrl+F (barra Localizar), Ctrl+Enter (quebra de página), Shift+Enter (quebra de linha), Ctrl+Shift+Enter (quebra de coluna), Ctrl+F12 (inserir tabela), F7 (ortografia e gramática), F5 (Navegador), F11 (Estilos), Ctrl+Shift+P (sobrescrito), Ctrl+Shift+B (subscrito).\n\nRecursos frequentes: estilos de parágrafo e sumário automático, cabeçalho e rodapé, numeração de páginas (Inserir > Campo > Número da página), controle de alterações (Editar > Controlar alterações), mala direta e o pincel de formatação (Clonar formatação).",
+      "pontosChave": [
+        "Formato nativo: .odt; exporta para PDF.",
+        "Ctrl+E centraliza; Ctrl+J justifica; Ctrl+L esquerda; Ctrl+R direita.",
+        "Ctrl+B negrito; Ctrl+I itálico; Ctrl+U sublinhado.",
+        "Ctrl+Enter: quebra de página; Shift+Enter: quebra de linha.",
+        "Ctrl+H: Localizar e substituir.",
+        "F7: ortografia; F5: Navegador; F11: Estilos.",
+        "Ctrl+F12: inserir tabela.",
+        "Sumário automático depende de estilos de título."
+      ],
+      "pegadinhas": [
+        "Usar atalhos do Word: no Word PT-BR, Ctrl+N é negrito, Ctrl+S sublinhado e Ctrl+Q alinha à esquerda; no Writer, Ctrl+N é novo documento e Ctrl+S é salvar.",
+        "Dizer que F5 no Writer inicia apresentação.",
+        "Afirmar que o Writer não salva em .docx."
+      ],
+      "referencias": ["Ajuda do LibreOffice – Teclas de atalho do Writer"]
+    },
+    {
+      "id": "informatica-t05",
+      "titulo": "LibreOffice Calc 7",
+      "maisCobrado": true,
+      "resumo": "O Calc é a planilha eletrônica do LibreOffice; o formato nativo é o .ods. Fórmulas começam com '=' e, em português, os argumentos são separados por ponto e vírgula. Operadores: + − * / ^ e & (concatenação); comparação: = <> > < >= <=.\n\nReferências: relativas (A1) mudam ao copiar; absolutas ($A$1) não mudam; mistas ($A1 ou A$1) travam só a coluna ou só a linha. Intervalo com dois-pontos (A1:A10). Referência a outra planilha com ponto: Planilha2.A1 (no Excel é Planilha2!A1).\n\nFunções frequentes: SOMA, MÉDIA, MÁXIMO, MÍNIMO, CONT.NÚM (conta números), CONT.VALORES (conta não vazias), CONTAR.VAZIO, CONT.SE (conta segundo critério), SOMASE, SE(teste; verdadeiro; falso), E, OU, PROCV, ARRED, HOJE e AGORA. Erros comuns: #DIV/0! (divisão por zero), #NOME? (nome de função inválido), #REF! (referência inválida), #VALOR! (tipo de dado errado). Recursos: classificar, autofiltro, formatação condicional, gráficos, validação de dados e tabela dinâmica.",
+      "pontosChave": [
+        "Formato nativo: .ods.",
+        "Separador de argumentos: ponto e vírgula.",
+        "$ trava linha e/ou coluna ao copiar.",
+        "Outra planilha: Planilha2.A1 (ponto).",
+        "SE(teste; valor_se_verdadeiro; valor_se_falso).",
+        "CONT.NÚM conta números; CONT.VALORES conta células não vazias.",
+        "& concatena textos.",
+        "#DIV/0!, #NOME?, #REF!, #VALOR!."
+      ],
+      "pegadinhas": [
+        "Usar '!' para referência a outra planilha (sintaxe do Excel).",
+        "Esquecer que a parte relativa da referência mista muda ao copiar.",
+        "Confundir CONT.NÚM com CONT.VALORES.",
+        "Calcular a média somando sem dividir pela quantidade."
+      ],
+      "referencias": ["Ajuda do LibreOffice – Funções do Calc"]
+    },
+    {
+      "id": "informatica-t06",
+      "titulo": "LibreOffice Impress 7",
+      "maisCobrado": false,
+      "resumo": "O Impress é o editor de apresentações do LibreOffice; o formato nativo é o .odp (abre e salva .pptx). F5 inicia a apresentação a partir do primeiro slide e Shift+F5 a partir do slide atual; Esc encerra a apresentação.\n\nModos de exibição: Normal, Estrutura de tópicos, Notas, Folhetos e Classificador de slides. O Slide mestre define elementos e formatações comuns a todos os slides (logotipo, fundo, fontes, rodapé). Há Transição de slides (efeito na passagem entre slides) e Animação personalizada (efeito em objetos dentro do slide), além de layouts de slide, ocultar slide e exportação para PDF.",
+      "pontosChave": [
+        "Formato nativo: .odp.",
+        "F5: do primeiro slide; Shift+F5: do slide atual.",
+        "Slide mestre: padrão visual de todos os slides.",
+        "Classificador de slides: miniaturas para reorganizar.",
+        "Transição: entre slides; Animação: objetos no slide.",
+        "Ocultar slide: não aparece na apresentação, mas continua no arquivo."
+      ],
+      "pegadinhas": [
+        "Confundir transição com animação.",
+        "Dizer que F5 inicia do slide atual."
+      ],
+      "referencias": ["Ajuda do LibreOffice – Teclas de atalho do Impress"]
+    },
+    {
+      "id": "informatica-t07",
+      "titulo": "Windows 11",
+      "maisCobrado": true,
+      "resumo": "O Windows 11 traz o menu Iniciar centralizado na barra de tarefas, Widgets, Layouts de Ajuste (Snap layouts), áreas de trabalho virtuais e o aplicativo Configurações como principal painel de ajustes (o Painel de Controle ainda existe). O Explorador de Arquivos tem guias e barra de comandos simplificada; a Lixeira guarda arquivos excluídos de unidades locais.\n\nAtalhos: Win (menu Iniciar), Win+E (Explorador), Win+D (mostrar área de trabalho), Win+L (bloquear), Win+I (Configurações), Win+R (Executar), Win+X (menu de link rápido), Win+V (histórico da área de transferência), Win+Shift+S (Ferramenta de Captura), Win+Tab (Visão de Tarefas), Win+A (Configurações rápidas), Win+N (notificações/calendário), Win+Z (Layouts de Ajuste), Win+W (Widgets), Win+. (emojis), Ctrl+Shift+Esc (Gerenciador de Tarefas), Alt+Tab (alternar janelas), Alt+F4 (fechar), F2 (renomear).\n\nOperações com arquivos: Delete envia para a Lixeira; Shift+Delete exclui permanentemente. Arrastar na mesma unidade move; para outra unidade, copia (Ctrl força cópia; Shift força movimentação; Alt cria atalho). Recursos de segurança: Segurança do Windows (Microsoft Defender), Windows Update, BitLocker e Firewall do Windows Defender.",
+      "pontosChave": [
+        "Win+E: Explorador; Win+D: área de trabalho; Win+L: bloquear.",
+        "Win+I: Configurações; Win+R: Executar; Win+X: menu de link rápido.",
+        "Win+V: histórico da área de transferência.",
+        "Win+Shift+S: Ferramenta de Captura.",
+        "Ctrl+Shift+Esc: Gerenciador de Tarefas.",
+        "Shift+Delete: exclusão permanente.",
+        "Arrastar: mesma unidade move; outra unidade copia.",
+        "Microsoft Defender é o antivírus nativo."
+      ],
+      "pegadinhas": [
+        "Trocar Win+D (área de trabalho) por Win+L (bloquear).",
+        "Dizer que Shift+Delete envia para a Lixeira.",
+        "Afirmar que arrastar para outra unidade move o arquivo."
+      ],
+      "referencias": ["Suporte Microsoft – Atalhos de teclado no Windows"]
+    },
+    {
+      "id": "informatica-t08",
+      "titulo": "Computação em nuvem e ferramentas de colaboração",
+      "maisCobrado": false,
+      "resumo": "Computação em nuvem é o fornecimento de recursos computacionais sob demanda pela internet. Modelos de serviço: SaaS (software pronto acessado pela internet, ex.: Google Docs, Microsoft 365 web, Gmail), PaaS (plataforma para desenvolver e implantar aplicações) e IaaS (infraestrutura: servidores virtuais, armazenamento, rede). Modelos de implantação: pública, privada, híbrida e comunitária.\n\nArmazenamento em nuvem: OneDrive, Google Drive, Dropbox, iCloud – permitem sincronizar arquivos entre dispositivos, compartilhar com permissões (visualizar, comentar, editar), gerar links e recuperar versões anteriores. Ferramentas de colaboração (Google Workspace, Microsoft 365, Teams, Meet) permitem coautoria em tempo real, comentários, chat e videoconferência.",
+      "pontosChave": [
+        "SaaS: software pronto via navegador.",
+        "PaaS: plataforma de desenvolvimento.",
+        "IaaS: infraestrutura virtualizada.",
+        "Nuvens: pública, privada, híbrida e comunitária.",
+        "Compartilhamento com níveis de permissão.",
+        "Coautoria simultânea e histórico de versões.",
+        "Sincronização depende de internet."
+      ],
+      "pegadinhas": [
+        "Classificar Google Docs como IaaS.",
+        "Dizer que compartilhar sempre torna o arquivo público.",
+        "Afirmar que a nuvem dispensa totalmente a internet."
+      ],
+      "referencias": ["NIST SP 800-145 – definição de computação em nuvem"]
+    },
+    {
+      "id": "informatica-t09",
+      "titulo": "LGPD – Lei nº 13.709/2018",
+      "maisCobrado": true,
+      "resumo": "A LGPD dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou jurídica de direito público ou privado, para proteger os direitos fundamentais de liberdade, privacidade e livre desenvolvimento da personalidade (art. 1º). Fundamentos (art. 2º): respeito à privacidade, autodeterminação informativa, liberdade de expressão, inviolabilidade da intimidade, desenvolvimento econômico e tecnológico, livre iniciativa, defesa do consumidor e direitos humanos.\n\nNão se aplica (art. 4º) ao tratamento por pessoa natural para fins exclusivamente particulares e não econômicos; para fins exclusivamente jornalísticos, artísticos ou acadêmicos; ou para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou investigação e repressão de infrações penais (regidos por legislação específica).\n\nConceitos (art. 5º): dado pessoal (informação relacionada a pessoa natural identificada ou identificável); dado sensível (origem racial ou étnica, convicção religiosa, opinião política, filiação sindical ou a organização religiosa, filosófica ou política, saúde, vida sexual, dado genético ou biométrico); dado anonimizado; titular; controlador (decide); operador (trata em nome do controlador); encarregado (canal com titulares e ANPD). Princípios (art. 6º): boa-fé, finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas. Sanções administrativas da ANPD (art. 52) incluem advertência e multa simples de até 2% do faturamento, limitada a R$ 50 milhões por infração.",
+      "pontosChave": [
+        "Aplica-se a meios físicos e digitais, setores público e privado.",
+        "Fora da LGPD: uso particular não econômico; jornalístico/artístico/acadêmico; segurança pública e investigação penal.",
+        "Dado sensível inclui biométrico, genético e de saúde.",
+        "Controlador decide; operador executa; encarregado é o canal de comunicação.",
+        "Titular: pessoa natural a quem os dados se referem.",
+        "Dado anonimizado: não permite identificar o titular.",
+        "ANPD fiscaliza e aplica sanções.",
+        "Multa de até 2% do faturamento, limitada a R$ 50 milhões por infração."
+      ],
+      "pegadinhas": [
+        "Classificar CPF ou endereço como dado sensível.",
+        "Dizer que a LGPD não se aplica ao poder público ou a dados em papel.",
+        "Trocar os papéis de controlador e operador.",
+        "Afirmar que a titular pode ser pessoa jurídica."
+      ],
+      "referencias": ["Lei nº 13.709/2018, arts. 1º a 6º, 7º, 11 e 52"]
+    },
+    {
+      "id": "informatica-t10",
+      "titulo": "Navegadores: Edge, Chrome e Firefox",
+      "maisCobrado": true,
+      "resumo": "Navegadores acessam páginas web via HTTP/HTTPS. Recursos comuns: guias, favoritos, histórico, downloads, sincronização com conta, extensões, gerenciador de senhas e navegação privativa. Navegação privativa – janela anônima (Chrome), InPrivate (Edge) e janela privativa (Firefox) – não salva histórico, cookies e dados de formulários após o fechamento, mas NÃO oculta a atividade do provedor, da rede da empresa ou dos sites; downloads e favoritos permanecem.\n\nAtalhos comuns aos três: Ctrl+T (nova guia), Ctrl+W (fechar guia), Ctrl+Shift+T (reabrir guia fechada), Ctrl+N (nova janela), Ctrl+H (histórico), Ctrl+J (downloads), Ctrl+D (adicionar favorito), Ctrl+L ou F6 (barra de endereço), F5 (atualizar), Ctrl+F5 (atualizar ignorando cache), F11 (tela cheia), Ctrl+Shift+Del (limpar dados de navegação), Ctrl+F (localizar na página), Ctrl + '+'/'−' (zoom). Janela privativa: Ctrl+Shift+N no Chrome e no Edge; Ctrl+Shift+P no Firefox.",
+      "pontosChave": [
+        "Chrome/Edge: Ctrl+Shift+N; Firefox: Ctrl+Shift+P (navegação privativa).",
+        "Ctrl+Shift+T reabre a última guia fechada.",
+        "Ctrl+H histórico; Ctrl+J downloads; Ctrl+D favoritos.",
+        "Ctrl+Shift+Del: limpar dados de navegação.",
+        "Navegação privativa não oculta IP nem atividade do provedor.",
+        "Cadeado/HTTPS indica conexão criptografada, não garante site legítimo."
+      ],
+      "pegadinhas": [
+        "Dizer que o modo anônimo torna o usuário invisível na internet.",
+        "Usar Ctrl+Shift+N para janela privativa no Firefox.",
+        "Afirmar que downloads feitos no modo privativo são apagados."
+      ],
+      "referencias": ["Central de Ajuda do Chrome", "Suporte Mozilla", "Suporte Microsoft Edge"]
+    },
+    {
+      "id": "informatica-t11",
+      "titulo": "Correio eletrônico",
+      "maisCobrado": false,
+      "resumo": "O endereço de e-mail tem o formato usuario@dominio. Campos: Para (destinatários principais), Cc (com cópia – visível a todos), Cco (com cópia oculta – não visível aos demais), Assunto e corpo, além de anexos. Ações: Responder (só ao remetente), Responder a todos (remetente e demais destinatários de Para/Cc, exceto Cco) e Encaminhar (envia a terceiros, com anexos).\n\nProtocolos: SMTP envia mensagens; POP3 recebe, baixando as mensagens para o dispositivo; IMAP recebe mantendo as mensagens no servidor e sincronizando pastas entre dispositivos. Webmail é acessado pelo navegador (HTTP/HTTPS); clientes de e-mail incluem Outlook e Thunderbird. Cuidados: desconfiar de anexos e links inesperados (phishing), verificar remetente e não informar senhas por e-mail.",
+      "pontosChave": [
+        "Cco oculta os destinatários.",
+        "Responder a todos não alcança quem estava em Cco.",
+        "SMTP: envio.",
+        "POP3: baixa as mensagens.",
+        "IMAP: mantém no servidor e sincroniza.",
+        "Webmail usa HTTP/HTTPS pelo navegador."
+      ],
+      "pegadinhas": [
+        "Dizer que o SMTP é usado para receber mensagens.",
+        "Afirmar que os destinatários em Cc ficam ocultos."
+      ],
+      "referencias": ["Cartilha de Segurança para Internet – CERT.br"]
+    },
+    {
+      "id": "informatica-t12",
+      "titulo": "Segurança: vírus, worms e outros códigos maliciosos",
+      "maisCobrado": true,
+      "resumo": "Malware (código malicioso) é o gênero. Vírus: insere cópias de si em programas e arquivos e depende da execução do hospedeiro para se propagar (ex.: vírus de macro, de boot, de script). Worm: propaga-se automaticamente pela rede, enviando cópias de si mesmo, sem hospedeiro, explorando vulnerabilidades e consumindo recursos. Bot: worm que se comunica com o invasor e permite controle remoto; botnet é a rede de bots (usada em ataques DDoS).\n\nCavalo de troia (trojan): executa as funções aparentes e outras maliciosas sem o conhecimento do usuário. Spyware: monitora e coleta informações (keylogger captura teclas; screenlogger captura tela e cliques; adware exibe propagandas). Backdoor: garante retorno do invasor. Rootkit: conjunto de técnicas para esconder e assegurar a presença do invasor. Ransomware: torna os dados inacessíveis (geralmente criptografando) e exige resgate, normalmente em criptomoedas.\n\nGolpes: phishing (mensagem falsa para obter dados), pharming (redirecionamento por envenenamento de DNS), engenharia social, hoax (boato).",
+      "pontosChave": [
+        "Vírus: precisa de hospedeiro e de execução.",
+        "Worm: autopropagação pela rede, sem hospedeiro.",
+        "Bot/botnet: controle remoto, ataques DDoS.",
+        "Trojan: funções aparentes + funções maliciosas ocultas.",
+        "Keylogger: teclas; screenlogger: tela e cliques.",
+        "Ransomware: sequestro de dados com pedido de resgate.",
+        "Rootkit: esconde a presença do invasor.",
+        "Phishing é golpe, não programa."
+      ],
+      "pegadinhas": [
+        "Afirmar que o worm precisa de um arquivo hospedeiro.",
+        "Classificar phishing como tipo de vírus.",
+        "Confundir backdoor com rootkit."
+      ],
+      "referencias": ["Cartilha de Segurança para Internet – CERT.br, fascículo Códigos Maliciosos"]
+    },
+    {
+      "id": "informatica-t13",
+      "titulo": "Antivírus e mecanismos de proteção",
+      "maisCobrado": false,
+      "resumo": "O antivírus detecta, bloqueia e remove códigos maliciosos. Técnicas: detecção por assinatura (compara com base de malwares conhecidos – exige atualização frequente), heurística (identifica comportamentos e padrões suspeitos, útil contra ameaças novas) e análise comportamental. Arquivos suspeitos podem ir para a quarentena, onde ficam isolados até serem analisados, restaurados ou excluídos.\n\nO firewall filtra o tráfego de rede conforme regras, bloqueando acessos não autorizados, mas não remove vírus já instalados. Outras medidas: atualizar sistema e aplicativos (correções de vulnerabilidades), fazer backups regulares (inclusive offline, contra ransomware), usar senhas fortes e autenticação em dois fatores (2FA), desconfiar de anexos e links, baixar programas de fontes oficiais e usar criptografia.",
+      "pontosChave": [
+        "Assinatura: base de ameaças conhecidas, exige atualização.",
+        "Heurística: detecta comportamento suspeito e ameaças novas.",
+        "Quarentena isola arquivos suspeitos.",
+        "Firewall filtra tráfego; não remove vírus.",
+        "Atualizações corrigem vulnerabilidades.",
+        "Backup é a principal defesa contra ransomware.",
+        "Autenticação em dois fatores reforça contas."
+      ],
+      "pegadinhas": [
+        "Dizer que o firewall substitui o antivírus.",
+        "Afirmar que a quarentena exclui o arquivo imediatamente."
+      ],
+      "referencias": ["Cartilha de Segurança para Internet – CERT.br, fascículo Mecanismos de Segurança"]
+    }
+  ]
+}

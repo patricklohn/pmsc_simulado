@@ -1,0 +1,614 @@
+[
+  {
+    "id": "direito-penal-militar-001",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t01",
+    "enunciado": "De acordo com o Código Penal Militar, com a redação dada pela Lei 14.688/2023, considera-se militar, para o efeito de sua aplicação,",
+    "alternativas": {
+      "A": "somente o integrante das Forças Armadas, excluídos os policiais e bombeiros militares estaduais, regidos por lei própria.",
+      "B": "o servidor civil que trabalha em organização militar, por ser considerado assemelhado para efeitos penais.",
+      "C": "qualquer pessoa incorporada a instituições militares ou nelas matriculada, para servir em posto, graduação ou regime de sujeição à disciplina militar.",
+      "D": "apenas o militar em serviço ativo que esteja efetivamente de serviço, escalado, no momento da prática do crime.",
+      "E": "o militar da reserva ou reformado em qualquer situação, ainda que não empregado na administração militar."
+    },
+    "correta": "C",
+    "comentario": "Correta a C, que reproduz o art. 22 do CPM, com redação da Lei 14.688/2023. A figura do assemelhado (B) foi revogada (art. 21). Os militares estaduais também se sujeitam ao CPM (A). Não se exige que o militar esteja de serviço para ser considerado militar (D). O militar da reserva ou reformado só se equipara ao da ativa quando empregado na administração militar (art. 12 – E), embora conserve responsabilidades e prerrogativas do posto ou graduação (art. 13).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-002",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t01",
+    "enunciado": "Dois cabos PM, de mesma antiguidade relativa no posto, compõem uma guarnição. Por designação regular do comando, o cabo Silva exerce a função de comandante da guarnição. Nos termos do art. 24 do CPM, com redação da Lei 14.688/2023, é correto afirmar que",
+    "alternativas": {
+      "A": "o cabo Silva é considerado superior do outro cabo, pois exerce autoridade sobre militar de igual graduação em virtude da função.",
+      "B": "não há relação de superioridade entre eles, pois o CPM só considera a hierarquia por posto ou graduação.",
+      "C": "o cabo Silva só será considerado superior se for mais antigo que o colega.",
+      "D": "a superioridade funcional só existe entre oficiais, não alcançando as praças.",
+      "E": "o CPM não define o conceito de superior, cabendo ao regulamento disciplinar fazê-lo."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 24 do CPM considera superior: \"I – o militar que ocupa nível hierárquico, posto ou graduação superiores, conforme a antiguidade [...]; II – o militar que, em virtude da função, exerce autoridade sobre outro de igual posto ou graduação\". O parágrafo único completa: o militar sobre o qual se exerce essa autoridade é o inferior hierárquico. A superioridade funcional vale para oficiais e praças (D), e o conceito está expressamente no CPM (E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-003",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t01",
+    "enunciado": "Sobre a aplicação da lei penal militar (Título I da Parte Geral do CPM), assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o do resultado.",
+      "B": "A lei penal militar aplica-se ao crime cometido fora do território nacional, ainda que o agente esteja sendo processado ou tenha sido julgado pela justiça estrangeira.",
+      "C": "A lei excepcional ou temporária, embora decorrido o período de sua duração, aplica-se ao fato praticado durante sua vigência.",
+      "D": "Nos crimes omissivos, considera-se praticado o fato no lugar onde se produziu o resultado, e não onde deveria realizar-se a ação omitida.",
+      "E": "O Código Penal Militar não compreende as infrações dos regulamentos disciplinares."
+    },
+    "correta": "D",
+    "comentario": "A D é a incorreta. O art. 6º do CPM dispõe que, \"nos crimes omissivos, o fato considera-se praticado no lugar em que deveria realizar-se a ação omitida\" – regra que difere do CP comum. As demais alternativas estão corretas: A (art. 5º – teoria da atividade), B (art. 7º), C (art. 4º) e E (art. 19).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-militar-004",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t02",
+    "enunciado": "Nos termos do art. 9º, II, do CPM, com a redação dada pelas Leis 13.491/2017 e 14.688/2023, é crime militar em tempo de paz o crime previsto no CPM ou na legislação penal praticado",
+    "alternativas": {
+      "A": "por militar da reserva contra civil, em uma festa particular.",
+      "B": "por militar da ativa contra militar na mesma situação.",
+      "C": "por civil contra outro civil em via pública.",
+      "D": "por militar reformado contra outro reformado, em sua residência.",
+      "E": "por militar da ativa de folga contra civil, fora de lugar sujeito à administração militar e sem relação com a função."
+    },
+    "correta": "B",
+    "comentario": "Correta a B, que reproduz o art. 9º, II, a, do CPM: \"por militar da ativa contra militar na mesma situação\" (redação da Lei 14.688/2023, que retirou a referência ao assemelhado). As hipóteses A, C e D não se enquadram em nenhuma alínea do art. 9º. Na E, o militar não está em serviço, não atua em razão da função nem está em lugar sujeito à administração militar, não incidindo as alíneas b e c.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-005",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t02",
+    "enunciado": "Durante o policiamento ostensivo, um policial militar pratica, contra um civil, conduta tipificada apenas em lei penal extravagante, sem correspondente no Código Penal Militar. Considerando o art. 9º do CPM, com a redação dada pela Lei 13.491/2017, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O fato é crime comum, pois somente os crimes previstos no CPM podem ser considerados crimes militares.",
+      "B": "O fato é crime militar apenas se praticado em lugar sujeito à administração militar.",
+      "C": "O fato será crime militar somente se a vítima também for militar da ativa.",
+      "D": "O fato é apenas transgressão disciplinar, pois a conduta não está prevista no Código Penal Militar.",
+      "E": "O fato é crime militar, pois o art. 9º, II, abrange também crimes da legislação penal praticados por militar em serviço."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. A Lei 13.491/2017 alterou o inciso II do art. 9º, que passou a abranger \"os crimes previstos neste Código e os previstos na legislação penal\", quando praticados nas hipóteses de suas alíneas. A alínea c abrange o crime praticado \"por militar em serviço ou atuando em razão da função [...] ainda que fora do lugar sujeito à administração militar contra militar da reserva, ou reformado, ou civil\". São os chamados crimes militares por extensão. Por isso, estão erradas A, B e C; e a D confunde crime com transgressão disciplinar.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-militar-006",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t02",
+    "enunciado": "Durante uma ocorrência, um policial militar estadual em serviço mata dolosamente um civil. Considerando o CPM e a Constituição Federal, a competência para processar e julgar o crime é",
+    "alternativas": {
+      "A": "do Tribunal do Júri, por se tratar de crime doloso contra a vida cometido por militar contra civil.",
+      "B": "da Justiça Militar estadual, por se tratar de crime militar praticado em serviço.",
+      "C": "da Justiça Militar da União, em qualquer hipótese.",
+      "D": "do juiz de direito do juízo militar, singularmente, sem participação do Conselho de Justiça.",
+      "E": "da Justiça Federal, por envolver agente de segurança pública."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 9º, § 1º, do CPM (redação da Lei 13.491/2017) dispõe que os crimes dolosos contra a vida cometidos por militares contra civil são da competência do Tribunal do Júri. No mesmo sentido, o art. 125, § 4º, da CF ressalva a competência do júri quando a vítima for civil. A competência da Justiça Militar da União do § 2º (C) restringe-se a militares das Forças Armadas em contextos específicos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-007",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t02",
+    "enunciado": "Sobre o § 2º do art. 9º do CPM, incluído pela Lei 13.491/2017 e com redação da Lei 14.688/2023, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Trata de crimes dolosos contra a vida cometidos por militares das Forças Armadas contra civil.",
+      "B": "Atribui a competência, nas hipóteses que enumera, à Justiça Militar da União.",
+      "C": "Aplica-se também aos policiais militares estaduais que matam civil durante o policiamento ostensivo, afastando a competência do Tribunal do Júri.",
+      "D": "Abrange o contexto do cumprimento de atribuições estabelecidas pelo Presidente da República ou pelo Ministro de Estado da Defesa.",
+      "E": "Abrange atividades de natureza militar, de operação de paz e de garantia da lei e da ordem, nos termos da legislação indicada."
+    },
+    "correta": "C",
+    "comentario": "A C é a incorreta. O § 2º do art. 9º refere-se apenas aos \"militares das Forças Armadas\", atribuindo à Justiça Militar da União os crimes dolosos contra a vida de civil praticados nos contextos dos incisos I a III (atribuições do Presidente ou do Ministro da Defesa; segurança de instituição ou missão militar; atividades de natureza militar, operações de paz, GLO ou atribuições subsidiárias). Para os militares estaduais, prevalece o § 1º e o art. 125, § 4º, da CF: competência do Tribunal do Júri.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-militar-008",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t02",
+    "enunciado": "Em Santa Catarina, um civil desacata um policial militar que realizava abordagem em via pública. Considerando a Constituição Federal e a jurisprudência sumulada do STJ, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O civil será julgado pela Justiça Militar estadual, pois o crime foi praticado contra militar em serviço.",
+      "B": "O civil será julgado pela Justiça Militar da União, única competente para julgar civis.",
+      "C": "O civil será julgado pelo Conselho Permanente de Justiça, por se tratar de crime contra instituição militar.",
+      "D": "O civil será julgado pela Justiça Comum estadual, pois a Justiça Militar estadual não julga civis.",
+      "E": "O civil só poderá ser julgado se houver requisição do Comandante-Geral da Polícia Militar."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. O art. 125, § 4º, da CF limita a competência da Justiça Militar estadual a processar e julgar \"os militares dos Estados, nos crimes militares definidos em lei\". Por isso, a Súmula 53 do STJ estabelece: \"Compete à Justiça Comum Estadual processar e julgar civil acusado de prática de crime contra instituições militares estaduais\". O civil responderá pelo desacato do art. 331 do CP. A Justiça Militar da União pode julgar civis, mas apenas por crimes militares contra as instituições militares federais (B).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-009",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t03",
+    "enunciado": "Quanto à tentativa no Código Penal Militar, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A tentativa é sempre punida com a pena do crime consumado, sem qualquer redução, em razão da disciplina militar.",
+      "B": "É punida com a pena do crime diminuída de um a dois terços, podendo o juiz, em caso de excepcional gravidade, aplicar a pena do consumado.",
+      "C": "A tentativa é punida com a pena do crime consumado reduzida obrigatoriamente pela metade, sem margem ao juiz.",
+      "D": "A tentativa só é punível nos crimes propriamente militares, sendo impunível nos impropriamente militares.",
+      "E": "Diz-se o crime tentado quando o agente, voluntariamente, desiste de prosseguir na execução já iniciada."
+    },
+    "correta": "B",
+    "comentario": "Correta a B, que reproduz o art. 30, parágrafo único, do CPM. Diferentemente do CP comum (art. 14, parágrafo único), o CPM permite ao juiz, em caso de excepcional gravidade, aplicar à tentativa a pena do crime consumado. A E descreve a desistência voluntária (art. 31), em que o agente só responde pelos atos já praticados; na tentativa, a não consumação decorre de circunstâncias alheias à vontade do agente (art. 30, II).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-010",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t03",
+    "enunciado": "A respeito do estado de necessidade no Código Penal Militar, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O CPM adota a teoria unitária, segundo a qual o estado de necessidade sempre exclui a ilicitude.",
+      "B": "O CPM não prevê o estado de necessidade, aplicando-se subsidiariamente o Código Penal.",
+      "C": "O estado de necessidade exculpante exige que o bem sacrificado seja consideravelmente inferior ao bem protegido.",
+      "D": "O estado de necessidade justificante permite sacrificar direito alheio superior ao protegido, desde que o agente proteja pessoa de sua família.",
+      "E": "O CPM adota a teoria diferenciadora: há estado de necessidade exculpante (art. 39) e justificante (art. 43)."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. O CPM adota a teoria diferenciadora. O art. 39 trata do estado de necessidade como excludente de culpabilidade: protege direito próprio ou de pessoa ligada por estreitas relações de parentesco ou afeição, sacrificando direito alheio \"ainda quando superior ao direito protegido\", desde que não fosse razoavelmente exigível conduta diversa. O art. 43 trata do estado de necessidade como excludente do crime (ilicitude), exigindo que o mal causado seja \"consideravelmente inferior ao mal evitado\". As alternativas C e D invertem os requisitos das duas espécies.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-militar-011",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t03",
+    "enunciado": "Nos termos do Código Penal Militar, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Nos crimes em que há violação do dever militar, o agente pode invocar coação moral irresistível para afastar a culpabilidade, ainda que não haja coação física ou material.",
+      "B": "Não é culpado quem comete o crime em estrita obediência a ordem direta de superior hierárquico, em matéria de serviço.",
+      "C": "Se a ordem do superior tem por objeto a prática de ato manifestamente criminoso, é punível também o inferior hierárquico.",
+      "D": "Responde pelo crime o autor da coação ou da ordem.",
+      "E": "O agente que, em qualquer dos casos de exclusão de crime, excede culposamente os limites da necessidade responde pelo fato, se este é punível a título de culpa."
+    },
+    "correta": "A",
+    "comentario": "A A é a incorreta. O art. 40 do CPM dispõe: \"Nos crimes em que há violação do dever militar, o agente não pode invocar coação irresistível senão quando física ou material\". As demais estão corretas: B (art. 38, b), C (art. 38, § 2º, com redação da Lei 14.688/2023), D (art. 38, § 1º) e E (art. 45).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-012",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t04",
+    "enunciado": "Após as alterações promovidas pela Lei 14.688/2023, o Código Penal Militar dispõe, quanto aos menores de 18 anos, que",
+    "alternativas": {
+      "A": "o menor de 18 e maior de 16 anos é equiparado ao maior se revelar suficiente desenvolvimento psíquico.",
+      "B": "o menor de 18 anos é imputável quando incorporado às Forças Armadas.",
+      "C": "o menor de 18 anos é penalmente inimputável, ficando sujeito às normas estabelecidas na legislação especial.",
+      "D": "o menor de 18 anos responde pelos crimes militares com a pena reduzida de um terço.",
+      "E": "o menor de 18 anos só é inimputável nos crimes militares impróprios."
+    },
+    "correta": "C",
+    "comentario": "Correta a C, que reproduz o art. 50 do CPM, com redação da Lei 14.688/2023, em harmonia com o art. 228 da CF. A mesma lei revogou os arts. 51 e 52, que previam a equiparação a maiores dos menores de 18 e maiores de 16 anos em certas hipóteses (A e B). As alternativas D e E não têm amparo legal.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-013",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t04",
+    "enunciado": "Um crime de autoria coletiva necessária é praticado por um tenente e quatro soldados, sem que se identifique quem dirigiu ou instigou a ação. Considerando as regras do concurso de agentes no CPM, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Todos os agentes são considerados cabeças, por se tratar de crime de autoria coletiva.",
+      "B": "Nenhum agente pode ser considerado cabeça, pois não se identificou quem dirigiu a ação.",
+      "C": "Apenas o soldado mais antigo é considerado cabeça, por critério de antiguidade.",
+      "D": "O tenente é considerado cabeça, por regra expressa aplicável ao crime cometido por inferiores e oficiais.",
+      "E": "O tenente terá a pena atenuada, por ser o único oficial e não ter dirigido a ação."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. O art. 53, § 5º, do CPM dispõe que, \"quando o crime é cometido por inferiores hierárquicos e um ou mais oficiais, são estes considerados cabeças, assim como os inferiores hierárquicos que exercem função de oficial\". O § 4º considera cabeças, nos crimes de autoria coletiva necessária, os que dirigem, provocam, instigam ou excitam a ação. A condição de cabeça repercute na pena, como no motim (aumento de 1/3 – art. 149).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-militar-014",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t05",
+    "enunciado": "De acordo com o art. 55 do Código Penal Militar, após a Lei 14.688/2023, NÃO é pena principal",
+    "alternativas": {
+      "A": "a reclusão.",
+      "B": "a detenção.",
+      "C": "a prisão.",
+      "D": "o impedimento.",
+      "E": "a reforma."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. A Lei 14.688/2023 revogou as alíneas f (suspensão do exercício do posto, graduação, cargo ou função) e g (reforma) do art. 55 do CPM, bem como os arts. 64 e 65, que as disciplinavam. Permanecem como penas principais: morte, reclusão, detenção, prisão e impedimento (art. 55, a a e).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-015",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t05",
+    "enunciado": "Um soldado PM é condenado pela Justiça Militar estadual à pena de 1 ano e 6 meses de detenção, não sendo cabível a suspensão condicional da pena. Nos termos do CPM, essa pena",
+    "alternativas": {
+      "A": "será cumprida obrigatoriamente em penitenciária civil, em regime fechado.",
+      "B": "será convertida em prisão, cumprida pela praça em estabelecimento penal militar.",
+      "C": "será convertida em pena de impedimento, cumprida no recinto da unidade.",
+      "D": "será substituída obrigatoriamente por pena restritiva de direitos.",
+      "E": "será cumprida em recinto de estabelecimento militar, como ocorre com os oficiais."
+    },
+    "correta": "B",
+    "comentario": "Correta a B. O art. 59 do CPM determina que a pena de reclusão ou de detenção até 2 anos aplicada a militar seja convertida em pena de prisão e cumprida, quando não cabível o sursis: I – pelo oficial, em recinto de estabelecimento militar (E); II – pela praça, em estabelecimento penal militar, separada de presos que estejam cumprindo pena disciplinar ou pena privativa de liberdade por tempo superior a dois anos. A pena superior a 2 anos é que se cumpre em penitenciária militar ou, na falta, em estabelecimento prisional civil (art. 61 – A).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-016",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t05",
+    "enunciado": "Sobre a suspensão condicional da pena no Código Penal Militar, com as alterações da Lei 14.688/2023, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Pode ser concedida ao condenado pelo crime de deserção, desde que primário e com bons antecedentes.",
+      "B": "A pena privativa de liberdade não superior a 2 anos pode ser suspensa por 3 a 5 anos, no caso de reclusão, e por 2 a 4 anos, no caso de detenção.",
+      "C": "A suspensão não se estende à pena acessória.",
+      "D": "Não se aplica ao condenado por crime cometido em tempo de guerra.",
+      "E": "Em tempo de paz, não se aplica aos crimes de violência contra superior e de desrespeito a superior."
+    },
+    "correta": "A",
+    "comentario": "A A é a incorreta. O art. 88, II, a, do CPM veda o sursis, em tempo de paz, para os crimes contra a segurança nacional, de aliciação e incitamento, de violência contra superior, oficial de dia, de serviço ou de quarto, sentinela, vigia ou plantão, de desrespeito a superior, de insubordinação ou de deserção. As demais estão corretas: B (art. 84, caput, com redação da Lei 14.688/2023), C (art. 84, § 1º), D (art. 88, I) e E (art. 88, II, a).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-militar-017",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t05",
+    "enunciado": "A respeito das penas acessórias e dos efeitos da condenação no Código Penal Militar, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "As penas acessórias prescrevem no mesmo prazo da pena principal.",
+      "B": "A perda de posto e patente decorre de qualquer condenação, independentemente da pena aplicada.",
+      "C": "É imprescritível a execução das penas acessórias.",
+      "D": "A suspensão condicional da pena estende-se, automaticamente, às penas acessórias.",
+      "E": "A suspensão dos direitos políticos não é pena acessória no CPM."
+    },
+    "correta": "C",
+    "comentario": "Correta a C, que reproduz o art. 130 do CPM. A perda de posto e patente resulta da condenação a pena privativa de liberdade superior a 2 anos, por crimes comuns e militares, observado o julgamento previsto no art. 142, § 3º, VI, da CF (art. 99 – B). O sursis não se estende à pena acessória (art. 84, § 1º – D). A suspensão dos direitos políticos é pena acessória prevista no art. 98, VIII (E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-018",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t06",
+    "enunciado": "Um soldado desertou aos 22 anos de idade e nunca mais se apresentou. Considerando as regras do CPM sobre prescrição, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A prescrição extingue a punibilidade assim que decorrido o prazo previsto no art. 125, como em qualquer crime.",
+      "B": "A deserção é imprescritível, por se tratar de crime propriamente militar.",
+      "C": "O prazo prescricional começa a correr somente quando o desertor completa 30 anos de idade.",
+      "D": "Embora decorrido o prazo da prescrição, esta só extingue a punibilidade quando o desertor atinge a idade de 45 anos.",
+      "E": "A prescrição da deserção é reduzida de metade, por ser o agente menor de 25 anos."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. O art. 132 do CPM dispõe: \"No crime de deserção, embora decorrido o prazo da prescrição, esta só extingue a punibilidade quando o desertor atinge a idade de quarenta e cinco anos, e, se oficial, a de sessenta\". A regra da alternativa C (30 anos de idade) refere-se à insubmissão (art. 131). A redução de metade dos prazos aplica-se ao agente menor de 21 ou maior de 70 anos ao tempo do crime (art. 129 – E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-019",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t06",
+    "enunciado": "Com relação à ação penal, às medidas de segurança e à extinção da punibilidade no Código Penal Militar, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A ação penal militar é sempre privada nos crimes contra a honra.",
+      "B": "As medidas de segurança no CPM são apenas detentivas, como a internação em manicômio judiciário.",
+      "C": "O perdão judicial não é causa de extinção da punibilidade no CPM.",
+      "D": "A prescrição, no CPM, só pode ser reconhecida se alegada pela defesa.",
+      "E": "A ação penal é pública, mas se admite ação privada se a pública não for intentada no prazo legal."
+    },
+    "correta": "E",
+    "comentario": "Correta a E, conforme o art. 121 do CPM e seu parágrafo único, incluído pela Lei 14.688/2023. As medidas de segurança são pessoais (detentivas e não detentivas) ou patrimoniais (art. 110 – B). O perdão judicial, nos casos previstos em lei, passou a constar expressamente do art. 123, VII (C). A prescrição deve ser declarada de ofício, ainda que não alegada (art. 133 – D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-020",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t07",
+    "enunciado": "Entre os crimes a seguir, assinale aquele que integra o Título I da Parte Especial do CPM, \"Dos crimes contra a segurança externa do país\".",
+    "alternativas": {
+      "A": "Motim, praticado por militares reunidos (art. 149).",
+      "B": "Consecução de notícia para fim de espionagem (art. 143).",
+      "C": "Deserção, por ausência superior a oito dias (art. 187).",
+      "D": "Peculato, mediante apropriação de bem (art. 303).",
+      "E": "Desacato a superior hierárquico (art. 298)."
+    },
+    "correta": "B",
+    "comentario": "Correta a B. O crime do art. 143 do CPM (conseguir, para o fim de espionagem militar, notícia, informação ou documento cujo sigilo seja de interesse da segurança externa do Brasil) integra o Título I da Parte Especial (arts. 136 a 148). O motim (art. 149) está no Título II (crimes contra a autoridade ou disciplina militar); a deserção (art. 187), no Título III (serviço e dever militar); o peculato (art. 303) e o desacato a superior (art. 298), no Título VII (administração militar).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-021",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t08",
+    "enunciado": "Um grupo de policiais militares, armados, ocupa o pátio do quartel e se recusa coletivamente a cumprir a ordem de seu comandante para retornar ao serviço. Nos termos do CPM, a conduta configura",
+    "alternativas": {
+      "A": "revolta, com reclusão de 8 a 20 anos e aumento de 1/3 para os cabeças.",
+      "B": "motim, punido com detenção de 6 meses a 1 ano, sem aumento para os cabeças.",
+      "C": "conspiração, por terem os militares se concertado previamente.",
+      "D": "reunião ilícita, por se tratar de discussão de ato de superior.",
+      "E": "mera transgressão disciplinar coletiva."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 149 do CPM tipifica o motim, que inclui reunirem-se militares agindo contra a ordem recebida de superior ou negando-se a cumpri-la e ocupando quartel ou dependência militar (reclusão de 4 a 8 anos, com aumento de 1/3 para os cabeças). Pelo parágrafo único, \"se os agentes estavam armados\", configura-se a revolta, com pena de reclusão de 8 a 20 anos, com aumento de 1/3 para os cabeças. A conspiração (art. 152) é o concerto para a prática do motim, e a reunião ilícita (art. 165) tem conduta diversa.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-022",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t08",
+    "enunciado": "Durante o serviço de policiamento, um soldado PM, contrariado com uma determinação, empurra violentamente o sargento comandante da guarnição, seu superior, sem causar-lhe lesão. Considerando o CPM, o soldado praticou",
+    "alternativas": {
+      "A": "desrespeito a superior, pois não houve lesão corporal.",
+      "B": "lesão corporal leve, crime contra a pessoa.",
+      "C": "violência contra superior, com aumento de 1/6 por ocorrer em serviço.",
+      "D": "recusa de obediência, pois se opôs à determinação do superior.",
+      "E": "resistência mediante violência, pois se opôs a ato legal."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. O art. 157 do CPM tipifica a violência contra superior (\"Praticar violência contra superior: Pena – detenção, de três meses a dois anos\"), e o § 5º prevê que \"a pena é aumentada da sexta parte, se o crime ocorre em serviço\". A violência não exige lesão; se houver lesão, aplica-se também a pena do crime contra a pessoa (§ 3º). O desrespeito (art. 160) não envolve violência, e a recusa de obediência (art. 163) consiste em recusar-se a cumprir a ordem, e não em agredir o superior.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-023",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t08",
+    "enunciado": "Um sargento, ao aplicar punição a um soldado subordinado, excede a faculdade de punir, fazendo-o com rigor não permitido e ofendendo-o com palavras humilhantes. A conduta do sargento amolda-se, em tese, ao crime de",
+    "alternativas": {
+      "A": "abuso de requisição militar (art. 173 do CPM).",
+      "B": "ofensa aviltante a inferior hierárquico (art. 176 do CPM), que exige ato de violência.",
+      "C": "violência contra inferior hierárquico (art. 175 do CPM).",
+      "D": "rigor excessivo (art. 174 do CPM).",
+      "E": "desacato a militar (art. 299 do CPM)."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. O art. 174 do CPM tipifica o rigor excessivo: \"Exceder a faculdade de punir o subordinado, fazendo-o com rigor não permitido, ou ofendendo-o por palavra, ato ou escrito: Pena – detenção, de 1 (um) a 2 (dois) anos, se o fato não constitui crime mais grave\". Os arts. 175 e 176 pressupõem violência física contra o inferior (C e B). O abuso de requisição (A) envolve requisição militar, e o desacato (E) não é crime do superior contra o subordinado no exercício do poder disciplinar.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-024",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t08",
+    "enunciado": "Um cabo PM, encarregado da escolta de um preso legalmente recolhido, distrai-se ao usar o celular, e o preso foge. Não houve intenção do cabo de facilitar a fuga. Nos termos do CPM, o cabo responderá por",
+    "alternativas": {
+      "A": "fuga de preso na forma qualificada, por ser o responsável pela custódia.",
+      "B": "fato atípico, pois a fuga de preso só é punida a título de dolo.",
+      "C": "prevaricação, por ter deixado de praticar ato de ofício.",
+      "D": "abandono de posto, por ter abandonado o serviço.",
+      "E": "fuga culposa de preso (art. 179), punida com detenção de 3 meses a 1 ano."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. O art. 179 do CPM prevê a modalidade culposa: \"Deixar, por culpa, fugir pessoa legalmente presa, confiada à sua guarda ou condução: Pena – detenção, de três meses a um ano\". A forma do art. 178, § 3º (A), exige dolo de promover ou facilitar a fuga por quem tem a guarda do preso. Não houve abandono do serviço (D) nem satisfação de interesse ou sentimento pessoal (C).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-025",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t09",
+    "enunciado": "Nos termos do art. 187 do Código Penal Militar, comete o crime de deserção o militar que",
+    "alternativas": {
+      "A": "falta a uma escala de serviço sem justificativa, por qualquer período.",
+      "B": "se ausenta, sem licença, da unidade em que serve, ou do lugar em que deve permanecer, por mais de oito dias.",
+      "C": "se ausenta, sem licença, da unidade em que serve por mais de vinte e quatro horas.",
+      "D": "deixa de se apresentar à incorporação, quando convocado para o serviço militar.",
+      "E": "abandona o posto de serviço que lhe foi designado antes de terminá-lo."
+    },
+    "correta": "B",
+    "comentario": "Correta a B, que reproduz o art. 187 do CPM: \"Ausentar-se o militar, sem licença, da unidade em que serve, ou do lugar em que deve permanecer, por mais de oito dias: Pena – detenção, de seis meses a dois anos; se oficial, a pena é agravada\". A D descreve a insubmissão (art. 183), e a E, o abandono de posto (art. 195). A ausência inferior ao prazo legal pode configurar transgressão disciplinar, mas não deserção (A e C).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-026",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t09",
+    "enunciado": "Um soldado consumou o crime de deserção e, arrependido, apresentou-se voluntariamente à unidade cinco dias após a consumação. Nos termos do CPM, a pena",
+    "alternativas": {
+      "A": "será diminuída de metade, pela apresentação voluntária dentro de oito dias após a consumação.",
+      "B": "será diminuída de um terço, por se tratar de apresentação após a consumação.",
+      "C": "não sofrerá alteração, pois a apresentação voluntária só produz efeito antes da consumação.",
+      "D": "será extinta, por se tratar de arrependimento eficaz.",
+      "E": "será agravada de um terço, por se tratar de praça."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 189, I, do CPM prevê a atenuante especial para os crimes dos arts. 187 e 188, I, II e III: \"se o agente se apresenta voluntariamente dentro em oito dias após a consumação do crime, a pena é diminuída de metade; e de um terço, se de mais de oito dias e até sessenta\". A redução de 1/3 (B) aplica-se à apresentação entre 8 e 60 dias. A agravante de 1/3 (E) refere-se à deserção em unidade estacionada em fronteira ou país estrangeiro (art. 189, II).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-027",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t09",
+    "enunciado": "Escalado como sentinela no portão do quartel, um soldado PM deixa o posto, sem ordem superior e antes do término do serviço, para resolver assuntos particulares. Segundo o CPM, a conduta configura",
+    "alternativas": {
+      "A": "deserção, punida com detenção de 6 meses a 2 anos.",
+      "B": "descumprimento de missão, punido com detenção de 6 meses a 2 anos.",
+      "C": "dormir em serviço, punido com detenção de 3 meses a 1 ano.",
+      "D": "mera transgressão disciplinar, por não ter havido prejuízo ao serviço.",
+      "E": "abandono de posto, punido com detenção de 3 meses a 1 ano."
+    },
+    "correta": "E",
+    "comentario": "Correta a E. O art. 195 do CPM tipifica o abandono de posto: \"Abandonar, sem ordem superior, o posto ou lugar de serviço que lhe tenha sido designado, ou o serviço que lhe cumpria, antes de terminá-lo: Pena – detenção, de três meses a um ano\". É crime de mera conduta, não exigindo prejuízo ao serviço (D). A deserção (A) exige ausência por mais de 8 dias, e o descumprimento de missão (B) é deixar de desempenhar a missão confiada.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-028",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t09",
+    "enunciado": "Sobre o crime de embriaguez em serviço (art. 202 do CPM), assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Pratica o crime o militar que se embriaga quando em serviço.",
+      "B": "A pena cominada é de detenção, de seis meses a dois anos.",
+      "C": "Quem se apresenta embriagado para assumir o serviço comete apenas transgressão, pois ainda não estava em serviço.",
+      "D": "Trata-se de crime que só pode ser praticado por militar.",
+      "E": "O tipo penal não se restringe à embriaguez por bebida alcoólica, podendo decorrer do uso de outras substâncias."
+    },
+    "correta": "C",
+    "comentario": "A C é a incorreta. O art. 202 do CPM pune duas condutas: \"Embriagar-se o militar, quando em serviço, ou apresentar-se embriagado para prestá-lo: Pena – detenção, de seis meses a dois anos\". Assim, quem se apresenta embriagado para o serviço também comete o crime. As demais estão corretas: o tipo exige a qualidade de militar (D) e a doutrina admite a embriaguez por álcool ou substância de efeitos análogos (E).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-029",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t09",
+    "enunciado": "Durante o turno noturno, um soldado PM escalado no serviço de vigia do quartel é encontrado dormindo no posto. Nos termos do CPM, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O crime de dormir em serviço só pode ser praticado por oficial de quarto ou de ronda.",
+      "B": "Não há crime, pois o soldado não abandonou o posto.",
+      "C": "A conduta configura abandono de posto, com pena de detenção de 3 meses a 1 ano.",
+      "D": "A conduta configura dormir em serviço, punido com detenção de 3 meses a 1 ano.",
+      "E": "A conduta configura descumprimento de missão, na forma culposa."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. O art. 203 do CPM tipifica: \"Dormir o militar, quando em serviço, como oficial de quarto ou de ronda, ou em situação equivalente, ou, não sendo oficial, em serviço de sentinela, vigia, plantão às máquinas, ao leme, de ronda ou em qualquer serviço de natureza semelhante: Pena – detenção, de três meses a um ano\". O crime alcança praças em serviço de vigia (A). Não há abandono de posto (C), pois o militar permaneceu no local.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-030",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t10",
+    "enunciado": "Um policial militar, em serviço, aproveita-se dessa condição para atrair um desafeto, que é militar da ativa, a local ermo e matá-lo dolosamente. Considerando o homicídio no CPM, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "O crime será homicídio simples, pois o CPM não prevê qualificadoras.",
+      "B": "O crime pode ser qualificado pelo fato de o agente ter se prevalecido da situação de serviço, qualificadora prevista no CPM.",
+      "C": "O crime será julgado pelo Tribunal do Júri, pois todo homicídio doloso praticado por militar é de competência do júri.",
+      "D": "O homicídio no CPM tem pena de reclusão de 12 a 30 anos em sua forma simples.",
+      "E": "O CPM não tipifica o homicídio, aplicando-se o Código Penal comum."
+    },
+    "correta": "B",
+    "comentario": "Correta a B. O art. 205, § 2º, VI, do CPM qualifica o homicídio cometido \"prevalecendo-se o agente da situação de serviço\" (reclusão de 12 a 30 anos), qualificadora que não existe no CP comum. O homicídio simples tem pena de reclusão de 6 a 20 anos (D). Como a vítima é militar da ativa, trata-se de crime militar (art. 9º, II, a), e a competência do Tribunal do Júri do § 1º do art. 9º só alcança os crimes dolosos contra a vida de CIVIL (C).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-031",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t11",
+    "enunciado": "Sobre os crimes contra o patrimônio no Código Penal Militar, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "No furto, se o agente é primário e de pequeno valor a coisa furtada, o juiz pode considerar a infração como disciplinar.",
+      "B": "Considera-se de pequeno valor a coisa que não exceda a um décimo da quantia mensal do mais alto salário mínimo do país.",
+      "C": "No roubo, a pena é aumentada se a vítima está em serviço de natureza militar.",
+      "D": "A receptação de arma, munição ou material militar de uso restrito constitui forma qualificada.",
+      "E": "O furto de uso, consistente em subtrair coisa para uso momentâneo e restituí-la imediatamente, é fato atípico no CPM, assim como no Código Penal comum."
+    },
+    "correta": "E",
+    "comentario": "A E é a incorreta. Diferentemente do CP comum, o CPM tipifica o furto de uso no art. 241: \"Se a coisa é subtraída para o fim de uso momentâneo e, a seguir, vem a ser imediatamente restituída ou reposta no lugar onde se achava: Pena – detenção, até seis meses\", com aumento de metade se a coisa é veículo motorizado, embarcação, aeronave ou arma. As demais estão corretas: A e B (art. 240, § 1º), C (art. 242, § 2º, IV) e D (art. 254, § 2º, incluído pela Lei 14.688/2023).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "direito-penal-militar-032",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t12",
+    "enunciado": "Durante revista no alojamento do quartel, um soldado PM é flagrado com pequena quantidade de maconha, que alega ser para uso próprio. Considerando o CPM e a jurisprudência do STF, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Configura o crime do art. 290 do CPM, ainda que a droga seja para uso próprio, sem aplicação da insignificância.",
+      "B": "Aplica-se o art. 28 da Lei 11.343/2006, com advertência sobre os efeitos das drogas, pois o soldado é usuário.",
+      "C": "O fato é atípico, pela aplicação do princípio da insignificância à pequena quantidade de droga.",
+      "D": "A conduta é mera transgressão disciplinar, pois o CPM não pune o porte para uso próprio.",
+      "E": "A conduta configura tráfico de drogas da Lei 11.343/2006, a ser julgado pela Justiça Comum."
+    },
+    "correta": "A",
+    "comentario": "Correta a A. O art. 290 do CPM pune quem traz consigo ou guarda substância entorpecente, \"ainda que para uso próprio\", em lugar sujeito à administração militar (reclusão de até 5 anos). O Plenário do STF (HC 103.684) decidiu que o art. 290 prevalece pelo critério da especialidade sobre a Lei 11.343/2006 e que não se aplica o princípio da insignificância nessa hipótese, dada a relevância da hierarquia, da disciplina e da segurança no ambiente militar.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-033",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t13",
+    "enunciado": "Durante uma abordagem de trânsito, um policial militar em serviço exige de um motorista R$ 500,00 para não lavrar o auto de infração. Considerando o CPM, a conduta configura, em tese,",
+    "alternativas": {
+      "A": "corrupção passiva, punida com reclusão de 2 a 12 anos.",
+      "B": "prevaricação, punida com detenção de 6 meses a 2 anos.",
+      "C": "concussão, crime militar punido com reclusão de 2 a 8 anos.",
+      "D": "extorsão, crime contra o patrimônio.",
+      "E": "excesso de exação, por envolver cobrança indevida."
+    },
+    "correta": "C",
+    "comentario": "Correta a C. O art. 305 do CPM tipifica a concussão: \"Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida: Pena – reclusão, de dois a oito anos\". O crime é militar por ter sido praticado por militar em serviço (art. 9º, II, c). A corrupção passiva (art. 308 – A) tem como núcleos solicitar, receber ou aceitar promessa, e não exigir. O excesso de exação (art. 306 – E) refere-se a imposto, taxa ou emolumento.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "direito-penal-militar-034",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t13",
+    "enunciado": "Um soldado PM, sem ter a posse ou a guarda do material, aproveita-se do livre acesso ao quartel proporcionado por sua condição de militar e subtrai munições da reserva de armamento. Nos termos do CPM, a conduta configura",
+    "alternativas": {
+      "A": "furto qualificado por abuso de confiança, crime contra o patrimônio.",
+      "B": "peculato-apropriação, pois o material era público.",
+      "C": "receptação qualificada de material militar de uso restrito.",
+      "D": "peculato-furto, por ter se valido da facilidade proporcionada pela condição de militar.",
+      "E": "peculato culposo, pois o agente não detinha a posse do material."
+    },
+    "correta": "D",
+    "comentario": "Correta a D. O art. 303, § 2º, do CPM prevê: \"Aplica-se a mesma pena a quem, embora não tendo a posse ou detenção do dinheiro, valor ou bem, o subtrai, ou contribui para que seja subtraído, em proveito próprio ou alheio, valendo-se da facilidade que lhe proporciona a qualidade de militar ou de servidor público\" (reclusão de 3 a 15 anos). O peculato-apropriação (B) exige a posse prévia em razão do cargo. O peculato culposo (E) ocorre quando o militar contribui culposamente para que outrem subtraia o bem.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-035",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t13",
+    "enunciado": "Sobre os crimes de desacato e desobediência no Código Penal Militar, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Desacatar superior, ofendendo-lhe a dignidade ou o decoro, ou procurando deprimir-lhe a autoridade, é crime punido com reclusão de até quatro anos.",
+      "B": "O desacato a superior é punido com detenção de até seis meses, por se tratar de infração de menor potencial ofensivo.",
+      "C": "A pena do desacato a superior é agravada se o superior é oficial-general ou comandante da unidade a que pertence o agente.",
+      "D": "Desacatar militar no exercício de função de natureza militar ou em razão dela é punido com detenção de seis meses a dois anos, se o fato não constitui outro crime.",
+      "E": "Desobedecer a ordem legal de autoridade militar é crime punido com detenção de até seis meses."
+    },
+    "correta": "B",
+    "comentario": "A B é a incorreta. O desacato a superior (art. 298 do CPM) é punido com \"reclusão, até quatro anos, se o fato não constitui crime mais grave\". As demais estão corretas: A e C (art. 298 e parágrafo único), D (art. 299) e E (art. 301 – desobediência). Vale lembrar que a Lei 9.099/1995 não se aplica no âmbito da Justiça Militar (art. 90-A).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "direito-penal-militar-036",
+    "materia": "direito-penal-militar",
+    "topico": "direito-penal-militar-t14",
+    "enunciado": "Sobre os crimes contra a administração da Justiça Militar, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "No favorecimento pessoal, fica isento de pena o amigo íntimo do criminoso que o auxilia a subtrair-se à ação da autoridade.",
+      "B": "No falso testemunho, a retratação do agente antes da sentença apenas reduz a pena de um terço.",
+      "C": "O desacato a autoridade judiciária militar é punido apenas com multa.",
+      "D": "A denunciação caluniosa prevista no CPM independe de a imputação referir-se a crime sujeito à jurisdição militar.",
+      "E": "No favorecimento pessoal, fica isento de pena quem presta o auxílio sendo ascendente, descendente, cônjuge ou irmão do criminoso."
+    },
+    "correta": "E",
+    "comentario": "Correta a E, nos termos do art. 350, § 2º, do CPM. A isenção não alcança amigos (A). No falso testemunho, o fato deixa de ser punível se, antes da sentença, o agente se retrata ou declara a verdade (art. 346, § 2º – B). O desacato a autoridade judiciária militar é punido com reclusão de até 4 anos (art. 341 – C). A denunciação caluniosa do art. 343 exige a imputação de crime sujeito à jurisdição militar (D).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  }
+]

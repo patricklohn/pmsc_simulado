@@ -1,0 +1,614 @@
+[
+  {
+    "id": "legislacao-especial-001",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t01",
+    "enunciado": "De acordo com a Lei nº 8.072/1990, assinale a alternativa que apresenta crime que NÃO é considerado hediondo.",
+    "alternativas": {
+      "A": "Roubo circunstanciado pelo emprego de arma de fogo, ainda que de uso permitido, contra a vítima.",
+      "B": "Estupro de vulnerável, consumado ou tentado, em qualquer de suas formas.",
+      "C": "Extorsão mediante sequestro, em sua forma simples ou qualificada.",
+      "D": "Furto qualificado pela destruição ou rompimento de obstáculo à subtração da coisa.",
+      "E": "Feminicídio, previsto no art. 121-A do Código Penal."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. O furto só é hediondo na forma qualificada pelo emprego de explosivo ou artefato análogo que cause perigo comum (CP, art. 155, § 4º-A; Lei 8.072/90, art. 1º, IX). O rompimento de obstáculo (§ 4º, I) não está no rol. São hediondos: roubo com emprego de arma de fogo (art. 1º, II, b), feminicídio (art. 1º, I-B, incluído pela Lei 14.994/2024), extorsão mediante sequestro (IV) e estupro de vulnerável (VI).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-002",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t01",
+    "enunciado": "Conforme o art. 2º da Lei nº 8.072/1990, os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de",
+    "alternativas": {
+      "A": "anistia, graça e indulto, e de liberdade provisória.",
+      "B": "fiança e de progressão de regime.",
+      "C": "liberdade provisória e de livramento condicional.",
+      "D": "graça e indulto, sendo admitida a anistia.",
+      "E": "anistia, graça e indulto, e de fiança."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. O art. 2º da Lei 8.072/90 dispõe que tais crimes são insuscetíveis de anistia, graça e indulto (I) e de fiança (II). A vedação à liberdade provisória foi suprimida pela Lei 11.464/2007. A progressão de regime é admitida, com frações próprias previstas no art. 112 da LEP, e o livramento condicional não é vedado de forma geral pela Lei 8.072/90.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-003",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t01",
+    "enunciado": "Nos crimes previstos na Lei nº 8.072/1990, a prisão temporária terá o prazo de",
+    "alternativas": {
+      "A": "10 dias, improrrogável.",
+      "B": "30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+      "C": "5 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+      "D": "30 dias, improrrogável, devendo o preso ser solto ao final do prazo.",
+      "E": "60 dias, prorrogável uma única vez por 30 dias."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. O art. 2º, § 4º, da Lei 8.072/90 prevê que a prisão temporária, nos crimes hediondos e equiparados, terá prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade. O prazo de 5 + 5 dias é a regra geral da Lei 7.960/89.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-004",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t01",
+    "enunciado": "Acerca da Lei nº 8.072/1990, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Os crimes hediondos são considerados como tais apenas na forma consumada, não na tentada.",
+      "B": "A posse ou o porte ilegal de arma de fogo de uso restrito é crime hediondo, conforme o parágrafo único do art. 1º da Lei nº 8.072/1990.",
+      "C": "A associação criminosa para a prática de crimes hediondos é punida com reclusão de 1 a 3 anos, como no Código Penal.",
+      "D": "O participante ou associado que denunciar o bando ou quadrilha à autoridade terá extinta a punibilidade, independentemente de haver o desmantelamento do grupo.",
+      "E": "O participante e o associado que denunciar à autoridade o bando ou quadrilha, possibilitando seu desmantelamento, terá a pena reduzida de um a dois terços."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. Correta: art. 8º, parágrafo único, da Lei 8.072/90. O caput do art. 8º fixa reclusão de 3 a 6 anos para a associação criminosa (CP, art. 288) voltada a crimes hediondos, tortura, tráfico ou terrorismo. Após o Pacote Anticrime, é hediondo o crime de posse ou porte de arma de fogo de uso PROIBIDO (art. 1º, parágrafo único, II), não o de uso restrito. O art. 1º, caput, abrange crimes consumados ou tentados.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-005",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t02",
+    "enunciado": "Após a Lei nº 14.532/2023, a conduta de injuriar alguém, ofendendo-lhe a dignidade ou o decoro, em razão de raça, cor, etnia ou procedência nacional",
+    "alternativas": {
+      "A": "passou a ser contravenção penal, punida com prisão simples.",
+      "B": "passou a ser tipificada na Lei nº 7.716/1989, punida com reclusão de 2 a 5 anos e multa.",
+      "C": "permanece tipificada no Código Penal como injúria qualificada, com pena de reclusão de 1 a 3 anos.",
+      "D": "passou a ser tipificada na Lei nº 7.716/1989, punida com detenção de 1 a 3 anos.",
+      "E": "deixou de ser crime autônomo, configurando apenas circunstância agravante genérica."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. A Lei 14.532/2023 inseriu o art. 2º-A na Lei 7.716/89: injuriar alguém, ofendendo-lhe a dignidade ou o decoro, em razão de raça, cor, etnia ou procedência nacional — reclusão de 2 a 5 anos e multa, aumentada de metade se cometido mediante concurso de duas ou mais pessoas. O art. 140, § 3º, do CP permaneceu apenas para elementos referentes a religião ou à condição de pessoa idosa ou com deficiência (reclusão de 1 a 3 anos e multa).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-006",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t02",
+    "enunciado": "Segundo a Constituição Federal, a prática do racismo constitui crime",
+    "alternativas": {
+      "A": "inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
+      "B": "imprescritível, mas afiançável pela autoridade judicial.",
+      "C": "hediondo, insuscetível de liberdade provisória.",
+      "D": "afiançável e prescritível, sujeito à pena de detenção ou de reclusão, nos termos da lei.",
+      "E": "inafiançável e insuscetível de graça ou anistia, mas prescritível."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 5º, XLII, da CF/88 estabelece que a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão. A insuscetibilidade de graça ou anistia é atribuída pelo inciso XLIII à tortura, ao tráfico, ao terrorismo e aos hediondos (que, por sua vez, são prescritíveis). Racismo não consta do rol da Lei 8.072/90.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-007",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t02",
+    "enunciado": "De acordo com a Lei nº 7.716/1989, com as alterações da Lei nº 14.532/2023, os crimes de injúria racial (art. 2º-A) e de praticar, induzir ou incitar a discriminação ou o preconceito (art. 20) terão as penas aumentadas de um terço até a metade quando praticados",
+    "alternativas": {
+      "A": "por pessoa reincidente em crime doloso, ainda que não específico.",
+      "B": "por pessoa maior de 60 anos.",
+      "C": "contra pessoa com quem o agente mantenha relação de parentesco ou de convivência doméstica.",
+      "D": "por funcionário público, no exercício de suas funções ou a pretexto de exercê-las.",
+      "E": "durante o repouso noturno."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. O art. 20-B da Lei 7.716/89 prevê aumento de 1/3 até a metade quando os crimes dos arts. 2º-A e 20 forem praticados por funcionário público, conforme definição do Código Penal, no exercício de suas funções ou a pretexto de exercê-las — ponto sensível para o policial militar. O art. 20-A prevê o mesmo aumento quando ocorrerem em contexto ou com intuito de descontração, diversão ou recreação (racismo recreativo). As demais hipóteses não estão previstas.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-008",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t03",
+    "enunciado": "Um policial militar presencia, dentro da viatura, seu colega de guarnição submeter um preso a intenso sofrimento físico, como forma de castigo, e nada faz para impedir, embora pudesse. De acordo com a Lei nº 9.455/1997, o policial omisso",
+    "alternativas": {
+      "A": "responde pela mesma pena do torturador, reclusão de 2 a 8 anos.",
+      "B": "responde apenas por prevaricação, prevista no Código Penal.",
+      "C": "responde por crime de tortura por omissão, com pena de detenção de 1 a 4 anos.",
+      "D": "comete apenas infração disciplinar, sujeita a processo administrativo.",
+      "E": "não comete crime, pois não praticou nenhum ato de violência contra o preso."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. O art. 1º, § 2º, da Lei 9.455/97 dispõe que aquele que se omite em face das condutas de tortura, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de detenção de 1 a 4 anos. É a chamada tortura imprópria (omissiva), com pena menor que a do torturador (reclusão de 2 a 8 anos — art. 1º, caput) e não sujeita ao regime inicial fechado obrigatório (art. 1º, § 7º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-009",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t03",
+    "enunciado": "Nos termos da Lei nº 9.455/1997, a condenação por crime de tortura acarretará",
+    "alternativas": {
+      "A": "a inabilitação para o exercício de cargo pelo período de 1 a 5 anos, somente em caso de reincidência.",
+      "B": "a suspensão do cargo pelo prazo da pena aplicada, com posterior reintegração.",
+      "C": "a perda do cargo e a interdição para seu exercício pelo triplo do prazo da pena aplicada.",
+      "D": "a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+      "E": "a perda do cargo apenas se a pena aplicada for superior a 4 anos, mediante declaração motivada na sentença."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. O art. 1º, § 5º, da Lei 9.455/97 prevê a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada. Segundo o STJ, trata-se de efeito automático da condenação. A inabilitação de 1 a 5 anos condicionada à reincidência é efeito da condenação na Lei de Abuso de Autoridade (Lei 13.869/19, art. 4º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-010",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t03",
+    "enunciado": "Sobre o crime de tortura, conforme a Lei nº 9.455/1997, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Constitui tortura constranger alguém, com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental, com o fim de obter informação, declaração ou confissão da vítima ou de terceira pessoa.",
+      "B": "A pena é aumentada de um sexto até um terço se o crime é cometido por agente público.",
+      "C": "A lei aplica-se ainda quando o crime não tenha sido cometido em território nacional, sendo a vítima brasileira.",
+      "D": "O crime de tortura é inafiançável e insuscetível de graça ou anistia.",
+      "E": "Constitui tortura constranger alguém, com violência ou grave ameaça, causando-lhe sofrimento físico ou mental, em razão de discriminação por orientação sexual, conforme previsão expressa da lei."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. A incorreta é a que menciona orientação sexual: a tortura-discriminação do art. 1º, I, c, refere-se apenas à discriminação racial ou religiosa. As demais estão corretas: tortura-prova (art. 1º, I, a), aumento por agente público (art. 1º, § 4º, I), inafiançabilidade e insuscetibilidade de graça ou anistia (§ 6º) e extraterritorialidade (art. 2º: vítima brasileira ou agente em local sob jurisdição brasileira).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-011",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t04",
+    "enunciado": "De acordo com a Lei nº 12.850/2013, considera-se organização criminosa a associação de",
+    "alternativas": {
+      "A": "4 ou mais pessoas estruturalmente ordenada, com divisão de tarefas, ainda que informal, visando vantagem mediante infrações com penas máximas superiores a 4 anos ou de caráter transnacional.",
+      "B": "4 ou mais pessoas, para a prática de infrações penais cujas penas mínimas sejam superiores a 4 anos, exigindo-se estrutura hierárquica formal e registrada em documento.",
+      "C": "2 ou mais pessoas, para o fim de praticar, reiteradamente ou não, crimes de tráfico de drogas, desde que haja vínculo associativo estável e permanente entre elas.",
+      "D": "4 ou mais pessoas, desde que haja estrutura formal e hierarquia escrita, para a prática de crimes hediondos.",
+      "E": "3 ou mais pessoas, para o fim específico de cometer crimes, independentemente da pena cominada às infrações penais praticadas pelo grupo e da existência de divisão de tarefas."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O conceito está no art. 1º, § 1º, da Lei 12.850/13: 4 ou mais pessoas, estrutura ordenada, divisão de tarefas (ainda que informal), objetivo de vantagem de qualquer natureza, mediante infrações com penas MÁXIMAS superiores a 4 anos ou de caráter transnacional. Três ou mais pessoas é a associação criminosa (CP, art. 288); duas ou mais, a associação para o tráfico (Lei 11.343/06, art. 35).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-012",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t04",
+    "enunciado": "Com base na Lei nº 12.850/2013, a ação controlada, que consiste em retardar a intervenção policial ou administrativa relativa à ação praticada por organização criminosa, para que a medida se concretize no momento mais eficaz à formação de provas,",
+    "alternativas": {
+      "A": "será previamente comunicada ao juiz competente que, se for o caso, estabelecerá os seus limites e comunicará ao Ministério Público.",
+      "B": "deverá ser comunicada ao juiz competente no prazo de 48 horas após o seu encerramento.",
+      "C": "depende de prévia autorização judicial, mediante requerimento exclusivo do Ministério Público, vedada a representação do delegado.",
+      "D": "dispensa qualquer comunicação ao Poder Judiciário, por se tratar de ato discricionário da autoridade policial.",
+      "E": "somente pode ser realizada após o oferecimento da denúncia, mediante autorização do juiz."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 8º, § 1º, da Lei 12.850/13 exige apenas a prévia COMUNICAÇÃO ao juiz competente, que, se for o caso, estabelecerá os limites da medida e comunicará ao MP. A Lei de Drogas (Lei 11.343/06, art. 53, II), diferentemente, exige autorização judicial para a não atuação policial. A comunicação deve ser sigilosa até o encerramento da diligência (art. 8º, § 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-013",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t04",
+    "enunciado": "Acerca da infiltração de agentes de polícia em tarefas de investigação, prevista na Lei nº 12.850/2013, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A infiltração será admitida ainda que a prova possa ser produzida por outros meios disponíveis.",
+      "B": "O agente infiltrado responde por qualquer crime cometido durante a infiltração, ainda que inexigível conduta diversa.",
+      "C": "A infiltração poderá ser autorizada pelo próprio delegado de polícia, com posterior comunicação ao juiz competente e ao Ministério Público.",
+      "D": "A infiltração será autorizada pelo prazo de até 30 dias, vedadas renovações.",
+      "E": "A infiltração será autorizada pelo prazo de até 6 meses, sem prejuízo de eventuais renovações, desde que comprovada sua necessidade."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. Correta: art. 10, § 3º, da Lei 12.850/13. A infiltração depende de prévia autorização judicial circunstanciada, motivada e sigilosa (art. 10, caput), e só é admitida se houver indícios de infração do art. 1º e se a prova não puder ser produzida por outros meios (§ 2º). Não é punível o crime praticado pelo agente infiltrado no curso da investigação quando inexigível conduta diversa (art. 13, parágrafo único).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-014",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t05",
+    "enunciado": "Durante patrulhamento, policiais militares abordam indivíduo que traz consigo pequena porção de cocaína para consumo pessoal. De acordo com a Lei nº 11.343/2006,",
+    "alternativas": {
+      "A": "não se imporá prisão em flagrante, devendo o autor ser encaminhado ao juízo ou assumir compromisso de comparecer, lavrando-se termo circunstanciado.",
+      "B": "o autor será submetido à pena de detenção de 6 meses a 2 anos, convertida em prestação de serviços.",
+      "C": "o autor deverá ser preso em flagrante, podendo a autoridade policial arbitrar fiança, por ser crime punido com pena máxima não superior a 4 anos.",
+      "D": "a conduta é atípica, devendo a droga ser restituída ao portador.",
+      "E": "o autor deverá ser preso em flagrante e apresentado em audiência de custódia no prazo de 24 horas, por se tratar de crime equiparado a hediondo."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O porte para consumo pessoal (art. 28) não admite prisão em flagrante: o autor é encaminhado ao juízo competente ou, na falta deste, assume o compromisso de comparecer, lavrando-se termo circunstanciado (art. 48, §§ 2º e 3º). As penas do art. 28 são advertência, prestação de serviços à comunidade e medida educativa, sem pena privativa de liberdade. A droga é apreendida, não restituída.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-015",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t05",
+    "enunciado": "Nos termos do art. 33, § 4º, da Lei nº 11.343/2006, nos delitos de tráfico de drogas, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja",
+    "alternativas": {
+      "A": "primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.",
+      "B": "primário, ainda que integre organização criminosa, desde que a quantidade de droga seja pequena.",
+      "C": "primário e confesse espontaneamente o crime perante a autoridade policial ou judicial, ainda que tenha maus antecedentes.",
+      "D": "reincidente não específico e colabore voluntariamente com a investigação.",
+      "E": "menor de 21 anos na data do fato ou maior de 70 na data da sentença."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O tráfico privilegiado exige, cumulativamente: primariedade, bons antecedentes, não se dedicar a atividades criminosas e não integrar organização criminosa (art. 33, § 4º). A colaboração voluntária gera outra causa de diminuição (art. 41). Segundo o art. 112, § 5º, da LEP, o tráfico privilegiado não é considerado hediondo ou equiparado.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-016",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t05",
+    "enunciado": "João oferece, eventualmente e sem objetivo de lucro, maconha a um amigo de seu relacionamento, para juntos a consumirem. De acordo com a Lei nº 11.343/2006, João",
+    "alternativas": {
+      "A": "responde pela figura do art. 33, § 3º, com pena de detenção de 6 meses a 1 ano e multa, sem prejuízo das penas do art. 28.",
+      "B": "responde por associação para o tráfico, pois a conduta envolveu duas pessoas.",
+      "C": "não comete crime, pois não houve intuito de lucro nem habitualidade na conduta, que é mero ato preparatório.",
+      "D": "responde apenas pelo art. 28, pois a droga se destinava ao consumo pessoal de ambos, sem qualquer finalidade de comércio.",
+      "E": "responde por tráfico de drogas, com pena de reclusão de 5 a 15 anos, por ter oferecido a droga."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 33, § 3º, da Lei 11.343/06 tipifica o oferecimento de droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem: detenção de 6 meses a 1 ano e pagamento de 700 a 1.500 dias-multa, sem prejuízo das penas do art. 28. É infração de menor potencial ofensivo. A associação (art. 35) exige vínculo estável para o tráfico.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-017",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t05",
+    "enunciado": "Sobre os crimes previstos na Lei nº 11.343/2006, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "As penas dos crimes de tráfico são aumentadas de um sexto a dois terços se caracterizado o tráfico entre Estados da Federação.",
+      "B": "Financiar ou custear a prática de tráfico de drogas é crime autônomo, punido com reclusão de 8 a 20 anos.",
+      "C": "A associação para o tráfico exige a reunião de, no mínimo, quatro pessoas, de forma estável e permanente.",
+      "D": "As penas dos crimes de tráfico são aumentadas de um sexto a dois terços se a infração tiver sido cometida nas imediações de estabelecimentos de ensino.",
+      "E": "Colaborar, como informante, com grupo destinado ao tráfico é crime punido com reclusão de 2 a 6 anos."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. A incorreta é a que exige quatro pessoas: o art. 35 da Lei 11.343/06 pune a associação de DUAS ou mais pessoas para praticar, reiteradamente ou não, os crimes dos arts. 33, caput e § 1º, e 34 (a jurisprudência exige estabilidade). As demais estão corretas: art. 40, III e V (aumentos), art. 36 (financiamento: 8 a 20 anos) e art. 37 (informante: 2 a 6 anos).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-018",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t06",
+    "enunciado": "De acordo com a Lei nº 13.869/2019, as condutas nela descritas constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de",
+    "alternativas": {
+      "A": "humilhar a vítima publicamente, desde que haja lesão corporal.",
+      "B": "obter vantagem patrimonial indevida, exclusivamente.",
+      "C": "violar dever funcional, ainda que a conduta decorra apenas de divergência na interpretação da lei ou na avaliação de provas.",
+      "D": "prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal.",
+      "E": "descumprir ordem de superior hierárquico, ainda que culposamente."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. O art. 1º, § 1º, da Lei 13.869/19 exige elemento subjetivo especial: finalidade de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou mero capricho ou satisfação pessoal. Não há modalidade culposa. A divergência na interpretação de lei ou na avaliação de fatos e provas não configura, por si só, abuso de autoridade (art. 1º, § 2º — vedação ao crime de hermenêutica).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-019",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t06",
+    "enunciado": "Sobre os efeitos da condenação previstos no art. 4º da Lei nº 13.869/2019, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A perda do cargo exige que a pena aplicada seja superior a 4 anos, independentemente de reincidência, devendo ser declarada motivadamente na sentença.",
+      "B": "A obrigação de indenizar o dano depende de requerimento expresso e de reincidência do agente.",
+      "C": "A inabilitação para o cargo e a perda do cargo dependem de reincidência em crime de abuso de autoridade e não são automáticas, devendo ser declaradas motivadamente.",
+      "D": "A perda do cargo, mandato ou função pública é efeito automático de qualquer condenação por abuso de autoridade, dispensando fundamentação específica na sentença.",
+      "E": "A inabilitação para o exercício de cargo, mandato ou função pública será de 2 a 8 anos, aplicada automaticamente sempre que a pena for privativa de liberdade."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. O art. 4º da Lei 13.869/19 prevê: tornar certa a obrigação de indenizar (I); inabilitação para cargo, mandato ou função pública por 1 a 5 anos (II); perda do cargo, mandato ou função (III). Pelo parágrafo único, os efeitos dos incisos II e III condicionam-se à reincidência em crime de abuso de autoridade, não são automáticos e devem ser declarados motivadamente na sentença.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-020",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t06",
+    "enunciado": "Os crimes previstos na Lei nº 13.869/2019 (Lei de Abuso de Autoridade) são de ação penal",
+    "alternativas": {
+      "A": "pública incondicionada, vedada a ação privada subsidiária.",
+      "B": "pública incondicionada, admitida a ação privada subsidiária se a ação pública não for intentada no prazo legal.",
+      "C": "pública condicionada à representação do ofendido, que deverá ser oferecida no prazo decadencial de 6 meses.",
+      "D": "pública condicionada à requisição do Ministro da Justiça, nos casos que envolvam autoridades federais.",
+      "E": "privada, mediante queixa do ofendido no prazo de 6 meses, contado do dia em que souber quem é o autor."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. O art. 3º da Lei 13.869/19 estabelece que os crimes são de ação penal pública incondicionada. O § 1º admite a ação privada se a ação pública não for intentada no prazo legal, e o § 2º fixa o prazo de 6 meses para a ação privada subsidiária, contado da data em que se esgotar o prazo para o oferecimento da denúncia.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-021",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t06",
+    "enunciado": "De acordo com a Lei nº 13.869/2019, incorre na mesma pena do crime de violação de domicílio por abuso de autoridade (art. 22) quem cumpre mandado de busca e apreensão domiciliar",
+    "alternativas": {
+      "A": "após as 20 horas ou antes das 6 horas.",
+      "B": "após as 18 horas ou antes das 6 horas.",
+      "C": "após as 21 horas ou antes das 5 horas.",
+      "D": "após as 22 horas ou antes das 5 horas.",
+      "E": "em qualquer horário, se não estiver acompanhado de duas testemunhas."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. O art. 22, § 1º, III, da Lei 13.869/19 pune quem cumpre mandado de busca e apreensão domiciliar após as 21h ou antes das 5h (pena de detenção de 1 a 4 anos e multa). O § 2º afasta o crime quando o ingresso for para prestar socorro ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou de desastre.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-022",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t07",
+    "enunciado": "Em cumprimento de mandado de busca, policiais encontram, guardado na residência de Pedro, um revólver de uso permitido, sem registro, com numeração íntegra. De acordo com a Lei nº 10.826/2003, Pedro praticou o crime de",
+    "alternativas": {
+      "A": "comércio ilegal de arma de fogo, punido com reclusão de 6 a 12 anos e multa.",
+      "B": "posse ilegal de arma de fogo de uso restrito, punido com reclusão de 3 a 6 anos e multa.",
+      "C": "posse irregular de arma de fogo de uso permitido, punido com detenção de 1 a 3 anos e multa.",
+      "D": "porte ilegal de arma de fogo de uso permitido, punido com reclusão de 2 a 4 anos e multa.",
+      "E": "omissão de cautela, punido com detenção de 1 a 2 anos e multa."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. Possuir ou manter sob guarda arma de fogo de uso permitido, em desacordo com determinação legal ou regulamentar, no interior da residência ou no local de trabalho (sendo titular ou responsável), configura o art. 12 da Lei 10.826/03 (detenção de 1 a 3 anos e multa). Se a arma estivesse fora desses locais, seria porte (art. 14). Uso restrito é o art. 16; omissão de cautela, o art. 13; comércio ilegal, o art. 17.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-023",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t07",
+    "enunciado": "Em abordagem na via pública, policiais militares encontram com Carlos um revólver calibre .38, de uso permitido, com a numeração de série raspada. Conforme a Lei nº 10.826/2003, Carlos responde pelo crime de",
+    "alternativas": {
+      "A": "posse ou porte ilegal de arma de fogo de uso restrito (art. 16, § 1º, IV), com pena de reclusão de 3 a 6 anos e multa.",
+      "B": "posse irregular de arma de fogo de uso permitido (art. 12), com pena de detenção de 1 a 3 anos e multa.",
+      "C": "porte de arma de fogo de uso proibido (art. 16, § 2º), com pena de reclusão de 4 a 12 anos.",
+      "D": "porte ilegal de arma de fogo de uso permitido (art. 14), com pena de reclusão de 2 a 4 anos e multa, pois o calibre .38 é de uso permitido.",
+      "E": "tráfico internacional de arma de fogo (art. 18), com pena de reclusão de 8 a 16 anos e multa."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 16, § 1º, IV, da Lei 10.826/03 pune com as penas do caput (reclusão de 3 a 6 anos e multa) quem porta, possui, adquire, transporta ou fornece arma de fogo com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, ainda que a arma seja de uso permitido. O § 2º (4 a 12 anos) refere-se a arma de uso proibido.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-024",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t07",
+    "enunciado": "Considerando a Lei nº 8.072/1990, com redação dada pela Lei nº 13.964/2019, e a Lei nº 10.826/2003, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Nenhum crime previsto no Estatuto do Desarmamento é considerado hediondo.",
+      "B": "É considerado hediondo o crime de disparo de arma de fogo em via pública.",
+      "C": "É considerado hediondo o crime de posse irregular de arma de fogo de uso permitido no interior da residência.",
+      "D": "É considerado hediondo o crime de porte ilegal de arma de fogo de uso permitido.",
+      "E": "É considerado hediondo o crime de posse ou porte ilegal de arma de fogo de uso proibido."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. O art. 1º, parágrafo único, da Lei 8.072/90 considera hediondos: posse ou porte ilegal de arma de fogo de uso PROIBIDO (II, art. 16 do Estatuto), comércio ilegal de armas (III, art. 17) e tráfico internacional de armas (IV, art. 18). Antes da Lei 13.964/2019, a redação abrangia o uso restrito. Porte de uso permitido (art. 14), posse irregular (art. 12) e disparo (art. 15) não são hediondos.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-025",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t07",
+    "enunciado": "De acordo com o art. 13 da Lei nº 10.826/2003, deixar de observar as cautelas necessárias para impedir que menor de 18 anos ou pessoa portadora de deficiência mental se apodere de arma de fogo que esteja sob sua posse ou que seja de sua propriedade é crime punido com",
+    "alternativas": {
+      "A": "reclusão de 2 a 4 anos e multa.",
+      "B": "reclusão de 3 a 6 anos e multa.",
+      "C": "detenção de 1 a 3 anos e multa.",
+      "D": "detenção de 1 a 2 anos e multa.",
+      "E": "detenção de 6 meses a 1 ano."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. O art. 13 da Lei 10.826/03 (omissão de cautela) é punido com detenção de 1 a 2 anos e multa — é crime culposo e infração de menor potencial ofensivo. Nas mesmas penas incorrem o proprietário ou diretor de empresa de segurança e transporte de valores que deixar de registrar ocorrência policial e comunicar à Polícia Federal a perda, furto, roubo ou extravio de arma em 24 horas (parágrafo único). Detenção de 1 a 3 anos é a pena do art. 12.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-026",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t08",
+    "enunciado": "Policiais militares atendem ocorrência de violência doméstica em município que não é sede de comarca, onde não há delegado disponível no momento. Verificado risco atual à vida da mulher, de acordo com a Lei nº 11.340/2006,",
+    "alternativas": {
+      "A": "o agressor será afastado pelo policial, cabendo ao Ministério Público decidir sobre a manutenção em 72 horas.",
+      "B": "o policial afastará imediatamente o agressor do lar, comunicando o juiz em no máximo 24 horas, que decidirá sobre a manutenção ou a revogação da medida.",
+      "C": "o policial poderá afastar o agressor, desde que a vítima represente formalmente contra ele no local e assine o termo de representação.",
+      "D": "o policial não pode afastar o agressor do lar, por se tratar de medida de competência exclusiva da autoridade judicial, devendo apenas registrar a ocorrência.",
+      "E": "o agressor será afastado do lar pelo policial, com comunicação ao juiz competente no prazo de 48 horas, que decidirá sobre a manutenção da medida."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. O art. 12-C da Lei 11.340/06 permite o afastamento imediato do agressor: pela autoridade judicial; pelo delegado, quando o município não for sede de comarca; ou pelo policial, quando o município não for sede de comarca e não houver delegado disponível no momento da denúncia. Nos dois últimos casos, o juiz é comunicado em no máximo 24 horas e decide, em igual prazo, sobre a manutenção ou revogação, dando ciência ao MP.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-027",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t08",
+    "enunciado": "Conforme a jurisprudência sumulada do STJ e a Lei nº 11.340/2006, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "É permitida a aplicação de pena de cesta básica nos casos de violência doméstica contra a mulher.",
+      "B": "A lesão corporal leve praticada contra a mulher no ambiente doméstico depende de representação da vítima, a ser oferecida no prazo de 6 meses.",
+      "C": "É cabível a suspensão condicional do processo nos crimes praticados com violência doméstica contra a mulher.",
+      "D": "A ação penal relativa ao crime de lesão corporal resultante de violência doméstica contra a mulher é pública incondicionada.",
+      "E": "Aos crimes praticados com violência doméstica contra a mulher aplica-se a transação penal da Lei nº 9.099/1995."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. Correta: Súmula 542 do STJ. O art. 41 da Lei 11.340/06 afasta a Lei 9.099/95, de modo que não se aplicam a representação do art. 88, a transação penal nem a suspensão condicional do processo (Súmula 536 do STJ). O art. 17 veda penas de cesta básica, outras prestações pecuniárias e a substituição por multa isolada.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-028",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t08",
+    "enunciado": "De acordo com a Lei nº 11.340/2006, com redação dada pela Lei nº 14.994/2024, o crime de descumprimento de decisão judicial que defere medidas protetivas de urgência (art. 24-A) é punido com",
+    "alternativas": {
+      "A": "reclusão de 1 a 4 anos e multa, admitindo-se a transação penal prevista na Lei nº 9.099/1995.",
+      "B": "reclusão de 2 a 5 anos e multa, podendo a autoridade policial conceder fiança na hipótese de prisão em flagrante.",
+      "C": "detenção de 3 meses a 2 anos, podendo o delegado de polícia conceder fiança na hipótese de prisão em flagrante.",
+      "D": "detenção de 3 meses a 2 anos, sendo inafiançável.",
+      "E": "reclusão de 2 a 5 anos e multa, e, na hipótese de prisão em flagrante, apenas a autoridade judicial poderá conceder fiança."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. A Lei 14.994/2024 elevou a pena do art. 24-A para reclusão de 2 a 5 anos e multa (antes, detenção de 3 meses a 2 anos). O § 2º dispõe que, na hipótese de prisão em flagrante, apenas a autoridade judicial poderá conceder fiança. O crime configura-se independentemente da competência civil ou criminal do juiz que deferiu as medidas (§ 1º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-029",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t08",
+    "enunciado": "Segundo a Lei nº 11.340/2006, a conduta do companheiro que retém os documentos pessoais e os instrumentos de trabalho da mulher configura violência",
+    "alternativas": {
+      "A": "física.",
+      "B": "patrimonial.",
+      "C": "sexual.",
+      "D": "moral.",
+      "E": "psicológica."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. O art. 7º, IV, da Lei 11.340/06 define violência patrimonial como qualquer conduta que configure retenção, subtração, destruição parcial ou total de objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos da mulher. A violência moral é a calúnia, difamação ou injúria (V); a psicológica envolve dano emocional, humilhação, controle etc. (II).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-030",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t09",
+    "enunciado": "Policiais militares flagram uma criança de 11 anos subtraindo objetos de uma loja. De acordo com o Estatuto da Criança e do Adolescente (Lei nº 8.069/1990),",
+    "alternativas": {
+      "A": "a criança deverá ser apreendida e encaminhada ao delegado para lavratura de auto de apreensão por ato infracional.",
+      "B": "ao ato infracional praticado por criança corresponderão as medidas de proteção previstas no art. 101 do ECA.",
+      "C": "a criança está sujeita às medidas socioeducativas previstas no ECA, inclusive a internação por até 3 anos.",
+      "D": "não há ato infracional, pois apenas o adolescente pode praticar conduta descrita como crime.",
+      "E": "a criança será submetida a medida de semiliberdade, por se tratar de crime patrimonial."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. Criança é a pessoa até 12 anos incompletos (art. 2º do ECA). Ela pode praticar ato infracional (conduta descrita como crime ou contravenção — art. 103), mas a ele correspondem apenas as medidas de proteção do art. 101 (art. 105), aplicadas pelo Conselho Tutelar (art. 136, I) ou pelo juiz. Medidas socioeducativas (art. 112) aplicam-se somente a adolescentes.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-031",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t09",
+    "enunciado": "Sobre a apreensão de adolescente pela prática de ato infracional, de acordo com o ECA, assinale a alternativa INCORRETA.",
+    "alternativas": {
+      "A": "Nenhum adolescente será privado de sua liberdade senão em flagrante de ato infracional ou por ordem escrita e fundamentada da autoridade judiciária competente.",
+      "B": "O adolescente apreendido em flagrante de ato infracional será, desde logo, encaminhado à autoridade policial competente.",
+      "C": "O adolescente poderá ser conduzido em compartimento fechado de veículo policial sempre que houver número insuficiente de viaturas.",
+      "D": "O adolescente tem direito à identificação dos responsáveis pela sua apreensão, devendo ser informado acerca de seus direitos.",
+      "E": "A apreensão de qualquer adolescente e o local onde se encontra recolhido serão incontinenti comunicados à autoridade judiciária competente e à família do apreendido ou à pessoa por ele indicada."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. A incorreta contraria o art. 178 do ECA: o adolescente não poderá ser conduzido ou transportado em compartimento fechado de veículo policial, em condições atentatórias à sua dignidade ou que impliquem risco à sua integridade física ou mental, sob pena de responsabilidade. As demais reproduzem os arts. 106, 107 e 172 do ECA.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-032",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t09",
+    "enunciado": "Conforme o ECA e a jurisprudência do STJ, o crime de corrupção de menores (art. 244-B), consistente em corromper ou facilitar a corrupção de menor de 18 anos, com ele praticando infração penal ou induzindo-o a praticá-la,",
+    "alternativas": {
+      "A": "é crime formal, punido com detenção de 6 meses a 2 anos.",
+      "B": "é crime material, punido com reclusão de 3 a 8 anos.",
+      "C": "é crime formal e independe da prova da efetiva corrupção do menor, punido com reclusão de 1 a 4 anos.",
+      "D": "somente se configura se o menor tiver menos de 14 anos.",
+      "E": "é crime material e exige prova de que o menor não havia praticado atos infracionais anteriormente."
+    },
+    "correta": "C",
+    "comentario": "Gabarito: C. Segundo a Súmula 500 do STJ, a configuração do crime do art. 244-B do ECA independe da prova da efetiva corrupção do menor, por se tratar de delito formal. A pena é de reclusão de 1 a 4 anos, aumentada de um terço se a infração cometida ou induzida estiver incluída no rol de crimes hediondos (art. 244-B, § 2º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "dificil"
+  },
+  {
+    "id": "legislacao-especial-033",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t10",
+    "enunciado": "De acordo com o Estatuto da Pessoa Idosa (Lei nº 10.741/2003), os crimes nele definidos são de ação penal",
+    "alternativas": {
+      "A": "pública condicionada à representação da pessoa idosa ou de seu representante legal.",
+      "B": "pública condicionada à requisição do Ministério Público.",
+      "C": "privada, mediante queixa da pessoa idosa ou de seu curador.",
+      "D": "pública incondicionada, aplicando-se as imunidades dos arts. 181 e 182 do Código Penal.",
+      "E": "pública incondicionada, não se lhes aplicando os arts. 181 e 182 do Código Penal."
+    },
+    "correta": "E",
+    "comentario": "Gabarito: E. O art. 95 da Lei 10.741/03 estabelece que os crimes nela definidos são de ação penal pública incondicionada, não se aplicando os arts. 181 e 182 do CP (imunidades absolutas e relativas nos crimes patrimoniais entre parentes). Assim, o filho que se apropria dos proventos do pai idoso não se beneficia da escusa absolutória. Requisição do MP não é condição de procedibilidade.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  },
+  {
+    "id": "legislacao-especial-034",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t10",
+    "enunciado": "Nos termos do Estatuto da Pessoa Idosa (Lei nº 10.741/2003), assinale a alternativa correta.",
+    "alternativas": {
+      "A": "A prioridade especial, em relação às demais pessoas idosas, é assegurada às pessoas com idade igual ou superior a 70 anos.",
+      "B": "É assegurada prioridade especial aos maiores de 80 anos, atendendo-se suas necessidades preferencialmente em relação às demais pessoas idosas.",
+      "C": "Considera-se pessoa idosa, para os fins do Estatuto, aquela com idade igual ou superior a 65 anos, conforme redação dada pela Lei nº 14.423/2022.",
+      "D": "A prioridade no atendimento é assegurada somente nos órgãos públicos, não alcançando os órgãos privados prestadores de serviços à população.",
+      "E": "Considera-se pessoa idosa aquela com idade superior a 60 anos, excluída a que tem exatamente 60 anos."
+    },
+    "correta": "B",
+    "comentario": "Gabarito: B. Correta: art. 3º, § 2º, da Lei 10.741/03, incluído pela Lei 13.466/2017. O Estatuto destina-se às pessoas com idade IGUAL ou superior a 60 anos (art. 1º). A prioridade inclui atendimento imediato e individualizado junto aos órgãos públicos e privados prestadores de serviços à população (art. 3º, § 1º, I). A Lei 14.423/2022 alterou a denominação para Estatuto da Pessoa Idosa.",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-035",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t11",
+    "enunciado": "Um indivíduo preso em flagrante apresenta carteira de identidade com rasura. De acordo com a Lei nº 12.037/2009,",
+    "alternativas": {
+      "A": "embora apresentado documento de identificação, poderá ocorrer a identificação criminal, pois o documento apresenta rasura.",
+      "B": "a identificação criminal dependerá, obrigatoriamente, de prévia autorização judicial.",
+      "C": "a identificação criminal dependerá do consentimento expresso do preso.",
+      "D": "não poderá ser realizada a identificação criminal, pois o civilmente identificado nunca será criminalmente identificado.",
+      "E": "a identificação criminal será realizada apenas pelo processo fotográfico, vedado o datiloscópico."
+    },
+    "correta": "A",
+    "comentario": "Gabarito: A. O art. 1º da Lei 12.037/09 (e o art. 5º, LVIII, da CF) dispõe que o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses legais. O art. 3º, I, autoriza a identificação criminal quando o documento apresentar rasura ou tiver indício de falsificação. Apenas a hipótese do inciso IV (essencial às investigações) exige despacho judicial. A identificação criminal inclui os processos datiloscópico e fotográfico (art. 5º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "facil"
+  },
+  {
+    "id": "legislacao-especial-036",
+    "materia": "legislacao-especial",
+    "topico": "legislacao-especial-t11",
+    "enunciado": "Acerca da Lei nº 12.037/2009, que dispõe sobre a identificação criminal do civilmente identificado, assinale a alternativa correta.",
+    "alternativas": {
+      "A": "Não se equiparam aos documentos de identificação civil os documentos de identificação militares, que não dispensam a identificação criminal.",
+      "B": "Em caso de absolvição, a identificação fotográfica permanecerá obrigatoriamente nos autos, vedada sua retirada a pedido do réu absolvido.",
+      "C": "A identificação criminal é obrigatória para todo indiciado, ainda que plenamente identificado civilmente por documento original e íntegro.",
+      "D": "É vedado mencionar a identificação criminal do indiciado em atestados de antecedentes antes do trânsito em julgado da sentença condenatória.",
+      "E": "A identificação criminal deverá ser realizada de forma pública, para facilitar o reconhecimento do autor pela vítima."
+    },
+    "correta": "D",
+    "comentario": "Gabarito: D. Correta: art. 6º da Lei 12.037/09. Os documentos militares equiparam-se aos civis (art. 2º, parágrafo único). A autoridade deve tomar providências para evitar o constrangimento do identificado (art. 4º). Em caso de não oferecimento da denúncia, rejeição ou absolvição, o indiciado ou réu pode requerer a retirada da identificação fotográfica após o arquivamento definitivo ou o trânsito em julgado, desde que apresente provas de sua identificação civil (art. 7º). A regra é não identificar criminalmente o civilmente identificado (art. 1º).",
+    "fonte": "Inédita – estilo AOCP",
+    "dificuldade": "media"
+  }
+]

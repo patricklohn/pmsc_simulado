@@ -1,0 +1,518 @@
+{
+  "id": "direito-penal",
+  "nome": "Direito Penal Comum",
+  "area": "direito",
+  "questoesNaProva": 6,
+  "conteudoEdital": "Direito Penal Comum: 1. Lei penal: classificação, características, interpretação, analogia, vigência e aplicação; lei penal em branco; lei penal no tempo e no espaço; conflito aparente de leis penais; tempo e lugar do crime; territorialidade e extraterritorialidade; lei penal excepcional e temporária. 2. Teoria geral do crime: conceito, objeto e sujeitos do crime; classificação dos crimes; fato típico: conduta, resultado, relação de causalidade e tipicidade; teoria do tipo; crime doloso, culposo e preterdoloso; erro de tipo, erro de proibição, erro determinado por terceiro, descriminantes putativas, crime putativo e crimes aberrantes; iter criminis; consumação e tentativa; desistência voluntária, arrependimento eficaz, arrependimento posterior e crime impossível; ilicitude; causas legais e supralegais de exclusão da ilicitude; excesso; culpabilidade; imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa; concurso de pessoas; crime e contravenção penal. 3. Das penas: pena privativa de liberdade, penas restritivas de direitos e pena de multa; aplicação e limite das penas; concurso de crimes; suspensão condicional da pena; livramento condicional; efeitos da condenação; reabilitação e medidas de segurança. 4. Extinção da punibilidade. 5. Crimes previstos na parte especial do Código Penal: crimes contra a pessoa; crimes contra o patrimônio; crimes contra a dignidade sexual; crimes contra a fé pública; crimes contra a administração pública. 6. Princípios aplicáveis ao Direito Penal. 7. Legislação especial: Lei Federal nº 9.605/1998 - Lei dos Crimes Ambientais; 8. Súmulas, jurisprudência dos Tribunais Superiores e legislação relacionada com os temas.",
+  "visaoGeral": "Com apenas 6 questões, a matéria exige foco na Parte Geral do Código Penal (lei penal no tempo e no espaço, iter criminis, excludentes de ilicitude e de culpabilidade, concurso de pessoas, penas e extinção da punibilidade) e nos crimes que fazem parte da rotina policial: crimes contra a pessoa, contra o patrimônio e, principalmente, contra a administração pública (peculato, concussão, corrupção, resistência, desobediência e desacato). A AOCP cobra muito a literalidade dos artigos e situações-problema com policiais. A Lei 9.605/98 e as súmulas do STF/STJ costumam render ao menos uma questão. Atenção às leis recentes: Lei 14.994/2024 (feminicídio autônomo) e Lei 15.397/2026 (novas penas de furto, roubo, estelionato e receptação).",
+  "dicas": [
+    "Memorize os prazos e frações da Parte Geral: tentativa (1/3 a 2/3), arrependimento posterior (1/3 a 2/3), participação de menor importância (1/6 a 1/3), erro de proibição evitável (1/6 a 1/3), concurso formal (1/6 até metade) e crime continuado (1/6 a 2/3).",
+    "Monte uma tabela comparativa de peculato, concussão, corrupção passiva, prevaricação, resistência, desobediência e desacato: verbo nuclear + pena. É o bloco mais cobrado em provas de soldado.",
+    "Leia o art. 7º do CP separando extraterritorialidade incondicionada (inciso I) e condicionada (inciso II e § 3º).",
+    "Não confunda desistência voluntária/arrependimento eficaz (art. 15 – responde pelos atos já praticados) com arrependimento posterior (art. 16 – causa de diminuição de pena).",
+    "Estude as súmulas mais cobradas: 145, 711 e Vinculante 24 do STF; 17, 231, 241, 444, 522, 567, 589 e 599 do STJ.",
+    "Na Lei 9.605/98, foque na responsabilidade da pessoa jurídica (arts. 3º e 21), nas penas restritivas (arts. 7º a 13), no art. 37 (abate de animal) e nos crimes contra a fauna e a flora (arts. 29, 32, 38, 41, 54 e 65).",
+    "Confira sempre o texto compilado do Planalto: a Lei 15.397/2026 aumentou as penas do furto (1 a 6 anos), do roubo (6 a 10 anos), do estelionato (1 a 5 anos) e da receptação (2 a 6 anos)."
+  ],
+  "fontesEstudo": [
+    {
+      "titulo": "Código Penal – Decreto-Lei nº 2.848/1940 (texto compilado, Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+      "titulo": "Lei nº 9.605/1998 – Lei dos Crimes Ambientais (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm"
+    },
+    {
+      "titulo": "Lei das Contravenções Penais – Decreto-Lei nº 3.688/1941 (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm"
+    },
+    {
+      "titulo": "Lei nº 14.994/2024 – Pacote Antifeminicídio (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14994.htm"
+    },
+    {
+      "titulo": "Súmulas do STJ (pesquisa oficial)",
+      "url": "https://scon.stj.jus.br/SCON/sumstj/"
+    },
+    {
+      "titulo": "Súmulas do STF (pesquisa oficial)",
+      "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp"
+    },
+    {
+      "titulo": "Lei 15.397/2026: o que mudou no Código Penal (Estratégia Carreira Jurídica)",
+      "url": "https://cj.estrategia.com/portal/lei-15397-codigo-penal-o-que-mudou/"
+    }
+  ],
+  "topicos": [
+    {
+      "id": "direito-penal-t01",
+      "titulo": "Lei penal: características, classificação, interpretação, analogia, lei penal em branco e conflito aparente de normas",
+      "maisCobrado": false,
+      "resumo": "A lei penal incriminadora é a única fonte capaz de criar crimes e cominar penas (princípio da reserva legal – CF, art. 5º, XXXIX, e CP, art. 1º). Suas características: exclusividade, imperatividade, generalidade, abstração e impessoalidade. Classifica-se em incriminadora (define crimes) e não incriminadora (permissiva, como as excludentes, ou explicativa, como o art. 327).\n\nA interpretação pode ser autêntica, doutrinária ou jurisprudencial; gramatical, lógica ou teleológica; declaratória, restritiva ou extensiva. A analogia é forma de integração (não de interpretação) e, no Direito Penal, só é admitida in bonam partem. A interpretação analógica, ao contrário, é permitida quando a própria lei usa fórmula genérica após exemplos (ex.: \"ou outro meio insidioso ou cruel\").\n\nLei penal em branco é aquela cujo preceito precisa de complemento: homogênea (complemento na mesma espécie normativa, ex.: art. 312 complementado pelo art. 327 do CP) ou heterogênea (complemento em norma de outra espécie, ex.: Lei de Drogas complementada pela Portaria SVS/MS nº 344/1998). O conflito aparente de normas resolve-se pelos princípios da especialidade, subsidiariedade, consunção e alternatividade.",
+      "pontosChave": [
+        "Analogia in malam partem é vedada; in bonam partem é admitida.",
+        "Interpretação analógica (fórmula casuística + fórmula genérica) é permitida inclusive para prejudicar o réu.",
+        "Medida provisória não pode tratar de Direito Penal (CF, art. 62, § 1º, I, b).",
+        "Lei penal em branco heterogênea: complemento vem de norma de hierarquia/espécie diversa (ex.: portaria da Anvisa na Lei de Drogas).",
+        "Especialidade: a norma especial prevalece sobre a geral, independentemente de ser mais grave ou mais branda.",
+        "Subsidiariedade: a norma primária prevalece; a subsidiária só incide se não houver crime mais grave (ex.: art. 132 do CP).",
+        "Consunção: o crime-meio é absorvido pelo crime-fim (Súmula 17 do STJ: falso que se exaure no estelionato).",
+        "Alternatividade: em tipos mistos alternativos, a prática de vários verbos no mesmo contexto gera crime único."
+      ],
+      "pegadinhas": [
+        "Afirmar que a especialidade faz prevalecer sempre a norma de pena mais grave.",
+        "Confundir analogia (integração, vedada para prejudicar) com interpretação analógica (permitida).",
+        "Chamar de heterogênea a lei em branco complementada por outra lei ordinária."
+      ],
+      "referencias": [
+        "CF/88, art. 5º, XXXIX e XL",
+        "CF/88, art. 62, § 1º, I, b",
+        "CP, arts. 1º e 12",
+        "Súmula 17 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-t02",
+      "titulo": "Lei penal no tempo e no espaço: tempo e lugar do crime, territorialidade, extraterritorialidade e leis excepcionais e temporárias",
+      "maisCobrado": true,
+      "resumo": "Lei penal no tempo: a regra é a irretroatividade, salvo para beneficiar o réu (CF, art. 5º, XL). A abolitio criminis (art. 2º) faz cessar a execução e os efeitos penais da condenação; a novatio legis in mellius retroage mesmo após o trânsito em julgado (art. 2º, parágrafo único). As leis excepcionais e temporárias são ultra-ativas: aplicam-se aos fatos praticados durante sua vigência, mesmo depois de autorrevogadas (art. 3º). Pela Súmula 711 do STF, a lei mais grave aplica-se ao crime continuado ou permanente se sua vigência é anterior à cessação da continuidade ou da permanência.\n\nTempo do crime: teoria da atividade – considera-se praticado no momento da ação ou omissão, ainda que outro seja o do resultado (art. 4º). Lugar do crime: teoria da ubiquidade – onde ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado (art. 6º). Mnemônico LUTA: Lugar = Ubiquidade; Tempo = Atividade.\n\nA territorialidade é a regra (art. 5º), com extensão às embarcações e aeronaves públicas brasileiras onde quer que estejam e às privadas em alto-mar ou espaço aéreo correspondente. A extraterritorialidade (art. 7º) pode ser incondicionada (inciso I: vida ou liberdade do Presidente; patrimônio ou fé pública da União, DF, Estados, Territórios, Municípios, empresas públicas, sociedades de economia mista, autarquias e fundações; administração pública por quem está a seu serviço; genocídio por brasileiro ou domiciliado no Brasil) ou condicionada (inciso II e § 3º).",
+      "pontosChave": [
+        "Tempo do crime: teoria da atividade (art. 4º). Lugar do crime: ubiquidade (art. 6º) – LUTA.",
+        "Abolitio criminis extingue a punibilidade e afasta os efeitos penais, mas não os efeitos civis.",
+        "Lei mais benéfica retroage mesmo após o trânsito em julgado; a competência para aplicá-la, após o trânsito, é do juízo da execução (Súmula 611 do STF).",
+        "Lei excepcional ou temporária é ultra-ativa (art. 3º).",
+        "Súmula 711 do STF: lei mais grave aplica-se ao crime permanente ou continuado se vigente antes de cessar a permanência ou a continuidade.",
+        "Extraterritorialidade incondicionada (art. 7º, I): o agente é punido segundo a lei brasileira, ainda que absolvido ou condenado no estrangeiro.",
+        "Extraterritorialidade condicionada exige, entre outras condições, a entrada do agente no território nacional e a dupla tipicidade (art. 7º, § 2º).",
+        "Pena cumprida no estrangeiro atenua a imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas (art. 8º)."
+      ],
+      "pegadinhas": [
+        "Trocar as teorias: dizer que o tempo do crime segue a ubiquidade ou o resultado.",
+        "Afirmar que a novatio legis in mellius não alcança a sentença transitada em julgado.",
+        "Incluir crimes praticados por brasileiro no exterior na extraterritorialidade incondicionada (é condicionada – art. 7º, II, b)."
+      ],
+      "referencias": [
+        "CP, arts. 2º a 8º",
+        "CF/88, art. 5º, XL",
+        "Súmulas 611 e 711 do STF"
+      ]
+    },
+    {
+      "id": "direito-penal-t03",
+      "titulo": "Teoria geral do crime: conceito, sujeitos, objeto, classificação, fato típico e crimes doloso, culposo e preterdoloso",
+      "maisCobrado": false,
+      "resumo": "Pelo conceito analítico (corrente tripartida, majoritária), crime é fato típico, ilícito e culpável. O fato típico é composto por conduta (dolosa ou culposa, comissiva ou omissiva), resultado (nos crimes materiais), nexo causal e tipicidade (formal e material). Sujeito ativo é quem pratica a conduta; sujeito passivo é o titular do bem jurídico (constante: o Estado; eventual: a vítima). Objeto jurídico é o bem protegido; objeto material é a pessoa ou coisa sobre a qual recai a conduta.\n\nO CP adota a teoria da equivalência dos antecedentes (conditio sine qua non – art. 13), limitada pela superveniência de causa relativamente independente que, por si só, produz o resultado (art. 13, § 1º). A omissão é penalmente relevante quando o omitente devia e podia agir (art. 13, § 2º): dever legal, assunção da responsabilidade ou criação do risco (garantidor).\n\nCrime doloso: o agente quis o resultado (dolo direto) ou assumiu o risco de produzi-lo (dolo eventual) – art. 18, I. Crime culposo: resultado por imprudência, negligência ou imperícia (art. 18, II), punível só quando previsto expressamente. Crime preterdoloso: dolo no antecedente e culpa no consequente (ex.: lesão corporal seguida de morte – art. 129, § 3º). Pelo art. 19, o agente só responde pelo resultado agravador se o causou ao menos culposamente.",
+      "pontosChave": [
+        "Conceito analítico tripartido: fato típico + ilicitude + culpabilidade.",
+        "Teoria da equivalência dos antecedentes (art. 13, caput).",
+        "Causa superveniente relativamente independente que por si só produz o resultado rompe o nexo; o agente responde pelos atos anteriores.",
+        "Garantidor (art. 13, § 2º): dever legal, assunção da responsabilidade ou comportamento anterior que criou o risco.",
+        "Dolo direto (quis) x dolo eventual (assumiu o risco) – art. 18, I.",
+        "Culpa: imprudência (ação), negligência (omissão), imperícia (falta de aptidão técnica).",
+        "Crime culposo só existe se previsto expressamente (art. 18, parágrafo único).",
+        "Preterdolo: dolo no antecedente + culpa no consequente (ex.: art. 129, § 3º)."
+      ],
+      "pegadinhas": [
+        "Confundir dolo eventual (assume o risco) com culpa consciente (acredita sinceramente que o resultado não ocorrerá).",
+        "Dizer que a tentativa é compatível com crimes preterdolosos ou culposos (em regra, não é).",
+        "Considerar a pessoa jurídica incapaz de ser sujeito ativo em qualquer hipótese (é possível nos crimes ambientais)."
+      ],
+      "referencias": [
+        "CP, arts. 13, 18 e 19",
+        "CP, art. 129, § 3º"
+      ]
+    },
+    {
+      "id": "direito-penal-t04",
+      "titulo": "Erro de tipo, erro de proibição, erro determinado por terceiro, descriminantes putativas, crime putativo e crimes aberrantes",
+      "maisCobrado": true,
+      "resumo": "Erro de tipo (art. 20) é a falsa percepção da realidade sobre elemento constitutivo do tipo: sempre exclui o dolo; se inevitável (escusável), exclui também a culpa; se evitável (inescusável), permite punição por crime culposo, se previsto em lei. Descriminantes putativas (art. 20, § 1º): quem, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que tornaria a ação legítima é isento de pena; se o erro deriva de culpa, responde por crime culposo. O erro determinado por terceiro faz responder o terceiro que o provocou (art. 20, § 2º). No erro sobre a pessoa (art. 20, § 3º), consideram-se as qualidades da vítima visada.\n\nErro de proibição (art. 21) recai sobre a ilicitude do fato: o desconhecimento da lei é inescusável, mas o erro sobre a ilicitude, se inevitável, isenta de pena; se evitável, diminui a pena de 1/6 a 1/3. Crime putativo é aquele que só existe na imaginação do agente (ex.: o agente pensa praticar crime, mas o fato é atípico).\n\nCrimes aberrantes: aberratio ictus (erro na execução – art. 73: responde como se tivesse atingido a vítima visada; se atingir ambas, aplica-se o concurso formal do art. 70), aberratio criminis (resultado diverso do pretendido – art. 74: responde por culpa, se previsto; se ocorrer também o resultado pretendido, concurso formal) e aberratio causae (erro sobre o nexo causal).",
+      "pontosChave": [
+        "Erro de tipo essencial sempre exclui o dolo; o inevitável exclui também a culpa.",
+        "Erro de proibição inevitável isenta de pena (exclui a culpabilidade); evitável reduz de 1/6 a 1/3.",
+        "O desconhecimento da lei é inescusável (art. 21), mas pode ser atenuante (art. 65, II).",
+        "Descriminante putativa por erro plenamente justificado isenta de pena (art. 20, § 1º).",
+        "Erro provocado por terceiro: responde o terceiro que determinou o erro (art. 20, § 2º).",
+        "Erro sobre a pessoa: consideram-se as condições da vítima pretendida (art. 20, § 3º).",
+        "Aberratio ictus com duplo resultado: concurso formal (arts. 73 e 70)."
+      ],
+      "pegadinhas": [
+        "Afirmar que o erro de proibição exclui o dolo (ele atinge a culpabilidade).",
+        "Dizer que, no erro sobre a pessoa, consideram-se as qualidades da vítima efetivamente atingida.",
+        "Confundir aberratio ictus (pessoa diversa) com aberratio criminis (bem jurídico/resultado diverso)."
+      ],
+      "referencias": [
+        "CP, arts. 20, 21, 73 e 74"
+      ]
+    },
+    {
+      "id": "direito-penal-t05",
+      "titulo": "Iter criminis, consumação, tentativa, desistência voluntária, arrependimento eficaz, arrependimento posterior e crime impossível",
+      "maisCobrado": true,
+      "resumo": "O iter criminis compreende cogitação, preparação, execução e consumação (alguns incluem o exaurimento). Cogitação e, em regra, atos preparatórios não são puníveis. O crime é consumado quando nele se reúnem todos os elementos da definição legal; é tentado quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente (art. 14). Salvo disposição em contrário, a tentativa é punida com a pena do consumado diminuída de 1/3 a 2/3 (quanto mais perto da consumação, menor a redução).\n\nDesistência voluntária e arrependimento eficaz (art. 15 – \"ponte de ouro\"): o agente que voluntariamente desiste de prosseguir na execução ou impede que o resultado se produza só responde pelos atos já praticados. Arrependimento posterior (art. 16 – \"ponte de prata\"): nos crimes sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa até o recebimento da denúncia ou queixa, por ato voluntário, a pena é reduzida de 1/3 a 2/3.\n\nCrime impossível (art. 17 – tentativa inidônea): não se pune a tentativa quando, por ineficácia absoluta do meio ou absoluta impropriedade do objeto, é impossível consumar-se o crime (teoria objetiva temperada). Súmula 145 do STF: não há crime quando a preparação do flagrante pela polícia torna impossível a sua consumação. Súmula 567 do STJ: sistema de vigilância ou segurança no estabelecimento, por si só, não torna impossível o furto.",
+      "pontosChave": [
+        "Tentativa: pena do consumado reduzida de 1/3 a 2/3 (art. 14, parágrafo único).",
+        "Não admitem tentativa: crimes culposos, preterdolosos, contravenções (art. 4º da LCP), omissivos próprios e habituais.",
+        "Desistência voluntária/arrependimento eficaz: responde só pelos atos já praticados (art. 15).",
+        "Voluntariedade não exige espontaneidade: basta que a desistência não seja imposta por fator externo.",
+        "Arrependimento posterior: sem violência ou grave ameaça + reparação/restituição até o recebimento da denúncia ou queixa + ato voluntário = redução de 1/3 a 2/3.",
+        "Reparação após o recebimento da denúncia e antes do julgamento é apenas atenuante (art. 65, III, b).",
+        "Crime impossível exige ineficácia ABSOLUTA do meio ou impropriedade ABSOLUTA do objeto.",
+        "Súmula 145 do STF (flagrante preparado) e Súmula 567 do STJ (vigilância não torna o furto impossível)."
+      ],
+      "pegadinhas": [
+        "Dizer que o arrependimento posterior vale até a sentença (o limite é o recebimento da denúncia ou da queixa).",
+        "Tratar a ineficácia relativa do meio como crime impossível (é tentativa punível).",
+        "Afirmar que na desistência voluntária o agente responde pela tentativa do crime visado."
+      ],
+      "referencias": [
+        "CP, arts. 14 a 17",
+        "CP, art. 65, III, b",
+        "Súmula 145 do STF",
+        "Súmula 567 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-t06",
+      "titulo": "Ilicitude: causas legais e supralegais de exclusão e excesso",
+      "maisCobrado": true,
+      "resumo": "Não há crime quando o agente pratica o fato em estado de necessidade, em legítima defesa, em estrito cumprimento de dever legal ou no exercício regular de direito (art. 23). Em qualquer dessas hipóteses, o agente responde pelo excesso doloso ou culposo (art. 23, parágrafo único). A principal causa supralegal de exclusão da ilicitude é o consentimento do ofendido, quando o bem é disponível e o ofendido é capaz.\n\nEstado de necessidade (art. 24): agir para salvar de perigo atual, que não provocou por sua vontade nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício não era razoável exigir. Não pode alegá-lo quem tinha o dever legal de enfrentar o perigo; se era razoável exigir o sacrifício, a pena pode ser reduzida de 1/3 a 2/3. O CP adota a teoria unitária.\n\nLegítima defesa (art. 25): repelir injusta agressão, atual ou iminente, a direito seu ou de outrem, usando moderadamente dos meios necessários. Desde a Lei 13.964/2019 (Pacote Anticrime), considera-se também em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes (art. 25, parágrafo único), observados os requisitos do caput.",
+      "pontosChave": [
+        "Excludentes legais: estado de necessidade, legítima defesa, estrito cumprimento do dever legal e exercício regular de direito (art. 23).",
+        "Excesso doloso ou culposo é punível em todas as excludentes (art. 23, parágrafo único).",
+        "Estado de necessidade exige perigo ATUAL; legítima defesa admite agressão atual ou IMINENTE.",
+        "Quem tem o dever legal de enfrentar o perigo não pode alegar estado de necessidade (art. 24, § 1º).",
+        "Legítima defesa de terceiro é admitida (\"direito seu ou de outrem\").",
+        "Art. 25, parágrafo único: legítima defesa do agente de segurança pública que protege vítima mantida refém.",
+        "Consentimento do ofendido é causa supralegal de exclusão da ilicitude (bem disponível, ofendido capaz, consentimento anterior ou concomitante)."
+      ],
+      "pegadinhas": [
+        "Afirmar que o estado de necessidade admite perigo futuro ou iminente (a lei exige perigo atual).",
+        "Dizer que o excesso só é punido quando doloso.",
+        "Achar que o parágrafo único do art. 25 dispensa os requisitos do caput (uso moderado dos meios necessários)."
+      ],
+      "referencias": [
+        "CP, arts. 23 a 25",
+        "Lei 13.964/2019"
+      ]
+    },
+    {
+      "id": "direito-penal-t07",
+      "titulo": "Culpabilidade: imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa",
+      "maisCobrado": false,
+      "resumo": "A culpabilidade, na teoria normativa pura (finalista), é composta por imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa. A imputabilidade é afastada pela doença mental ou desenvolvimento mental incompleto ou retardado que torne o agente inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento (art. 26 – critério biopsicológico). Se a capacidade era apenas reduzida, a pena pode ser reduzida de 1/3 a 2/3 (semi-imputabilidade). Os menores de 18 anos são penalmente inimputáveis (art. 27 – critério biológico), sujeitos ao ECA.\n\nNão excluem a imputabilidade a emoção, a paixão e a embriaguez voluntária ou culposa (art. 28 – teoria da actio libera in causa). Só a embriaguez completa proveniente de caso fortuito ou força maior isenta de pena; se incompleta, reduz a pena de 1/3 a 2/3. A embriaguez preordenada é agravante (art. 61, II, l).\n\nA potencial consciência da ilicitude é afastada pelo erro de proibição inevitável (art. 21). A exigibilidade de conduta diversa é afastada pela coação moral irresistível e pela obediência hierárquica a ordem não manifestamente ilegal (art. 22): nesses casos, só é punível o autor da coação ou da ordem. A coação física irresistível, por sua vez, exclui a própria conduta (fato atípico).",
+      "pontosChave": [
+        "Elementos da culpabilidade: imputabilidade, potencial consciência da ilicitude e exigibilidade de conduta diversa.",
+        "Art. 26: critério biopsicológico; semi-imputável tem pena reduzida de 1/3 a 2/3 ou pode receber medida de segurança.",
+        "Menor de 18 anos: critério biológico (art. 27 e CF, art. 228).",
+        "Emoção e paixão não excluem a imputabilidade (art. 28, I).",
+        "Embriaguez completa por caso fortuito ou força maior isenta de pena; incompleta reduz de 1/3 a 2/3.",
+        "Coação MORAL irresistível e obediência hierárquica (ordem não manifestamente ilegal) excluem a culpabilidade (art. 22).",
+        "Coação FÍSICA irresistível exclui a conduta."
+      ],
+      "pegadinhas": [
+        "Dizer que a embriaguez voluntária completa isenta de pena.",
+        "Afirmar que a obediência a ordem manifestamente ilegal isenta o subordinado.",
+        "Confundir coação moral irresistível (exclui culpabilidade) com coação física irresistível (exclui a conduta)."
+      ],
+      "referencias": [
+        "CP, arts. 21, 22 e 26 a 28",
+        "CF/88, art. 228"
+      ]
+    },
+    {
+      "id": "direito-penal-t08",
+      "titulo": "Concurso de pessoas; crime e contravenção penal",
+      "maisCobrado": false,
+      "resumo": "Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade (art. 29 – teoria monista ou unitária, com temperamentos). Requisitos: pluralidade de agentes e condutas, relevância causal, liame subjetivo e identidade de infração. Se a participação for de menor importância, a pena pode ser diminuída de 1/6 a 1/3 (§ 1º). Se algum concorrente quis participar de crime menos grave, aplica-se a pena deste, aumentada até metade se o resultado mais grave era previsível (§ 2º – cooperação dolosamente distinta).\n\nNão se comunicam as circunstâncias e condições de caráter pessoal, salvo quando elementares do crime (art. 30) – por isso o particular que concorre com funcionário público, conhecendo essa condição, responde por peculato. O ajuste, a determinação ou instigação e o auxílio não são puníveis se o crime não chega, pelo menos, a ser tentado (art. 31).\n\nCrime e contravenção: pela Lei de Introdução ao CP (art. 1º), crime é a infração punida com reclusão ou detenção (isolada, alternativa ou cumulativamente com multa); contravenção é punida com prisão simples e/ou multa. Na Lei das Contravenções Penais: não se pune a tentativa (art. 4º), a lei brasileira só se aplica à contravenção praticada no território nacional (art. 2º) e a ação penal é pública incondicionada (art. 17).",
+      "pontosChave": [
+        "Teoria monista: todos respondem pelo mesmo crime, na medida da culpabilidade (art. 29).",
+        "Participação de menor importância: redução de 1/6 a 1/3.",
+        "Cooperação dolosamente distinta: pena do crime menos grave, aumentada até metade se previsível o mais grave.",
+        "Circunstâncias pessoais não se comunicam, salvo quando elementares (art. 30).",
+        "Ajuste, determinação, instigação e auxílio só são puníveis se o crime for ao menos tentado (art. 31).",
+        "Contravenção: prisão simples e/ou multa; tentativa não punível; sem extraterritorialidade.",
+        "Ação penal nas contravenções: pública incondicionada (LCP, art. 17)."
+      ],
+      "pegadinhas": [
+        "Afirmar que as condições pessoais se comunicam sempre aos coautores.",
+        "Dizer que a tentativa de contravenção é punida com redução de 1/3 a 2/3.",
+        "Considerar punível o mero ajuste para crime que não chegou a ser tentado."
+      ],
+      "referencias": [
+        "CP, arts. 29 a 31",
+        "Decreto-Lei 3.914/1941 (LICP), art. 1º",
+        "Decreto-Lei 3.688/1941 (LCP), arts. 2º, 4º e 17"
+      ]
+    },
+    {
+      "id": "direito-penal-t09",
+      "titulo": "Das penas: espécies, aplicação, limites e concurso de crimes",
+      "maisCobrado": true,
+      "resumo": "As penas são privativas de liberdade, restritivas de direitos e multa (art. 32). A reclusão admite regime fechado, semiaberto ou aberto; a detenção, semiaberto ou aberto, salvo necessidade de transferência ao fechado (art. 33). Regime inicial: pena superior a 8 anos – fechado; superior a 4 e até 8, não reincidente – pode ser semiaberto; até 4, não reincidente – pode ser aberto. O tempo de cumprimento das penas privativas de liberdade não pode ser superior a 40 anos (art. 75, Pacote Anticrime).\n\nPenas restritivas de direitos (art. 43): prestação pecuniária, perda de bens e valores, prestação de serviço à comunidade ou a entidades públicas, interdição temporária de direitos e limitação de fim de semana. Substituem a privativa quando a pena não for superior a 4 anos e o crime for cometido sem violência ou grave ameaça, ou, qualquer que seja a pena, se o crime for culposo; o réu não pode ser reincidente em crime doloso (art. 44). A prestação de serviços só se aplica a condenações superiores a 6 meses (art. 46). Multa: 10 a 360 dias-multa (art. 49).\n\nAplicação da pena: sistema trifásico (art. 68) – pena-base (art. 59), agravantes e atenuantes, causas de diminuição e aumento. Concurso material: soma das penas (art. 69). Concurso formal próprio: a mais grave aumentada de 1/6 até metade; impróprio (desígnios autônomos): soma (art. 70). Crime continuado: aumento de 1/6 a 2/3; continuado específico (crimes dolosos, vítimas diferentes, violência ou grave ameaça): até o triplo (art. 71).",
+      "pontosChave": [
+        "Espécies: privativas de liberdade, restritivas de direitos e multa (art. 32).",
+        "Detenção não começa em regime fechado.",
+        "Limite de cumprimento: 40 anos (art. 75).",
+        "Substituição por restritiva: até 4 anos sem violência/grave ameaça, ou crime culposo com qualquer pena; não reincidente em crime doloso.",
+        "Prestação de serviços à comunidade: condenações superiores a 6 meses.",
+        "Multa: 10 a 360 dias-multa; dia-multa de 1/30 a 5 vezes o salário mínimo.",
+        "Sistema trifásico (art. 68); Súmula 231 do STJ: atenuante não reduz abaixo do mínimo legal.",
+        "Concurso formal próprio: +1/6 até 1/2; crime continuado: +1/6 a 2/3; continuado específico: até o triplo."
+      ],
+      "pegadinhas": [
+        "Incluir o \"recolhimento domiciliar\" entre as restritivas do CP (ele é pena da Lei 9.605/98).",
+        "Afirmar que o limite de cumprimento ainda é de 30 anos.",
+        "Trocar as frações do concurso formal e do crime continuado."
+      ],
+      "referencias": [
+        "CP, arts. 32 a 76",
+        "Súmulas 231 e 241 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-t10",
+      "titulo": "Suspensão condicional da pena, livramento condicional, efeitos da condenação, reabilitação e medidas de segurança",
+      "maisCobrado": false,
+      "resumo": "Sursis (art. 77): a execução da pena privativa de liberdade não superior a 2 anos pode ser suspensa por 2 a 4 anos, desde que o condenado não seja reincidente em crime doloso, as circunstâncias judiciais sejam favoráveis e não seja cabível a substituição por restritiva de direitos. Sursis etário ou humanitário: pena não superior a 4 anos, suspensa por 4 a 6 anos, para maior de 70 anos ou por razões de saúde. A condenação anterior a pena de multa não impede o benefício.\n\nLivramento condicional (art. 83): pena igual ou superior a 2 anos; cumprimento de mais de 1/3 (não reincidente em crime doloso e com bons antecedentes), mais da metade (reincidente em crime doloso) ou mais de 2/3 (hediondos e equiparados, se não for reincidente específico); bom comportamento, ausência de falta grave nos últimos 12 meses, bom desempenho no trabalho, aptidão para prover a subsistência e reparação do dano, salvo impossibilidade.\n\nEfeitos da condenação: genéricos e automáticos (tornar certa a obrigação de indenizar e perda dos instrumentos e produtos do crime – art. 91) e específicos, que devem ser motivadamente declarados na sentença (art. 92), como a perda de cargo, função pública ou mandato eletivo quando aplicada pena igual ou superior a 1 ano nos crimes com abuso de poder ou violação de dever para com a Administração, ou superior a 4 anos nos demais casos. Reabilitação: pode ser requerida 2 anos após a extinção ou o término da pena (art. 94). Medidas de segurança (arts. 96 a 99): internação ou tratamento ambulatorial, por tempo indeterminado, com prazo mínimo de 1 a 3 anos.",
+      "pontosChave": [
+        "Sursis simples: pena até 2 anos, período de prova de 2 a 4 anos.",
+        "Sursis etário/humanitário: pena até 4 anos, período de prova de 4 a 6 anos.",
+        "Livramento: pena ≥ 2 anos; frações de 1/3, 1/2 ou 2/3 conforme o caso.",
+        "Livramento exige não cometimento de falta grave nos últimos 12 meses (Pacote Anticrime).",
+        "Perda do cargo: pena ≥ 1 ano (abuso de poder/violação de dever) ou > 4 anos (demais casos); não é automática.",
+        "Reabilitação: após 2 anos da extinção ou do cumprimento da pena.",
+        "Medida de segurança: prazo mínimo de 1 a 3 anos; perícia ao fim do prazo mínimo e, depois, anualmente."
+      ],
+      "pegadinhas": [
+        "Exigir pena mínima de 4 anos para o livramento condicional (são 2 anos).",
+        "Afirmar que a perda do cargo é efeito automático de toda condenação de servidor.",
+        "Dizer que a condenação anterior a multa impede o sursis."
+      ],
+      "referencias": [
+        "CP, arts. 77 a 99"
+      ]
+    },
+    {
+      "id": "direito-penal-t11",
+      "titulo": "Extinção da punibilidade e prescrição",
+      "maisCobrado": true,
+      "resumo": "O art. 107 do CP enumera as causas de extinção da punibilidade: morte do agente; anistia, graça ou indulto; abolitio criminis; prescrição, decadência ou perempção; renúncia ao direito de queixa ou perdão aceito, nos crimes de ação privada; retratação do agente, nos casos admitidos em lei; e perdão judicial, nos casos previstos em lei. O rol é exemplificativo (há outras causas, como a reparação do dano no peculato culposo – art. 312, § 3º). O casamento do agente com a vítima deixou de extinguir a punibilidade (Lei 11.106/2005).\n\nPrescrição da pretensão punitiva (art. 109) regula-se pelo máximo da pena cominada: 20 anos (máximo superior a 12); 16 anos (superior a 8 até 12); 12 anos (superior a 4 até 8); 8 anos (superior a 2 até 4); 4 anos (igual a 1 ou superior a 1 até 2); 3 anos (inferior a 1 ano). Os prazos são reduzidos de metade quando o agente era, ao tempo do crime, menor de 21 anos ou, na data da sentença, maior de 70 anos (art. 115), salvo se o crime envolver violência sexual contra a mulher (ressalva incluída por lei de 2025).\n\nA extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou agravante de outro não se estende a este (art. 108). São imprescritíveis, por força da Constituição, o racismo e a ação de grupos armados contra a ordem constitucional e o Estado Democrático (CF, art. 5º, XLII e XLIV).",
+      "pontosChave": [
+        "Art. 107: morte, anistia/graça/indulto, abolitio, prescrição/decadência/perempção, renúncia/perdão aceito, retratação e perdão judicial.",
+        "Renúncia e perdão aceito só extinguem a punibilidade nos crimes de ação privada.",
+        "Prescrição pelo máximo da pena: >12 = 20; >8 a 12 = 16; >4 a 8 = 12; >2 a 4 = 8; 1 a 2 = 4; <1 = 3 anos.",
+        "Redução pela metade: menor de 21 na data do fato ou maior de 70 na data da sentença (art. 115).",
+        "Penas restritivas prescrevem nos mesmos prazos das privativas (art. 109, parágrafo único).",
+        "Imprescritíveis: racismo e ação de grupos armados (CF, art. 5º, XLII e XLIV).",
+        "Casamento com a vítima não extingue mais a punibilidade."
+      ],
+      "pegadinhas": [
+        "Considerar a idade de 70 anos na data do fato (o marco é a data da sentença).",
+        "Citar o prazo antigo de 2 anos para penas inferiores a 1 ano (hoje são 3 anos).",
+        "Incluir o casamento da vítima com o agente entre as causas extintivas."
+      ],
+      "referencias": [
+        "CP, arts. 107 a 120",
+        "CF/88, art. 5º, XLII e XLIV"
+      ]
+    },
+    {
+      "id": "direito-penal-t12",
+      "titulo": "Crimes contra a pessoa",
+      "maisCobrado": true,
+      "resumo": "Homicídio (art. 121): simples (6 a 20 anos), privilegiado (§ 1º – relevante valor social ou moral ou domínio de violenta emoção logo após injusta provocação: redução de 1/6 a 1/3) e qualificado (§ 2º – 12 a 30 anos), destacando-se a qualificadora do inciso VII: crime contra autoridade ou agente dos arts. 142 e 144 da CF (inclusive policiais militares), integrantes do sistema prisional e da Força Nacional, no exercício da função ou em decorrência dela, ou contra cônjuge, companheiro ou parente consanguíneo até o 3º grau, em razão dessa condição. É crime hediondo.\n\nCom a Lei 14.994/2024, o feminicídio deixou de ser qualificadora e passou a ser crime autônomo (art. 121-A: matar mulher por razões da condição do sexo feminino), com pena de 20 a 40 anos de reclusão. Considera-se haver razões da condição do sexo feminino quando o crime envolve violência doméstica e familiar ou menosprezo ou discriminação à condição de mulher.\n\nLesão corporal (art. 129): leve (3 meses a 1 ano), grave (§ 1º – incapacidade para ocupações habituais por mais de 30 dias, perigo de vida, debilidade permanente, aceleração de parto), gravíssima (§ 2º – incapacidade permanente para o trabalho, enfermidade incurável, perda ou inutilização de membro, deformidade permanente, aborto) e seguida de morte (§ 3º – 4 a 12 anos, crime preterdoloso). O capítulo inclui ainda induzimento ao suicídio ou automutilação (art. 122), crimes contra a honra (calúnia, difamação e injúria) e contra a liberdade individual (constrangimento ilegal, ameaça, sequestro, violação de domicílio).",
+      "pontosChave": [
+        "Homicídio simples: 6 a 20 anos; qualificado: 12 a 30 anos.",
+        "Homicídio privilegiado: redução de 1/6 a 1/3 (art. 121, § 1º).",
+        "Art. 121, § 2º, VII, a: homicídio contra policial (e parentes até o 3º grau, em razão dessa condição) é qualificado e hediondo.",
+        "Feminicídio: crime autônomo (art. 121-A), pena de 20 a 40 anos (Lei 14.994/2024).",
+        "Lesão grave x gravíssima: incapacidade para ocupações habituais por mais de 30 dias é grave; incapacidade permanente para o trabalho é gravíssima.",
+        "Lesão corporal seguida de morte: 4 a 12 anos (preterdolosa).",
+        "Lesão contra a mulher por razões da condição do sexo feminino: reclusão de 2 a 5 anos (art. 129, § 13)."
+      ],
+      "pegadinhas": [
+        "Tratar o feminicídio como qualificadora do art. 121 com pena de 12 a 30 anos (regra revogada).",
+        "Achar que a qualificadora do inciso VII protege o policial apenas quando em serviço (abrange também o crime \"em decorrência\" da função).",
+        "Confundir debilidade permanente (grave) com perda ou inutilização (gravíssima)."
+      ],
+      "referencias": [
+        "CP, arts. 121 a 154-B",
+        "Lei 14.994/2024",
+        "Lei 8.072/1990, art. 1º"
+      ]
+    },
+    {
+      "id": "direito-penal-t13",
+      "titulo": "Crimes contra o patrimônio",
+      "maisCobrado": true,
+      "resumo": "Furto (art. 155) é a subtração de coisa alheia móvel sem violência ou grave ameaça; roubo (art. 157) é a subtração mediante violência ou grave ameaça à pessoa (próprio) ou com violência empregada logo após a subtração para assegurar a impunidade ou a detenção da coisa (impróprio, § 1º). Extorsão (art. 158) exige constranger alguém a fazer, tolerar ou deixar de fazer algo para obter vantagem econômica; extorsão mediante sequestro (art. 159) é hedionda. Estelionato (art. 171) é a obtenção de vantagem ilícita mediante fraude; receptação (art. 180) envolve coisa que se sabe ser produto de crime.\n\nA Lei 15.397/2026 elevou as penas: furto simples passou a reclusão de 1 a 6 anos (com aumento de metade no repouso noturno) e furto qualificado de 2 a 8 anos; roubo passou a reclusão de 6 a 10 anos (latrocínio: 24 a 30 anos); estelionato, 1 a 5 anos; receptação simples, 2 a 6 anos. Também foram criadas novas figuras, como a cessão de \"conta laranja\". Confira sempre o texto compilado antes da prova.\n\nImunidades (escusas absolutórias): é isento de pena quem comete crime contra o patrimônio em prejuízo do cônjuge, na constância da sociedade conjugal, ou de ascendente ou descendente (art. 181). Depende de representação se a vítima for cônjuge separado judicialmente, irmão ou tio/sobrinho com quem o agente coabita (art. 182). Essas regras não se aplicam ao roubo, à extorsão ou a crimes com violência ou grave ameaça, ao estranho que participa do crime nem quando a vítima tem 60 anos ou mais (art. 183).",
+      "pontosChave": [
+        "Roubo próprio (violência antes ou durante) x impróprio (violência logo depois, para assegurar impunidade ou detenção da coisa).",
+        "Roubo com arma branca: aumento de 1/3 até metade; com arma de fogo: +2/3; arma de uso restrito ou proibido: pena em dobro.",
+        "Latrocínio (art. 157, § 3º, II) é hediondo; a competência é do juiz singular (Súmula 603 do STF).",
+        "Súmula 610 do STF: há latrocínio consumado quando o homicídio se consuma, ainda que não se realize a subtração.",
+        "Escusas absolutórias (art. 181): cônjuge na constância do casamento, ascendente ou descendente.",
+        "Art. 183: não há imunidade no roubo/extorsão, para o estranho, nem se a vítima tem 60 anos ou mais.",
+        "Lei 15.397/2026: furto 1 a 6 anos; roubo 6 a 10 anos; estelionato 1 a 5 anos; receptação 2 a 6 anos."
+      ],
+      "pegadinhas": [
+        "Estender a escusa absolutória ao amigo que ajudou o filho a furtar o pai (o estranho não é beneficiado).",
+        "Aplicar a imunidade quando a vítima é ascendente com 60 anos ou mais.",
+        "Usar as penas antigas do furto (1 a 4 anos) e do roubo (4 a 10 anos), alteradas em 2026."
+      ],
+      "referencias": [
+        "CP, arts. 155 a 183",
+        "Lei 15.397/2026",
+        "Súmulas 603 e 610 do STF"
+      ]
+    },
+    {
+      "id": "direito-penal-t14",
+      "titulo": "Crimes contra a dignidade sexual",
+      "maisCobrado": false,
+      "resumo": "Estupro (art. 213): constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso – reclusão de 6 a 10 anos. Desde a Lei 12.015/2009, o antigo atentado violento ao pudor foi absorvido pelo estupro, e qualquer pessoa pode ser sujeito ativo ou passivo.\n\nEstupro de vulnerável (art. 217-A): conjunção carnal ou outro ato libidinoso com menor de 14 anos, ou com quem, por enfermidade ou deficiência mental, não tem o necessário discernimento, ou não pode oferecer resistência. A pena foi elevada pela Lei 15.280/2025 para reclusão de 10 a 18 anos, e multa. Pela Súmula 593 do STJ, o consentimento da vítima, sua experiência sexual anterior ou relacionamento amoroso com o agente são irrelevantes.\n\nImportunação sexual (art. 215-A, incluído pela Lei 13.718/2018): praticar contra alguém e sem a sua anuência ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro – reclusão de 1 a 5 anos, se o ato não constitui crime mais grave. Assédio sexual (art. 216-A) exige superioridade hierárquica ou ascendência inerentes a emprego, cargo ou função. Nos crimes dos Capítulos I e II do Título VI, a ação penal é pública incondicionada (art. 225).",
+      "pontosChave": [
+        "Estupro: 6 a 10 anos; abrange conjunção carnal e outros atos libidinosos.",
+        "Estupro de vulnerável: menor de 14 anos – reclusão de 10 a 18 anos e multa (Lei 15.280/2025).",
+        "Súmula 593 do STJ: consentimento ou experiência sexual do menor de 14 anos é irrelevante.",
+        "Importunação sexual (art. 215-A): ato libidinoso sem anuência – reclusão de 1 a 5 anos.",
+        "Assédio sexual exige relação de hierarquia ou ascendência laboral.",
+        "Ação penal nos crimes contra a liberdade sexual e contra vulnerável: pública incondicionada (art. 225)."
+      ],
+      "pegadinhas": [
+        "Dizer que a ação penal no estupro de vítima maior e capaz é condicionada à representação (regra revogada em 2018).",
+        "Afirmar que o consentimento do menor de 14 anos afasta o crime.",
+        "Enquadrar como mera contravenção o ato libidinoso praticado sem anuência em transporte público (hoje é importunação sexual)."
+      ],
+      "referencias": [
+        "CP, arts. 213 a 226",
+        "Lei 13.718/2018",
+        "Súmula 593 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-t15",
+      "titulo": "Crimes contra a fé pública",
+      "maisCobrado": false,
+      "resumo": "Os crimes contra a fé pública protegem a confiança coletiva na autenticidade de moedas, documentos, sinais e identidades. Destacam-se: moeda falsa (art. 289); falsificação de documento público (art. 297 – reclusão de 2 a 6 anos), equiparando-se a documento público o emanado de entidade paraestatal, o título ao portador ou transmissível por endosso, as ações de sociedade comercial, os livros mercantis e o testamento particular; falsificação de documento particular (art. 298); falsidade ideológica (art. 299 – o documento é materialmente verdadeiro, mas o conteúdo é falso); uso de documento falso (art. 304 – mesma pena da falsificação).\n\nFalsa identidade (art. 307): atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem – detenção de 3 meses a 1 ano, ou multa, se o fato não constitui elemento de crime mais grave. Pela Súmula 522 do STJ, a conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de alegada autodefesa. Também é crime a adulteração de sinal identificador de veículo automotor (art. 311).\n\nSobre a consunção: pela Súmula 17 do STJ, quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido. Para o STJ, o uso do documento falso pelo próprio falsificador é pós-fato impunível (responde só pela falsificação).",
+      "pontosChave": [
+        "Falsidade material (forma do documento) x falsidade ideológica (conteúdo).",
+        "Uso de documento falso (art. 304) tem a pena da falsificação correspondente.",
+        "Súmula 522 do STJ: falsa identidade perante a polícia é crime, mesmo alegando autodefesa.",
+        "Súmula 17 do STJ: o falso que se exaure no estelionato é absorvido.",
+        "Documentos equiparados a públicos: paraestatais, títulos ao portador, ações, livros mercantis e testamento particular (art. 297, § 2º).",
+        "Falsificação grosseira, incapaz de enganar, pode configurar crime impossível."
+      ],
+      "pegadinhas": [
+        "Afirmar que mentir o nome para a polícia para esconder mandado de prisão é fato atípico por autodefesa.",
+        "Confundir falsidade ideológica com falsificação material.",
+        "Dizer que o falsificador responde em concurso material pela falsificação e pelo uso."
+      ],
+      "referencias": [
+        "CP, arts. 289 a 311-A",
+        "Súmulas 17 e 522 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-t16",
+      "titulo": "Crimes contra a administração pública",
+      "maisCobrado": true,
+      "resumo": "Funcionário público, para fins penais, é quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública; equipara-se quem exerce cargo, emprego ou função em entidade paraestatal e quem trabalha para empresa contratada ou conveniada para atividade típica da Administração (art. 327). Crimes funcionais: peculato (art. 312 – apropriar-se ou desviar bem de que tem a posse em razão do cargo; peculato-furto no § 1º; peculato culposo no § 2º, com extinção da punibilidade se a reparação do dano preceder a sentença irrecorrível, e redução de metade se posterior); concussão (art. 316 – EXIGIR vantagem indevida, 2 a 12 anos); corrupção passiva (art. 317 – SOLICITAR, RECEBER ou ACEITAR PROMESSA, 2 a 12 anos); prevaricação (art. 319 – retardar ou deixar de praticar ato de ofício para satisfazer interesse ou sentimento pessoal); condescendência criminosa (art. 320).\n\nCrimes praticados por particular: resistência (art. 329 – opor-se à execução de ato legal mediante violência ou ameaça a funcionário competente; detenção de 2 meses a 2 anos; se o ato não se executa, reclusão de 1 a 3 anos), desobediência (art. 330 – detenção de 15 dias a 6 meses e multa), desacato (art. 331 – detenção de 6 meses a 2 anos, ou multa; o STJ reconheceu sua compatibilidade com a Convenção Americana de Direitos Humanos), corrupção ativa (art. 333 – 2 a 12 anos), descaminho (art. 334) e contrabando (art. 334-A).\n\nContra a administração da justiça: denunciação caluniosa (art. 339), comunicação falsa de crime (art. 340), autoacusação falsa (art. 341), falso testemunho (art. 342), fuga de pessoa presa (art. 351) etc. Súmula 599 do STJ: o princípio da insignificância é inaplicável aos crimes contra a administração pública (o STJ admite exceção no descaminho, conforme o valor do tributo).",
+      "pontosChave": [
+        "Concussão = EXIGIR; corrupção passiva = SOLICITAR/RECEBER/ACEITAR PROMESSA – ambas com pena de 2 a 12 anos.",
+        "Corrupção passiva é crime formal: consuma-se com a solicitação, independentemente do recebimento.",
+        "Peculato culposo: reparação antes da sentença irrecorrível extingue a punibilidade; depois, reduz a pena pela metade.",
+        "Resistência exige violência ou ameaça; se o ato não se executa, a pena passa a reclusão de 1 a 3 anos.",
+        "Desobediência: detenção de 15 dias a 6 meses e multa.",
+        "Desacato continua sendo crime (STJ, 3ª Seção, HC 379.269/MS).",
+        "Súmula 599 do STJ: não cabe insignificância nos crimes contra a administração pública.",
+        "Conceito amplo de funcionário público (art. 327), inclusive de terceirizados em atividade típica."
+      ],
+      "pegadinhas": [
+        "Classificar como corrupção passiva a conduta de quem EXIGE a vantagem (é concussão).",
+        "Dizer que a reparação do dano extingue a punibilidade também no peculato doloso.",
+        "Afirmar que a resistência se configura com mera oposição passiva, sem violência ou ameaça."
+      ],
+      "referencias": [
+        "CP, arts. 312 a 359-H",
+        "Súmula 599 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-t17",
+      "titulo": "Princípios aplicáveis ao Direito Penal",
+      "maisCobrado": true,
+      "resumo": "Os princípios limitam o poder punitivo do Estado. Legalidade (reserva legal + anterioridade): não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal (CF, art. 5º, XXXIX; CP, art. 1º); exige lei em sentido estrito, escrita, prévia, certa (taxatividade) e estrita (vedação da analogia in malam partem). Irretroatividade da lei mais grave e retroatividade da lei benéfica (CF, art. 5º, XL).\n\nIntervenção mínima (o Direito Penal é a ultima ratio), com seus desdobramentos: fragmentariedade (só protege os bens mais relevantes contra os ataques mais graves) e subsidiariedade (só atua quando os outros ramos falham). Lesividade ou ofensividade (não há crime sem lesão ou perigo de lesão a bem jurídico alheio), adequação social, humanidade das penas (CF, art. 5º, XLVII: vedação de penas de morte – salvo guerra declarada –, perpétuas, de trabalhos forçados, de banimento e cruéis), individualização da pena (art. 5º, XLVI), pessoalidade ou intranscendência (art. 5º, XLV: nenhuma pena passará da pessoa do condenado) e culpabilidade (vedação da responsabilidade objetiva).\n\nPrincípio da insignificância (bagatela): exclui a tipicidade material. O STF exige quatro vetores: mínima ofensividade da conduta, nenhuma periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e inexpressividade da lesão jurídica. Não se aplica, por exemplo, aos crimes contra a mulher no âmbito doméstico (Súmula 589 do STJ), aos crimes contra a administração pública (Súmula 599 do STJ) e, segundo o STJ, aos crimes de moeda falsa e de tráfico de drogas.",
+      "pontosChave": [
+        "Legalidade = reserva legal + anterioridade; exige lei escrita, prévia, certa e estrita.",
+        "Medida provisória não pode criar crime ou pena (CF, art. 62, § 1º, I, b).",
+        "Intervenção mínima: fragmentariedade + subsidiariedade.",
+        "Pessoalidade: a pena não passa da pessoa do condenado; a obrigação de reparar o dano e o perdimento de bens podem ser estendidos aos sucessores até o limite do patrimônio transferido.",
+        "Pena de morte só em caso de guerra declarada (CF, art. 5º, XLVII, a).",
+        "Insignificância exclui a tipicidade material; vetores do STF: mínima ofensividade, nenhuma periculosidade social, reduzido grau de reprovabilidade e inexpressividade da lesão.",
+        "Súmulas 589 e 599 do STJ vedam a insignificância na violência doméstica contra a mulher e nos crimes contra a administração pública."
+      ],
+      "pegadinhas": [
+        "Dizer que a insignificância exclui a culpabilidade ou a ilicitude (exclui a tipicidade material).",
+        "Afirmar que a obrigação de reparar o dano também não pode passar aos sucessores.",
+        "Admitir medida provisória que agrave penas."
+      ],
+      "referencias": [
+        "CF/88, art. 5º, XXXIX a XLVII",
+        "CP, art. 1º",
+        "Súmulas 589 e 599 do STJ"
+      ]
+    },
+    {
+      "id": "direito-penal-t18",
+      "titulo": "Lei nº 9.605/1998 – Lei dos Crimes Ambientais",
+      "maisCobrado": true,
+      "resumo": "A Lei 9.605/98 prevê sanções penais e administrativas para condutas lesivas ao meio ambiente. A pessoa jurídica é responsabilizada administrativa, civil e penalmente quando a infração for cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício da entidade, sem excluir a responsabilidade das pessoas físicas (art. 3º). O STF admite a responsabilização da pessoa jurídica independentemente da condenação simultânea da pessoa física (não se exige a dupla imputação). A personalidade jurídica pode ser desconsiderada quando for obstáculo ao ressarcimento dos prejuízos ambientais (art. 4º).\n\nPenas para pessoas físicas: as restritivas de direitos substituem as privativas quando se tratar de crime culposo ou de pena privativa inferior a 4 anos (art. 7º). São elas: prestação de serviços à comunidade, interdição temporária de direitos (5 anos para crimes dolosos e 3 para culposos), suspensão parcial ou total de atividades, prestação pecuniária (1 a 360 salários mínimos) e recolhimento domiciliar (art. 8º). O sursis pode ser aplicado a condenações de até 3 anos (art. 16). Penas para a pessoa jurídica: multa, restritivas de direitos e prestação de serviços à comunidade (art. 21). A ação penal é pública incondicionada (art. 26); a transação penal exige a prévia composição do dano ambiental (art. 27).\n\nPrincipais crimes: contra a fauna (art. 29 – matar, perseguir, caçar espécimes da fauna silvestre sem autorização; art. 32 – maus-tratos a animais, com pena de reclusão de 2 a 5 anos, multa e proibição da guarda quando se tratar de cão ou gato), contra a flora (art. 38 – floresta de preservação permanente; art. 41 – incêndio em mata ou floresta; art. 42 – balões), poluição (art. 54), contra o ordenamento urbano e o patrimônio cultural (art. 65 – pichação; o grafite autorizado não é crime) e contra a administração ambiental (art. 66 e seguintes). Não é crime o abate de animal para saciar a fome do agente ou de sua família, para proteger lavouras, pomares e rebanhos (desde que legal e expressamente autorizado) ou por ser nocivo o animal, assim caracterizado pelo órgão competente (art. 37).",
+      "pontosChave": [
+        "Pessoa jurídica responde penalmente (art. 3º e CF, art. 225, § 3º), sem excluir as pessoas físicas.",
+        "Restritivas substituem a prisão em crime culposo ou pena inferior a 4 anos (art. 7º).",
+        "Recolhimento domiciliar e suspensão de atividades são restritivas próprias da lei ambiental (art. 8º).",
+        "Sursis ambiental: pena de até 3 anos (art. 16).",
+        "Ação penal pública incondicionada (art. 26).",
+        "Maus-tratos a cão ou gato: reclusão de 2 a 5 anos, multa e proibição da guarda (art. 32, § 1º-A).",
+        "Incêndio em floresta (art. 41): reclusão de 2 a 4 anos; culposo: detenção de 6 meses a 1 ano.",
+        "Art. 37: abate não é crime em estado de necessidade (fome), para proteger lavouras com autorização ou por ser nocivo o animal."
+      ],
+      "pegadinhas": [
+        "Dizer que a responsabilidade penal da pessoa jurídica exclui a das pessoas físicas.",
+        "Afirmar que o abate para proteger lavouras dispensa autorização da autoridade competente.",
+        "Usar o limite do sursis do CP (2 anos) para os crimes ambientais (3 anos)."
+      ],
+      "referencias": [
+        "Lei 9.605/1998, arts. 2º a 28, 29, 32, 37, 38, 41, 42, 54 e 65",
+        "CF/88, art. 225, § 3º"
+      ]
+    },
+    {
+      "id": "direito-penal-t19",
+      "titulo": "Súmulas e jurisprudência dos Tribunais Superiores",
+      "maisCobrado": false,
+      "resumo": "As bancas costumam cobrar a literalidade das súmulas penais mais conhecidas. STF: Súmula 145 (não há crime quando a preparação do flagrante pela polícia torna impossível a sua consumação); Súmula 711 (a lei penal mais grave aplica-se ao crime continuado ou permanente, se a sua vigência é anterior à cessação da continuidade ou da permanência); Súmula 610 (há crime de latrocínio quando o homicídio se consuma, ainda que não realize o agente a subtração de bens da vítima); Súmula Vinculante 24 (não se tipifica crime material contra a ordem tributária antes do lançamento definitivo do tributo).\n\nSTJ: Súmula 17 (falso exaurido no estelionato é absorvido); Súmula 231 (a incidência de atenuante não pode conduzir à redução da pena abaixo do mínimo legal); Súmula 241 (a reincidência não pode ser considerada simultaneamente como agravante e circunstância judicial); Súmula 444 (é vedada a utilização de inquéritos e ações penais em curso para agravar a pena-base); Súmula 522 (falsa identidade perante a autoridade policial é típica); Súmula 567 (vigilância eletrônica não torna impossível o furto); Súmula 589 e Súmula 599 (vedações à insignificância).\n\nTambém é cobrado o art. 64 do CP: para efeito de reincidência, não prevalece a condenação anterior se decorridos mais de 5 anos entre o cumprimento ou a extinção da pena e a infração posterior (período depurador), e não se consideram os crimes militares próprios e os políticos.",
+      "pontosChave": [
+        "Súmula 145 do STF: flagrante preparado = crime impossível.",
+        "Súmula 711 do STF: lei mais grave alcança crime permanente/continuado se vigente antes de cessar a permanência ou a continuidade.",
+        "Súmula 231 do STJ: atenuante não leva a pena abaixo do mínimo.",
+        "Súmula 241 do STJ: vedado o bis in idem da reincidência.",
+        "Súmula 444 do STJ: inquéritos e ações em curso não agravam a pena-base.",
+        "Art. 64 do CP: período depurador de 5 anos; crimes militares próprios e políticos não geram reincidência."
+      ],
+      "pegadinhas": [
+        "Inverter a Súmula 711, dizendo que a lei mais grave nunca alcança o crime permanente.",
+        "Afirmar que a condenação anterior por deserção gera reincidência para crime comum.",
+        "Dizer que maus antecedentes podem ser extraídos de inquéritos em andamento."
+      ],
+      "referencias": [
+        "Súmulas 145, 610 e 711 do STF; Súmula Vinculante 24",
+        "Súmulas 17, 231, 241, 444, 522 e 567 do STJ",
+        "CP, art. 64"
+      ]
+    }
+  ]
+}

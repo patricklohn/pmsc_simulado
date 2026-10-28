@@ -1,0 +1,341 @@
+{
+  "id": "legislacao-especial",
+  "nome": "Legislação Especial",
+  "area": "legislacao",
+  "questoesNaProva": 6,
+  "conteudoEdital": "Legislação Especial: 1. Lei nº 8.072/1990 e suas alterações (crimes hediondos). 2. Lei nº 7.716/1989 e suas alterações (crimes resultantes de preconceitos de raça ou de cor). 3. Lei nº 9.455/1997 e suas alterações (crimes de tortura). 4. Lei nº 12.850/2013, e alterações (crime organizado). 5. Lei nº 11.343/2006 e suas alterações (Lei Antidrogas). 6. Lei nº 13.869/2019 (Dispõe sobre os crimes de abuso de autoridade). 7. Lei nº 10.826/2003 e suas alterações (Estatuto do Desarmamento). 8. Lei nº 11.340/2006 e suas alterações (Lei Maria da Penha). 9. Lei nº 8.069/1990 e suas alterações (Estatuto da Criança e do Adolescente). 10. Lei nº 10.741/2003 e suas alterações (Estatuto do Idoso). 11. Lei nº 12.037/2009 (Identificação criminal).",
+  "visaoGeral": "São 11 leis para apenas 6 questões, então a banca tende a cobrar a literalidade dos pontos mais ligados à atividade policial: Lei de Drogas (usuário x traficante), Estatuto do Desarmamento (posse x porte, uso permitido x restrito x proibido), Abuso de Autoridade, Maria da Penha (medidas protetivas, afastamento do agressor pelo policial), ECA (apreensão de adolescente) e Tortura. Memorize penas e prazos das condutas típicas de ocorrência e acompanhe as alterações recentes (Lei 14.532/2023 no racismo, Lei 14.994/2024 na Maria da Penha e nos hediondos e as leis de 2025–2026 que mexeram em hediondos, drogas, armas e crime organizado).",
+  "dicas": [
+    "Monte uma tabela de penas do Estatuto do Desarmamento: art. 12 (detenção 1–3), 13 (detenção 1–2), 14 e 15 (reclusão 2–4), 16 (reclusão 3–6; uso proibido 4–12), 17 (6–12) e 18 (8–16).",
+    "Na Lei de Drogas, diferencie art. 28 (usuário — sem prisão), art. 33 (tráfico — 5 a 15 anos), § 3º (uso compartilhado), § 4º (privilegiado) e art. 35 (associação de 2 ou mais).",
+    "Na Lei Maria da Penha, domine os arts. 5º, 7º, 12-C, 18 a 24-A e 41 — são os que envolvem o atendimento policial.",
+    "Hediondos: decore o rol do art. 1º e o que é equiparado (tortura, tráfico e terrorismo); temporária de 30 + 30 dias.",
+    "Abuso de autoridade exige dolo específico (prejudicar, beneficiar, capricho ou satisfação pessoal) e não há modalidade culposa.",
+    "Confira sempre a versão compilada no Planalto: várias dessas leis foram alteradas em 2024, 2025 e 2026."
+  ],
+  "fontesEstudo": [
+    {
+      "titulo": "Lei 8.072/1990 – Crimes Hediondos (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072.htm"
+    },
+    {
+      "titulo": "Lei 7.716/1989 – Crimes de Racismo (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm"
+    },
+    {
+      "titulo": "Lei 9.455/1997 – Tortura (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm"
+    },
+    {
+      "titulo": "Lei 12.850/2013 – Organização Criminosa (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm"
+    },
+    {
+      "titulo": "Lei 11.343/2006 – Lei de Drogas (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm"
+    },
+    {
+      "titulo": "Lei 13.869/2019 – Abuso de Autoridade (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm"
+    },
+    {
+      "titulo": "Lei 10.826/2003 – Estatuto do Desarmamento (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm"
+    },
+    {
+      "titulo": "Lei 11.340/2006 – Lei Maria da Penha (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+      "titulo": "Lei 8.069/1990 – Estatuto da Criança e do Adolescente (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+      "titulo": "Lei 10.741/2003 – Estatuto da Pessoa Idosa (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    {
+      "titulo": "Lei 12.037/2009 – Identificação Criminal (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm"
+    }
+  ],
+  "topicos": [
+    {
+      "id": "legislacao-especial-t01",
+      "titulo": "Crimes hediondos (Lei nº 8.072/1990)",
+      "maisCobrado": true,
+      "resumo": "O art. 1º traz rol taxativo de crimes hediondos, consumados ou tentados, entre eles: homicídio praticado em atividade típica de grupo de extermínio e homicídio qualificado; lesão corporal gravíssima ou seguida de morte contra agentes de segurança pública e outras autoridades, em razão da função, ou em instituição de ensino; feminicídio (art. 121-A do CP, Lei 14.994/2024); roubo com restrição de liberdade, com emprego de arma de fogo ou com resultado lesão grave ou morte; extorsão qualificada; extorsão mediante sequestro; estupro e estupro de vulnerável; epidemia com resultado morte; falsificação de produto terapêutico ou medicinal; favorecimento da prostituição de vulnerável; furto com explosivo; e, desde a Lei 14.811/2024, induzimento a suicídio pela internet, sequestro de menor de 18 anos e tráfico de crianças e adolescentes. O parágrafo único inclui genocídio, posse ou porte de arma de uso proibido, comércio ilegal e tráfico internacional de armas, organização criminosa voltada a crimes hediondos e crimes do ECA, entre outros.\n\nHediondos e equiparados (tortura, tráfico de drogas e terrorismo — CF, art. 5º, XLIII) são insuscetíveis de anistia, graça, indulto e fiança (art. 2º). A temporária tem prazo de 30 dias, prorrogável por igual período (art. 2º, § 4º). A associação criminosa para tais crimes tem pena de 3 a 6 anos, e o delator que possibilitar o desmantelamento tem redução de 1 a 2/3 (art. 8º). A progressão de regime segue as frações do art. 112 da LEP.",
+      "pontosChave": [
+        "Rol taxativo; consumados ou tentados.",
+        "Equiparados: tortura, tráfico e terrorismo (TTT).",
+        "Insuscetíveis de anistia, graça, indulto e fiança.",
+        "Liberdade provisória sem fiança é possível.",
+        "Temporária: 30 + 30 dias.",
+        "Associação para hediondos: 3 a 6 anos (art. 8º).",
+        "Delação no art. 8º, parágrafo único: redução de 1 a 2/3.",
+        "Arma: hediondo só o uso PROIBIDO (art. 16 do Estatuto), além dos arts. 17 e 18.",
+        "Feminicídio é hediondo (art. 1º, I-B)."
+      ],
+      "pegadinhas": [
+        "Incluir furto qualificado por rompimento de obstáculo ou roubo simples no rol.",
+        "Afirmar vedação de liberdade provisória.",
+        "Dizer que porte de arma de uso restrito é hediondo.",
+        "Trocar 30 + 30 dias por 5 + 5 dias."
+      ],
+      "referencias": [
+        "Lei 8.072/1990, arts. 1º, 2º e 8º",
+        "CF/88, art. 5º, XLIII",
+        "LEP, art. 112"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t02",
+      "titulo": "Crimes resultantes de preconceito de raça ou de cor (Lei nº 7.716/1989)",
+      "maisCobrado": false,
+      "resumo": "A Lei 7.716/89 pune os crimes resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional (art. 1º). O racismo é inafiançável e imprescritível, sujeito à pena de reclusão (CF, art. 5º, XLII). O STF (ADO 26) enquadrou a homofobia e a transfobia nos tipos da Lei 7.716/89.\n\nA Lei 14.532/2023 tipificou a injúria racial na própria Lei 7.716/89 (art. 2º-A: reclusão de 2 a 5 anos e multa, aumentada de metade se houver concurso de duas ou mais pessoas) e criou causas de aumento de 1/3 até a metade para o racismo recreativo (art. 20-A) e para o crime cometido por funcionário público no exercício das funções ou a pretexto de exercê-las (art. 20-B). O art. 20 pune praticar, induzir ou incitar a discriminação ou preconceito (reclusão de 1 a 3 anos e multa; 2 a 5 anos se cometido por meio de comunicação social ou redes sociais).",
+      "pontosChave": [
+        "Raça, cor, etnia, religião ou procedência nacional (art. 1º).",
+        "Racismo: inafiançável, imprescritível, reclusão (CF).",
+        "Injúria racial: art. 2º-A, reclusão de 2 a 5 anos e multa.",
+        "Art. 20-A: racismo recreativo — aumento de 1/3 até metade.",
+        "Art. 20-B: funcionário público — aumento de 1/3 até metade.",
+        "Art. 20, § 2º: meios de comunicação e redes sociais — 2 a 5 anos.",
+        "ADO 26: homotransfobia equiparada ao racismo."
+      ],
+      "pegadinhas": [
+        "Dizer que a injúria racial continua no art. 140, § 3º, do CP.",
+        "Afirmar que o racismo é insuscetível de graça (isso é para hediondos e equiparados) ou que é prescritível."
+      ],
+      "referencias": [
+        "Lei 7.716/1989, arts. 1º, 2º-A, 20, 20-A e 20-B",
+        "CF/88, art. 5º, XLII",
+        "STF, ADO 26"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t03",
+      "titulo": "Crimes de tortura (Lei nº 9.455/1997)",
+      "maisCobrado": true,
+      "resumo": "Constitui tortura (art. 1º): I — constranger alguém com violência ou grave ameaça, causando sofrimento físico ou mental, a) para obter informação, declaração ou confissão (tortura-prova); b) para provocar ação ou omissão criminosa (tortura-crime); c) em razão de discriminação racial ou religiosa (tortura-discriminação); II — submeter alguém sob sua guarda, poder ou autoridade, com violência ou grave ameaça, a intenso sofrimento físico ou mental, como castigo pessoal ou medida preventiva (tortura-castigo). Pena: reclusão de 2 a 8 anos. Equipara-se submeter pessoa presa ou sujeita a medida de segurança a sofrimento por ato não previsto em lei (§ 1º).\n\nQuem se omite, tendo o dever de evitar ou apurar, responde com detenção de 1 a 4 anos (§ 2º). Qualificadoras: lesão grave ou gravíssima (4 a 10 anos) e morte (8 a 16 anos). Aumento de 1/6 a 1/3 se cometido por agente público, contra criança, gestante, pessoa com deficiência, adolescente ou maior de 60 anos, ou mediante sequestro (§ 4º). A condenação acarreta perda do cargo e interdição pelo dobro da pena aplicada (§ 5º). É inafiançável e insuscetível de graça ou anistia (§ 6º); regime inicial fechado, salvo no § 2º (§ 7º). Aplica-se ainda que cometido fora do território nacional, se a vítima for brasileira ou o agente estiver sob jurisdição brasileira (art. 2º).",
+      "pontosChave": [
+        "Em regra, crime comum (o inciso II exige vínculo de guarda, poder ou autoridade); aumento se agente público.",
+        "Tortura-prova, tortura-crime, tortura-discriminação (racial ou religiosa) e tortura-castigo.",
+        "Pena-base: reclusão de 2 a 8 anos.",
+        "Omissão: detenção de 1 a 4 anos.",
+        "Lesão grave: 4 a 10; morte: 8 a 16 anos.",
+        "Aumento de 1/6 a 1/3 (agente público, criança, gestante, PcD, adolescente, idoso, sequestro).",
+        "Perda do cargo + interdição pelo dobro da pena (efeito automático).",
+        "Inafiançável e insuscetível de graça ou anistia."
+      ],
+      "pegadinhas": [
+        "Ampliar a tortura-discriminação para orientação sexual ou gênero.",
+        "Dar ao omisso a mesma pena do torturador.",
+        "Dizer que a interdição é pelo triplo da pena.",
+        "Afirmar que a tortura é crime próprio de agente público."
+      ],
+      "referencias": [
+        "Lei 9.455/1997, arts. 1º e 2º",
+        "CF/88, art. 5º, III e XLIII"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t04",
+      "titulo": "Organização criminosa (Lei nº 12.850/2013)",
+      "maisCobrado": false,
+      "resumo": "Organização criminosa é a associação de 4 ou mais pessoas, estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com o objetivo de obter vantagem de qualquer natureza mediante infrações com penas máximas superiores a 4 anos ou de caráter transnacional (art. 1º, § 1º). Promover, constituir, financiar ou integrar organização criminosa é punido com reclusão de 3 a 8 anos e multa (art. 2º), com aumento até a metade se houver emprego de arma de fogo e agravante para quem exerce o comando. As Leis 15.245/2025 e 15.487/2026 alteraram o art. 2º e criaram novos tipos (arts. 21-A e 21-B) contra a obstrução de ações contra o crime organizado.\n\nMeios de obtenção de prova (art. 3º): colaboração premiada, captação ambiental, ação controlada, acesso a registros, interceptação, quebra de sigilos, infiltração de agentes e cooperação entre órgãos. A ação controlada (art. 8º) exige apenas prévia comunicação ao juiz. A infiltração (art. 10) depende de autorização judicial circunstanciada, motivada e sigilosa, só cabe se a prova não puder ser obtida por outros meios e dura até 6 meses, renováveis; a infiltração virtual (art. 10-A) tem limite total de 720 dias. O agente infiltrado não é punido por crime praticado quando inexigível conduta diversa (art. 13, parágrafo único).",
+      "pontosChave": [
+        "4 ou mais pessoas + divisão de tarefas + penas máximas superiores a 4 anos ou transnacionalidade.",
+        "Pena do art. 2º: reclusão de 3 a 8 anos e multa.",
+        "Ação controlada: prévia comunicação ao juiz (art. 8º, § 1º).",
+        "Infiltração: autorização judicial; até 6 meses renováveis.",
+        "Infiltração virtual: até 720 dias no total.",
+        "Colaboração premiada: perdão judicial, redução de até 2/3 ou substituição da pena (art. 4º).",
+        "Organização criminosa voltada a hediondos é hedionda (Lei 8.072/90, art. 1º, parágrafo único, V)."
+      ],
+      "pegadinhas": [
+        "Confundir com associação criminosa (3 ou mais, CP, art. 288) e associação para o tráfico (2 ou mais).",
+        "Dizer que a ação controlada exige autorização judicial (isso é na Lei de Drogas).",
+        "Usar pena mínima em vez de pena máxima no conceito."
+      ],
+      "referencias": [
+        "Lei 12.850/2013, arts. 1º a 14",
+        "Lei 15.245/2025",
+        "Lei 15.487/2026"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t05",
+      "titulo": "Lei Antidrogas (Lei nº 11.343/2006)",
+      "maisCobrado": true,
+      "resumo": "O usuário (art. 28: adquirir, guardar, ter em depósito, transportar ou trazer consigo para consumo pessoal) está sujeito a advertência, prestação de serviços à comunidade e medida educativa; não há prisão em flagrante, lavrando-se termo circunstanciado (art. 48, §§ 2º e 3º). Para distinguir uso de tráfico, o juiz considera natureza e quantidade da droga, local, condições, circunstâncias sociais e pessoais, conduta e antecedentes (art. 28, § 2º). O STF (RE 635.659, 2024) entendeu que o porte de maconha para uso pessoal não tem natureza penal e fixou presunção relativa de usuário para até 40 g ou seis plantas fêmeas, mantida a apreensão e a lavratura de termo.\n\nTráfico (art. 33): reclusão de 5 a 15 anos e 500 a 1.500 dias-multa. Induzir ou auxiliar o uso: detenção de 1 a 3 anos (§ 2º). Uso compartilhado eventual e sem lucro: detenção de 6 meses a 1 ano (§ 3º). Tráfico privilegiado: redução de 1/6 a 2/3 para primário, de bons antecedentes, que não se dedique a atividades criminosas nem integre organização criminosa (§ 4º) — não é hediondo. Associação para o tráfico: 2 ou mais pessoas, reclusão de 3 a 10 anos (art. 35); financiamento: 8 a 20 anos (art. 36); informante: 2 a 6 anos (art. 37). Causas de aumento de 1/6 a 2/3 no art. 40 (transnacionalidade, função pública, imediações de escolas e presídios, violência ou arma, interestadualidade, envolvimento de criança ou adolescente, financiamento). O inquérito termina em 30 dias (preso) ou 90 dias (solto), podendo ser duplicados (art. 51). Para o flagrante, basta o laudo de constatação (art. 50, § 1º).",
+      "pontosChave": [
+        "Usuário: sem prisão em flagrante; TCO e compromisso de comparecer.",
+        "Penas do art. 28: advertência, prestação de serviços e medida educativa.",
+        "Tráfico: reclusão de 5 a 15 anos.",
+        "§ 3º: uso compartilhado — detenção de 6 meses a 1 ano.",
+        "§ 4º: privilegiado — redução de 1/6 a 2/3, não hediondo.",
+        "Associação: 2 ou mais pessoas (art. 35).",
+        "Aumentos do art. 40: 1/6 a 2/3.",
+        "IP: 30 dias preso / 90 dias solto (art. 51).",
+        "Ação controlada (não atuação policial) exige autorização judicial (art. 53, II)."
+      ],
+      "pegadinhas": [
+        "Afirmar que o usuário pode ser preso em flagrante.",
+        "Exigir 3 ou 4 pessoas para a associação do art. 35.",
+        "Tratar o tráfico privilegiado como hediondo.",
+        "Dizer que o art. 28 prevê pena de detenção."
+      ],
+      "referencias": [
+        "Lei 11.343/2006, arts. 28, 33 a 41, 48, 50, 51 e 53",
+        "LEP, art. 112, § 5º",
+        "STF, RE 635.659"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t06",
+      "titulo": "Abuso de autoridade (Lei nº 13.869/2019)",
+      "maisCobrado": true,
+      "resumo": "Sujeito ativo é qualquer agente público, servidor ou não, que exerça, ainda que transitoriamente ou sem remuneração, cargo, mandato, emprego ou função (art. 2º). Os crimes exigem finalidade específica de prejudicar outrem, beneficiar a si ou a terceiro, ou mero capricho ou satisfação pessoal (art. 1º, § 1º); a divergência na interpretação da lei ou na avaliação de fatos e provas não configura abuso (§ 2º). A ação penal é pública incondicionada, admitida a privada subsidiária em 6 meses (art. 3º).\n\nEfeitos da condenação (art. 4º): obrigação de indenizar; inabilitação de 1 a 5 anos e perda do cargo, estes condicionados à reincidência e declarados motivadamente. Crimes relevantes para o PM: decretar ou executar prisão ilegal (art. 9º), constranger preso a exibir-se à curiosidade pública ou a situação vexatória (art. 13), deixar de identificar-se ao preso (art. 16), invadir imóvel sem autorização (art. 22 — incluindo cumprir mandado de busca domiciliar após as 21h ou antes das 5h), constranger hospital a admitir pessoa já morta (art. 24), obter prova por meio ilícito (art. 25) e antecipar atribuição de culpa pela mídia antes de concluída a apuração (art. 38).",
+      "pontosChave": [
+        "Dolo específico obrigatório; não há forma culposa.",
+        "Crime de hermenêutica vedado (art. 1º, § 2º).",
+        "Ação pública incondicionada; privada subsidiária em 6 meses.",
+        "Inabilitação de 1 a 5 anos e perda do cargo: só com reincidência e não automáticas.",
+        "Busca domiciliar após 21h ou antes das 5h é crime (art. 22, § 1º, III).",
+        "Não há crime no ingresso para socorro ou com fundados indícios de flagrante ou desastre (art. 22, § 2º).",
+        "Penas restritivas de direitos específicas no art. 5º."
+      ],
+      "pegadinhas": [
+        "Trocar os horários do art. 22 (21h–5h) pelos de 'dia' (6h–18h).",
+        "Afirmar que a perda do cargo é automática (é na tortura, não no abuso).",
+        "Dizer que a ação é condicionada à representação."
+      ],
+      "referencias": [
+        "Lei 13.869/2019, arts. 1º a 5º, 9º, 13, 16, 22, 24, 25 e 38"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t07",
+      "titulo": "Estatuto do Desarmamento (Lei nº 10.826/2003)",
+      "maisCobrado": true,
+      "resumo": "O registro autoriza manter a arma no interior da residência ou domicílio, ou no local de trabalho se o titular for responsável pelo estabelecimento (art. 5º); na zona rural, considera-se residência toda a extensão do imóvel. O porte é proibido em todo o território nacional, salvo nos casos legais (art. 6º — Forças Armadas, órgãos do art. 144 da CF etc.).\n\nCrimes: posse irregular de uso permitido (art. 12 — detenção de 1 a 3 anos e multa); omissão de cautela (art. 13 — detenção de 1 a 2 anos); porte ilegal de uso permitido (art. 14 — reclusão de 2 a 4 anos); disparo (art. 15 — reclusão de 2 a 4 anos); posse ou porte de uso restrito (art. 16 — reclusão de 3 a 6 anos), com as mesmas penas para numeração raspada, artefato explosivo e venda a menor (§ 1º), e 4 a 12 anos se de uso proibido (§ 2º); comércio ilegal (art. 17 — 6 a 12 anos); tráfico internacional (art. 18 — 8 a 16 anos). O STF (ADI 3.112) declarou inconstitucionais as vedações de fiança dos arts. 14 e 15 e de liberdade provisória do art. 21. Hediondos: art. 16 com arma de uso proibido, arts. 17 e 18.",
+      "pontosChave": [
+        "Posse (casa/trabalho) x porte (fora desses locais).",
+        "Art. 12: detenção 1–3 anos.",
+        "Art. 14: reclusão 2–4 anos.",
+        "Art. 16: reclusão 3–6 anos; uso proibido: 4–12 anos.",
+        "Numeração raspada: art. 16, § 1º, IV, mesmo em arma de uso permitido.",
+        "Art. 13: omissão de cautela, detenção 1–2 anos.",
+        "Hediondo: só arma de uso proibido (art. 16) e arts. 17 e 18.",
+        "Aumento de metade (art. 20) se praticado por integrante dos órgãos dos arts. 6º, 7º e 8º ou reincidente específico."
+      ],
+      "pegadinhas": [
+        "Classificar arma em casa como porte ilegal.",
+        "Enquadrar arma de uso permitido com numeração raspada no art. 14.",
+        "Afirmar que o porte de arma de uso restrito é hediondo.",
+        "Confundir as penas dos arts. 12 e 13."
+      ],
+      "referencias": [
+        "Lei 10.826/2003, arts. 5º, 6º e 12 a 21",
+        "Lei 8.072/1990, art. 1º, parágrafo único",
+        "STF, ADI 3.112"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t08",
+      "titulo": "Lei Maria da Penha (Lei nº 11.340/2006)",
+      "maisCobrado": true,
+      "resumo": "Violência doméstica e familiar contra a mulher é qualquer ação ou omissão baseada no gênero que cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial, no âmbito da unidade doméstica, da família ou em qualquer relação íntima de afeto, independentemente de coabitação e de orientação sexual (art. 5º). Formas (art. 7º): física, psicológica, sexual, patrimonial, moral e, desde a Lei 15.384/2026, vicária.\n\nNo atendimento, a autoridade policial deve garantir proteção, encaminhar a vítima ao hospital e ao IML, fornecer transporte para abrigo quando houver risco de vida e acompanhá-la para retirar seus pertences (arts. 10 a 12). Havendo risco atual ou iminente, o agressor é afastado do lar pelo juiz, pelo delegado (município sem sede de comarca) ou pelo policial (sem sede de comarca e sem delegado disponível), com comunicação ao juiz em 24 horas (art. 12-C). O juiz decide sobre medidas protetivas em 48 horas (art. 18), que podem ser concedidas de imediato (art. 19). Descumprir medida protetiva é crime punido com reclusão de 2 a 5 anos e multa, e só o juiz concede fiança (art. 24-A). Não se aplica a Lei 9.099/95 (art. 41); a lesão corporal doméstica é de ação pública incondicionada (Súmula 542 do STJ); são vedadas penas de cesta básica e multa isolada (art. 17). A preventiva pode ser decretada em qualquer fase (art. 20).",
+      "pontosChave": [
+        "Âmbitos: unidade doméstica, família, relação íntima de afeto (sem exigir coabitação — Súmula 600 do STJ).",
+        "Formas: física, psicológica, sexual, patrimonial, moral e vicária.",
+        "Art. 12-C: afastamento pelo juiz, delegado ou policial; juiz comunicado em 24 h.",
+        "Medidas protetivas: decisão em 48 h (art. 18).",
+        "Art. 24-A: reclusão de 2 a 5 anos; fiança só pelo juiz.",
+        "Art. 41: sem Lei 9.099/95 (sem transação nem sursis processual — Súmula 536 do STJ).",
+        "Súmula 542 do STJ: lesão corporal — ação pública incondicionada.",
+        "Art. 17: vedada cesta básica e multa isolada."
+      ],
+      "pegadinhas": [
+        "Dizer que o policial nunca pode afastar o agressor do lar.",
+        "Manter a pena antiga do art. 24-A (detenção de 3 meses a 2 anos).",
+        "Afirmar que a lesão leve doméstica depende de representação.",
+        "Confundir violência patrimonial com moral."
+      ],
+      "referencias": [
+        "Lei 11.340/2006, arts. 5º, 7º, 10 a 12-C, 16 a 24-A e 41",
+        "Súmulas 536, 542 e 600 do STJ"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t09",
+      "titulo": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990)",
+      "maisCobrado": true,
+      "resumo": "Criança é a pessoa até 12 anos incompletos; adolescente, entre 12 e 18 anos (art. 2º). Ato infracional é a conduta descrita como crime ou contravenção (art. 103). À criança aplicam-se apenas medidas de proteção (arts. 101 e 105); ao adolescente, medidas socioeducativas (art. 112: advertência, reparação do dano, prestação de serviços, liberdade assistida, semiliberdade e internação). A internação não excede 3 anos, é reavaliada no máximo a cada 6 meses e a liberação é compulsória aos 21 anos (art. 121).\n\nNenhum adolescente será privado de liberdade senão em flagrante de ato infracional ou por ordem escrita e fundamentada do juiz (art. 106); a apreensão e o local de recolhimento são comunicados incontinenti ao juiz e à família (art. 107). O adolescente apreendido em flagrante é encaminhado à autoridade policial (art. 172) e não pode ser transportado em compartimento fechado de viatura em condições atentatórias à dignidade (art. 178). Crimes relevantes: submeter criança ou adolescente a vexame ou constrangimento (art. 232), crimes de pornografia infantil (arts. 240 a 241-E), venda de bebida alcoólica (art. 243) e corrupção de menores (art. 244-B — crime formal, Súmula 500 do STJ).",
+      "pontosChave": [
+        "Criança: até 12 anos incompletos; adolescente: 12 a 18.",
+        "Criança: só medidas de proteção (art. 105).",
+        "Privação de liberdade: flagrante ou ordem judicial (art. 106).",
+        "Comunicação incontinenti ao juiz e à família (art. 107).",
+        "Vedado transporte em compartimento fechado em condições indignas (art. 178).",
+        "Internação: máximo 3 anos, reavaliação semestral, liberação aos 21 anos.",
+        "Corrupção de menores (art. 244-B): crime formal, reclusão de 1 a 4 anos."
+      ],
+      "pegadinhas": [
+        "Aplicar medida socioeducativa a criança.",
+        "Dizer que a criança não pratica ato infracional.",
+        "Afirmar que o crime do art. 244-B exige prova da efetiva corrupção."
+      ],
+      "referencias": [
+        "Lei 8.069/1990, arts. 2º, 101 a 125, 171 a 190, 225 a 244-B",
+        "Súmula 500 do STJ"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t10",
+      "titulo": "Estatuto da Pessoa Idosa (Lei nº 10.741/2003)",
+      "maisCobrado": false,
+      "resumo": "Destina-se às pessoas com idade igual ou superior a 60 anos (art. 1º); a Lei 14.423/2022 trocou a expressão 'idoso' por 'pessoa idosa'. A prioridade abrange atendimento imediato e individualizado em órgãos públicos e privados, e os maiores de 80 anos têm prioridade especial em relação às demais pessoas idosas (art. 3º, § 2º).\n\nOs crimes do Estatuto são de ação penal pública incondicionada, sem aplicação das imunidades dos arts. 181 e 182 do CP (art. 95). Aos crimes com pena máxima não superior a 4 anos aplica-se o procedimento da Lei 9.099/95 (art. 94), mas o STF (ADI 3.096) restringiu a aplicação ao procedimento sumaríssimo, sem os benefícios despenalizadores. Exemplos de crimes: discriminação (art. 96), omissão de socorro (art. 97), abandono em hospitais ou entidades de longa permanência (art. 98), exposição a perigo (art. 99), apropriação de bens ou proventos (art. 102) e retenção de cartão magnético (art. 104).",
+      "pontosChave": [
+        "Pessoa idosa: 60 anos ou mais.",
+        "Prioridade especial: maiores de 80 anos.",
+        "Crimes de ação pública incondicionada (art. 95).",
+        "Não se aplicam as imunidades dos arts. 181 e 182 do CP.",
+        "Art. 94: procedimento da Lei 9.099/95 para pena máxima até 4 anos (só o rito — ADI 3.096).",
+        "Lei 14.423/2022: denominação 'Estatuto da Pessoa Idosa'."
+      ],
+      "pegadinhas": [
+        "Dizer 'mais de 60 anos' ou 65 anos.",
+        "Afirmar que o filho que se apropria dos proventos do pai idoso é isento de pena (art. 181 do CP)."
+      ],
+      "referencias": [
+        "Lei 10.741/2003, arts. 1º a 3º, 93 a 108",
+        "STF, ADI 3.096"
+      ]
+    },
+    {
+      "id": "legislacao-especial-t11",
+      "titulo": "Identificação criminal (Lei nº 12.037/2009)",
+      "maisCobrado": false,
+      "resumo": "O civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses legais (CF, art. 5º, LVIII; Lei 12.037/09, art. 1º). Valem como identificação civil: carteira de identidade, carteira de trabalho, carteira profissional, passaporte, carteira de identificação funcional ou outro documento público com foto; equiparam-se os documentos militares (art. 2º).\n\nMesmo apresentado documento, pode haver identificação criminal quando (art. 3º): houver rasura ou indício de falsificação; o documento for insuficiente; houver documentos conflitantes; for essencial às investigações, por despacho judicial (de ofício ou a pedido da autoridade policial, do MP ou da defesa); constar o uso de outros nomes nos registros policiais; ou o estado de conservação, a distância temporal ou a localidade de expedição impedirem a identificação. A identificação criminal inclui os processos datiloscópico e fotográfico (art. 5º) e, na hipótese do inciso IV, pode incluir coleta de material biológico para perfil genético. A autoridade deve evitar constrangimento (art. 4º) e é vedado mencionar a identificação em atestados de antecedentes antes do trânsito em julgado (art. 6º).",
+      "pontosChave": [
+        "Regra: civilmente identificado não é identificado criminalmente.",
+        "Documentos militares equiparam-se aos civis.",
+        "Rasura ou indício de falsificação autoriza a identificação (art. 3º, I).",
+        "Só a hipótese do art. 3º, IV, exige despacho judicial.",
+        "Datiloscópico + fotográfico (art. 5º).",
+        "Perfil genético: hipótese do art. 3º, IV.",
+        "Vedada menção em antecedentes antes do trânsito em julgado (art. 6º).",
+        "Retirada da foto após arquivamento ou absolvição, a pedido (art. 7º)."
+      ],
+      "pegadinhas": [
+        "Dizer que toda identificação criminal exige autorização judicial.",
+        "Afirmar que documento militar não serve como identificação civil."
+      ],
+      "referencias": [
+        "Lei 12.037/2009, arts. 1º a 7º-A",
+        "CF/88, art. 5º, LVIII"
+      ]
+    }
+  ]
+}

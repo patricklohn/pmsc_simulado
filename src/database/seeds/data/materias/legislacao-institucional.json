@@ -1,0 +1,266 @@
+{
+  "id": "legislacao-institucional",
+  "nome": "Legislação Institucional",
+  "area": "legislacao",
+  "questoesNaProva": 10,
+  "conteudoEdital": "Legislação Institucional: 1. Lei nº 6.218, de 10 de fevereiro de 1983 - Dispõe sobre o Estatuto dos Policiais Militares do Estado de Santa Catarina, e dá outras providências. 2. Portaria nº 009/2001 - Aprova o Regulamento de Processo Administrativo Disciplinar (PAD) na Polícia Militar de Santa Catarina e dá outras providências (https://leis.alesc.sc.gov.br/ato-normativo/41689). 3. Lei nº 14.751, de 12 de dezembro de 2023 - Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares dos Estados e suas atualizações; 4. Lei Complementar Estadual nº 587, de 14 de janeiro de 2013, dispõe sobre o ingresso nas carreiras das instituições militares de Santa Catarina. 5. Lei Complementar nº 801, de 1º de julho de 2022, dispõe sobre a promoção das praças militares estaduais e estabelece outras providências. 6. Lei Complementar nº 765, de 07 de outubro de 2020, regulariza a remuneração dos integrantes das carreiras pertencentes às instituições que constituem a Secretaria de Estado da Segurança Pública, institui o Regime Remuneratório Especial dos Militares Estaduais e estabelece outras providências. 7. Decreto nº 1.601 de 3 de dezembro de 2021 - Aprova o Regulamento da Lei nº 6.217, de 1983, que dispõe sobre a Organização Básica da Polícia Militar do Estado de Santa Catarina e dá outras providências. 8. Lei Estadual nº 5.209/1976 – Lei do Conselho de Disciplina da PMSC.",
+  "visaoGeral": "É a matéria de maior peso da prova, com 10 questões. A AOCP costuma cobrar a literalidade da lei: prazos, números, autoridades competentes e listas (incisos), muitas vezes em situações-problema com policiais militares. Priorize o Estatuto (Lei 6.218/1983) e a Lei Orgânica Nacional (Lei 14.751/2023), depois o Regulamento do PAD, a LC 801/2022 e a Lei do Conselho de Disciplina. Atenção às diferenças entre as normas estaduais antigas e a Lei 14.751/2023, como estabilidade e elegibilidade, e às alterações recentes da LC 880/2025.",
+  "dicas": [
+    "Monte uma tabela de prazos: PAD (30 dias úteis no rito sumário, 15 no sumaríssimo, 5 para defesa, 20 e 10 para julgar), Conselho de Disciplina (30 + 20 dias; 5 para defesa; 20 para o Comandante-Geral decidir; prescrição em 6 anos) e recursos do Estatuto (5 dias úteis).",
+    "Memorize quem faz o quê: o Governador age para oficiais (posto, agregação, reversão) e o Comandante-Geral para praças (graduação, agregação, promoção, exclusão a bem da disciplina).",
+    "Compare Estatuto e Lei 14.751/2023: estabilidade com 10 anos (Estatuto) x 3 anos (LON); elegibilidade com 5 anos (Estatuto) x 10 anos (LON e CF).",
+    "A LC 880/2025 extinguiu as classes de soldado (1ª, 2ª e 3ª) na LC 801/2022 e na LC 765/2020. Leia a redação atualizada no site da ALESC.",
+    "Na LC 801/2022, decore as listas: critérios de promoção (art. 7º), requisitos (art. 8º), interstícios (art. 10) e composição da CPP (art. 26).",
+    "Leia o texto compilado no portal da ALESC (leis.alesc.sc.gov.br), que mostra redações revogadas e vigentes lado a lado. Cuidado para não decorar a redação revogada.",
+    "Faça questões de PMSC 2023 (Cebraspe) e de AOCP de outras PMs, convertendo os itens certo/errado em alternativas."
+  ],
+  "fontesEstudo": [
+    {
+      "titulo": "Lei nº 6.218/1983 – Estatuto dos Policiais Militares de SC (ALESC)",
+      "url": "https://leis.alesc.sc.gov.br/ato-normativo/7421"
+    },
+    {
+      "titulo": "Portaria nº 009/2001 – Regulamento do PAD da PMSC (ALESC)",
+      "url": "https://leis.alesc.sc.gov.br/ato-normativo/41689"
+    },
+    {
+      "titulo": "Lei nº 14.751/2023 – Lei Orgânica Nacional das PMs e CBMs (Planalto)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14751.htm"
+    },
+    {
+      "titulo": "Lei Complementar nº 587/2013 – Ingresso nas carreiras militares de SC (ALESC – busca)",
+      "url": "https://leis.alesc.sc.gov.br/legislativo?numero=587&ano=2013&tipo_ato_normativo=Lei+Complementar"
+    },
+    {
+      "titulo": "Lei Complementar nº 801/2022 – Promoção das praças (ALESC)",
+      "url": "https://leis.alesc.sc.gov.br/ato-normativo/21457"
+    },
+    {
+      "titulo": "Lei Complementar nº 765/2020 – Regime Remuneratório Especial (ALESC)",
+      "url": "https://leis.alesc.sc.gov.br/ato-normativo/20899"
+    },
+    {
+      "titulo": "Decreto nº 1.601/2021 – Regulamento da Organização Básica da PMSC (ALESC)",
+      "url": "https://leis.alesc.sc.gov.br/ato-normativo/executivo/52563"
+    },
+    {
+      "titulo": "Lei nº 5.209/1976 – Conselho de Disciplina da PMSC (ALESC)",
+      "url": "https://leis.alesc.sc.gov.br/ato-normativo/6383"
+    }
+  ],
+  "topicos": [
+    {
+      "id": "legislacao-institucional-t01",
+      "titulo": "Lei nº 6.218/1983 – Estatuto dos Policiais Militares de Santa Catarina",
+      "maisCobrado": true,
+      "resumo": "O Estatuto regula as obrigações, os deveres, os direitos, as prerrogativas e as situações dos militares estaduais de SC. A LC 880/2025 passou a usar a expressão \"militares estaduais\", abrangendo PMSC e CBMSC. A hierarquia e a disciplina são a base institucional: a hierarquia se ordena por postos (oficiais, conferidos pelo Governador com Carta Patente) e graduações (praças, conferidas pelo Comandante-Geral) e, dentro do mesmo grau, pela antiguidade.\n\nO Título II trata do valor policial-militar (art. 28), da ética (art. 29), dos deveres (art. 32), do compromisso, do comando e da subordinação. Cabos e soldados são elementos de execução (art. 39). A violação dos deveres pode constituir crime, contravenção ou transgressão (art. 42). O oficial é submetido a Conselho de Justificação, julgado pelo TJ, e a praça estável e o Aspirante, a Conselho de Disciplina, julgado em última instância pelo Comandante-Geral.\n\nOs Títulos III e IV disciplinam direitos (estabilidade, licenças, férias, afastamentos), prerrogativas (prisão em flagrante com entrega imediata à autoridade PM), situações especiais (agregação, reversão, excedente, ausente, desaparecido, extraviado) e exclusão do serviço ativo (reserva, reforma, demissão, licenciamento, exclusão a bem da disciplina etc.).",
+      "pontosChave": [
+        "Hierarquia: ordenação por postos ou graduações; no mesmo grau, pela antiguidade (art. 14, § 1º).",
+        "Posto: oficial, ato do Governador, Carta Patente. Graduação: praça, ato do Comandante-Geral (art. 16).",
+        "Precedência (art. 18): Aspirante acima das demais praças; Aluno-Oficial acima do Subtenente; aluno do CFS equiparado a Cabo.",
+        "Penas disciplinares de detenção ou prisão: no máximo 30 dias (art. 47, § 1º).",
+        "Recursos (art. 51, redação da LC 749/2019): 5 dias úteis; pedido de reconsideração, queixa e representação não podem ser coletivos.",
+        "Afastamentos (art. 66): núpcias 8 dias, luto 8, instalação até 10, trânsito até 30.",
+        "Licença para interesse particular: mais de 10 anos de serviço, sem remuneração, mínimo de 6 meses (art. 70).",
+        "Ausente: mais de 24 h; desaparecido: mais de 8 dias; extraviado: mais de 30 dias (arts. 96, 98 e 99).",
+        "Demissão só para oficiais; licenciamento só para praças (arts. 118 e 124).",
+        "Agregação e reversão: ato do Governador (oficiais) ou do Comandante-Geral (praças) (arts. 86 e 88)."
+      ],
+      "pegadinhas": [
+        "Trocar as autoridades: o Governador confere o posto e o Comandante-Geral, a graduação, e não o contrário.",
+        "No concurso de crime militar e transgressão da mesma natureza aplica-se só a pena do crime, não as duas (art. 42, § 2º).",
+        "A violação da ética é mais grave quanto MAIS elevado o grau hierárquico (art. 42, § 1º).",
+        "Prazos de recurso da redação antiga (15 e 120 dias corridos) foram substituídos por 5 dias úteis.",
+        "Estabilidade das praças com 10 anos no Estatuto x 3 anos na Lei 14.751/2023: veja qual lei o enunciado cita."
+      ],
+      "referencias": [
+        "Lei estadual nº 6.218/1983, arts. 1º a 164",
+        "LC estadual nº 749/2019 (art. 51)",
+        "LC estadual nº 880/2025"
+      ]
+    },
+    {
+      "id": "legislacao-institucional-t02",
+      "titulo": "Portaria nº 009/2001 – Regulamento do Processo Administrativo Disciplinar (PAD) da PMSC",
+      "maisCobrado": true,
+      "resumo": "O Regulamento do PAD rege a apuração de transgressões disciplinares na PMSC, aplicando-se subsidiariamente o Código de Processo Penal Militar. Os Conselhos de Disciplina e de Justificação seguem legislação própria. A competência processual é das autoridades do art. 9º do Regulamento Disciplinar (RDPMSC) e pode ser delegada a uma autoridade processante, mas o julgamento continua com a autoridade delegante.\n\nNão havendo elementos suficientes, instaura-se antes uma sindicância, que pode resultar em arquivamento, medidas administrativas não disciplinares ou instauração de PAD. A denúncia anônima é arquivada por vício de forma. O PAD tem dois ritos: o sumário, para faltas graves ou que possam ensejar licenciamento a bem da disciplina, concluído em 30 dias úteis, e o sumaríssimo, para faltas leves ou médias, em 15 dias úteis.\n\nNo rito sumário, as fases são instauração, defesa prévia (5 dias úteis), instrução, alegações finais (5 dias úteis) e relatório. A autoridade julgadora decide em 20 dias úteis (10 no sumaríssimo), de forma fundamentada, e pode divergir do relatório. O julgamento fora do prazo não gera nulidade, e nenhuma nulidade é declarada sem prejuízo.",
+      "pontosChave": [
+        "Aplica-se subsidiariamente o CPPM (art. 2º).",
+        "Denúncia anônima: arquivada por vício de forma; fato atípico: arquivada por falta de objeto (art. 7º, §§ 3º e 4º).",
+        "Autoridade sem competência comunica a autoridade competente em 48 horas (art. 6º).",
+        "Rito sumário: faltas graves ou passíveis de licenciamento; 30 dias úteis, prorrogáveis (arts. 10 e 12).",
+        "Rito sumaríssimo: faltas leves ou médias; 15 dias úteis; defensor facultativo; decisão em 10 dias úteis (arts. 62 e 63).",
+        "Defesa prévia e alegações finais: 5 dias úteis cada (arts. 32 e 54).",
+        "Autoridade processante: superior ao acusado, de preferência oficial; excepcionalmente do mesmo grau, desde que mais antiga (art. 16).",
+        "Impedimentos: amigo íntimo ou inimigo, cônjuge ou parente até o 3º grau, denunciante (art. 22).",
+        "Confissão na defesa prévia: passa-se ao relatório, salvo falta grave passível de licenciamento (arts. 26 e 27).",
+        "Prazos: exclui-se o dia do começo e inclui-se o do vencimento (art. 68)."
+      ],
+      "pegadinhas": [
+        "Inverter os ritos: o sumaríssimo é proibido para falta grave e para o militar em mau comportamento.",
+        "O julgamento fora do prazo NÃO implica nulidade (art. 61, parágrafo único).",
+        "A delegação transfere a instauração e a instrução, mas o julgamento fica com a autoridade delegante.",
+        "O impedimento por parentesco vai até o 3º grau (no Conselho de Disciplina, até o 4º grau colateral por consanguinidade)."
+      ],
+      "referencias": [
+        "Portaria nº 009/PMSC/2001, arts. 1º a 70 e Anexos",
+        "Decreto nº 12.112/1980 (RDPMSC), art. 9º"
+      ]
+    },
+    {
+      "id": "legislacao-institucional-t03",
+      "titulo": "Lei nº 14.751/2023 – Lei Orgânica Nacional das Polícias Militares e dos Corpos de Bombeiros Militares",
+      "maisCobrado": true,
+      "resumo": "A Lei 14.751/2023 é a norma geral federal (CF, art. 22, XXI) sobre organização, efetivos, material bélico, garantias, convocação e mobilização das PMs e dos CBMs. Define essas instituições como militares, permanentes, típicas de Estado, forças auxiliares e reserva do Exército, organizadas com base na hierarquia e na disciplina e comandadas por oficial da ativa do último posto do QOEM. Elas se subordinam aos governadores e integram o Susp, a Defesa Nacional, o Sinpdec e o Sisnama.\n\nA lei lista princípios (art. 3º), diretrizes (art. 4º) e competências (art. 5º para a PM: polícia ostensiva, preservação da ordem pública, polícia judiciária militar, trânsito, meio ambiente etc.). Fixa ainda a estrutura básica (direção, assessoramento, apoio, execução e correição), a hierarquia (com cadete, aluno-sargento e aluno-soldado) e os requisitos de ingresso, entre eles nível superior, exame toxicológico de larga janela e restrições a certas tatuagens. Também define os quadros (QOEM, QOE, QOS, QP etc.) e os cursos de carreira.\n\nO art. 18 traz as garantias, como estabilidade após 3 anos, identidade com porte de arma, prisão em unidade militar e regras sobre prisão em flagrante. O art. 19 traz vedações, como divulgar imagem de custodiado sem autorização judicial. A lei regula ainda a elegibilidade (corte de 10 anos), a convocação pela União, o comandante-geral (CCEM e plano de comando em 60 dias) e as datas comemorativas (21/4 PM e 2/7 BM).",
+      "pontosChave": [
+        "Subordinação aos governadores (art. 7º); comando por oficial da ativa do último posto do QOEM (art. 2º).",
+        "Integram Susp, Defesa Nacional, Sinpdec e Sisnama (art. 2º, § 3º).",
+        "Estrutura básica: direção, assessoramento, apoio, execução e correição (art. 10).",
+        "Praças especiais: aspirante a oficial, cadete e aluno-oficial (art. 12, II).",
+        "Ingresso: brasileiro, nível superior, exame toxicológico de larga janela, sem tatuagens de conteúdo vedado (art. 13).",
+        "QP com progressão até subtenente; QOE até tenente-coronel; QOEM exige bacharelado em Direito (art. 15).",
+        "CFP: aluno-soldado para soldado; CFS: aluno-sargento para 3º sargento; CAP: 2º sargento para 1º sargento (art. 16, § 2º).",
+        "Estabilidade dos militares de carreira após 3 anos de efetivo serviço (art. 18, XXVI).",
+        "Elegibilidade: com menos de 10 anos, afastamento; com mais de 10 anos, agregação remunerada e reserva na diplomação (art. 22).",
+        "Comandante-geral: CCEM obrigatório; plano de comando em até 60 dias da posse (art. 29)."
+      ],
+      "pegadinhas": [
+        "Estabilidade de 3 anos (LON), e não 10 anos (Estatuto estadual).",
+        "A tatuagem só impede o ingresso se tiver conteúdo vedado (suástica, obscenidade, terrorismo, apologia à violência, às drogas ou à discriminação), e não qualquer tatuagem visível.",
+        "O corte de elegibilidade é 10 anos (LON e CF), diferente dos 5 anos do art. 52 do Estatuto estadual.",
+        "A IGPM/BM integra o Comando do Exército e exerce controle e coordenação, mas a subordinação é ao governador.",
+        "Datas: 21 de abril para PM e 2 de julho para BM, e não o contrário."
+      ],
+      "referencias": [
+        "Lei federal nº 14.751/2023, arts. 1º a 44",
+        "CF/88, arts. 42 e 144, §§ 5º e 6º"
+      ]
+    },
+    {
+      "id": "legislacao-institucional-t04",
+      "titulo": "Lei Complementar estadual nº 587/2013 – Ingresso nas carreiras das instituições militares de SC",
+      "maisCobrado": false,
+      "resumo": "A LC 587/2013 disciplina o ingresso nas carreiras da PMSC e do CBMSC (revogou, por exemplo, os arts. 10 a 12 do Estatuto) e é regulamentada pelo Decreto nº 1.479/2013. O seu art. 2º reúne os requisitos de ingresso, reproduzidos no Edital 002/CCP/2026: nacionalidade brasileira, idade mínima de 18 anos até a inclusão e máxima de 30 anos (não completados até o último dia de inscrição), quitação com o serviço militar (homens) e com as obrigações eleitorais, declaração sobre penalidades sofridas no serviço público, ausência de condenação por crime doloso transitada em julgado e de atividades prejudiciais à segurança nacional.\n\nSegundo o edital, a mesma lei fundamenta a exigência de nível superior em qualquer área para o QPPM e a ausência de reserva de vagas para pessoas com deficiência, dadas as peculiaridades do cargo (art. 8º). O concurso tem fases eliminatórias e classificatórias: prova objetiva e redação, saúde e toxicológico, TAF, investigação social e avaliação psicológica.",
+      "pontosChave": [
+        "Idade: mínimo de 18 anos até a inclusão; máximo de 30 anos não completados até o último dia de inscrição.",
+        "Escolaridade para o QPPM: nível superior em qualquer área, reconhecido pelo MEC.",
+        "Não ter condenação por crime doloso transitada em julgado (art. 2º, VIII).",
+        "Não exercer nem ter exercido atividades prejudiciais à segurança nacional (art. 2º, IX).",
+        "Candidato homem deve estar em dia com o serviço militar (art. 2º, II).",
+        "Sem reserva de vagas para pessoas com deficiência (art. 8º c/c CF, arts. 42, § 1º, e 142, X).",
+        "Regulamentada pelo Decreto nº 1.479/2013, que detalha a investigação social."
+      ],
+      "pegadinhas": [
+        "A idade máxima é aferida até o último dia de inscrição, e não na data da inclusão.",
+        "O ensino médio não basta: o requisito atual é nível superior.",
+        "Altura e outros parâmetros físicos devem ser conferidos no edital vigente, que segue o Tema 1.424 do STF."
+      ],
+      "referencias": [
+        "LC estadual nº 587/2013, arts. 2º e 8º",
+        "Decreto estadual nº 1.479/2013",
+        "Edital nº 002/CCP/2026, item 3"
+      ]
+    },
+    {
+      "id": "legislacao-institucional-t05",
+      "titulo": "Lei Complementar nº 801/2022 – Promoção das praças militares estaduais",
+      "maisCobrado": true,
+      "resumo": "A LC 801/2022 estabelece critérios e condições de acesso das praças da PMSC e do CBMSC na hierarquia, por promoção seletiva, gradual e sucessiva. Com a LC 880/2025, a carreira no QPPM passou a ser Soldado, Cabo, 3º Sargento, 2º Sargento, 1º Sargento e Subtenente, sem as antigas classes de soldado. O aprovado no concurso é incluído como Soldado e matriculado no CFP, sendo denominado Aluno-Soldado durante a formação.\n\nSão critérios de promoção: antiguidade, merecimento, merecimento intelectual (conclusão do CFS), bravura, ressarcimento de preterição, post mortem e requerimento com transferência automática para a reserva. Para antiguidade e merecimento exigem-se comportamento no mínimo \"bom\", inspeção de saúde e TAF válidos por 1 ano, interstício, arregimentação, cursos (CHC para Cabo, CAS para 1º Sargento) e conceitos favoráveis.\n\nOs interstícios são: Soldado, 7 anos desde a formatura no CFP; Cabo, 2; 3º Sargento, 4; 2º Sargento, 3; 1º Sargento, 3. A promoção é ato do Comandante-Geral e é processada pela CPP, presidida pelo Subcomandante-Geral. Para 2º Sargento, 1º Sargento e Subtenente, a proporção é de 1 promoção por antiguidade para 2 por merecimento.",
+      "pontosChave": [
+        "Promoção das praças: ato do Comandante-Geral (art. 11).",
+        "Critérios (art. 7º): antiguidade, merecimento, merecimento intelectual (CFS), bravura, preterição, post mortem e por requerimento.",
+        "Requisitos (art. 8º): comportamento no mínimo \"bom\"; saúde e TAF válidos por 1 ano; incapacidade de até 90 dias não impede.",
+        "Interstícios (art. 10): Sd 7 anos (desde o CFP); Cb 2; 3º Sgt 4; 2º Sgt 3; 1º Sgt 3. Podem cair à metade na falta de candidatos.",
+        "CHC: soldados com 5 anos na graduação, a distância, sem limite de vagas, exigido curso superior (art. 9º).",
+        "2º Sgt, 1º Sgt e ST: 1 por antiguidade e 2 por merecimento; merecimento exige estar no 1º terço do almanaque (art. 13).",
+        "CPP presidida pelo Subcomandante-Geral; Secretário sem voto; mandato mínimo de 2 anos (arts. 26 e 27).",
+        "Desempate no CFP: maior idade e, depois, nota do concurso (art. 6º).",
+        "Promoções na PMSC em 31/1, 5/5, 11/8 e 25/11 (art. 33, I)."
+      ],
+      "pegadinhas": [
+        "A promoção \"por tempo máximo de permanência\" NÃO é critério da LC 801/2022.",
+        "Quem preside a CPP é o Subcomandante-Geral, e não o Comandante-Geral (que preside a CPO).",
+        "O interstício do Soldado conta da formatura no CFP, e não da inclusão.",
+        "As classes de soldado (1ª, 2ª e 3ª) foram extintas pela LC 880/2025."
+      ],
+      "referencias": [
+        "LC estadual nº 801/2022, arts. 1º a 52",
+        "LC estadual nº 880/2025"
+      ]
+    },
+    {
+      "id": "legislacao-institucional-t06",
+      "titulo": "Lei Complementar nº 765/2020 – Regime Remuneratório Especial dos Militares Estaduais (subsídio)",
+      "maisCobrado": false,
+      "resumo": "A LC 765/2020 regularizou, sem aumento de valor nominal, a remuneração das carreiras da Segurança Pública de SC e instituiu o Regime Remuneratório Especial dos Militares Estaduais. Nesse regime, a remuneração é paga por subsídio em parcela única, vedado o acréscimo de gratificações, adicionais, abonos ou prêmios, salvo as verbas do art. 4º: 13º, terço de férias, diárias e ajuda de custo, retribuições por função, indenização por aula, auxílio-alimentação e outras parcelas indenizatórias.\n\nO subsídio absorve e é incompatível com a Indenização por Regime Especial de Serviço Ativo (LC 614/2013), a Indenização de Auxílio à Saúde e o benefício do art. 50, II, do Estatuto. Todos os militares ativos, inativos e pensionistas foram vinculados a partir de 1º/9/2020, assim como os futuros ingressantes. Quem já integrava as instituições pôde optar, de forma irretratável, até 30/6/2021, por permanecer no regime da LC 614/2013. A lei também deu nova redação ao art. 113 do Estatuto (reforma por incapacidade).",
+      "pontosChave": [
+        "Subsídio em parcela única, sem aumento nominal (art. 3º).",
+        "Não excluídos (art. 4º): 13º, terço de férias, diárias e ajuda de custo, auxílio-alimentação, retribuições por função etc.",
+        "Incompatíveis (art. 5º): Indenização por Regime Especial de Serviço Ativo, Auxílio à Saúde e benefício do art. 50, II, do Estatuto.",
+        "Vinculação a partir de 1º/9/2020: ativos, inativos, pensionistas e novos ingressantes (art. 6º).",
+        "Opção irretratável pelo regime da LC 614/2013 até 30/6/2021 (art. 7º).",
+        "A aplicação da lei não pode reduzir remuneração; eventual diferença vira parcela complementar provisória (art. 9º)."
+      ],
+      "pegadinhas": [
+        "O subsídio não impede o 13º, o terço de férias nem o auxílio-alimentação.",
+        "A opção era irretratável e com prazo, e não exercível a qualquer tempo.",
+        "Os novos ingressantes não têm opção: são vinculados ao subsídio."
+      ],
+      "referencias": [
+        "LC estadual nº 765/2020, arts. 3º a 9º e Anexo III",
+        "LC estadual nº 614/2013"
+      ]
+    },
+    {
+      "id": "legislacao-institucional-t07",
+      "titulo": "Decreto nº 1.601/2021 – Regulamento da Lei de Organização Básica da PMSC (Lei 6.217/1983)",
+      "maisCobrado": false,
+      "resumo": "O Decreto 1.601/2021 aprova o Regulamento da Lei de Organização Básica (RLOB) da PMSC. Ele define a missão da corporação (polícia ostensiva e preservação da ordem pública, trânsito, meio ambiente, polícia judiciária militar etc.) e sua estrutura: Comando-Geral, órgãos de assistência direta e imediata ao Comandante-Geral, órgãos de direção setorial, grandes comandos, órgãos de apoio e órgãos de execução.\n\nO Comando-Geral reúne Comandante-Geral, Subcomandante-Geral, Estado-Maior Geral (com as divisões PM-1 a PM-7), órgãos de assessoramento superior, Ajudância-Geral, comissões e assessorias. A CPO é presidida pelo Comandante-Geral, e a CPP e a CCP, pelo Subcomandante-Geral. Os órgãos de assistência direta são a Corregedoria-Geral, a ACI, o CCS e o CConIn. Os de direção setorial são DP, DALF, DSPS, DTIC e APMT. Os grandes comandos são os CRPMs, o CPMRv, o CPMA e o CPMAE.\n\nOs órgãos de execução são unidades (batalhões ou regimentos, comandadas por tenente-coronel), subunidades (companhias ou esquadrões, que podem ser incorporadas, destacadas ou independentes), pelotões e grupos. O decreto também renomeou órgãos: a DE e o CEPM viraram APMT, o Centro de Psicologia virou CESIEP e o CESA virou Hospital da PM.",
+      "pontosChave": [
+        "Estrutura (art. 2º): Comando-Geral, assistência direta, direção setorial, grandes comandos, apoio e execução.",
+        "Assistência direta (art. 18): Corregedoria-Geral, ACI, CCS e CConIn, chefiados por oficiais do último posto.",
+        "Direção setorial (art. 27): DP, DALF, DSPS, DTIC e APMT.",
+        "Grandes comandos (art. 39): CRPMs, CPMRv, CPMA e CPMAE.",
+        "Comissões (art. 14): CPO presidida pelo Comandante-Geral; CPP e CCP pelo Subcomandante-Geral.",
+        "Unidade: comando de tenente-coronel. Subunidade independente: major. Destacada: capitão ou major. Incorporada: oficial subalterno ou intermediário.",
+        "Grupos incorporados: 3 a 30 PMs; destacados: 6 a 30 PMs, sob o comando da praça mais antiga (art. 93).",
+        "O CESIEP (órgão de apoio da DP) executa concursos e a inclusão; a ESFAP (APMT) conduz a formação das praças."
+      ],
+      "pegadinhas": [
+        "A DP e a APMT são órgãos de direção setorial, e não de assistência direta ao Comandante-Geral.",
+        "Quem preside a CPO é o Comandante-Geral; o Subcomandante preside a CPP e a CCP.",
+        "Criar ou extinguir órgãos depende de alteração do regulamento pelo Governador, mas desativar e reativar pode ser feito por portaria do Comandante-Geral (arts. 169 e 170)."
+      ],
+      "referencias": [
+        "Decreto estadual nº 1.601/2021 (RLOB), arts. 1º a 176",
+        "Lei estadual nº 6.217/1983"
+      ]
+    },
+    {
+      "id": "legislacao-institucional-t08",
+      "titulo": "Lei estadual nº 5.209/1976 – Conselho de Disciplina da PMSC",
+      "maisCobrado": true,
+      "resumo": "O Conselho de Disciplina aprecia, em processo de rito sumário, a capacidade moral ou profissional das praças especiais e das praças da ativa, da reserva remunerada ou reformadas, garantindo-lhes defesa. Pode ser submetida a ele a praça acusada de proceder incorretamente no cargo, de ter conduta irregular ou de praticar ato que afete a honra pessoal, o pundonor policial-militar ou o decoro da classe. Também são casos de submissão a condenação a pena de até 2 anos por crime doloso e o exercício de atividades prejudiciais à segurança nacional, entre outros.\n\nO Comandante-Geral constitui o Conselho, formado por 3 oficiais da ativa. O mais antigo (no mínimo capitão) preside, o seguinte é o interrogante e relator, e o mais moderno é o escrivão. O acusado tem 5 dias, após o interrogatório, para apresentar razões escritas, e deve estar presente a todas as sessões, exceto à secreta de elaboração do relatório. O Conselho tem 30 dias para concluir, prorrogáveis por até 20, e delibera por maioria.\n\nRecebidos os autos, o Comandante-Geral decide em 20 dias, podendo aceitar ou não o julgamento. Ele pode arquivar o processo, aplicar pena disciplinar, remeter ao Auditor se houver crime ou propor ao Governador a reforma, ou excluir a praça a bem da disciplina. Aplica-se subsidiariamente o CPPM, e a submissão prescreve em 6 anos.",
+      "pontosChave": [
+        "Alcance: praças especiais e praças da ativa, da reserva remunerada ou reformadas (art. 1º).",
+        "Constituição pelo Comandante-Geral (art. 3º); composição de 3 oficiais da ativa (art. 4º).",
+        "Presidente: o mais antigo, no mínimo capitão; interrogante e relator: o seguinte; escrivão: o mais moderno.",
+        "Impedidos: o acusador, parentes (até o 4º grau colateral consanguíneo) e interessados na decisão (art. 5º).",
+        "Defesa: 5 dias após o interrogatório; acusado presente a todas as sessões, salvo a secreta (art. 9º).",
+        "Prazo: 30 dias da constituição, prorrogáveis por até 20 pelo Comandante-Geral (art. 10).",
+        "Deliberação por maioria, em sessão secreta (art. 11).",
+        "Decisão do Comandante-Geral em 20 dias (art. 12); prescrição em 6 anos (art. 14)."
+      ],
+      "pegadinhas": [
+        "O Conselho de Disciplina NÃO se limita às praças da ativa: abrange reserva e reformados.",
+        "Os prazos são 30 + 20 dias, e não 20 + 30.",
+        "O Comandante-Geral não fica vinculado ao julgamento, mas deve justificar a divergência.",
+        "A prescrição é de 6 anos, e não de 5 (prazo da LC 801/2022 para apuração de promoções)."
+      ],
+      "referencias": [
+        "Lei estadual nº 5.209/1976, arts. 1º a 15",
+        "Lei estadual nº 6.218/1983, art. 49"
+      ]
+    }
+  ]
+}

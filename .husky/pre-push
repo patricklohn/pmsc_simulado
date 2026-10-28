@@ -1,0 +1,13 @@
+# Typecheck, lint e testes; o build só roda se os três passarem.
+# A saída de cada etapa só aparece quando ela falha.
+logs=$(mktemp -d)
+trap 'rm -rf "$logs"' EXIT
+
+failed=0
+pnpm -s typecheck >"$logs/typecheck.log" 2>&1 && echo "✔ typecheck" || { echo "✖ typecheck falhou:"; cat "$logs/typecheck.log"; failed=1; }
+pnpm -s lint >"$logs/lint.log" 2>&1 && echo "✔ lint" || { echo "✖ lint falhou:"; cat "$logs/lint.log"; failed=1; }
+pnpm -s test >"$logs/test.log" 2>&1 && echo "✔ testes" || { echo "✖ testes falharam:"; cat "$logs/test.log"; failed=1; }
+[ "$failed" -eq 0 ] || exit 1
+
+pnpm -s build >"$logs/build.log" 2>&1 || { echo "✖ build falhou:"; cat "$logs/build.log"; exit 1; }
+echo "✔ build"

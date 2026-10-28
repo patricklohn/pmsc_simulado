@@ -1,0 +1,236 @@
+{
+  "titulo": "Concurso Soldado PMSC 2026",
+  "edital": "Edital de Concurso Público nº 002/CCP/2026 – CFP",
+  "orgao": "Polícia Militar de Santa Catarina (PMSC)",
+  "banca": "Instituto AOCP",
+  "siteBanca": "https://www.institutoaocp.org.br",
+  "cargo": "Soldado do Quadro de Praças Policial Militar (QPPM)",
+  "codigoCargo": "401",
+  "vagas": 500,
+  "remuneracao": 8505,
+  "auxilioAlimentacao": 550,
+  "taxa": 200,
+  "escolaridade": "Nível superior em qualquer área (graduação, bacharelado, licenciatura ou tecnólogo reconhecido pelo MEC)",
+  "validade": "1 ano a partir da homologação, prorrogável por igual período",
+  "dataProva": "2026-12-13",
+  "duracaoProvaHoras": 5,
+  "observacoesVagas": [
+    "Não há vagas reservadas para pessoas com deficiência, por causa das peculiaridades do cargo.",
+    "Não há divisão de vagas por sexo: todos concorrem a todas as vagas.",
+    "O CFP é feito na ESFAP, na Academia de Polícia Militar da Trindade (APMT), em Florianópolis.",
+    "A lotação final é escolhida pela classificação no fim do CFP."
+  ],
+  "cidadesProva": [
+    "Balneário Camboriú",
+    "Blumenau",
+    "Canoinhas",
+    "Chapecó",
+    "Criciúma",
+    "Florianópolis",
+    "Joaçaba",
+    "Joinville",
+    "Lages",
+    "Rio do Sul",
+    "São Miguel do Oeste",
+    "Tubarão"
+  ],
+  "requisitos": [
+    "Nacionalidade brasileira",
+    "Idade mínima de 18 anos completos até a data da inclusão",
+    "Não ter completado 30 anos até o último dia de inscrição",
+    "Estar em dia com o serviço militar (homens) e com a Justiça Eleitoral",
+    "Altura mínima de 1,60 m (homens) e 1,55 m (mulheres)",
+    "Peso proporcional à altura (IMC, conforme a OMS)",
+    "Não ter condenação por crime doloso transitada em julgado",
+    "Carteira Nacional de Habilitação (CNH) válida",
+    "Diploma de nível superior reconhecido pelo MEC",
+    "Exame toxicológico de larga janela de detecção negativo",
+    "Não ter tatuagens com símbolos contrários às instituições democráticas, que incitem violência ou preconceito",
+    "Ser aprovado em todas as fases: provas, saúde, TAF, investigação social e avaliação psicológica"
+  ],
+  "fases": [
+    { "fase": "1ª", "titulo": "Prova objetiva e redação", "carater": "Eliminatório e classificatório", "descricao": "60 questões (60 pontos) + redação dissertativa (20 pontos), no mesmo dia, em 5 horas." },
+    { "fase": "2ª", "titulo": "Exame de saúde e toxicológico", "carater": "Eliminatório", "descricao": "Avaliação médica e odontológica. Convoca até 3× o número de vagas." },
+    { "fase": "2ª", "titulo": "Teste de Avaliação Física (TAF)", "carater": "Eliminatório", "descricao": "Barra fixa ou halteres, abdominal remador, meio-sugado, 100 m e Cooper. Em Florianópolis." },
+    { "fase": "2ª", "titulo": "Investigação social", "carater": "Eliminatório", "descricao": "Preenchimento do QIS e análise pela Agência de Inteligência da PMSC." },
+    { "fase": "3ª", "titulo": "Avaliação psicológica", "carater": "Eliminatório", "descricao": "Testes psicotécnicos e entrevista, conforme o perfil profissiográfico da PMSC." },
+    { "fase": "4ª", "titulo": "Entrega de documentos", "carater": "Eliminatório", "descricao": "Documentos para inclusão e matrícula." },
+    { "fase": "5ª", "titulo": "Inclusão e matrícula no CFP", "carater": "—", "descricao": "Início do Curso de Formação de Praças." }
+  ],
+  "provaObjetiva": {
+    "totalQuestoes": 60,
+    "alternativas": 5,
+    "valorQuestao": 1,
+    "criterioAprovacao": "Aprovado com no mínimo 50% dos pontos (30 de 60) e sem nota zero em nenhuma área de conhecimento (item 8.4).",
+    "observacao": "Questão com mais de uma marcação, sem marcação, rasurada ou a lápis vale zero. Não há desconto por erro.",
+    "areas": [
+      { "id": "direito", "nome": "Direito", "materias": ["direito-constitucional", "direito-penal", "direito-processual-penal", "direito-penal-militar"] },
+      { "id": "legislacao", "nome": "Legislação", "materias": ["legislacao-especial", "legislacao-transito", "legislacao-institucional"] },
+      { "id": "comuns", "nome": "Conhecimentos Comuns", "materias": ["lingua-portuguesa", "informatica"] }
+    ],
+    "distribuicao": [
+      { "materia": "direito-constitucional", "questoes": 8 },
+      { "materia": "direito-penal", "questoes": 6 },
+      { "materia": "direito-processual-penal", "questoes": 6 },
+      { "materia": "direito-penal-militar", "questoes": 6 },
+      { "materia": "legislacao-especial", "questoes": 6 },
+      { "materia": "legislacao-transito", "questoes": 5 },
+      { "materia": "legislacao-institucional", "questoes": 10 },
+      { "materia": "lingua-portuguesa", "questoes": 8 },
+      { "materia": "informatica", "questoes": 5 }
+    ]
+  },
+  "redacao": {
+    "pontos": 20,
+    "minimo": 10,
+    "tipo": "Dissertativa",
+    "formula": "NPR = NC − (NE ÷ TL)",
+    "corrigidaAte": "Só é corrigida a redação de quem passar na objetiva e estiver até a 2000ª posição."
+  },
+  "notaFinal": {
+    "formula": "NF = (NFPO + NFPR) ÷ 8",
+    "descricao": "Nota final de 0 a 10: soma da objetiva (até 60) com a redação (até 20), dividida por 8."
+  },
+  "taf": {
+    "local": "Florianópolis/SC (ou local a definir)",
+    "observacoes": [
+      "Atestado médico conforme o Anexo VI, emitido até 30 dias antes do teste.",
+      "Não há segunda chamada nem condição especial (nem por clima ou indisposição).",
+      "Chegar com pelo menos 30 minutos de antecedência, com documento com foto e roupa de treino."
+    ],
+    "testes": [
+      {
+        "id": "barra-fixa",
+        "nome": "Flexão na barra fixa",
+        "publico": "Masculino",
+        "descricao": "Pegada pronada, braços estendidos; subir até o queixo passar da barra. Sem limite de tempo, sem impulso do quadril ou pernas.",
+        "unidade": "repetições",
+        "tabela": [
+          { "masculino": "0 a 2", "pontos": "0 (eliminado)" },
+          { "masculino": "3", "pontos": "25" },
+          { "masculino": "4", "pontos": "30" },
+          { "masculino": "5", "pontos": "35" },
+          { "masculino": "6", "pontos": "45" },
+          { "masculino": "7", "pontos": "55" },
+          { "masculino": "8", "pontos": "65" },
+          { "masculino": "9", "pontos": "75" },
+          { "masculino": "10", "pontos": "85" },
+          { "masculino": "11", "pontos": "95" },
+          { "masculino": "12", "pontos": "100" }
+        ]
+      },
+      {
+        "id": "halteres",
+        "nome": "Desenvolvimento com halteres (10 kg)",
+        "publico": "Feminino",
+        "descricao": "De pé, barra na altura dos ombros; estender os braços totalmente para cima e voltar. Sem impulso das pernas e sem luvas.",
+        "unidade": "repetições",
+        "tabela": [
+          { "feminino": "0 a 20", "pontos": "0 (eliminada)" },
+          { "feminino": "21", "pontos": "25" },
+          { "feminino": "22", "pontos": "30" },
+          { "feminino": "23", "pontos": "35" },
+          { "feminino": "24", "pontos": "40" },
+          { "feminino": "25", "pontos": "45" },
+          { "feminino": "26", "pontos": "50" },
+          { "feminino": "27", "pontos": "55" },
+          { "feminino": "28", "pontos": "60" },
+          { "feminino": "29", "pontos": "65" },
+          { "feminino": "30", "pontos": "70" },
+          { "feminino": "31", "pontos": "75" },
+          { "feminino": "32", "pontos": "80" },
+          { "feminino": "33", "pontos": "85" },
+          { "feminino": "34", "pontos": "90" },
+          { "feminino": "35", "pontos": "95" },
+          { "feminino": "36", "pontos": "100" }
+        ]
+      },
+      {
+        "id": "abdominal",
+        "nome": "Flexão abdominal remador (1 minuto)",
+        "publico": "Masculino e feminino",
+        "descricao": "Deitado, braços estendidos acima da cabeça; flexionar tronco e pernas até a linha dos cotovelos alcançar a dos joelhos.",
+        "unidade": "repetições em 1 minuto",
+        "tabela": [
+          { "masculino": "0 a 29", "feminino": "0 a 24", "pontos": "0 (eliminado)" },
+          { "masculino": "30", "feminino": "25", "pontos": "25" },
+          { "masculino": "31", "feminino": "26", "pontos": "30" },
+          { "masculino": "32", "feminino": "27", "pontos": "35" },
+          { "masculino": "33", "feminino": "28", "pontos": "40" },
+          { "masculino": "34", "feminino": "29", "pontos": "45" },
+          { "masculino": "35", "feminino": "30", "pontos": "50" },
+          { "masculino": "36", "feminino": "31", "pontos": "55" },
+          { "masculino": "37", "feminino": "32", "pontos": "60" },
+          { "masculino": "38", "feminino": "33", "pontos": "65" },
+          { "masculino": "39", "feminino": "34", "pontos": "70" },
+          { "masculino": "40", "feminino": "35", "pontos": "75" },
+          { "masculino": "41", "feminino": "36", "pontos": "80" },
+          { "masculino": "42", "feminino": "37", "pontos": "85" },
+          { "masculino": "43", "feminino": "38", "pontos": "90" },
+          { "masculino": "44", "feminino": "39", "pontos": "95" },
+          { "masculino": "45", "feminino": "40", "pontos": "100" }
+        ]
+      },
+      {
+        "id": "meio-sugado",
+        "nome": "Apoio de 4 tempos – meio-sugado (1 minuto)",
+        "publico": "Masculino e feminino",
+        "descricao": "De pé → agachar com mãos no chão → pernas estendidas (posição de flexão) → agachar → de pé. Joelhos unidos e ângulo de até 90°.",
+        "unidade": "repetições em 1 minuto",
+        "tabela": [
+          { "masculino": "15 ou menos", "feminino": "10 ou menos", "pontos": "0 (eliminado)" },
+          { "masculino": "16", "feminino": "11", "pontos": "25" },
+          { "masculino": "17", "feminino": "12", "pontos": "30" },
+          { "masculino": "18", "feminino": "13", "pontos": "35" },
+          { "masculino": "19", "feminino": "14", "pontos": "40" },
+          { "masculino": "20", "feminino": "15", "pontos": "45" },
+          { "masculino": "21", "feminino": "16", "pontos": "50" },
+          { "masculino": "22", "feminino": "17", "pontos": "55" },
+          { "masculino": "23", "feminino": "18", "pontos": "60" },
+          { "masculino": "24", "feminino": "19", "pontos": "65" },
+          { "masculino": "25", "feminino": "20", "pontos": "70" },
+          { "masculino": "26", "feminino": "21", "pontos": "75" },
+          { "masculino": "27", "feminino": "22", "pontos": "80" },
+          { "masculino": "28", "feminino": "23", "pontos": "85" },
+          { "masculino": "29", "feminino": "24", "pontos": "90" },
+          { "masculino": "30", "feminino": "25", "pontos": "95" },
+          { "masculino": "31 ou mais", "feminino": "26 ou mais", "pontos": "100" }
+        ]
+      },
+      {
+        "id": "velocidade-100m",
+        "nome": "Corrida de velocidade – 100 m",
+        "publico": "Masculino e feminino",
+        "descricao": "Largada de pé; tempo medido em centésimos de segundo.",
+        "unidade": "segundos",
+        "tabela": [
+          { "masculino": "17,6 ou mais", "feminino": "19,1 ou mais", "pontos": "0 (eliminado)" },
+          { "masculino": "17,3 a 17,5", "feminino": "18,8 a 19,0", "pontos": "25" },
+          { "masculino": "17,0 a 17,2", "feminino": "18,5 a 18,7", "pontos": "30" },
+          { "masculino": "16,7 a 16,9", "feminino": "18,2 a 18,4", "pontos": "35" },
+          { "masculino": "16,4 a 16,6", "feminino": "17,9 a 18,1", "pontos": "40" },
+          { "masculino": "16,1 a 16,3", "feminino": "17,6 a 17,8", "pontos": "45" },
+          { "masculino": "15,8 a 16,0", "feminino": "17,3 a 17,5", "pontos": "50" },
+          { "masculino": "15,5 a 15,7", "feminino": "17,0 a 17,2", "pontos": "55" },
+          { "masculino": "15,2 a 15,4", "feminino": "16,7 a 16,9", "pontos": "60" },
+          { "masculino": "14,9 a 15,1", "feminino": "16,4 a 16,6", "pontos": "65" },
+          { "masculino": "14,6 a 14,8", "feminino": "16,1 a 16,3", "pontos": "70" },
+          { "masculino": "14,3 a 14,5", "feminino": "15,8 a 16,0", "pontos": "75" },
+          { "masculino": "14,0 a 14,2", "feminino": "15,5 a 15,7", "pontos": "80" },
+          { "masculino": "13,7 a 13,9", "feminino": "15,2 a 15,4", "pontos": "85" },
+          { "masculino": "13,4 a 13,6", "feminino": "14,9 a 15,1", "pontos": "90" },
+          { "masculino": "13,1 a 13,3", "feminino": "14,6 a 14,8", "pontos": "95" },
+          { "masculino": "até 13,0", "feminino": "até 14,5", "pontos": "100" }
+        ]
+      },
+      {
+        "id": "cooper",
+        "nome": "Teste de Cooper (12 minutos)",
+        "publico": "Masculino e feminino",
+        "descricao": "Correr a distância mínima em até 12 minutos, em pista, rua ou estrada. Quem não alcança é eliminado.",
+        "unidade": "metros em 12 minutos",
+        "tabela": [{ "masculino": "2.400 m", "feminino": "1.970 m", "pontos": "Distância mínima" }]
+      }
+    ]
+  }
+}

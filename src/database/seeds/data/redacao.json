@@ -1,0 +1,170 @@
+{
+  "orientacoes": [
+    "A Prova de Redação é realizada no mesmo dia e horário da Prova Objetiva (item 11.1).",
+    "Só será corrigida a redação do candidato aprovado na Prova Objetiva (mínimo de 50% dos pontos e nenhuma nota zero em área de conhecimento – subitem 8.4) e classificado até a 2000ª posição; os empatados com o último colocado também têm a redação corrigida (itens 11.1.1, 11.1.2 e Tabela 11.1).",
+    "O tema é selecionado dentre os conteúdos do Anexo II – eixo “Ordem Pública” – e acompanhado de um ou mais textos motivadores (item 11.2).",
+    "Tipologia exigida: DISSERTAÇÃO. O texto deve apresentar valores, opiniões, crenças, hipóteses e ideias — os aspectos axiológicos ou cognitivos desse tipo de produção (item 11.2).",
+    "Valor: 20 pontos. Nota mínima para aprovação: 10,00 pontos; abaixo disso, o candidato é eliminado (itens 11.4 e 11.4.1).",
+    "Nota de Conteúdo (NC), até 20 pontos: atendimento ao tema e desenvolvimento (informatividade e argumentação), coesão, coerência e estrutura dissertativo-argumentativa (item 11.5, a).",
+    "Número de Erros (NE): ortografia, morfossintaxe e pontuação; TL = total de linhas efetivamente escritas (item 11.5, b e c).",
+    "Fórmula: NPR = NC − 1 × (NE ÷ TL). Se o resultado for negativo, a nota será 0,00 (item 11.5, e e f).",
+    "Extensão: mínimo de 20 e máximo de 30 linhas na Folha de Redação Definitiva. O que passar da 30ª linha ou estiver fora do local apropriado é desconsiderado (itens 11.5, d, e 11.7).",
+    "Penalidade de 0,20 ponto por linha que faltar para atingir o mínimo de 20 linhas (item 11.5, g).",
+    "Somente a Folha de Redação Definitiva é avaliada; o rascunho não vale (item 11.6).",
+    "Escreva à mão, em letra legível, com caneta esferográfica de corpo transparente e tinta azul ou preta (item 11.8).",
+    "Não assine nem coloque nome, rubrica, números, sinais, desenhos ou qualquer marca que identifique o candidato (itens 11.9 e 11.13, f).",
+    "Não é permitido consultar material; use apenas as informações dos textos de apoio (item 11.11).",
+    "Nota ZERO e eliminação se: fugir ao tema; escrever com letra ilegível ou por meio não permitido; apresentar acentuada desestruturação textual ou atentar contra o pudor; escrever a lápis ou com tinta de cor diferente de azul ou preta; entregar em branco, fora da folha definitiva ou com espaçamento excessivo; ou se identificar (item 11.13).",
+    "A folha definitiva é digitalizada e corrigida sem identificação do candidato. Cabe recurso do resultado (itens 11.14 e 11.15)."
+  ],
+  "criterios": [
+    {
+      "id": "tema",
+      "titulo": "Atendimento ao tema e desenvolvimento",
+      "descricao": "Abordar exatamente o recorte proposto, com informatividade e argumentação consistentes. Fugir ao tema zera a redação; tangenciá-lo reduz a NC. Use os textos motivadores como ponto de partida, sem copiá-los. Compõe a NC (máx. 20 pontos)."
+    },
+    {
+      "id": "coesao",
+      "titulo": "Coesão",
+      "descricao": "Conexão intra e entre parágrafos, referencial (pronomes, sinônimos, expressões nominais) e sequencial (conectivos), de forma diversificada e adequada. Evite repetir os mesmos conectivos e palavras. Compõe a NC."
+    },
+    {
+      "id": "coerencia",
+      "titulo": "Coerência",
+      "descricao": "Progressão das ideias, articulação lógica entre tese, argumentos e conclusão, e ausência de contradições. Cada parágrafo deve acrescentar informação nova. Compõe a NC."
+    },
+    {
+      "id": "estrutura",
+      "titulo": "Estrutura dissertativo-argumentativa",
+      "descricao": "Organização do texto em introdução, desenvolvimento e conclusão, com parágrafos bem delimitados (cada um com ideia central e desenvolvimento). Compõe a NC."
+    },
+    {
+      "id": "norma",
+      "titulo": "Domínio da modalidade escrita (NE)",
+      "descricao": "Cada erro de ortografia, acentuação, morfossintaxe (concordância, regência, crase, colocação pronominal) e pontuação é contado no NE e descontado pela razão NE ÷ TL. Mais linhas bem escritas diluem o impacto de cada erro, mas escrever mais com muitos erros não ajuda."
+    },
+    {
+      "id": "extensao",
+      "titulo": "Extensão e apresentação",
+      "descricao": "Entre 20 e 30 linhas. Cada linha abaixo de 20 custa 0,20 ponto; o que passar de 30 linhas é ignorado. Letra legível, caneta azul ou preta, sem identificação."
+    }
+  ],
+  "temas": [
+    {
+      "id": "tema-01",
+      "titulo": "A integração entre as instituições do sistema de justiça criminal como condição para a efetividade da segurança pública",
+      "eixo": "1. Sistema de justiça criminal",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “A integração entre as instituições do sistema de justiça criminal como condição para a efetividade da segurança pública”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "O sistema de justiça criminal funciona como uma engrenagem: a polícia militar atua na prevenção e no flagrante; a polícia civil, na investigação; o Ministério Público, na acusação; o Poder Judiciário, no julgamento; e o sistema prisional, na execução da pena. Quando uma dessas peças falha ou trabalha isolada, todo o mecanismo perde força, e a sensação de impunidade cresce. (Texto elaborado para fins didáticos.)",
+        "Constituição Federal de 1988, art. 5º, LVII: “ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;”",
+        "Uma ocorrência bem registrada pelo policial que chega primeiro ao local — com preservação da cena, identificação de testemunhas e relato fiel dos fatos — pode ser decisiva meses depois, na sala de audiência. A qualidade do trabalho na ponta repercute em todas as etapas seguintes. (Texto elaborado para fins didáticos.)"
+      ]
+    },
+    {
+      "id": "tema-02",
+      "titulo": "Reincidência criminal: desafios para a ressocialização e para a segurança da sociedade",
+      "eixo": "1. Sistema de justiça criminal",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “Reincidência criminal: desafios para a ressocialização e para a segurança da sociedade”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "A pena privativa de liberdade não se esgota no castigo. A lei brasileira de execução penal atribui a ela também a finalidade de proporcionar condições para a harmônica integração social do condenado. Na prática, porém, a falta de estudo, de trabalho e de acompanhamento após a saída do cárcere torna o retorno ao crime um caminho frequente. (Texto elaborado para fins didáticos.)",
+        "Para quem patrulha as ruas, a reincidência tem rosto conhecido: é o mesmo indivíduo detido mais de uma vez pelo mesmo tipo de delito. Cada novo ciclo consome recursos públicos, sobrecarrega o sistema e, sobretudo, produz novas vítimas. (Texto elaborado para fins didáticos.)"
+      ]
+    },
+    {
+      "id": "tema-03",
+      "titulo": "Prevenção da violência e participação comunitária: a segurança pública como construção coletiva",
+      "eixo": "2. Políticas públicas de ordem pública e cidadania",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “Prevenção da violência e participação comunitária: a segurança pública como construção coletiva”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "Constituição Federal de 1988, art. 144, caput: “A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, [...]”.",
+        "Iluminação adequada, praças ocupadas por atividades esportivas e culturais, escolas abertas à comunidade e conselhos comunitários de segurança atuantes são medidas que não aparecem nas manchetes policiais, mas reduzem as oportunidades para o crime e fortalecem os laços entre vizinhos e instituições. (Texto elaborado para fins didáticos.)",
+        "Quando o morador conhece o policial que patrulha seu bairro pelo nome, a informação circula com mais facilidade, a desconfiança diminui e a prevenção ganha espaço. (Texto elaborado para fins didáticos.)"
+      ]
+    },
+    {
+      "id": "tema-04",
+      "titulo": "O uso de tecnologias na segurança pública e o respeito aos direitos fundamentais",
+      "eixo": "2. Políticas públicas de ordem pública e cidadania",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “O uso de tecnologias na segurança pública e o respeito aos direitos fundamentais”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "Câmeras corporais, cercamento eletrônico de rodovias, reconhecimento de placas e cruzamento de bancos de dados ampliaram a capacidade de resposta das polícias. As mesmas ferramentas, porém, levantam perguntas sobre privacidade, guarda de dados pessoais e transparência no seu uso. (Texto elaborado para fins didáticos.)",
+        "Constituição Federal de 1988, art. 5º, X: “são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação;”",
+        "A tecnologia potencializa o trabalho policial, mas não substitui o treinamento, a supervisão e o discernimento do agente diante de situações reais. (Texto elaborado para fins didáticos.)"
+      ]
+    },
+    {
+      "id": "tema-05",
+      "titulo": "Segurança pública: dever do Estado, direito e responsabilidade de todos",
+      "eixo": "3. Ordem Pública na Constituição Federal de 1988",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “Segurança pública: dever do Estado, direito e responsabilidade de todos”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "Constituição Federal de 1988, art. 144, caput: “A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:”.",
+        "Constituição Federal de 1988, art. 6º: “São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.”",
+        "Ordem pública não significa silêncio imposto nem ausência de conflitos. Significa um ambiente em que as pessoas podem circular, trabalhar, estudar e se manifestar com tranquilidade, sabendo que as regras valem para todos. (Texto elaborado para fins didáticos.)"
+      ]
+    },
+    {
+      "id": "tema-06",
+      "titulo": "Polícia ostensiva e preservação da ordem pública: o papel da Polícia Militar na sociedade democrática",
+      "eixo": "3.1. Competências das Polícias Militares",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “Polícia ostensiva e preservação da ordem pública: o papel da Polícia Militar na sociedade democrática”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "Constituição Federal de 1988, art. 144, § 5º: “às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil.”",
+        "A farda, a viatura caracterizada e a presença visível nas ruas têm efeito preventivo: inibem a ação criminosa e transmitem ao cidadão a certeza de que o Estado está presente. Essa mesma visibilidade, porém, faz do policial militar o primeiro representante do poder público a ser cobrado pela população. (Texto elaborado para fins didáticos.)"
+      ]
+    },
+    {
+      "id": "tema-07",
+      "titulo": "A Polícia Militar como força auxiliar e reserva do Exército: significado e importância para o Estado brasileiro",
+      "eixo": "3.2. Polícia Militar como força auxiliar e reserva do Exército",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “A Polícia Militar como força auxiliar e reserva do Exército: significado e importância para o Estado brasileiro”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "Constituição Federal de 1988, art. 144, § 6º: “As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército subordinam-se, juntamente com as polícias civis e as polícias penais estaduais e distrital, aos Governadores dos Estados, do Distrito Federal e dos Territórios.”",
+        "Ser força auxiliar e reserva do Exército não transforma a Polícia Militar em tropa de guerra no cotidiano. Em tempos de normalidade, sua missão é a segurança do cidadão, sob o comando do governo estadual; o vínculo com o Exército expressa a natureza militar da instituição e sua possível mobilização em situações excepcionais previstas em lei. (Texto elaborado para fins didáticos.)"
+      ]
+    },
+    {
+      "id": "tema-08",
+      "titulo": "Hierarquia e disciplina como pilares da Polícia Militar e garantia de um serviço público de qualidade",
+      "eixo": "3.3. Polícia Militar organizada com base na hierarquia e disciplina",
+      "proposta": "Com base nos textos motivadores e em seus conhecimentos, redija um texto dissertativo-argumentativo, em norma-padrão da língua portuguesa, com no mínimo 20 e no máximo 30 linhas, sobre o tema: “Hierarquia e disciplina como pilares da Polícia Militar e garantia de um serviço público de qualidade”. Apresente uma tese, desenvolva argumentos consistentes e conclua de forma coerente. Não copie trechos dos textos motivadores e não dê título que identifique o candidato.",
+      "textosMotivadores": [
+        "Constituição Federal de 1988, art. 42, caput: “Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do Distrito Federal e dos Territórios.”",
+        "Em uma ocorrência de alto risco, não há tempo para longas discussões: cada integrante da equipe precisa saber quem decide, o que lhe cabe fazer e em que limites deve agir. A hierarquia organiza a cadeia de comando; a disciplina garante que as ordens legais sejam cumpridas com responsabilidade. (Texto elaborado para fins didáticos.)",
+        "Disciplina não é obediência cega. O militar estadual deve cumprir ordens legais, mas também responde pelos próprios atos; por isso, hierarquia e disciplina caminham ao lado da legalidade e do respeito aos direitos humanos. (Texto elaborado para fins didáticos.)"
+      ]
+    }
+  ],
+  "dicas": [
+    "Planeje antes de escrever: defina a tese em uma frase e escolha dois argumentos com repertório (Constituição, leis, dados gerais, exemplos práticos do serviço policial).",
+    "Mire entre 25 e 30 linhas: fica longe da penalidade do mínimo e aumenta o TL, diluindo eventuais erros na fórmula NPR = NC − NE ÷ TL.",
+    "Cite a Constituição com precisão: art. 144 (segurança pública e órgãos), § 5º (polícia ostensiva e preservação da ordem pública), § 6º (força auxiliar e reserva do Exército) e art. 42 (hierarquia e disciplina).",
+    "Use o texto motivador como ponto de partida, nunca como cópia: trechos copiados não contam como desenvolvimento próprio.",
+    "Prefira frases curtas e na ordem direta: elas reduzem erros de pontuação e de concordância.",
+    "Varie os conectivos: além disso, por outro lado, nesse sentido, desse modo, portanto, em suma.",
+    "Evite 1ª pessoa do singular, gírias, clichês ('nos dias de hoje', 'desde os primórdios') e perguntas retóricas em excesso.",
+    "Não crie título se a proposta não pedir, e jamais escreva nome, assinatura ou qualquer marca de identificação.",
+    "Reserve cerca de 1 hora para a redação: 15 min de planejamento, 30 min de rascunho e 15 min para passar a limpo e revisar.",
+    "Revise com foco em crase, concordância, vírgula entre sujeito e verbo e acentuação (Acordo de 1990).",
+    "Mantenha posição equilibrada e institucional: valorize legalidade, direitos fundamentais, eficiência e integração entre órgãos."
+  ],
+  "estrutura": [
+    {
+      "parte": "Introdução",
+      "descricao": "1 parágrafo, 4–6 linhas. Contextualize o tema (pode partir da Constituição ou de um fato geral), apresente a tese de forma clara e, se possível, anuncie os dois argumentos que serão desenvolvidos."
+    },
+    {
+      "parte": "Desenvolvimento 1",
+      "descricao": "6–8 linhas. Primeiro argumento: tópico frasal + explicação + fundamentação (lei, exemplo, causa e consequência) + fechamento ligado à tese."
+    },
+    {
+      "parte": "Desenvolvimento 2",
+      "descricao": "6–8 linhas. Segundo argumento, introduzido por conectivo de adição ou contraste (além disso, por outro lado). Mesmo esquema: tópico frasal, explicação, fundamentação e fechamento."
+    },
+    {
+      "parte": "Conclusão",
+      "descricao": "1 parágrafo, 4–6 linhas. Retome a tese com outras palavras e apresente uma síntese ou proposta coerente (quem deve fazer o quê e como), iniciando com conectivo conclusivo (portanto, dessa forma, em suma)."
+    }
+  ]
+}
